@@ -117,53 +117,240 @@ cp -R economic-research-skills/skills/er-* ~/.claude/skills/
 
 ## 路线图
 
-下一步 TODO：为下列 20 + 20 本主流经管期刊各做一个 journal-specific pack。希望优先支持某本，请提 issue。
+下一步 TODO：为下列 100 本英文 + 100 本中文主流经管期刊各做一个 journal-specific pack。希望优先支持某本，请提 issue 或 PR 补充。
 
-### 英文 —— 经管主流 20 本
+数据来源：[RePEc / IDEAS 经济学聚合排名](https://ideas.repec.org/top/top.journals.all.html)、[FT50](https://guides.lib.purdue.edu/ft50) + [UTD24](https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/list-of-journals) + [ABS AJG 2024](https://charteredabs.org/academic-journal-guide/academic-journal-guide-2024)、[CSSCI 2023–2024 来源期刊目录](https://rwskc.zust.edu.cn/__local/C/2D/AB/B2AE8C5DC9C1A75618611EE3F00_2F8A1CF6_3DC4D.pdf) + [FMS 高质量期刊 2025 版](https://www.fms-journal.net/news/2720)。
 
-1. Quarterly Journal of Economics (QJE) — *经济学*
-2. Journal of Political Economy (JPE) — *经济学*
-3. Econometrica — *经济学*
-4. Review of Economic Studies (REStud) — *经济学*
-5. Review of Economics and Statistics (REStat) — *经济学*
-6. Journal of Economic Perspectives (JEP) — *经济学*
-7. Journal of Econometrics — *经济学*
-8. AEJ: Applied Economics — *经济学*
-9. AEJ: Macroeconomics — *经济学*
-10. Journal of Development Economics (JDE) — *经济学*
-11. Journal of Finance (JF) — *金融*
-12. Journal of Financial Economics (JFE) — *金融*
-13. Review of Financial Studies (RFS) — *金融*
-14. Academy of Management Journal (AMJ) — *管理*
-15. Academy of Management Review (AMR) — *管理*
-16. Administrative Science Quarterly (ASQ) — *管理*
-17. Strategic Management Journal (SMJ) — *战略*
-18. Management Science — *运营 / 通用管理*
-19. Journal of Marketing (JM) — *营销*
-20. The Accounting Review (TAR) — *会计*
+### 英文 —— 经管主流 100 本
 
-### 中文 —— 经管主流 20 本
+#### 经济学 Economics (50)
 
-1. 《经济学（季刊）》 — *经济学*
-2. 《世界经济》 — *经济学*
-3. 《中国工业经济》 — *经济学*
-4. 《金融研究》 — *金融*
-5. 《中国农村经济》 — *经济学*
-6. 《数量经济技术经济研究》 — *计量*
-7. 《财经研究》 — *经济学*
-8. 《财贸经济》 — *经济学*
-9. 《经济学动态》 — *经济学*
-10. 《国际金融研究》 — *金融*
-11. 《经济科学》 — *经济学*
-12. 《南开经济研究》 — *经济学*
-13. 《管理科学学报》 — *管理*
-14. 《南开管理评论》 — *管理*
-15. 《中国管理科学》 — *管理*
-16. 《管理评论》 — *管理*
-17. 《管理学报》 — *管理*
-18. 《系统工程理论与实践》 — *管理*
-19. 《科研管理》 — *管理*
-20. 《会计研究》 — *会计*
+1. American Economic Review (AER)
+2. Quarterly Journal of Economics (QJE)
+3. Journal of Political Economy (JPE)
+4. Econometrica
+5. Review of Economic Studies (REStud)
+6. AER: Insights
+7. AEJ: Applied Economics
+8. AEJ: Macroeconomics
+9. AEJ: Microeconomics
+10. AEJ: Economic Policy
+11. Journal of Economic Literature (JEL)
+12. Journal of Economic Perspectives (JEP)
+13. Review of Economics and Statistics (REStat)
+14. Journal of Econometrics
+15. Journal of Monetary Economics
+16. Journal of Economic Growth
+17. Journal of Labor Economics
+18. Journal of the European Economic Association (JEEA)
+19. The Economic Journal (EJ)
+20. RAND Journal of Economics
+21. Journal of International Economics
+22. Journal of Public Economics
+23. Journal of Development Economics (JDE)
+24. Journal of Economic Theory (JET)
+25. Journal of Money, Credit and Banking (JMCB)
+26. Review of Economic Dynamics (RED)
+27. European Economic Review (EER)
+28. Journal of Human Resources (JHR)
+29. International Economic Review (IER)
+30. Experimental Economics
+31. Journal of Applied Econometrics
+32. Journal of Business & Economic Statistics (JBES)
+33. Journal of Health Economics
+34. Journal of Environmental Economics and Management (JEEM)
+35. Journal of Urban Economics
+36. Games and Economic Behavior (GEB)
+37. Journal of Law and Economics
+38. Journal of Law, Economics, and Organization (JLEO)
+39. World Development
+40. World Bank Economic Review
+41. IMF Economic Review
+42. Annual Review of Economics
+43. Brookings Papers on Economic Activity (BPEA)
+44. Economic Policy
+45. Journal of Risk and Uncertainty (JRU)
+46. Quantitative Economics
+47. The Econometrics Journal
+48. Econometric Theory
+49. Journal of Economic Behavior & Organization (JEBO)
+50. Journal of Economic Geography
+
+#### 金融 Finance (13)
+
+1. Journal of Finance (JF)
+2. Journal of Financial Economics (JFE)
+3. Review of Financial Studies (RFS)
+4. Review of Finance
+5. Journal of Financial and Quantitative Analysis (JFQA)
+6. Journal of Financial Intermediation (JFI)
+7. Journal of Financial Markets (JFM)
+8. Journal of Banking & Finance (JBF)
+9. Journal of Corporate Finance (JCF)
+10. Journal of International Money and Finance (JIMF)
+11. Mathematical Finance
+12. Journal of Empirical Finance (JEF)
+13. Financial Management
+
+#### 管理 / 战略 / 组织 Management (15)
+
+1. Academy of Management Journal (AMJ)
+2. Academy of Management Review (AMR)
+3. Academy of Management Annals (AMA)
+4. Administrative Science Quarterly (ASQ)
+5. Strategic Management Journal (SMJ)
+6. Organization Science (OrgSci)
+7. Journal of Management (JOM-mgmt)
+8. Journal of Management Studies (JMS)
+9. Organization Studies (OS)
+10. Human Relations
+11. Human Resource Management (HRM)
+12. Journal of International Business Studies (JIBS)
+13. Research Policy
+14. Journal of Business Venturing (JBV)
+15. Entrepreneurship Theory and Practice (ETP)
+
+#### 营销 Marketing (6)
+
+1. Journal of Marketing (JM)
+2. Journal of Marketing Research (JMR)
+3. Marketing Science
+4. Journal of Consumer Research (JCR)
+5. Journal of Consumer Psychology (JCP)
+6. Journal of the Academy of Marketing Science (JAMS)
+
+#### 会计 Accounting (6)
+
+1. The Accounting Review (TAR)
+2. Journal of Accounting Research (JAR)
+3. Journal of Accounting and Economics (JAE)
+4. Review of Accounting Studies (RAST)
+5. Contemporary Accounting Research (CAR)
+6. Accounting, Organizations and Society (AOS)
+
+#### 运营管理与信息系统 OM & IS (10)
+
+1. Management Science
+2. Operations Research (OR)
+3. Manufacturing and Service Operations Management (M&SOM)
+4. Journal of Operations Management (JOM-ops)
+5. Production and Operations Management (POM)
+6. MIS Quarterly (MISQ)
+7. Information Systems Research (ISR)
+8. Journal of Management Information Systems (JMIS)
+9. Journal of the Association for Information Systems (JAIS)
+10. INFORMS Journal on Computing (IJOC)
+
+### 中文 —— 经管主流 100 本
+
+#### 经济学 (50)
+
+1. 《经济研究》
+2. 《经济学（季刊）》
+3. 《中国工业经济》
+4. 《世界经济》
+5. 《金融研究》
+6. 《中国农村经济》
+7. 《数量经济技术经济研究》
+8. 《经济学动态》
+9. 《财经研究》
+10. 《财贸经济》
+11. 《国际金融研究》
+12. 《国际经济评论》
+13. 《国际贸易问题》
+14. 《经济科学》
+15. 《南开经济研究》
+16. 《经济理论与经济管理》
+17. 《经济评论》
+18. 《财经科学》
+19. 《财政研究》
+20. 《财经问题研究》
+21. 《中国农村观察》
+22. 《农业经济问题》
+23. 《中央财经大学学报》
+24. 《上海财经大学学报》
+25. 《上海经济研究》
+26. 《世界经济研究》
+27. 《世界经济文汇》
+28. 《当代财经》
+29. 《当代经济科学》
+30. 《政治经济学评论》
+31. 《改革》
+32. 《产业经济研究》
+33. 《宏观经济研究》
+34. 《金融经济学研究》
+35. 《现代金融研究》（原《金融论坛》）
+36. 《金融评论》
+37. 《金融监管研究》
+38. 《农业技术经济》
+39. 《农村经济》
+40. 《南方经济》
+41. 《经济问题》
+42. 《经济问题探索》
+43. 《经济社会体制比较》
+44. 《经济纵横》
+45. 《经济学家》
+46. 《经济与管理研究》
+47. 《中国经济问题》
+48. 《中南财经政法大学学报》
+49. 《劳动经济研究》
+50. 《国际经贸探索》
+
+#### 管理学 / 战略 / 公共管理 (30)
+
+1. 《管理世界》
+2. 《管理科学学报》
+3. 《南开管理评论》
+4. 《中国管理科学》
+5. 《管理评论》
+6. 《管理学报》
+7. 《系统工程理论与实践》
+8. 《公共管理学报》
+9. 《中国软科学》
+10. 《科学学研究》
+11. 《科研管理》
+12. 《管理科学》
+13. 《管理工程学报》
+14. 《公共管理评论》
+15. 《公共管理与政策评论》
+16. 《工程管理科技前沿》
+17. 《科学管理研究》
+18. 《科学决策》
+19. 《科学学与科学技术管理》
+20. 《中国行政管理》
+21. 《治理研究》
+22. 《中国科技论坛》
+23. 《中国科学院院刊》
+24. 《软科学》
+25. 《经济管理》
+26. 《经济体制改革》
+27. 《外国经济与管理》
+28. 《科技进步与对策》
+29. 《研究与发展管理》
+30. 《管理学刊》
+
+#### 会计 / 审计 / 其他经管交叉 (20)
+
+1. 《会计研究》
+2. 《会计评论》
+3. 《审计研究》
+4. 《审计与经济研究》
+5. 《会计与经济研究》
+6. 《社会保障评论》
+7. 《华东经济管理》
+8. 《宏观质量研究》
+9. 《电子政务》
+10. 《组织与管理》
+11. 《税务研究》
+12. 《现代日本经济》
+13. 《亚太经济》
+14. 《证券市场导报》
+15. 《商业经济与管理》
+16. 《现代经济探讨》
+17. 《山西财经大学学报》
+18. 《现代财经（天津财经大学学报）》
+19. 《江西财经大学学报》
+20. 《广东财经大学学报》
 
 ---
 
