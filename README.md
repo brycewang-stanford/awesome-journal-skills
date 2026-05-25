@@ -118,15 +118,53 @@ use next for my manuscript targeted at <journal>.
 
 ## Roadmap
 
-Future packs under consideration (no commitments):
+Next-step TODO: build journal-specific packs for the 20 + 20 venues below. Open an issue to upvote a specific venue.
 
-- **QJE / JPE / RES / Econometrica** — top-5 econ companions to AER
-- **《经济学（季刊）》 / CEQ** — methodological econ in Chinese
-- **《管理科学学报》** — Chinese management methodology journal
-- **JF / JFE / RFS** — top-3 finance
-- **AMJ / AMR / ASQ** — top management
+### English — 20 mainstream econ & management journals
 
-Open an issue if you want a specific venue prioritized.
+1. Quarterly Journal of Economics (QJE) — *econ*
+2. Journal of Political Economy (JPE) — *econ*
+3. Econometrica — *econ*
+4. Review of Economic Studies (REStud) — *econ*
+5. Review of Economics and Statistics (REStat) — *econ*
+6. Journal of Economic Perspectives (JEP) — *econ*
+7. Journal of Econometrics — *econ*
+8. AEJ: Applied Economics — *econ*
+9. AEJ: Macroeconomics — *econ*
+10. Journal of Development Economics (JDE) — *econ*
+11. Journal of Finance (JF) — *finance*
+12. Journal of Financial Economics (JFE) — *finance*
+13. Review of Financial Studies (RFS) — *finance*
+14. Academy of Management Journal (AMJ) — *management*
+15. Academy of Management Review (AMR) — *management*
+16. Administrative Science Quarterly (ASQ) — *management*
+17. Strategic Management Journal (SMJ) — *strategy*
+18. Management Science — *OM / general management*
+19. Journal of Marketing (JM) — *marketing*
+20. The Accounting Review (TAR) — *accounting*
+
+### Chinese — 20 mainstream econ & management journals (经管)
+
+1. 《经济学（季刊）》 — *经济学*
+2. 《世界经济》 — *经济学*
+3. 《中国工业经济》 — *经济学*
+4. 《金融研究》 — *金融*
+5. 《中国农村经济》 — *经济学*
+6. 《数量经济技术经济研究》 — *计量*
+7. 《财经研究》 — *经济学*
+8. 《财贸经济》 — *经济学*
+9. 《经济学动态》 — *经济学*
+10. 《国际金融研究》 — *金融*
+11. 《经济科学》 — *经济学*
+12. 《南开经济研究》 — *经济学*
+13. 《管理科学学报》 — *管理*
+14. 《南开管理评论》 — *管理*
+15. 《中国管理科学》 — *管理*
+16. 《管理评论》 — *管理*
+17. 《管理学报》 — *管理*
+18. 《系统工程理论与实践》 — *管理*
+19. 《科研管理》 — *管理*
+20. 《会计研究》 — *会计*
 
 ---
 

@@ -117,15 +117,53 @@ cp -R economic-research-skills/skills/er-* ~/.claude/skills/
 
 ## 路线图
 
-后续可能加入的 pack（不做承诺）：
+下一步 TODO：为下列 20 + 20 本主流经管期刊各做一个 journal-specific pack。希望优先支持某本，请提 issue。
 
-- **QJE / JPE / RES / Econometrica** —— top-5 经济学补充
-- **《经济学（季刊）》 / CEQ** —— 偏方法论的中文经济学顶刊
-- **《管理科学学报》** —— 中文管理学方法论顶刊
-- **JF / JFE / RFS** —— 金融三大
-- **AMJ / AMR / ASQ** —— 管理学三大
+### 英文 —— 经管主流 20 本
 
-如果你希望优先支持某本期刊，欢迎在本 repo 提 issue。
+1. Quarterly Journal of Economics (QJE) — *经济学*
+2. Journal of Political Economy (JPE) — *经济学*
+3. Econometrica — *经济学*
+4. Review of Economic Studies (REStud) — *经济学*
+5. Review of Economics and Statistics (REStat) — *经济学*
+6. Journal of Economic Perspectives (JEP) — *经济学*
+7. Journal of Econometrics — *经济学*
+8. AEJ: Applied Economics — *经济学*
+9. AEJ: Macroeconomics — *经济学*
+10. Journal of Development Economics (JDE) — *经济学*
+11. Journal of Finance (JF) — *金融*
+12. Journal of Financial Economics (JFE) — *金融*
+13. Review of Financial Studies (RFS) — *金融*
+14. Academy of Management Journal (AMJ) — *管理*
+15. Academy of Management Review (AMR) — *管理*
+16. Administrative Science Quarterly (ASQ) — *管理*
+17. Strategic Management Journal (SMJ) — *战略*
+18. Management Science — *运营 / 通用管理*
+19. Journal of Marketing (JM) — *营销*
+20. The Accounting Review (TAR) — *会计*
+
+### 中文 —— 经管主流 20 本
+
+1. 《经济学（季刊）》 — *经济学*
+2. 《世界经济》 — *经济学*
+3. 《中国工业经济》 — *经济学*
+4. 《金融研究》 — *金融*
+5. 《中国农村经济》 — *经济学*
+6. 《数量经济技术经济研究》 — *计量*
+7. 《财经研究》 — *经济学*
+8. 《财贸经济》 — *经济学*
+9. 《经济学动态》 — *经济学*
+10. 《国际金融研究》 — *金融*
+11. 《经济科学》 — *经济学*
+12. 《南开经济研究》 — *经济学*
+13. 《管理科学学报》 — *管理*
+14. 《南开管理评论》 — *管理*
+15. 《中国管理科学》 — *管理*
+16. 《管理评论》 — *管理*
+17. 《管理学报》 — *管理*
+18. 《系统工程理论与实践》 — *管理*
+19. 《科研管理》 — *管理*
+20. 《会计研究》 — *会计*
 
 ---
 
