@@ -370,6 +370,11 @@ cp -R economic-research-skills/skills/er-* ~/.claude/skills/
 
 ## 相关项目
 
+更宽口径的 agent skill 合集（与本索引互补）：
+
+- [Awesome-Agent-Skills-for-Empirical-Research](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research) — 精选 23,000+ agent skills，覆盖 8 大社科学科的实证研究（由 CoPaper.AI / Stanford REAP 维护）。
+- [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — 通用的 research → write → review → revise → finalize 科研流水线 skill 包。
+
 通用的科研写作 skill 包（与本索引定位不同）：
 
 - [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills)

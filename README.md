@@ -371,6 +371,11 @@ Quality bar for inclusion in this index:
 
 ## Related Projects
 
+Broader-scope agent skill collections (complementary to this journal-specific index):
+
+- [Awesome-Agent-Skills-for-Empirical-Research](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research) — curated 23,000+ agent skills across 8 social-science disciplines (maintained by CoPaper.AI / Stanford REAP).
+- [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — generic research → write → review → revise → finalize skill pipeline for Claude Code.
+
 Generic scientific-writing skill packs (different scope from this index):
 
 - [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills)
