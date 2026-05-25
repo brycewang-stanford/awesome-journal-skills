@@ -34,6 +34,34 @@
 
 ---
 
+## 仓库结构
+
+本仓库以 **git submodule** 方式收录每个 pack，分别指向其上游独立仓库。每天通过 GitHub Actions（[`.github/workflows/sync-submodules.yml`](.github/workflows/sync-submodules.yml)）自动把 submodule 指针 bump 到上游 `main` 最新提交，无需手工同步。
+
+```text
+awesome-journal-skills/
+├── AER-skills/                 → submodule: brycewang-stanford/AER-skills
+├── economic-research-skills/   → submodule: brycewang-stanford/economic-research-skills
+├── management-world-skills/    → submodule: brycewang-stanford/management-world-skills
+└── .github/workflows/sync-submodules.yml
+```
+
+带 submodule 克隆：
+
+```bash
+git clone --recurse-submodules https://github.com/brycewang-stanford/awesome-journal-skills.git
+# 若已克隆：
+git submodule update --init --recursive
+```
+
+随时手动拉取最新 pack 内容：
+
+```bash
+git submodule update --remote --merge
+```
+
+---
+
 ## 如何使用
 
 ### 方式 A —— Claude Code 插件（推荐）

@@ -1,0 +1,38 @@
+name: Sync submodules
+
+on:
+  schedule:
+    # Daily at 03:00 UTC (11:00 Beijing time)
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (with submodules)
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update submodules to latest remote
+        run: |
+          git submodule update --remote --merge
+          git submodule status
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No submodule updates."
+            exit 0
+          fi
+          git add .
+          git commit -m "chore: bump submodules to latest upstream"
+          git push

@@ -34,6 +34,34 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 
 ---
 
+## Repository Layout
+
+This repo embeds each pack as a **git submodule** pinned to its own upstream repository. A scheduled GitHub Action ([`.github/workflows/sync-submodules.yml`](.github/workflows/sync-submodules.yml)) bumps the pins to the latest upstream `main` daily, so this repo mirrors the source packs without manual intervention.
+
+```text
+awesome-journal-skills/
+├── AER-skills/                 → submodule of brycewang-stanford/AER-skills
+├── economic-research-skills/   → submodule of brycewang-stanford/economic-research-skills
+├── management-world-skills/    → submodule of brycewang-stanford/management-world-skills
+└── .github/workflows/sync-submodules.yml
+```
+
+Clone with submodules populated:
+
+```bash
+git clone --recurse-submodules https://github.com/brycewang-stanford/awesome-journal-skills.git
+# or, if already cloned:
+git submodule update --init --recursive
+```
+
+Pull latest pack content locally at any time:
+
+```bash
+git submodule update --remote --merge
+```
+
+---
+
 ## How to Use
 
 ### Option A — Claude Code Plugin (recommended)
