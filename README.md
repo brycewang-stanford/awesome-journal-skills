@@ -33,6 +33,15 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 | **《经济研究》** (Economic Research)        | [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/Economic-Research-Skills)  | Economics (China-CSSCI top)     | v0.1    |
 | **Nature** (academic writing + scientific figures) | [nature-skills](https://github.com/Yuan1z0825/nature-skills) *(third-party, curated)* | Natural sciences (Nature family) | upstream |
 
+<p align="center">
+  <a href="Economic-Research-Journal-Skills/"><img src="Economic-Research-Journal-Skills/assets/cover.jpg" alt="《经济研究》 journal cover" width="200"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="Journal-of-Management-World-Skills/"><img src="Journal-of-Management-World-Skills/assets/cover.jpg" alt="《管理世界》 journal cover" width="200"></a>
+</p>
+<p align="center">
+  <sub><b>《经济研究》</b> &nbsp;·&nbsp; <b>《管理世界》</b></sub>
+</p>
+
 ---
 
 ## Repository Layout

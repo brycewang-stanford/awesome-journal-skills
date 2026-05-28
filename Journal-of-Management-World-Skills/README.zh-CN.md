@@ -1,5 +1,9 @@
 # 管理世界 Skills
 
+<p align="center">
+  <img src="assets/cover.jpg" alt="《管理世界》期刊封面" width="220">
+</p>
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Journal](https://img.shields.io/badge/期刊-管理世界-c0392b)](http://www.mwm.net.cn/)
 [![Index](https://img.shields.io/badge/索引-CSSCI%20%2F%20北大核心-1f6feb)](http://www.mwm.net.cn/)

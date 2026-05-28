@@ -1,5 +1,9 @@
 # Management-World Skills
 
+<p align="center">
+  <img src="assets/cover.jpg" alt="《管理世界》 journal cover" width="220">
+</p>
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Journal](https://img.shields.io/badge/journal-Management%20World-c0392b)](http://www.mwm.net.cn/)
 [![Index](https://img.shields.io/badge/index-CSSCI-1f6feb)](http://www.mwm.net.cn/)

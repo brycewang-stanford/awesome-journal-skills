@@ -33,6 +33,15 @@
 | **《经济研究》**                       | [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/Economic-Research-Skills)  | 经济学（中国 CSSCI 顶级）    | v0.1    |
 | **Nature**（学术表达 + 科研绘图）       | [nature-skills](https://github.com/Yuan1z0825/nature-skills) *(第三方收录)*                  | 自然科学（Nature 系）        | upstream |
 
+<p align="center">
+  <a href="Economic-Research-Journal-Skills/"><img src="Economic-Research-Journal-Skills/assets/cover.jpg" alt="《经济研究》 期刊封面" width="200"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="Journal-of-Management-World-Skills/"><img src="Journal-of-Management-World-Skills/assets/cover.jpg" alt="《管理世界》 期刊封面" width="200"></a>
+</p>
+<p align="center">
+  <sub><b>《经济研究》</b> &nbsp;·&nbsp; <b>《管理世界》</b></sub>
+</p>
+
 ---
 
 ## 仓库结构
