@@ -1,3 +1,6 @@
 [submodule "AER-skills"]
 	path = AER-skills
 	url = https://github.com/brycewang-stanford/AER-skills.git
+[submodule "nature-skills"]
+	path = nature-skills
+	url = https://github.com/Yuan1z0825/nature-skills.git

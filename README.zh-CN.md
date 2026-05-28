@@ -31,6 +31,7 @@
 | **American Economic Review** + AER:Insights + AEJ 系列 | [AER-skills](https://github.com/brycewang-stanford/AER-skills)                              | 经济学（Top-5）             | v1.0    |
 | **《管理世界》**                       | [management-world-skills](https://github.com/brycewang-stanford/management-world-skills)    | 管理学 + 应用经济           | v0.1    |
 | **《经济研究》**                       | [economic-research-skills](https://github.com/brycewang-stanford/economic-research-skills)  | 经济学（中国 CSSCI 顶级）    | v0.1    |
+| **Nature**（学术表达 + 科研绘图）       | [nature-skills](https://github.com/Yuan1z0825/nature-skills) *(第三方收录)*                  | 自然科学（Nature 系）        | upstream |
 
 ---
 
@@ -43,6 +44,7 @@ awesome-journal-skills/
 ├── AER-skills/                 → submodule: brycewang-stanford/AER-skills
 ├── economic-research-skills/   → submodule: brycewang-stanford/economic-research-skills
 ├── management-world-skills/    → submodule: brycewang-stanford/management-world-skills
+├── nature-skills/              → submodule: Yuan1z0825/nature-skills（第三方收录）
 └── .github/workflows/sync-submodules.yml
 ```
 
@@ -378,7 +380,7 @@ cp -R economic-research-skills/skills/er-* ~/.claude/skills/
 通用的科研写作 skill 包（与本索引定位不同）：
 
 - [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills)
-- [nature-skills](https://github.com/Yuan1z0825/nature-skills)
+- [nature-skills](https://github.com/Yuan1z0825/nature-skills) —— 已作为 submodule 收录至 [`nature-skills/`](nature-skills/)。
 
 ---
 

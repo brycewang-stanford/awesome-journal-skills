@@ -31,6 +31,7 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 | **American Economic Review** + AER:Insights + AEJ family | [AER-skills](https://github.com/brycewang-stanford/AER-skills)                              | Economics (top-5)                | v1.0    |
 | **《管理世界》** (Management World)        | [management-world-skills](https://github.com/brycewang-stanford/management-world-skills)    | Management + applied economics  | v0.1    |
 | **《经济研究》** (Economic Research)        | [economic-research-skills](https://github.com/brycewang-stanford/economic-research-skills)  | Economics (China-CSSCI top)     | v0.1    |
+| **Nature** (academic writing + scientific figures) | [nature-skills](https://github.com/Yuan1z0825/nature-skills) *(third-party, curated)* | Natural sciences (Nature family) | upstream |
 
 ---
 
@@ -43,6 +44,7 @@ awesome-journal-skills/
 ├── AER-skills/                 → submodule of brycewang-stanford/AER-skills
 ├── economic-research-skills/   → submodule of brycewang-stanford/economic-research-skills
 ├── management-world-skills/    → submodule of brycewang-stanford/management-world-skills
+├── nature-skills/              → submodule of Yuan1z0825/nature-skills (third-party)
 └── .github/workflows/sync-submodules.yml
 ```
 
@@ -379,7 +381,7 @@ Broader-scope agent skill collections (complementary to this journal-specific in
 Generic scientific-writing skill packs (different scope from this index):
 
 - [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills)
-- [nature-skills](https://github.com/Yuan1z0825/nature-skills)
+- [nature-skills](https://github.com/Yuan1z0825/nature-skills) — now curated as a submodule under [`nature-skills/`](nature-skills/).
 
 ---
 
