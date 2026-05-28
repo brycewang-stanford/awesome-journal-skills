@@ -80,6 +80,10 @@ er-tables-figures
         ▼
 er-policy-implication
         ▼
+er-abstract      (polish)
+        ▼
+er-style         (polish)
+        ▼
 er-submission
         ▼
 er-rebuttal
@@ -99,10 +103,18 @@ er-rebuttal
 | `er-identification`       | Quasi-experimental design (DID / IV / RDD / DML)               |
 | `er-mechanism`            | Mechanism-analysis paths and writing template                  |
 | `er-heterogeneity`        | Heterogeneity cuts: five-dimension priority                    |
-| `er-tables-figures`       | Three-line tables, footnote norms, figure aesthetics           |
+| `er-tables-figures`       | Three-line tables, variable-definition table, figure aesthetics |
 | `er-policy-implication`   | Significance-level policy framing (not action-level)           |
-| `er-submission`           | Pre-submission checklist (format, word count, double-blind)    |
+| `er-abstract`             | 200–400 字摘要五句法 + 黑名单短语清除                          |
+| `er-style`                | Language polish: empty-significance → concrete contribution     |
+| `er-submission`           | Pre-submission checklist + manuscript template (format, word count, double-blind) |
 | `er-rebuttal`             | R&R response-letter structure                                  |
+
+### Resources
+
+- [`skills/er-submission/templates/manuscript_template.md`](skills/er-submission/templates/manuscript_template.md) — Standard manuscript skeleton (abstract, variable table, references)
+- [`skills/er-submission/templates/checklist.md`](skills/er-submission/templates/checklist.md) — 8-section pre-submission self-check
+- [`resources/external_tools.md`](resources/external_tools.md) — Chinese economic-research data sources (CSMAR / Wind / CNRDS / CFPS / CHARLS) + Stata / Python / R packages
 
 ---
 
