@@ -37,9 +37,12 @@
   <a href="Economic-Research-Journal-Skills/"><img src="Economic-Research-Journal-Skills/assets/cover.jpg" alt="《经济研究》 期刊封面" width="200"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="Journal-of-Management-World-Skills/"><img src="Journal-of-Management-World-Skills/assets/cover.jpg" alt="《管理世界》 期刊封面" width="200"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="nature-skills/"><img src="assets/nature-cover.jpg" alt="Nature 期刊封面（插画 © Inna-Marie Strazhnik, 2019）" width="200"></a>
 </p>
 <p align="center">
-  <sub><b>《经济研究》</b> &nbsp;·&nbsp; <b>《管理世界》</b></sub>
+  <sub><b>《经济研究》</b> &nbsp;·&nbsp; <b>《管理世界》</b> &nbsp;·&nbsp; <b>Nature</b></sub><br>
+  <sub><sup>Nature 封面插画 © <a href="https://inna-marie.com/2019/08/08/cover-art-nature-journal/">Inna-Marie Strazhnik (2019)</a></sup></sub>
 </p>
 
 ---
