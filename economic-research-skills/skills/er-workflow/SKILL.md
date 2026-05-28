@@ -29,6 +29,8 @@ description: Use when deciding which er-* sub-skill to invoke next, or when sequ
 | 没切异质性 / 切分维度过少                            | `er-heterogeneity`        |
 | 表格列数过多 / 注释不规范 / 不像《经济研究》风格        | `er-tables-figures`       |
 | 文末没有政策含义，或写得太"操作化"                    | `er-policy-implication`   |
+| 摘要写成套话，没量化结果 / 中英文不对齐               | `er-abstract`             |
+| 通篇空话套话 / 政策建议是"加强完善推进"四件套         | `er-style`                |
 | 准备投稿，需要 checklist                            | `er-submission`           |
 | 收到 R&R，需要写回复信                              | `er-rebuttal`             |
 
@@ -41,8 +43,12 @@ description: Use when deciding which er-* sub-skill to invoke next, or when sequ
 5. `er-heterogeneity` — 异质性切分
 6. `er-tables-figures` — 主表 / 主图最终化
 7. `er-policy-implication` — 政策含义（意义层）
-8. `er-submission` — 投稿前 preflight
-9. `er-rebuttal` — 外审后
+8. `er-abstract` — 摘要五句法 + 黑名单短语清除
+9. `er-style` — 全文语言风格 polish
+10. `er-submission` — 投稿前 preflight
+11. `er-rebuttal` — 外审后
+
+> `er-abstract` 与 `er-style` 是**后段 polish 阶段**触发，不要在识别策略未立住时去做。
 
 ## 决策口诀
 
@@ -53,6 +59,8 @@ description: Use when deciding which er-* sub-skill to invoke next, or when sequ
 - "异质性只切了东中西" → `er-heterogeneity`
 - "主表 8 列以上" → `er-tables-figures`
 - "我建议政府重视该问题" → `er-policy-implication`
+- "摘要里没有量化结果 / 全是套话" → `er-abstract`
+- "全文'具有重要意义'命中 ≥ 3 处" → `er-style`
 - "明天就要投了" → `er-submission`
 - "收到 3 份审稿意见" → `er-rebuttal`
 
