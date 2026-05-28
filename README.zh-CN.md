@@ -30,7 +30,7 @@
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------|---------|
 | **American Economic Review** + AER:Insights + AEJ 系列 | [AER-skills](https://github.com/brycewang-stanford/AER-skills)                              | 经济学（Top-5）             | v1.0    |
 | **《管理世界》**                       | [management-world-skills](https://github.com/brycewang-stanford/management-world-skills)    | 管理学 + 应用经济           | v0.1    |
-| **《经济研究》**                       | [economic-research-skills](https://github.com/brycewang-stanford/economic-research-skills)  | 经济学（中国 CSSCI 顶级）    | v0.1    |
+| **《经济研究》**                       | [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/Economic-Research-Skills)  | 经济学（中国 CSSCI 顶级）    | v0.1    |
 | **Nature**（学术表达 + 科研绘图）       | [nature-skills](https://github.com/Yuan1z0825/nature-skills) *(第三方收录)*                  | 自然科学（Nature 系）        | upstream |
 
 ---
@@ -42,7 +42,7 @@
 ```text
 awesome-journal-skills/
 ├── AER-skills/                 → submodule: brycewang-stanford/AER-skills
-├── economic-research-skills/   → submodule: brycewang-stanford/economic-research-skills
+├── Economic-Research-Journal-Skills/   → 普通目录（上游：brycewang-stanford/Economic-Research-Skills）
 ├── management-world-skills/    → submodule: brycewang-stanford/management-world-skills
 ├── nature-skills/              → submodule: Yuan1z0825/nature-skills（第三方收录）
 └── .github/workflows/sync-submodules.yml
@@ -80,7 +80,7 @@ git submodule update --remote --merge
 /plugin install management-world-skills
 
 # 经济研究
-/plugin marketplace add https://github.com/brycewang-stanford/economic-research-skills
+/plugin marketplace add https://github.com/brycewang-stanford/Economic-Research-Skills
 /plugin install economic-research-skills
 
 /reload-plugins
@@ -91,12 +91,12 @@ git submodule update --remote --merge
 ```bash
 git clone https://github.com/brycewang-stanford/AER-skills.git
 git clone https://github.com/brycewang-stanford/management-world-skills.git
-git clone https://github.com/brycewang-stanford/economic-research-skills.git
+git clone https://github.com/brycewang-stanford/Economic-Research-Skills.git Economic-Research-Journal-Skills
 
 mkdir -p ~/.claude/skills
 cp -R AER-skills/skills/aer-* ~/.claude/skills/
 cp -R management-world-skills/skills/mw-* ~/.claude/skills/
-cp -R economic-research-skills/skills/er-* ~/.claude/skills/
+cp -R Economic-Research-Journal-Skills/skills/er-* ~/.claude/skills/
 ```
 
 ### 第一条 Prompt
@@ -113,7 +113,7 @@ cp -R economic-research-skills/skills/er-* ~/.claude/skills/
 |------------------------------------------|---------------------------|
 | 因果识别为主的实证文章，目标 top-5 经济学           | `AER-skills`              |
 | 中国情境实证 + 政策可操作                          | `management-world-skills` |
-| 中国情境 + 理论贡献突出                            | `economic-research-skills`|
+| 中国情境 + 理论贡献突出                            | `Economic-Research-Journal-Skills`|
 
 ---
 

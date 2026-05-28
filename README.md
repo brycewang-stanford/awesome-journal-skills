@@ -30,7 +30,7 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 |--------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|---------|
 | **American Economic Review** + AER:Insights + AEJ family | [AER-skills](https://github.com/brycewang-stanford/AER-skills)                              | Economics (top-5)                | v1.0    |
 | **《管理世界》** (Management World)        | [management-world-skills](https://github.com/brycewang-stanford/management-world-skills)    | Management + applied economics  | v0.1    |
-| **《经济研究》** (Economic Research)        | [economic-research-skills](https://github.com/brycewang-stanford/economic-research-skills)  | Economics (China-CSSCI top)     | v0.1    |
+| **《经济研究》** (Economic Research)        | [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/Economic-Research-Skills)  | Economics (China-CSSCI top)     | v0.1    |
 | **Nature** (academic writing + scientific figures) | [nature-skills](https://github.com/Yuan1z0825/nature-skills) *(third-party, curated)* | Natural sciences (Nature family) | upstream |
 
 ---
@@ -42,7 +42,7 @@ This repo embeds each pack as a **git submodule** pinned to its own upstream rep
 ```text
 awesome-journal-skills/
 ├── AER-skills/                 → submodule of brycewang-stanford/AER-skills
-├── economic-research-skills/   → submodule of brycewang-stanford/economic-research-skills
+├── Economic-Research-Journal-Skills/   → folder (upstream: brycewang-stanford/Economic-Research-Skills)
 ├── management-world-skills/    → submodule of brycewang-stanford/management-world-skills
 ├── nature-skills/              → submodule of Yuan1z0825/nature-skills (third-party)
 └── .github/workflows/sync-submodules.yml
@@ -80,7 +80,7 @@ For each pack you want:
 /plugin install management-world-skills
 
 # 经济研究
-/plugin marketplace add https://github.com/brycewang-stanford/economic-research-skills
+/plugin marketplace add https://github.com/brycewang-stanford/Economic-Research-Skills
 /plugin install economic-research-skills
 
 /reload-plugins
@@ -91,12 +91,12 @@ For each pack you want:
 ```bash
 git clone https://github.com/brycewang-stanford/AER-skills.git
 git clone https://github.com/brycewang-stanford/management-world-skills.git
-git clone https://github.com/brycewang-stanford/economic-research-skills.git
+git clone https://github.com/brycewang-stanford/Economic-Research-Skills.git Economic-Research-Journal-Skills
 
 mkdir -p ~/.claude/skills
 cp -R AER-skills/skills/aer-* ~/.claude/skills/
 cp -R management-world-skills/skills/mw-* ~/.claude/skills/
-cp -R economic-research-skills/skills/er-* ~/.claude/skills/
+cp -R Economic-Research-Journal-Skills/skills/er-* ~/.claude/skills/
 ```
 
 ### First Prompt
@@ -114,7 +114,7 @@ use next for my manuscript targeted at <journal>.
 |--------------------------------------------------------|------------------------------|
 | Causal-identification empirical paper aimed at top-5 econ | `AER-skills`                |
 | China-context empirical paper with policy actionability   | `management-world-skills`   |
-| China-context paper with theoretical grounding            | `economic-research-skills`  |
+| China-context paper with theoretical grounding            | `Economic-Research-Journal-Skills`  |
 
 ---
 
