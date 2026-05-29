@@ -36,15 +36,42 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 
 ## The Skill Packs
 
-| Venue                          | Repository                                                                                  | Discipline                       | Status  |
-|--------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|---------|
-| **American Economic Review** + AER:Insights + AEJ family | [AER-skills](https://github.com/brycewang-stanford/AER-skills)                              | Economics (top-5)                | v1.0    |
-| **《管理世界》** (Management World)        | [management-world-skills](https://github.com/brycewang-stanford/management-world-skills)    | Management + applied economics  | v0.1    |
-| **《经济研究》** (Economic Research)        | [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/Economic-Research-Skills)  | Economics (China-CSSCI top)     | v0.1    |
-| **Nature** (academic writing + scientific figures) | [nature-skills](https://github.com/Yuan1z0825/nature-skills) *(third-party, curated)* | Natural sciences (Nature family) | upstream |
-| **Nature-style manuscripts** (draft · revise · audit · resubmit) | [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) *(third-party, curated)* | Natural sciences (Nature family) | upstream |
-| **Claude Scholar** (full research workflow: ideation → writing → publication) | [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) *(third-party, curated)* | General (Claude Code / OpenCode / Codex) | upstream |
-| **Codex/Claude Academic Skills** (reading · writing · scientific computing) | [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) *(third-party, curated)* | General (Chinese researchers) | upstream |
+> **Breadth vs. depth.** Each flagship venue below ships as a **standalone depth pack** — a full ~12-step per-journal manuscript workflow. The [Chinese-SocialScience-Journal-Skills](Chinese-SocialScience-Journal-Skills/) **breadth bundle** adds one router skill for each of ~100 China econ/management roadmap journals. The 12 flagship venues are intentionally covered both ways.
+
+### Flagship venues — standalone depth packs
+
+| Venue | Pack | Discipline | Skills |
+|-------|------|------------|-------:|
+| **American Economic Review** + AER:Insights + AEJ family | [AER-skills](https://github.com/brycewang-stanford/AER-skills) | Economics (top-5) | 9 |
+| **《经济研究》** Economic Research | [Economic-Research-Journal-Skills/](Economic-Research-Journal-Skills/) | Economics (China-CSSCI top) | 12 |
+| **《管理世界》** Management World | [Journal-of-Management-World-Skills/](Journal-of-Management-World-Skills/) | Management + applied economics | 11 |
+| **《中国社会科学》** Social Sciences in China | [Social-Sciences-in-China-Skills/](Social-Sciences-in-China-Skills/) | General social science | 11 |
+| **《中国工业经济》** China Industrial Economics | [China-Industrial-Economics-Skills/](China-Industrial-Economics-Skills/) | Industrial economics | 13 |
+| **《数量经济技术经济研究》** Quantitative & Technological Economics | [Journal-of-Quantitative-and-Technological-Economics-Skills/](Journal-of-Quantitative-and-Technological-Economics-Skills/) | Quantitative economics | 13 |
+| **《会计研究》** Accounting Research | [Accounting-Research-Skills/](Accounting-Research-Skills/) | Accounting | 13 |
+| **《经济学(季刊)》** China Economic Quarterly | [China-Economic-Quarterly-Skills/](China-Economic-Quarterly-Skills/) | Economics | 12 |
+| **《金融研究》** Journal of Financial Research | [Journal-of-Financial-Research-Skills/](Journal-of-Financial-Research-Skills/) | Finance | 12 |
+| **《世界经济》** The Journal of World Economy | [Journal-of-World-Economy-Skills/](Journal-of-World-Economy-Skills/) | International economics | 12 |
+| **《管理科学学报》** J. of Management Sciences in China | [Journal-of-Management-Sciences-in-China-Skills/](Journal-of-Management-Sciences-in-China-Skills/) | Management science | 12 |
+| **《南开管理评论》** Nankai Business Review | [Nankai-Business-Review-Skills/](Nankai-Business-Review-Skills/) | Management | 12 |
+| **《社会学研究》** Sociological Studies | [Sociological-Studies-Skills/](Sociological-Studies-Skills/) | Sociology | 12 |
+
+### Breadth bundle — ~100 China econ/management roadmap journals
+
+| Bundle | Pack | Coverage | Skills |
+|--------|------|----------|-------:|
+| **Chinese social-science journals (roadmap set)** | [Chinese-SocialScience-Journal-Skills/](Chinese-SocialScience-Journal-Skills/) | one router skill per journal | 103 |
+
+### Third-party packs — curated as submodules
+
+| Venue | Repository | Discipline | Status |
+|-------|------------|------------|--------|
+| **Nature** (academic writing + scientific figures) | [nature-skills](https://github.com/Yuan1z0825/nature-skills) | Natural sciences (Nature family) | upstream |
+| **Nature-style manuscripts** (draft · revise · audit · resubmit) | [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) | Natural sciences (Nature family) | upstream |
+| **Claude Scholar** (ideation → writing → publication) | [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | General (Claude Code / OpenCode / Codex) | upstream |
+| **Codex/Claude Academic Skills** (reading · writing · scientific computing) | [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) | General (Chinese researchers) | upstream |
+
+<sub><b>Count methodology.</b> The homepage <b>353</b> = every <code>SKILL.md</code> in the repo minus the 9 duplicated Nature plugin-mirror files. Both the breadth bundle and the standalone depth packs are counted, so the 12 flagship venues covered both ways are intentionally counted in both forms. Reconciliation: 154 (13 depth packs) + 103 (bundle) + 96 (4 third-party) = 353.</sub>
 
 <p align="center">
   <a href="Economic-Research-Journal-Skills/"><img src="Economic-Research-Journal-Skills/assets/cover.jpg" alt="《经济研究》 journal cover" width="200"></a>
@@ -62,16 +89,29 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 
 ## Repository Layout
 
-This repo embeds each pack as a **git submodule** pinned to its own upstream repository. A scheduled GitHub Action ([`.github/workflows/sync-submodules.yml`](.github/workflows/sync-submodules.yml)) bumps the pins to the latest upstream `main` daily, so this repo mirrors the source packs without manual intervention.
+This repo combines **in-repo folder packs** (the China flagship depth packs and the breadth bundle, authored and maintained here) with **git submodules** pinned to upstream repos (AER plus the third-party packs). A scheduled GitHub Action ([`.github/workflows/sync-submodules.yml`](.github/workflows/sync-submodules.yml)) bumps the submodule pins to the latest upstream `main` daily.
 
 ```text
 awesome-journal-skills/
-├── AER-skills/                 → submodule of brycewang-stanford/AER-skills
-├── Economic-Research-Journal-Skills/   → folder (upstream: brycewang-stanford/Economic-Research-Skills)
-├── management-world-skills/    → submodule of brycewang-stanford/management-world-skills
-├── nature-skills/              → submodule of Yuan1z0825/nature-skills (third-party)
-├── nature-paper-skills/        → submodule of Boom5426/Nature-Paper-Skills (third-party)
-├── claude-scholar/             → submodule of Galaxy-Dawn/claude-scholar (third-party)
+│   # In-repo folder packs (first-party, authored / maintained here)
+├── Economic-Research-Journal-Skills/      → 《经济研究》 (12 skills)
+├── Journal-of-Management-World-Skills/    → 《管理世界》 (11 skills)
+├── Social-Sciences-in-China-Skills/       → 《中国社会科学》 (11 skills)
+├── China-Economic-Quarterly-Skills/       → 《经济学(季刊)》 (12 skills)
+├── Journal-of-World-Economy-Skills/       → 《世界经济》 (12 skills)
+├── Journal-of-Financial-Research-Skills/  → 《金融研究》 (12 skills)
+├── China-Industrial-Economics-Skills/     → 《中国工业经济》 (13 skills)
+├── Journal-of-Management-Sciences-in-China-Skills/  → 《管理科学学报》 (12 skills)
+├── Nankai-Business-Review-Skills/         → 《南开管理评论》 (12 skills)
+├── Accounting-Research-Skills/            → 《会计研究》 (13 skills)
+├── Sociological-Studies-Skills/           → 《社会学研究》 (12 skills)
+├── Journal-of-Quantitative-and-Technological-Economics-Skills/  → 《数量经济技术经济研究》 (13 skills)
+├── Chinese-SocialScience-Journal-Skills/  → breadth bundle, ~100-journal router (103 skills)
+│   # Git submodules (pinned to upstream, auto-synced daily)
+├── AER-skills/                    → submodule of brycewang-stanford/AER-skills
+├── nature-skills/                 → submodule of Yuan1z0825/nature-skills (third-party)
+├── nature-paper-skills/           → submodule of Boom5426/Nature-Paper-Skills (third-party)
+├── claude-scholar/                → submodule of Galaxy-Dawn/claude-scholar (third-party)
 ├── codex-claude-academic-skills/  → submodule of zLanqing/codex-claude-academic-skills (third-party)
 └── .github/workflows/sync-submodules.yml
 ```

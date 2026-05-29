@@ -36,15 +36,42 @@
 
 ## Skill Pack 一览
 
-| 期刊                                | 仓库                                                                                          | 学科                       | 状态    |
-|-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------|---------|
-| **American Economic Review** + AER:Insights + AEJ 系列 | [AER-skills](https://github.com/brycewang-stanford/AER-skills)                              | 经济学（Top-5）             | v1.0    |
-| **《管理世界》**                       | [management-world-skills](https://github.com/brycewang-stanford/management-world-skills)    | 管理学 + 应用经济           | v0.1    |
-| **《经济研究》**                       | [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/Economic-Research-Skills)  | 经济学（中国 CSSCI 顶级）    | v0.1    |
-| **Nature**（学术表达 + 科研绘图）       | [nature-skills](https://github.com/Yuan1z0825/nature-skills) *(第三方收录)*                  | 自然科学（Nature 系）        | upstream |
-| **Nature 风格手稿**（起草 · 修改 · 审计 · 重投） | [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) *(第三方收录)*        | 自然科学（Nature 系）        | upstream |
-| **Claude Scholar**（科研全流程：选题 → 写作 → 发表） | [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) *(第三方收录)*               | 通用（Claude Code / OpenCode / Codex） | upstream |
-| **Codex/Claude 学术 Skills**（阅读 · 写作 · 科学计算） | [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) *(第三方收录)* | 通用（面向中文科研用户）     | upstream |
+> **广度 vs 深度。** 下表中每个重点期刊都是一个**深度独立包**——针对单刊的全流程（约 12 步）方法论。[Chinese-SocialScience-Journal-Skills](Chinese-SocialScience-Journal-Skills/) **广度合集**则为约 100 本中文经管路线图期刊各提供 1 个 router 技能。12 本重点期刊有意同时以两种形态收录。
+
+### 重点期刊 —— 深度独立包
+
+| 期刊 | Pack | 学科 | 技能数 |
+|------|------|------|-------:|
+| **American Economic Review** + AER:Insights + AEJ 系列 | [AER-skills](https://github.com/brycewang-stanford/AER-skills) | 经济学（Top-5） | 9 |
+| **《经济研究》** | [Economic-Research-Journal-Skills/](Economic-Research-Journal-Skills/) | 经济学（中国 CSSCI 顶级） | 12 |
+| **《管理世界》** | [Journal-of-Management-World-Skills/](Journal-of-Management-World-Skills/) | 管理学 + 应用经济 | 11 |
+| **《中国社会科学》** | [Social-Sciences-in-China-Skills/](Social-Sciences-in-China-Skills/) | 综合社科 | 11 |
+| **《中国工业经济》** | [China-Industrial-Economics-Skills/](China-Industrial-Economics-Skills/) | 产业经济 | 13 |
+| **《数量经济技术经济研究》** | [Journal-of-Quantitative-and-Technological-Economics-Skills/](Journal-of-Quantitative-and-Technological-Economics-Skills/) | 数量经济 | 13 |
+| **《会计研究》** | [Accounting-Research-Skills/](Accounting-Research-Skills/) | 会计 | 13 |
+| **《经济学(季刊)》** | [China-Economic-Quarterly-Skills/](China-Economic-Quarterly-Skills/) | 经济学 | 12 |
+| **《金融研究》** | [Journal-of-Financial-Research-Skills/](Journal-of-Financial-Research-Skills/) | 金融 | 12 |
+| **《世界经济》** | [Journal-of-World-Economy-Skills/](Journal-of-World-Economy-Skills/) | 国际经济 | 12 |
+| **《管理科学学报》** | [Journal-of-Management-Sciences-in-China-Skills/](Journal-of-Management-Sciences-in-China-Skills/) | 管理科学 | 12 |
+| **《南开管理评论》** | [Nankai-Business-Review-Skills/](Nankai-Business-Review-Skills/) | 管理学 | 12 |
+| **《社会学研究》** | [Sociological-Studies-Skills/](Sociological-Studies-Skills/) | 社会学 | 12 |
+
+### 广度合集 —— 约 100 本中文经管路线图期刊
+
+| 合集 | Pack | 覆盖 | 技能数 |
+|------|------|------|-------:|
+| **中文社科期刊（路线图全集）** | [Chinese-SocialScience-Journal-Skills/](Chinese-SocialScience-Journal-Skills/) | 一刊一个 router 技能 | 103 |
+
+### 第三方收录 —— 以 submodule 形式纳入
+
+| 期刊 | 仓库 | 学科 | 状态 |
+|------|------|------|------|
+| **Nature**（学术表达 + 科研绘图） | [nature-skills](https://github.com/Yuan1z0825/nature-skills) | 自然科学（Nature 系） | upstream |
+| **Nature 风格手稿**（起草 · 修改 · 审计 · 重投） | [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) | 自然科学（Nature 系） | upstream |
+| **Claude Scholar**（选题 → 写作 → 发表） | [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 通用（Claude Code / OpenCode / Codex） | upstream |
+| **Codex/Claude 学术 Skills**（阅读 · 写作 · 科学计算） | [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) | 通用（面向中文科研用户） | upstream |
+
+<sub><b>计数口径。</b> 首页 <b>353</b> = 仓库内全部 <code>SKILL.md</code> 减去 9 个 Nature 插件镜像重复文件。广度合集与深度独立包均计入，因此 12 本同时双形态收录的重点期刊会被计两次。对账：154（13 个深度包）+ 103（合集）+ 96（4 个第三方）= 353。</sub>
 
 <p align="center">
   <a href="Economic-Research-Journal-Skills/"><img src="Economic-Research-Journal-Skills/assets/cover.jpg" alt="《经济研究》 期刊封面" width="200"></a>
@@ -62,16 +89,29 @@
 
 ## 仓库结构
 
-本仓库以 **git submodule** 方式收录每个 pack，分别指向其上游独立仓库。每天通过 GitHub Actions（[`.github/workflows/sync-submodules.yml`](.github/workflows/sync-submodules.yml)）自动把 submodule 指针 bump 到上游 `main` 最新提交，无需手工同步。
+本仓库由两类 pack 组成：**仓库内目录包**（中文重点期刊深度包与广度合集，在本仓库内编写维护）与 **git submodule**（AER 及第三方包，指向各自上游）。每天通过 GitHub Actions（[`.github/workflows/sync-submodules.yml`](.github/workflows/sync-submodules.yml)）自动把 submodule 指针 bump 到上游 `main` 最新提交。
 
 ```text
 awesome-journal-skills/
-├── AER-skills/                 → submodule: brycewang-stanford/AER-skills
-├── Economic-Research-Journal-Skills/   → 普通目录（上游：brycewang-stanford/Economic-Research-Skills）
-├── management-world-skills/    → submodule: brycewang-stanford/management-world-skills
-├── nature-skills/              → submodule: Yuan1z0825/nature-skills（第三方收录）
-├── nature-paper-skills/        → submodule: Boom5426/Nature-Paper-Skills（第三方收录）
-├── claude-scholar/             → submodule: Galaxy-Dawn/claude-scholar（第三方收录）
+│   # 仓库内目录包（first-party，在本仓库内编写维护）
+├── Economic-Research-Journal-Skills/      → 《经济研究》（12 skills）
+├── Journal-of-Management-World-Skills/    → 《管理世界》（11 skills）
+├── Social-Sciences-in-China-Skills/       → 《中国社会科学》（11 skills）
+├── China-Economic-Quarterly-Skills/       → 《经济学(季刊)》（12 skills）
+├── Journal-of-World-Economy-Skills/       → 《世界经济》（12 skills）
+├── Journal-of-Financial-Research-Skills/  → 《金融研究》（12 skills）
+├── China-Industrial-Economics-Skills/     → 《中国工业经济》（13 skills）
+├── Journal-of-Management-Sciences-in-China-Skills/  → 《管理科学学报》（12 skills）
+├── Nankai-Business-Review-Skills/         → 《南开管理评论》（12 skills）
+├── Accounting-Research-Skills/            → 《会计研究》（13 skills）
+├── Sociological-Studies-Skills/           → 《社会学研究》（12 skills）
+├── Journal-of-Quantitative-and-Technological-Economics-Skills/  → 《数量经济技术经济研究》（13 skills）
+├── Chinese-SocialScience-Journal-Skills/  → 广度合集，约 100 本期刊 router（103 skills）
+│   # git submodule（指向上游，每日自动同步）
+├── AER-skills/                    → submodule: brycewang-stanford/AER-skills
+├── nature-skills/                 → submodule: Yuan1z0825/nature-skills（第三方收录）
+├── nature-paper-skills/           → submodule: Boom5426/Nature-Paper-Skills（第三方收录）
+├── claude-scholar/                → submodule: Galaxy-Dawn/claude-scholar（第三方收录）
 ├── codex-claude-academic-skills/  → submodule: zLanqing/codex-claude-academic-skills（第三方收录）
 └── .github/workflows/sync-submodules.yml
 ```
