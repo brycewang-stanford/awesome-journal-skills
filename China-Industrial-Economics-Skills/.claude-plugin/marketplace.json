@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "china-industrial-economics-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at 《中国工业经济》, the industrial-economics flagship of the CASS Institute of Industrial Economics — built around empirical engineering, the robustness arms race, and actionable industrial policy.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "china-industrial-economics-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Thirteen-skill bundle covering the 《中国工业经济》 manuscript lifecycle: workflow router, fit positioning, topic selection, literature review, institutional background, multi-period DID / event-study identification, mechanism, heterogeneity, the signature robustness arms race, tables/figures with economic-magnitude interpretation, actionable policy implications, submission preflight, and rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "china-industrial-economics",
+        "cssci",
+        "cass",
+        "industrial-economics",
+        "did",
+        "robustness",
+        "industrial-policy"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/cie-workflow",
+        "skills/cie-fit-positioning",
+        "skills/cie-topic-selection",
+        "skills/cie-literature-review",
+        "skills/cie-institutional-background",
+        "skills/cie-did-identification",
+        "skills/cie-mechanism",
+        "skills/cie-heterogeneity",
+        "skills/cie-robustness",
+        "skills/cie-tables-figures",
+        "skills/cie-policy-implication",
+        "skills/cie-submission",
+        "skills/cie-rebuttal"
+      ]
+    }
+  ]
+}

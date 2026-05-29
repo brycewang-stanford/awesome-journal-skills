@@ -3,8 +3,18 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/agent-Claude%20Code-cc785c)](https://github.com/anthropics/claude-code)
+[![Skills](https://img.shields.io/badge/skills-353-cc785c)](#the-skill-packs)
 
 English | [简体中文](README.zh-CN.md)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skills-353-cc785c?style=for-the-badge" alt="353 agent skills">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Skill_Packs-18-2b3137?style=for-the-badge" alt="18 skill packs">
+</p>
+<p align="center">
+  <sub><b>353 agent skills</b> across <b>18 curated packs</b> — one index.</sub>
+</p>
 
 A curated index of **journal-specific agent skill packs** for social-science manuscript work — selecting topics, identifying causal effects, writing introductions, formatting tables, preparing replication packages, and responding to reviewers.
 

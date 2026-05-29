@@ -1,0 +1,23 @@
+{
+  "name": "social-sciences-in-china-skills",
+  "description": "Agent skill stack for submitting to 《中国社会科学》 (Social Sciences in China) — the Chinese Academy of Social Sciences flagship and the most prestigious cross-disciplinary social-science journal in China (monthly, ISSN 1002-4921, CN 11-1211/C). Covers fit judgment, problematic / big-question framing, original theory and China's autonomous knowledge system, theory-tradition literature dialogue, argumentation rigor, evidence (quantitative / qualitative / historical), scholarly house style, 200–300-character abstract + keywords, submission preflight (footnote conventions, online system), and external-review rebuttals.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+  "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+  "keywords": [
+    "social-sciences-in-china",
+    "zhongguo-shehui-kexue",
+    "cssci",
+    "cass",
+    "interdisciplinary",
+    "social-science",
+    "academic-writing",
+    "chinese-journal",
+    "autonomous-knowledge-system"
+  ]
+}

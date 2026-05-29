@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "china-economic-quarterly-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at 《经济学(季刊)》 (China Economic Quarterly), the Peking University / CCER journal closest to international top-field economics standards in China.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "china-economic-quarterly-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the 《经济学(季刊)》 manuscript lifecycle: workflow router, fit positioning, internationally-legible topic selection, field-benchmarked literature review, structural / quasi-experimental identification, modern staggered-DID compliance, inference rigor, mechanism evidence, figures-over-tables, English abstract, submission preflight, and rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "china-economic-quarterly",
+        "ceq",
+        "ccer",
+        "econometrics",
+        "causal-inference",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/ceq-workflow",
+        "skills/ceq-fit-positioning",
+        "skills/ceq-topic-selection",
+        "skills/ceq-literature-review",
+        "skills/ceq-identification",
+        "skills/ceq-modern-did",
+        "skills/ceq-inference",
+        "skills/ceq-mechanism",
+        "skills/ceq-figures",
+        "skills/ceq-abstract-english",
+        "skills/ceq-submission",
+        "skills/ceq-rebuttal"
+      ]
+    }
+  ]
+}

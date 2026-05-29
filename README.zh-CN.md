@@ -3,8 +3,18 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/agent-Claude%20Code-cc785c)](https://github.com/anthropics/claude-code)
+[![Skills](https://img.shields.io/badge/skills-353-cc785c)](#skill-pack-一览)
 
 [English](README.md) | 简体中文
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skills-353-cc785c?style=for-the-badge" alt="353 个 Agent Skill">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Skill_Packs-18-2b3137?style=for-the-badge" alt="18 个 Skill 包">
+</p>
+<p align="center">
+  <sub>共收录 <b>353 个 Agent Skill</b>，分布在 <b>18 个精选 Skill 包</b>中——一站式索引。</sub>
+</p>
 
 按**期刊**组织的社科 Agent Skill 包索引——涵盖选题、识别策略、引言写作、表格规范、复制包准备、修改回复。
 

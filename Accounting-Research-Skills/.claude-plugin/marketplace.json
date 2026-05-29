@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "accounting-research-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at 《会计研究》, the flagship accounting journal of the Accounting Society of China.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "accounting-research-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Thirteen-skill bundle covering the 《会计研究》 manuscript lifecycle: workflow router, accounting-vs-finance fit positioning, topic selection, literature review, institutional/standards background, accounting measurement, quasi-experimental identification, information mechanism, robustness, tables/figures, standard-setter/regulator implications, submission preflight, and rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "accounting-research",
+        "cssci",
+        "accounting-society-of-china",
+        "archival-accounting",
+        "earnings-management",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/acr-workflow",
+        "skills/acr-fit-positioning",
+        "skills/acr-topic-selection",
+        "skills/acr-literature-review",
+        "skills/acr-institutional-standards",
+        "skills/acr-measurement",
+        "skills/acr-identification",
+        "skills/acr-mechanism",
+        "skills/acr-robustness",
+        "skills/acr-tables-figures",
+        "skills/acr-implications",
+        "skills/acr-submission",
+        "skills/acr-rebuttal"
+      ]
+    }
+  ]
+}

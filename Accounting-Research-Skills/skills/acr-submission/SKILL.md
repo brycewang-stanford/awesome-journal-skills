@@ -1,0 +1,67 @@
+---
+name: acr-submission
+description: Use for the pre-submission preflight to 《会计研究》 (Accounting Research) — checking footnote (当页下注) conventions, the 著者—出版年制 reference style, abstract/keyword limits, article length, the online-only submission system via the Accounting Society of China site, double-blind anonymity, and document hygiene. Use right before submitting; verify every rule against the journal's current 投稿指南.
+---
+
+# 投稿前 preflight（acr-submission）
+
+## 触发时机
+
+- 正文、度量、识别、机制都定了，准备投稿
+- 需要一份"投出去前最后核对"的清单
+
+## 关键事实（详见 resources/journal-profile.md）
+
+- 主管/主办：财政部主管、中国会计学会主办；月刊；ISSN 1003-2886；CN 11-1078/F
+- 投稿方式：**仅线上投稿**——经中国会计学会网站在线投稿系统（入口：www.asc.net.cn《会计研究》投稿指南页）；**不接收电子邮件、纸质邮寄**
+- 摘要 **200–300 字**；关键词 **3–8 个**
+- 注释体例：**当页下注（脚注）**，序号用「①，②……」标识，**每页单独排序**
+- 参考文献：**著者—出版年制**；文末参考文献表**先中文后外文**，中文按姓名拼音首字母、英文按作者姓名首字母排列
+- 篇幅：全文一般**不得低于 16000 字**（doc/pdf/wps）；上限有"约 22000 字"之说，**以官网最新指南为准**
+- 审稿：**三审终审制 + 双向匿名审稿制**；审稿周期约三个月
+
+> 体例与字数以官网**最新《投稿指南》**为准。规则会变，投前务必复核，不要凭记忆。
+
+## 体例 checklist
+
+- [ ] 注释统一为**当页下注（脚注）**，每页序号「①②……」单独排序，非尾注、非文中夹注
+- [ ] 参考文献用**著者—出版年制**，文末表先中文后外文，排序符合规则
+- [ ] 正文引用与文末参考文献一一对应、可核查；直接引用标页码
+- [ ] 中文摘要 200–300 字；关键词 3–8 个；按系统要求附英文标题/摘要/关键词
+- [ ] 全文字数 ≥ 16000 字（以最新指南为准）；文档为 doc/pdf/wps
+- [ ] 图表规范、编号连续、有出处；变量定义表齐全
+- [ ] 基金项目、作者信息按系统要求填写（正文匿名）
+
+## 双向匿名 hygiene
+
+- [ ] 上载文档（初稿、修改稿、修改说明）中**去除可识别作者身份**的信息
+- [ ] 自引改为第三人称或匿名占位
+- [ ] 文件属性（作者名、单位）已清除
+- [ ] 致谢、基金号等敏感信息按匿名要求处理
+
+## 提交前内容复核（调用其它 skill）
+
+- [ ] 落点是会计议题而非金融机理（`acr-fit-positioning`）
+- [ ] 会计度量构造透明可复现（`acr-measurement`）
+- [ ] 制度/准则背景准确、时点无误（`acr-institutional-standards`）
+- [ ] 识别策略立得住（`acr-identification`）
+- [ ] 机制落到信息渠道（`acr-mechanism`）
+- [ ] 贡献兼顾理论与准则/监管实务（`acr-implications`）
+
+## 反模式
+
+- 凭记忆套体例，不查最新《投稿指南》
+- 用尾注/文中夹注替代当页下注，或用编号 [1][2] 制替代著者—出版年制
+- 想走邮箱投稿（本刊仅线上）
+- 忘清匿名信息就投双盲
+
+## 输出格式
+
+```
+【体例】当页下注□ 著者—出版年制□ 中英摘要□ 引文对应□
+【字数】正文 X 字（≥16000）/ 摘要 X 字 / 关键词 X 个
+【匿名】已清理 / 待清理 <点>
+【系统】asc.net.cn 在线投稿（仅线上）已确认入口
+【内容复核】落点□ 度量□ 制度□ 识别□ 机制□ 启示□
+【结论】可投 / 待修 <清单>
+```

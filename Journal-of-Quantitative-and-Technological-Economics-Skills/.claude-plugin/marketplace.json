@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "journal-of-quantitative-and-technological-economics-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at 《数量经济技术经济研究》, the Chinese Academy of Social Sciences journal for quantitative & technical economics, where the contribution is usually measurement, method-application, or forecasting rather than clean causal inference.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "journal-of-quantitative-and-technological-economics-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Thirteen-skill bundle covering the 《数量经济技术经济研究》 manuscript lifecycle: workflow router, fit positioning (measurement/forecasting vs causal), topic selection, literature review, productivity/efficiency measurement, time-series & macro-econometric methods, out-of-sample forecasting evaluation, input-output / CGE / structural decomposition, measurement & parameter sensitivity, quantitative tables/figures, planning/forecasting/industry implications, submission preflight, and rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "journal-of-quantitative-technological-economics",
+        "jqte",
+        "cssci",
+        "cass",
+        "quantitative-economics",
+        "technical-economics",
+        "econometrics",
+        "input-output-cge",
+        "forecasting"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/jqte-workflow",
+        "skills/jqte-fit-positioning",
+        "skills/jqte-topic-selection",
+        "skills/jqte-literature-review",
+        "skills/jqte-measurement",
+        "skills/jqte-econometric-methods",
+        "skills/jqte-forecasting",
+        "skills/jqte-io-cge",
+        "skills/jqte-sensitivity",
+        "skills/jqte-tables-figures",
+        "skills/jqte-implications",
+        "skills/jqte-submission",
+        "skills/jqte-rebuttal"
+      ]
+    }
+  ]
+}

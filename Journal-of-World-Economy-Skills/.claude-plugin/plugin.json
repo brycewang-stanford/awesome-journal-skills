@@ -1,0 +1,26 @@
+{
+  "name": "journal-of-world-economy-skills",
+  "description": "Agent skill stack for submitting to 《世界经济》 (The Journal of World Economy) — the China Academy of Social Sciences flagship for international / open-economy economics, run by the Chinese Society of World Economy and the CASS Institute of World Economics and Politics (monthly; ISSN 1002-9621; CN 11-1138/F). Covers open-economy fit positioning, international causal questions, dialogue with international trade / finance classics, customs-micro / cross-country / GVC data, external-shock + shift-share / gravity identification, trade / investment / financial / expectation transmission channels, heterogeneity, tables and figures, opening-up policy implications, submission preflight (页下注 footnotes, www.jweonline.cn), and R&R rebuttals.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+  "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+  "keywords": [
+    "journal-of-world-economy",
+    "shijie-jingji",
+    "cssci",
+    "cass",
+    "iwep",
+    "international-economics",
+    "open-economy",
+    "international-trade",
+    "international-finance",
+    "global-value-chains",
+    "academic-writing",
+    "chinese-journal"
+  ]
+}

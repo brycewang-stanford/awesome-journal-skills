@@ -1,0 +1,60 @@
+---
+name: jwe-data-sources
+description: Use when choosing or defending the data behind a 《世界经济》 (The Journal of World Economy) manuscript — customs micro data (firm-product-destination), cross-country panels, and GVC / input-output decomposition (KWW value-added, ADB / WIOD MRIO). Steers away from generic provincial panels toward internationally-credible sources.
+---
+
+# 国际经济数据来源（jwe-data-sources）
+
+## 触发时机
+
+- 数据只是一般省级 / 上市公司面板，不像国际经济研究
+- 想做贸易 / GVC / 汇率题但不确定用哪套数据
+- 审稿人可能质疑"数据是否匹配开放经济问题"
+
+## 三类主力数据（对口本刊）
+
+### 1. 海关 / 贸易微观（firm-product-destination）
+- 中国海关进出口数据库（企业-HS 产品-目的国-年/月），可分**扩展 vs 集约边际**、单价（质量代理）、加成率
+- 与工业企业库 / 税收库 / 企业信用库匹配（统一社会信用代码 / 名称 + 地址模糊匹配）
+- 用途：贸易战转嫁、出口质量、加价率、贸易边际、进口中间品
+
+### 2. 跨国宏观 / 国别面板
+- 来源：World Bank WDI、IMF IFS / BOP / CDIS、UN Comtrade、CEPII（引力数据、BACI、距离/语言/边界）、Penn World Table
+- 用途：引力模型、跨国增长 / 资本流动 / 汇率、国别异质性
+
+### 3. 全球价值链 / 投入产出
+- **KWW（Koopman-Wang-Wei）增加值贸易分解**：国内增加值、国外增加值、重复计算
+- 多区域投入产出表（MRIO）：**WIOD、ADB MRIO、OECD ICIO、Eora**
+- 用途：GVC 位置 / 上游度、国内增加值率（DVAR）、增加值出口、生产分割
+
+## 匹配与口径要点
+
+- 海关库企业代码逐年变动，**跨年匹配**需谨慎；剔除中间商 / 贸易代理
+- 进出口额币种与汇率口径统一；剔除异常单价
+- GVC 分解须说明用哪张 MRIO、哪一年、行业聚合层次
+- 跨国面板注意样本国构成、缺失值与极端值；引力需对零贸易处理（PPML）
+
+## 自检清单
+
+- [ ] 数据带明确国际属性（贸易 / 跨境 / GVC）
+- [ ] 海关库匹配方法与样本清洗写清
+- [ ] GVC 用了具体分解法（KWW）+ 具体 MRIO（WIOD/ADB/OECD）
+- [ ] 跨国面板交代样本国、年份、缺失处理
+- [ ] 关键变量（暴露度 / 加成率 / DVAR）构造可复现
+
+## 反模式
+
+- 用一般省级面板做"开放经济"题，国际性靠控制变量
+- 说"基于 GVC"却只有叙事、无任何分解
+- 海关库不交代跨年匹配与中间商处理
+- 引力模型用 OLS + log，零贸易直接丢弃（应考虑 PPML）
+
+## 输出格式
+
+```
+【数据类型】海关微观 / 跨国面板 / GVC-MRIO | 一般国内（需升级）
+【匹配/清洗】<方法> | 待补
+【GVC 分解】KWW + WIOD/ADB/OECD | 仅叙事
+【暴露度构造】<进口渗透/出口依赖/GVC联系>
+【下一步】jwe-identification
+```

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "sociological-studies-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at 《社会学研究》, the flagship sociology journal of the Institute of Sociology, Chinese Academy of Social Sciences.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "sociological-studies-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the 《社会学研究》 manuscript lifecycle for both quantitative and qualitative sociology: workflow router, fit positioning, sociological problematic, theory dialogue, quantitative craft (CGSS/CFPS/CLDS), qualitative craft (ethnography/interview/grounded theory), social-process mechanism, concept building, scholarly style, abstract + keywords, submission preflight, and rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "sociological-studies",
+        "cssci",
+        "cass",
+        "sociology",
+        "ethnography",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/socs-workflow",
+        "skills/socs-fit-positioning",
+        "skills/socs-problematic",
+        "skills/socs-theory-dialogue",
+        "skills/socs-quantitative",
+        "skills/socs-qualitative",
+        "skills/socs-mechanism-social-process",
+        "skills/socs-concept-building",
+        "skills/socs-style",
+        "skills/socs-abstract-keywords",
+        "skills/socs-submission",
+        "skills/socs-rebuttal"
+      ]
+    }
+  ]
+}

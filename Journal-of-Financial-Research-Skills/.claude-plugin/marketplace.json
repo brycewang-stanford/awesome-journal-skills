@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "journal-of-financial-research-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at 《金融研究》 (Journal of Financial Research), the China Society for Finance and Banking / PBC-system top finance journal.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "journal-of-financial-research-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the 《金融研究》 manuscript lifecycle: workflow router, macro vs micro fit positioning, topic selection, literature review, financial-system institutional background, policy-shock and high-frequency identification, financial-channel mechanism, heterogeneity, tables and figures, operational policy implications, submission preflight, and rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "journal-of-financial-research",
+        "cssci",
+        "pboc",
+        "monetary-policy",
+        "corporate-finance",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/jfr-workflow",
+        "skills/jfr-fit-positioning",
+        "skills/jfr-topic-selection",
+        "skills/jfr-literature-review",
+        "skills/jfr-institutional-background",
+        "skills/jfr-identification",
+        "skills/jfr-mechanism",
+        "skills/jfr-heterogeneity",
+        "skills/jfr-tables-figures",
+        "skills/jfr-policy-implication",
+        "skills/jfr-submission",
+        "skills/jfr-rebuttal"
+      ]
+    }
+  ]
+}

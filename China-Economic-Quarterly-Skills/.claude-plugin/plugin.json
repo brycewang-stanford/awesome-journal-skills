@@ -1,0 +1,24 @@
+{
+  "name": "china-economic-quarterly-skills",
+  "description": "Agent skill stack for submitting to 《经济学(季刊)》 (China Economic Quarterly, CEQ) — the Peking University / CCER (now NSD) journal closest to international top-field economics standards in China (founded 2001; six issues per year since 2021; ISSN 2095-1086; CN 11-6010/F). Strictest among Chinese economics journals on identification and econometric rigor. Covers fit positioning, internationally-legible topic selection, field-benchmarked literature contribution, structural / quasi-experimental identification, modern staggered-DID compliance (Callaway–Sant'Anna, de Chaisemartin–D'Haultfœuille, Sun–Abraham), inference (clustering, weak-IV-robust, multiple testing), mechanism evidence, figures-over-tables, high-quality English abstract, submission preflight (in-text author-date citations, JEL codes, anonymity, reproducibility), and R&R rebuttals.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+  "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+  "keywords": [
+    "china-economic-quarterly",
+    "jingjixue-jikan",
+    "ceq",
+    "ccer",
+    "nsd-pku",
+    "econometrics",
+    "causal-inference",
+    "difference-in-differences",
+    "academic-writing",
+    "chinese-journal"
+  ]
+}

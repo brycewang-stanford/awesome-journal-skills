@@ -1,0 +1,66 @@
+---
+name: socs-submission
+description: Use for the pre-submission preflight to 《社会学研究》 (Sociological Studies) — checking in-text author-date citation (作者, 年: 页) plus end references (GB/T 7714, A–Z, 中外文分列), explanatory footnotes, abstract/keyword limits, the official online system (the journal's only channel), anonymity, and document hygiene. Verify every rule against the journal's current 投稿指南.
+---
+
+# 投稿前 preflight（socs-submission）
+
+## 触发时机
+
+- 正文、问题意识、机制/概念、文风都定了，准备投稿
+- 需要一份"投出去前最后核对"清单
+
+## 关键事实（详见 resources/journal-profile.md）
+
+- 投稿系统：**官网 https://shxyj.ajcass.com/ 为本刊唯一投稿渠道**（谨防冒名收费网站）
+- **注释体例（区别于《中国社会科学》）**：引文出处用**文中夹注**——引文后括号注明**作者、出版年、页码**；**参考文献**列文末，按作者姓氏字母 **A–Z** 排列，**中外文分列**，遵 **GB/T 7714**；**说明性文字用当页脚注**
+- 中文摘要 ≤ 200 字；关键词 3–5；英文摘要 ≤ 150 词；中英文标题/摘要/关键词齐全
+- 篇幅：学术论文以 **15000–20000 字**为宜
+- 主办：中国社会科学院社会学研究所；双月刊
+
+> 体例与字数以官网**最新《投稿指南》**为准。规则会变，投前务必复核，不要凭记忆。
+
+## 体例 checklist
+
+- [ ] 引文出处统一为**文中夹注**（作者, 出版年: 页码），不是数字尾注
+- [ ] **说明性文字**才用当页脚注（区分出处注与说明注）
+- [ ] 文末**参考文献**按姓氏 A–Z、中外文分列、遵 GB/T 7714
+- [ ] 引文准确、可核查；直接引用标页码
+- [ ] 中英文标题、摘要、关键词齐全且对齐
+- [ ] 摘要 ≤ 200 字、关键词 3–5、英文摘要 ≤ 150 词
+- [ ] 篇幅约 15000–20000 字；图表规范、编号连续、有出处
+- [ ] 作者简介（100 字内）、联系方式按系统要求
+
+## 匿名评审 hygiene
+
+- [ ] 正文/注释/致谢中**去除可识别作者身份**的信息
+- [ ] 自引改第三人称或匿名占位
+- [ ] 文件属性（作者名）已清除
+- [ ] 身份信息只放在系统要求的首页/作者信息处，不混入正文
+
+## 提交前内容复核（调用其它 skill）
+
+- [ ] 社会学问题意识立得住（`socs-problematic`）
+- [ ] 与社会学理论实质对话（`socs-theory-dialogue`）
+- [ ] 系数/材料已翻译成社会过程（`socs-mechanism-social-process`）
+- [ ] 定性稿概念提炼到位（`socs-concept-building`）
+- [ ] 无政策腔/技术腔（`socs-style`）
+
+## 反模式
+
+- 凭记忆套体例，不查最新《投稿指南》
+- 用数字尾注/中括号编号替代文中夹注
+- 把说明性文字与出处注混为一谈
+- 经第三方"代投"或冒名收费网站投稿
+- 忘清匿名信息就投双盲
+
+## 输出格式
+
+```
+【体例】夹注□ 脚注(说明)□ 文末参考(A-Z/中外分列/GB7714)□ 引文□
+【字数】摘要 X 字 / 关键词 X 个 / 英文 X 词 / 全文约 X 字
+【匿名】已清理 / 待清理 <点>
+【系统】shxyj.ajcass.com（唯一渠道）已确认
+【内容复核】问题□ 理论□ 机制□ 概念□ 文风□
+【结论】可投 / 待修 <清单>
+```

@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "nankai-business-review-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at 《南开管理评论》 (Nankai Business Review), the top Chinese business-school journal for theory-building management research grounded in the China context.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "nankai-business-review-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the 《南开管理评论》 manuscript lifecycle: workflow router, fit positioning, theory-gap articulation, mechanism-backed hypothesis development, measurement rigor (reliability / validity / common-method-bias), survey-SEM (mediation / moderation / moderated mediation / HLM), experiments, multi-case / grounded theory, China contextualization, discussion that advances a management theory, submission preflight, and rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "nankai-business-review",
+        "cssci",
+        "management",
+        "organizational-behavior",
+        "strategy",
+        "survey-sem",
+        "theory-building"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/nbr-workflow",
+        "skills/nbr-fit-positioning",
+        "skills/nbr-theory-gap",
+        "skills/nbr-hypothesis-development",
+        "skills/nbr-measurement",
+        "skills/nbr-survey-sem",
+        "skills/nbr-experiment",
+        "skills/nbr-qualitative-case",
+        "skills/nbr-china-context",
+        "skills/nbr-discussion-contribution",
+        "skills/nbr-submission",
+        "skills/nbr-rebuttal"
+      ]
+    }
+  ]
+}

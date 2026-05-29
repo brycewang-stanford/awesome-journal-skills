@@ -1,0 +1,25 @@
+{
+  "name": "nankai-business-review-skills",
+  "description": "Agent skill stack for submitting to 《南开管理评论》 (Nankai Business Review, NBR) — the top Chinese business-school journal sponsored by Nankai University Business School (founded 1998 from 《国际经贸研究》; ISSN 1008-3448; CN 12-1288/F). Built for theory-building management research grounded in the China context: strategy, organizational behavior, HRM, marketing, corporate governance, innovation/entrepreneurship — via survey-SEM (mediation / moderation / moderated mediation / HLM), experiments, or multi-case / grounded-theory methods. Covers fit positioning, theory-gap articulation, mechanism-backed hypothesis development, measurement rigor (reliability, validity, common-method-bias), contextualized theory, discussion that advances a management theory, submission preflight, and R&R rebuttals — NOT econometric-identification advice.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+  "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+  "keywords": [
+    "nankai-business-review",
+    "nankai-guanli-pinglun",
+    "nbr",
+    "cssci",
+    "management",
+    "organizational-behavior",
+    "strategy",
+    "survey-sem",
+    "theory-building",
+    "chinese-journal",
+    "china-context"
+  ]
+}

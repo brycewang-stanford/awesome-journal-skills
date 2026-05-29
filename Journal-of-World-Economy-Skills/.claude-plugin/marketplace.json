@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "journal-of-world-economy-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at 《世界经济》, the international / open-economy flagship of the China Academy of Social Sciences (Chinese Society of World Economy + CASS Institute of World Economics and Politics).",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "journal-of-world-economy-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the 《世界经济》 manuscript lifecycle: workflow router, open-economy fit positioning, international causal topic, international-literature dialogue, customs / cross-country / GVC data sources, external-shock + shift-share / gravity identification, transmission channels, heterogeneity, tables and figures, opening-up policy implications, submission preflight, and rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "journal-of-world-economy",
+        "cssci",
+        "cass",
+        "iwep",
+        "international-economics",
+        "open-economy",
+        "international-trade",
+        "international-finance",
+        "global-value-chains",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/jwe-workflow",
+        "skills/jwe-fit-positioning",
+        "skills/jwe-topic-international",
+        "skills/jwe-literature-review",
+        "skills/jwe-data-sources",
+        "skills/jwe-identification",
+        "skills/jwe-transmission-channel",
+        "skills/jwe-heterogeneity",
+        "skills/jwe-tables-figures",
+        "skills/jwe-policy-implication",
+        "skills/jwe-submission",
+        "skills/jwe-rebuttal"
+      ]
+    }
+  ]
+}
