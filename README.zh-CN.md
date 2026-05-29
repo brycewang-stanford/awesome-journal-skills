@@ -1,4 +1,4 @@
-# Awesome Journal Skills
+# Awesome Journal Skills (AJS)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
