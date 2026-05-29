@@ -32,6 +32,9 @@
 | **《管理世界》**                       | [management-world-skills](https://github.com/brycewang-stanford/management-world-skills)    | 管理学 + 应用经济           | v0.1    |
 | **《经济研究》**                       | [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/Economic-Research-Skills)  | 经济学（中国 CSSCI 顶级）    | v0.1    |
 | **Nature**（学术表达 + 科研绘图）       | [nature-skills](https://github.com/Yuan1z0825/nature-skills) *(第三方收录)*                  | 自然科学（Nature 系）        | upstream |
+| **Nature 风格手稿**（起草 · 修改 · 审计 · 重投） | [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) *(第三方收录)*        | 自然科学（Nature 系）        | upstream |
+| **Claude Scholar**（科研全流程：选题 → 写作 → 发表） | [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) *(第三方收录)*               | 通用（Claude Code / OpenCode / Codex） | upstream |
+| **Codex/Claude 学术 Skills**（阅读 · 写作 · 科学计算） | [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) *(第三方收录)* | 通用（面向中文科研用户）     | upstream |
 
 <p align="center">
   <a href="Economic-Research-Journal-Skills/"><img src="Economic-Research-Journal-Skills/assets/cover.jpg" alt="《经济研究》 期刊封面" width="200"></a>
@@ -57,6 +60,9 @@ awesome-journal-skills/
 ├── Economic-Research-Journal-Skills/   → 普通目录（上游：brycewang-stanford/Economic-Research-Skills）
 ├── management-world-skills/    → submodule: brycewang-stanford/management-world-skills
 ├── nature-skills/              → submodule: Yuan1z0825/nature-skills（第三方收录）
+├── nature-paper-skills/        → submodule: Boom5426/Nature-Paper-Skills（第三方收录）
+├── claude-scholar/             → submodule: Galaxy-Dawn/claude-scholar（第三方收录）
+├── codex-claude-academic-skills/  → submodule: zLanqing/codex-claude-academic-skills（第三方收录）
 └── .github/workflows/sync-submodules.yml
 ```
 
@@ -389,10 +395,23 @@ cp -R Economic-Research-Journal-Skills/skills/er-* ~/.claude/skills/
 - [Awesome-Agent-Skills-for-Empirical-Research](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research) — 精选 23,000+ agent skills，覆盖 8 大社科学科的实证研究（由 CoPaper.AI / Stanford REAP 维护）。
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — 通用的 research → write → review → revise → finalize 科研流水线 skill 包。
 
-通用的科研写作 skill 包（与本索引定位不同）：
+已作为 submodule 收录至本仓库（见上方表格）：
 
-- [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills)
-- [nature-skills](https://github.com/Yuan1z0825/nature-skills) —— 已作为 submodule 收录至 [`nature-skills/`](nature-skills/)。
+- [nature-skills](https://github.com/Yuan1z0825/nature-skills) → [`nature-skills/`](nature-skills/)
+- [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) → [`nature-paper-skills/`](nature-paper-skills/)
+- [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) → [`claude-scholar/`](claude-scholar/)
+- [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) → [`codex-claude-academic-skills/`](codex-claude-academic-skills/)
+
+通用的科研写作 skill 包（定位不同——非特定期刊，仅供参考）：
+
+- [paper-writer-skill](https://github.com/kgraph57/paper-writer-skill) —— 全流程学术论文写作（IMRAD、文献管理、质量清单）。
+- [academic-paper-skills](https://github.com/lishix520/academic-paper-skills) —— strategist（规划）+ composer（写作）双 skill，含质量检查点。
+- [Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) —— ML/CV/NLP 论文写作，源自彭思达老师公开笔记。
+- [academic-writing-agents](https://github.com/andrehuang/academic-writing-agents) —— 多 agent 编排，含审稿/检索/起草/润色等专家 agent。
+- [claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) / [scientific-agent-skills](https://github.com/k-dense-ai/scientific-agent-skills) —— 通用科学写作。
+- [literature-review-skill](https://github.com/YANZHANLIN/literature-review-skill) —— 5 步文献综述流水线（检索/获取/精读/综述/章节）。
+- [agent-research-skills](https://github.com/lingzhi227/agent-research-skills) —— deep-research 系统性文献综述。
+- [qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) —— 沁言学术，177+ skill，覆盖 17 个学科。
 
 ---
 

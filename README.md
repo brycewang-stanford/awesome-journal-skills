@@ -32,6 +32,9 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 | **《管理世界》** (Management World)        | [management-world-skills](https://github.com/brycewang-stanford/management-world-skills)    | Management + applied economics  | v0.1    |
 | **《经济研究》** (Economic Research)        | [Economic-Research-Journal-Skills](https://github.com/brycewang-stanford/Economic-Research-Skills)  | Economics (China-CSSCI top)     | v0.1    |
 | **Nature** (academic writing + scientific figures) | [nature-skills](https://github.com/Yuan1z0825/nature-skills) *(third-party, curated)* | Natural sciences (Nature family) | upstream |
+| **Nature-style manuscripts** (draft · revise · audit · resubmit) | [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) *(third-party, curated)* | Natural sciences (Nature family) | upstream |
+| **Claude Scholar** (full research workflow: ideation → writing → publication) | [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) *(third-party, curated)* | General (Claude Code / OpenCode / Codex) | upstream |
+| **Codex/Claude Academic Skills** (reading · writing · scientific computing) | [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) *(third-party, curated)* | General (Chinese researchers) | upstream |
 
 <p align="center">
   <a href="Economic-Research-Journal-Skills/"><img src="Economic-Research-Journal-Skills/assets/cover.jpg" alt="《经济研究》 journal cover" width="200"></a>
@@ -57,6 +60,9 @@ awesome-journal-skills/
 ├── Economic-Research-Journal-Skills/   → folder (upstream: brycewang-stanford/Economic-Research-Skills)
 ├── management-world-skills/    → submodule of brycewang-stanford/management-world-skills
 ├── nature-skills/              → submodule of Yuan1z0825/nature-skills (third-party)
+├── nature-paper-skills/        → submodule of Boom5426/Nature-Paper-Skills (third-party)
+├── claude-scholar/             → submodule of Galaxy-Dawn/claude-scholar (third-party)
+├── codex-claude-academic-skills/  → submodule of zLanqing/codex-claude-academic-skills (third-party)
 └── .github/workflows/sync-submodules.yml
 ```
 
@@ -390,10 +396,23 @@ Broader-scope agent skill collections (complementary to this journal-specific in
 - [Awesome-Agent-Skills-for-Empirical-Research](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research) — curated 23,000+ agent skills across 8 social-science disciplines (maintained by CoPaper.AI / Stanford REAP).
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — generic research → write → review → revise → finalize skill pipeline for Claude Code.
 
-Generic scientific-writing skill packs (different scope from this index):
+Curated as submodules under this repo (see the table above):
 
-- [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills)
-- [nature-skills](https://github.com/Yuan1z0825/nature-skills) — now curated as a submodule under [`nature-skills/`](nature-skills/).
+- [nature-skills](https://github.com/Yuan1z0825/nature-skills) → [`nature-skills/`](nature-skills/)
+- [Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) → [`nature-paper-skills/`](nature-paper-skills/)
+- [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) → [`claude-scholar/`](claude-scholar/)
+- [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) → [`codex-claude-academic-skills/`](codex-claude-academic-skills/)
+
+Generic scientific-writing skill packs (different scope — not journal-specific, listed for reference):
+
+- [paper-writer-skill](https://github.com/kgraph57/paper-writer-skill) — full-pipeline academic paper writing (IMRAD, literature management, quality checklists).
+- [academic-paper-skills](https://github.com/lishix520/academic-paper-skills) — strategist (planning) + composer (writing) skills with quality checkpoints.
+- [Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) — ML/CV/NLP paper writing, adapted from Prof. Peng Sida's open notes.
+- [academic-writing-agents](https://github.com/andrehuang/academic-writing-agents) — multi-agent orchestrator with specialist agents for review, research, drafting, polishing.
+- [claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) / [scientific-agent-skills](https://github.com/k-dense-ai/scientific-agent-skills) — general-purpose scientific writing.
+- [literature-review-skill](https://github.com/YANZHANLIN/literature-review-skill) — 5-step literature-review pipeline (search/fetch/read/synthesize/chapter).
+- [agent-research-skills](https://github.com/lingzhi227/agent-research-skills) — deep-research systematic literature review.
+- [qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) — 177+ academic skills across 17 disciplines.
 
 ---
 
