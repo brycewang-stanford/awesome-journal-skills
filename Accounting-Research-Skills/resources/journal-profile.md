@@ -15,8 +15,8 @@
 | ISSN | 1003-2886 | 国家哲社文献中心；维普/万方 |
 | CN | 11-1078/F | 国家哲社文献中心；维普/万方 |
 | 出版地 | 北京 | 检索摘要 |
-| 编辑部地址 | 北京市西城区月坛南街 14 号月新大厦六层 | 检索摘要（**待核实**以官网为准） |
-| 编辑部电话 | 010-68528922；68521749 | 检索摘要（**待核实**以官网为准） |
+| 编辑部地址 | 北京市西城区月坛南街 14 号月新大厦 6 层 603 室，100045 | 中国会计学会官网「联系方式」页 asc.net.cn/Address.aspx（2026-05 二次核实） |
+| 编辑部电话 | 010-68528922（亦为传真） | 中国会计学会官网「联系方式」页（2026-05 二次核实）；早期检索另见 68521749，官网联系页未列，谨慎使用 |
 | 投稿系统 | 中国会计学会网站在线投稿系统（入口：www.asc.net.cn《会计研究》投稿指南页 type=tgzn） | asc.net.cn 投稿指南 |
 
 ## 学术地位
@@ -54,6 +54,7 @@
 
 - 中国会计学会《会计研究》期刊简介：https://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=profile
 - 中国会计学会《会计研究》投稿指南：https://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn
+- 中国会计学会官网「联系方式」页（编辑部地址/电话/传真）：https://www.asc.net.cn/Address.aspx
 - 国家哲学社会科学文献中心（会计研究 gch=96456X）：https://www.ncpssd.cn/journal/details?gch=96456X
 - 维普期刊页：https://www.cqvip.com/journal/82859/1031683
 - 万方期刊页：https://sns.wanfangdata.com.cn/perio/kjyj/

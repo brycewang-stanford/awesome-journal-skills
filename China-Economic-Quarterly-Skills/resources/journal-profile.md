@@ -17,9 +17,9 @@
 | CN | 11-6010/F | 百度百科 / 万维书刊 |
 | 投稿/查稿/审稿系统 | https://www.oaj.pku.edu.cn/Journalx_jjx （北大人文社科期刊网 ccj.pku.edu.cn / oaj.pku.edu.cn 入口） | nsd.pku.edu.cn 投稿须知 / ccj.pku.edu.cn |
 | 官方栏目主页 | https://www.nsd.pku.edu.cn/cbw/jjxjk/index.htm | NSD 官网 |
-| 编辑部邮箱 | ceq@nsd.pku.edu.cn；电话 010-62758908 | 网络检索摘要（**以官网为准，待二次核实**） |
+| 编辑部邮箱 / 电话 / 地址 | ceq@nsd.pku.edu.cn；010-62758908；北京市海淀区北京大学中国经济研究中心，100871 | NSD「联系我们」页（lxwm1/250752.htm）+ 多源检索一致（2026-05 二次核实） |
 | 评审制度 | 国际通行的**双向匿名评审**（除主编特邀稿外，主编初审通过后送外审） | nsd.pku.edu.cn 投稿须知 |
-| 投稿语言 | 中文为主；姊妹刊 China Economic Quarterly International（CEQI，2020 年 7 月创办，开放获取）为英文出口 | 万维书刊 / NSD |
+| 投稿语言 | 中文为主；姊妹刊 China Economic Quarterly International（CEQI，英文、开放获取，KeAi 出版，2020 年筹办、2021 年 3 月首期；**Print-ISSN 2666-9331**） | 万维书刊 / NSD / DOAJ（toc/2666-9331）/ KeAi |
 
 ## 栏目设置（官方）
 
@@ -60,5 +60,8 @@
 - 百度百科（创刊年/ISSN/CN/刊期调整）：https://baike.baidu.com/item/经济学（季刊）/7007846
 - 万方数据期刊页：https://c.wanfangdata.com.cn/magazine/jjx
 - 万维书刊 CEQI 国际版页：https://www.eshukan.com/sci/scidisplayj.aspx?jid=46020
+- NSD《经济学（季刊）》联系我们：http://nsd.pku.edu.cn/xzyj/cbw/jjxjk/lxwm1/250752.htm
+- CEQI 国际版 DOAJ（Print-ISSN 2666-9331）：https://doaj.org/toc/2666-9331
+- CEQI 国际版 KeAi 主页：https://www.keaipublishing.com/en/journals/china-economic-quarterly-international/
 
-> 待核实项：编辑部邮箱/电话（建议从官网"联系我们"二次确认）；CEQI 国际版的独立 ISSN。
+> 二次核实（2026-05）：编辑部邮箱 ceq@nsd.pku.edu.cn、电话 010-62758908 已对照 NSD「联系我们」页确认；CEQI 国际版 Print-ISSN 已确认为 2666-9331（DOAJ / KeAi / ScienceDirect）。
