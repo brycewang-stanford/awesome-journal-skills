@@ -1,0 +1,26 @@
+{
+  "name": "asq-skills",
+  "description": "Agent skill stack for manuscripts targeted at Administrative Science Quarterly (ASQ), the top theory-driven journal in organization theory and the sociology of organizations, published by SAGE in association with Cornell's Johnson Graduate School of Management. Covers surprising-insight topic selection, process- and variance-theory development, organization-theory literature positioning, both rigorous qualitative (grounded-theory, ethnographic, historical) and quantitative methods, data-to-theory analysis, theoretical-contribution framing, ASQ house-style tables/figures and prose, ScholarOne submission, the developmental review process, and multi-round R&R rebuttals. Bilingual en / zh-CN docs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/asq-skills",
+  "repository": "https://github.com/brycewang-stanford/asq-skills",
+  "keywords": [
+    "administrative-science-quarterly",
+    "asq",
+    "organization-theory",
+    "sociology-of-organizations",
+    "qualitative-methods",
+    "grounded-theory",
+    "process-theory",
+    "theoretical-contribution",
+    "ethnography",
+    "management-research",
+    "academic-writing",
+    "scholarone"
+  ]
+}

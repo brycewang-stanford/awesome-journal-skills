@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "asq-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at Administrative Science Quarterly (ASQ), the top theory-driven journal in organization theory.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "asq-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Administrative Science Quarterly (ASQ) manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/asq-skills",
+      "repository": "https://github.com/brycewang-stanford/asq-skills",
+      "keywords": [
+        "administrative-science-quarterly",
+        "asq",
+        "organization-theory",
+        "qualitative-methods",
+        "process-theory",
+        "theoretical-contribution",
+        "management-research"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/asq-workflow",
+        "skills/asq-topic-selection",
+        "skills/asq-theory-development",
+        "skills/asq-literature-positioning",
+        "skills/asq-methods",
+        "skills/asq-data-analysis",
+        "skills/asq-contribution-framing",
+        "skills/asq-tables-figures",
+        "skills/asq-writing-style",
+        "skills/asq-submission",
+        "skills/asq-review-process",
+        "skills/asq-rebuttal"
+      ]
+    }
+  ]
+}

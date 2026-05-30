@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "smj-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at the Strategic Management Journal (SMJ), the flagship strategy journal.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "smj-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Strategic Management Journal (SMJ) manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/smj-skills",
+      "repository": "https://github.com/brycewang-stanford/smj-skills",
+      "keywords": [
+        "strategic-management-journal",
+        "smj",
+        "strategy",
+        "competitive-advantage",
+        "endogeneity",
+        "management-research",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/smj-workflow",
+        "skills/smj-topic-selection",
+        "skills/smj-theory-development",
+        "skills/smj-literature-positioning",
+        "skills/smj-methods",
+        "skills/smj-data-analysis",
+        "skills/smj-contribution-framing",
+        "skills/smj-tables-figures",
+        "skills/smj-writing-style",
+        "skills/smj-submission",
+        "skills/smj-review-process",
+        "skills/smj-rebuttal"
+      ]
+    }
+  ]
+}

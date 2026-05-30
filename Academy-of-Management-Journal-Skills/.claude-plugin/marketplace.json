@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "amj-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at the Academy of Management Journal (AMJ), the premier empirical management journal.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "amj-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Academy of Management Journal (AMJ) manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/amj-skills",
+      "repository": "https://github.com/brycewang-stanford/amj-skills",
+      "keywords": [
+        "academy-of-management-journal",
+        "amj",
+        "management-research",
+        "theory-development",
+        "empirical-methods",
+        "theoretical-contribution",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/amj-workflow",
+        "skills/amj-topic-selection",
+        "skills/amj-theory-development",
+        "skills/amj-literature-positioning",
+        "skills/amj-methods",
+        "skills/amj-data-analysis",
+        "skills/amj-contribution-framing",
+        "skills/amj-tables-figures",
+        "skills/amj-writing-style",
+        "skills/amj-submission",
+        "skills/amj-review-process",
+        "skills/amj-rebuttal"
+      ]
+    }
+  ]
+}

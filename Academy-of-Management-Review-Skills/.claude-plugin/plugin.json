@@ -1,0 +1,26 @@
+{
+  "name": "amr-skills",
+  "description": "Agent skill stack for building new management theory and submitting to the Academy of Management Review (AMR), the premier theory journal of the Academy of Management. AMR publishes NO empirical data — only conceptual articles that construct new theory. Covers theoretical puzzle framing, construct definition, proposition logic, contribution differentiation, conceptual figures, AOM house style, ScholarOne submission, and developmental review revision.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/amr-skills",
+  "repository": "https://github.com/brycewang-stanford/amr-skills",
+  "keywords": [
+    "academy-of-management-review",
+    "amr",
+    "management-theory",
+    "theory-building",
+    "conceptual-article",
+    "propositions",
+    "boundary-conditions",
+    "constructs",
+    "scholarone",
+    "academy-of-management",
+    "academic-writing",
+    "developmental-review"
+  ]
+}

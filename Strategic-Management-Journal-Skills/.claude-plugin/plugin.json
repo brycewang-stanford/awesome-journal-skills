@@ -1,0 +1,26 @@
+{
+  "name": "smj-skills",
+  "description": "Agent skill stack for submitting to the Strategic Management Journal (SMJ), the flagship strategy journal published by Wiley for the Strategic Management Society. Covers strategy-grounded topic selection, theory development, literature positioning, research design, endogeneity-aware data analysis (panel FE, IV, Heckman, DID/natural experiments, matching), contribution framing, exhibits, house style, ScholarOne submission, multi-round review, and rebuttals. English docs with bilingual README; verify volatile journal specifics on the official page.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/smj-skills",
+  "repository": "https://github.com/brycewang-stanford/smj-skills",
+  "keywords": [
+    "strategic-management-journal",
+    "smj",
+    "strategy",
+    "competitive-advantage",
+    "management-research",
+    "endogeneity",
+    "causal-identification",
+    "panel-data",
+    "instrumental-variables",
+    "theory-development",
+    "academic-writing",
+    "scholarone"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "amr-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for theory-building manuscripts targeted at the Academy of Management Review (AMR).",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "amr-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Academy of Management Review (AMR) manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/amr-skills",
+      "repository": "https://github.com/brycewang-stanford/amr-skills",
+      "keywords": [
+        "academy-of-management-review",
+        "amr",
+        "management-theory",
+        "theory-building",
+        "propositions",
+        "scholarone",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/amr-workflow",
+        "skills/amr-topic-selection",
+        "skills/amr-theory-development",
+        "skills/amr-literature-positioning",
+        "skills/amr-methods",
+        "skills/amr-data-analysis",
+        "skills/amr-contribution-framing",
+        "skills/amr-tables-figures",
+        "skills/amr-writing-style",
+        "skills/amr-submission",
+        "skills/amr-review-process",
+        "skills/amr-rebuttal"
+      ]
+    }
+  ]
+}

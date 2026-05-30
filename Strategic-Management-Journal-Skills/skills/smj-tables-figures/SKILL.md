@@ -1,0 +1,73 @@
+---
+name: smj-tables-figures
+description: Use when building or cleaning up the tables and figures of a Strategic Management Journal (SMJ) manuscript. Makes exhibits self-contained and persuasive; it does not run the analysis or write prose.
+---
+
+# Tables & Figures (smj-tables-figures)
+
+## When to trigger
+
+- You have many tables and are unsure which earn their place in the main text
+- Tables are not self-contained (a reader cannot read them without the prose)
+- You report coefficients but have no figure showing the effect or mechanism
+- Descriptive statistics, correlations, and regressions are disorganized or inconsistent
+
+## Standard SMJ exhibit set
+
+A typical empirical SMJ paper carries a compact, predictable set of exhibits:
+
+1. **Descriptive statistics + correlation matrix** (one table). Flag high correlations and multicollinearity concerns here.
+2. **Main results table.** Hierarchical/nested models: controls-only column, then add focal X, then moderators/mechanism. Each column builds.
+3. **Identification / endogeneity table.** First stage + IV, DID estimates, matching balance, or selection model — the evidence that defeats the threat.
+4. **Robustness table(s).** Alternative DVs, samples, estimators.
+5. **Figure(s):** marginal-effects / interaction plot, event-study plot for DID, or a mechanism/path diagram.
+
+Move secondary tables to an online appendix/supplement rather than crowding the main text.
+
+## Table craft
+
+- **Self-contained:** title states what the table shows; notes define every variable, the estimator, the sample, the unit, what stars mean, and what is in parentheses (SE vs. t). A reader should not need the prose.
+- **Report standard errors** (in parentheses) and state the clustering level in the note; do not report bare stars.
+- **Interaction interpretation:** never interpret an interaction from the coefficient alone — accompany it with a marginal-effects plot or computed effects at meaningful values of the moderator.
+- **Consistency:** identical variable names, decimal places, and ordering across tables. Sample N should reconcile across tables (explain any drop).
+- **Three-line / clean style:** no vertical rules, minimal horizontal rules; align decimals.
+
+## Figure craft
+
+- A **marginal-effects plot** communicates a moderation hypothesis far better than a triple-interaction coefficient.
+- For DID, an **event-study figure** (pre-trends flat, effect emerging post-treatment) is often the single most persuasive exhibit.
+- A **mechanism/path figure** can summarize the theorized model; keep it conceptual, not decorative.
+- Greyscale-legible (SMJ is widely printed/read in B&W); label axes and units; no chartjunk.
+
+## Checklist
+
+- [ ] Each main-text table is self-contained (title + complete notes)
+- [ ] Standard errors shown; clustering level stated in the note
+- [ ] Main results presented as nested/hierarchical columns that build
+- [ ] An identification/endogeneity exhibit is present and prominent
+- [ ] Interactions are visualized (marginal-effects plot), not read off coefficients
+- [ ] Variable names, decimals, ordering consistent across all exhibits; N reconciles
+- [ ] Secondary tables moved to the appendix/supplement
+- [ ] Figures are greyscale-legible with labeled axes
+
+## Anti-patterns
+
+- A table that cannot be read without the surrounding text
+- Reporting only significance stars with no standard errors or clustering note
+- Interpreting an interaction term's sign without a marginal-effects plot
+- Eight near-identical robustness tables in the main text
+- Inconsistent N or variable naming across tables
+- A color-only figure that becomes unreadable in print
+- DID with no event-study/pre-trends figure
+
+## Output format
+
+```
+【Main-text exhibits】[descriptives, main results, identification, robustness, figure(s)]
+【Self-contained?】yes / fix: [...]
+【SE + clustering noted】yes / fix
+【Interaction visualized】yes / needs marginal-effects plot
+【Event-study figure (if DID)】present / missing
+【Appendix moves】[tables relocated]
+【Next step】smj-writing-style
+```
