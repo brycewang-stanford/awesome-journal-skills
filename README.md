@@ -24,12 +24,12 @@ English | [简体中文](README.zh-CN.md)
   <a href="Journal-of-Management-World-Skills/"><img src="assets/covers/management-world.png" alt="《管理世界》 Management World" width="160"></a>
   <a href="Social-Sciences-in-China-Skills/"><img src="assets/covers/social-sciences-in-china.png" alt="《中国社会科学》 Social Sciences in China" width="160"></a>
   <a href="China-Industrial-Economics-Skills/"><img src="assets/covers/china-industrial-economics.png" alt="《中国工业经济》 China Industrial Economics" width="160"></a>
-  <a href="Journal-of-World-Economy-Skills/"><img src="assets/covers/world-economy.png" alt="《世界经济》 The Journal of World Economy" width="160"></a>
+  <a href="Journal-of-World-Economy-Skills/"><img src="assets/covers/journal-of-world-economy.png" alt="《世界经济》 The Journal of World Economy" width="160"></a>
   <a href="China-Economic-Quarterly-Skills/"><img src="assets/covers/china-economic-quarterly.png" alt="《经济学(季刊)》 China Economic Quarterly" width="160"></a>
-  <a href="Journal-of-Quantitative-and-Technological-Economics-Skills/"><img src="assets/covers/quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="160"></a>
+  <a href="Journal-of-Quantitative-and-Technological-Economics-Skills/"><img src="assets/covers/journal-of-quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="160"></a>
   <a href="Accounting-Research-Skills/"><img src="assets/covers/accounting-research.png" alt="《会计研究》 Accounting Research" width="160"></a>
   <a href="Journal-of-Financial-Research-Skills/"><img src="assets/covers/journal-of-financial-research.png" alt="《金融研究》 Journal of Financial Research" width="160"></a>
-  <a href="Journal-of-Management-Sciences-in-China-Skills/"><img src="assets/covers/management-sciences-in-china.png" alt="《管理科学学报》 J. of Management Sciences in China" width="160"></a>
+  <a href="Journal-of-Management-Sciences-in-China-Skills/"><img src="assets/covers/journal-of-management-sciences-china.png" alt="《管理科学学报》 J. of Management Sciences in China" width="160"></a>
   <a href="Nankai-Business-Review-Skills/"><img src="assets/covers/nankai-business-review.png" alt="《南开管理评论》 Nankai Business Review" width="160"></a>
   <a href="Sociological-Studies-Skills/"><img src="assets/covers/sociological-studies.png" alt="《社会学研究》 Sociological Studies" width="160"></a>
   <a href="https://github.com/brycewang-stanford/AER-skills"><img src="assets/covers/aer.png" alt="American Economic Review" width="160"></a>
@@ -179,12 +179,12 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 | <a href="Journal-of-Management-World-Skills/"><img src="assets/covers/management-world.png" alt="《管理世界》" width="56"></a> | **《管理世界》** Management World | [Journal-of-Management-World-Skills/](Journal-of-Management-World-Skills/) | Management + applied economics | 11 |
 | <a href="Social-Sciences-in-China-Skills/"><img src="assets/covers/social-sciences-in-china.png" alt="《中国社会科学》" width="56"></a> | **《中国社会科学》** Social Sciences in China | [Social-Sciences-in-China-Skills/](Social-Sciences-in-China-Skills/) | General social science | 11 |
 | <a href="China-Industrial-Economics-Skills/"><img src="assets/covers/china-industrial-economics.png" alt="《中国工业经济》" width="56"></a> | **《中国工业经济》** China Industrial Economics | [China-Industrial-Economics-Skills/](China-Industrial-Economics-Skills/) | Industrial economics | 13 |
-| <a href="Journal-of-Quantitative-and-Technological-Economics-Skills/"><img src="assets/covers/quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="56"></a> | **《数量经济技术经济研究》** Quantitative & Technological Economics | [Journal-of-Quantitative-and-Technological-Economics-Skills/](Journal-of-Quantitative-and-Technological-Economics-Skills/) | Quantitative economics | 13 |
+| <a href="Journal-of-Quantitative-and-Technological-Economics-Skills/"><img src="assets/covers/journal-of-quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="56"></a> | **《数量经济技术经济研究》** Quantitative & Technological Economics | [Journal-of-Quantitative-and-Technological-Economics-Skills/](Journal-of-Quantitative-and-Technological-Economics-Skills/) | Quantitative economics | 13 |
 | <a href="Accounting-Research-Skills/"><img src="assets/covers/accounting-research.png" alt="《会计研究》" width="56"></a> | **《会计研究》** Accounting Research | [Accounting-Research-Skills/](Accounting-Research-Skills/) | Accounting | 13 |
 | <a href="China-Economic-Quarterly-Skills/"><img src="assets/covers/china-economic-quarterly.png" alt="《经济学(季刊)》" width="56"></a> | **《经济学(季刊)》** China Economic Quarterly | [China-Economic-Quarterly-Skills/](China-Economic-Quarterly-Skills/) | Economics | 12 |
 | <a href="Journal-of-Financial-Research-Skills/"><img src="assets/covers/journal-of-financial-research.png" alt="《金融研究》" width="56"></a> | **《金融研究》** Journal of Financial Research | [Journal-of-Financial-Research-Skills/](Journal-of-Financial-Research-Skills/) | Finance | 12 |
-| <a href="Journal-of-World-Economy-Skills/"><img src="assets/covers/world-economy.png" alt="《世界经济》" width="56"></a> | **《世界经济》** The Journal of World Economy | [Journal-of-World-Economy-Skills/](Journal-of-World-Economy-Skills/) | International economics | 12 |
-| <a href="Journal-of-Management-Sciences-in-China-Skills/"><img src="assets/covers/management-sciences-in-china.png" alt="《管理科学学报》" width="56"></a> | **《管理科学学报》** J. of Management Sciences in China | [Journal-of-Management-Sciences-in-China-Skills/](Journal-of-Management-Sciences-in-China-Skills/) | Management science | 12 |
+| <a href="Journal-of-World-Economy-Skills/"><img src="assets/covers/journal-of-world-economy.png" alt="《世界经济》" width="56"></a> | **《世界经济》** The Journal of World Economy | [Journal-of-World-Economy-Skills/](Journal-of-World-Economy-Skills/) | International economics | 12 |
+| <a href="Journal-of-Management-Sciences-in-China-Skills/"><img src="assets/covers/journal-of-management-sciences-china.png" alt="《管理科学学报》" width="56"></a> | **《管理科学学报》** J. of Management Sciences in China | [Journal-of-Management-Sciences-in-China-Skills/](Journal-of-Management-Sciences-in-China-Skills/) | Management science | 12 |
 | <a href="Nankai-Business-Review-Skills/"><img src="assets/covers/nankai-business-review.png" alt="《南开管理评论》" width="56"></a> | **《南开管理评论》** Nankai Business Review | [Nankai-Business-Review-Skills/](Nankai-Business-Review-Skills/) | Management | 12 |
 | <a href="Sociological-Studies-Skills/"><img src="assets/covers/sociological-studies.png" alt="《社会学研究》" width="56"></a> | **《社会学研究》** Sociological Studies | [Sociological-Studies-Skills/](Sociological-Studies-Skills/) | Sociology | 12 |
 
@@ -201,7 +201,7 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 <p align="center">
   <a href="Chinese-SocialScience-Journal-Skills/skills/economic-research/"><img src="assets/covers/economic-research.png" alt="《经济研究》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/china-industrial-economics/"><img src="assets/covers/china-industrial-economics.png" alt="《中国工业经济》" width="100"></a>
-  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-world-economy/"><img src="assets/covers/world-economy.png" alt="《世界经济》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-world-economy/"><img src="assets/covers/journal-of-world-economy.png" alt="《世界经济》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/china-economic-quarterly/"><img src="assets/covers/china-economic-quarterly.png" alt="《经济学(季刊)》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/asia-pacific-economic-review/"><img src="assets/covers/asia-pacific-economic-review.png" alt="《亚太经济》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/china-economic-studies/"><img src="assets/covers/china-economic-studies.png" alt="《中国经济问题》" width="100"></a>
@@ -262,7 +262,7 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
   <a href="Chinese-SocialScience-Journal-Skills/skills/studies-of-international-finance/"><img src="assets/covers/studies-of-international-finance.png" alt="《国际金融研究》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/management-world/"><img src="assets/covers/management-world.png" alt="《管理世界》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/nankai-business-review/"><img src="assets/covers/nankai-business-review.png" alt="《南开管理评论》" width="100"></a>
-  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-management-sciences-china/"><img src="assets/covers/management-sciences-in-china.png" alt="《管理科学学报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-management-sciences-china/"><img src="assets/covers/journal-of-management-sciences-china.png" alt="《管理科学学报》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/business-management-journal/"><img src="assets/covers/business-management-journal.png" alt="《经济管理》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/chinese-journal-of-management/"><img src="assets/covers/chinese-journal-of-management.png" alt="《管理学报》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/chinese-journal-of-management-science/"><img src="assets/covers/chinese-journal-of-management-science.png" alt="《中国管理科学》" width="100"></a>
@@ -279,7 +279,7 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
   <a href="Chinese-SocialScience-Journal-Skills/skills/auditing-research/"><img src="assets/covers/auditing-research.png" alt="《审计研究》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/china-accounting-review/"><img src="assets/covers/china-accounting-review.png" alt="《会计评论》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/tax-research/"><img src="assets/covers/tax-research.png" alt="《税务研究》" width="100"></a>
-  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-quantitative-technological-economics/"><img src="assets/covers/quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-quantitative-technological-economics/"><img src="assets/covers/journal-of-quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/bulletin-of-chinese-academy-of-sciences/"><img src="assets/covers/bulletin-of-chinese-academy-of-sciences.png" alt="《中国科学院院刊》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/china-soft-science/"><img src="assets/covers/china-soft-science.png" alt="《中国软科学》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/forum-on-science-and-technology-in-china/"><img src="assets/covers/forum-on-science-and-technology-in-china.png" alt="《中国科技论坛》" width="100"></a>

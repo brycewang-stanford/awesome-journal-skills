@@ -534,9 +534,6 @@ def read_name(bundle_dir, slug):
 
 # slug alias: a few existing covers use a shorter slug than the skill folder.
 COVER_ALIAS = {
-    "journal-of-quantitative-technological-economics": "quantitative-technological-economics",
-    "journal-of-world-economy": "world-economy",
-    "journal-of-management-sciences-china": "management-sciences-in-china",
     "the-lancet": "lancet",
     "nejm": "nejm", "pnas": "pnas",
 }
