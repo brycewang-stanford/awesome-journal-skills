@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "restud-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at The Review of Economic Studies (REStud), a top-5 economics journal.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "restud-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the The Review of Economic Studies (REStud) manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/restud-skills",
+      "repository": "https://github.com/brycewang-stanford/restud-skills",
+      "keywords": [
+        "review-of-economic-studies",
+        "restud",
+        "top-5-economics",
+        "economic-theory",
+        "causal-inference",
+        "replication-package",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/restud-workflow",
+        "skills/restud-topic-selection",
+        "skills/restud-literature-positioning",
+        "skills/restud-identification",
+        "skills/restud-theory-model",
+        "skills/restud-robustness",
+        "skills/restud-tables-figures",
+        "skills/restud-writing-style",
+        "skills/restud-replication-package",
+        "skills/restud-referee-strategy",
+        "skills/restud-submission",
+        "skills/restud-rebuttal"
+      ]
+    }
+  ]
+}

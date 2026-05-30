@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "jpe-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at the Journal of Political Economy (JPE), a University of Chicago Press top-five economics journal.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "jpe-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Journal of Political Economy (JPE) manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/jpe-skills",
+      "repository": "https://github.com/brycewang-stanford/jpe-skills",
+      "keywords": [
+        "journal-of-political-economy",
+        "jpe",
+        "price-theory",
+        "economics",
+        "structural-estimation",
+        "causal-inference",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/jpe-workflow",
+        "skills/jpe-topic-selection",
+        "skills/jpe-literature-positioning",
+        "skills/jpe-identification",
+        "skills/jpe-theory-model",
+        "skills/jpe-robustness",
+        "skills/jpe-tables-figures",
+        "skills/jpe-writing-style",
+        "skills/jpe-replication-package",
+        "skills/jpe-referee-strategy",
+        "skills/jpe-submission",
+        "skills/jpe-rebuttal"
+      ]
+    }
+  ]
+}

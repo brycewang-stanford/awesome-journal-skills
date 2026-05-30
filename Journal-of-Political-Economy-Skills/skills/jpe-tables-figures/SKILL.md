@@ -1,0 +1,65 @@
+---
+name: jpe-tables-figures
+description: Use when finalizing the main exhibits (tables and figures) of a Journal of Political Economy (JPE) manuscript so each one carries economic content and is self-contained. Sets exhibit design and notes standards; it does not decide which results to report (see jpe-robustness).
+---
+
+# Tables & Figures (jpe-tables-figures)
+
+## When to trigger
+
+- Tables are overloaded with columns; the reader cannot find the economic point
+- Figures are decorative rather than carrying the argument
+- Notes are thin — a reader cannot reconstruct units, sample, or specification from the exhibit alone
+- You are deciding what belongs in the main text vs. the online appendix
+
+## The JPE exhibit philosophy
+
+A JPE table or figure should be **self-contained and economically legible**: a referee skimming exhibits should grasp the result, the magnitude, and what it means. JPE favors clean, professional exhibits in the University of Chicago Press style — no chartjunk, no gratuitous color, units and economic magnitudes front and center. The headline result usually deserves a *figure* (an event-study plot, a fit-of-model plot, a counterfactual) because magnitudes and dynamics read faster than a coefficient.
+
+### Tables
+- Report **economic magnitudes**, not just stars: effect relative to the mean, an elasticity, a standardized effect, or a dollar/welfare figure.
+- One table = one idea. Main results table should fit on a page and be readable without the text.
+- Columns build an argument (baseline → +controls → preferred → alternative design), not an undifferentiated grid.
+- Standard errors in parentheses; state the clustering level in the note. Prefer reporting CIs or exact SEs over star-only inference.
+- Self-contained note: sample, period, unit of observation, dependent-variable definition, specification, SE structure, and what each column adds.
+
+### Figures
+- Use a figure to carry the main result when dynamics/magnitudes matter (event studies, dose-response, model fit, counterfactual paths).
+- Plot confidence bands, not just point estimates. Label axes with units and economic meaning.
+- Grayscale-safe and legible in print; no 3-D effects, no unnecessary gridlines.
+- Each figure's caption states what the reader should conclude economically.
+
+### Main text vs. online appendix
+- Main text: the identifying result, the mechanism evidence, the key magnitude, the headline counterfactual — typically a small number of exhibits.
+- Online appendix: the full robustness battery, descriptive tables, secondary heterogeneity, and supporting derivations.
+
+## Checklist
+
+- [ ] Headline result expressed as an economic magnitude (relative to mean / elasticity / welfare), not stars alone
+- [ ] Main results readable without the surrounding text
+- [ ] Every table note states sample, period, unit, DV definition, spec, and clustering level
+- [ ] Columns/panels build an argument rather than dumping specifications
+- [ ] At least one figure carries the main result with confidence bands
+- [ ] Figures legible in grayscale; axes labeled with units and meaning
+- [ ] Heavy robustness/descriptive material moved to the online appendix
+- [ ] Exhibit numbering matches in-text references exactly
+
+## Anti-patterns
+
+- Star-only tables with no economic magnitude — a referee cannot tell if the effect matters
+- A 12-column main table that no one can parse
+- Figures with no confidence bands, or with chartjunk / 3-D / rainbow palettes
+- Notes too thin to reconstruct the specification
+- Reporting R² and stars but never the units of the dependent variable
+- Putting the full robustness battery in the main text and crowding out the economic story
+
+## Output format
+
+```
+【Main exhibits】tables: N, figures: N
+【Magnitude reported】mean-relative / elasticity / welfare / standardized
+【Headline figure】what it shows + has CIs? [y/n]
+【Notes complete】sample/period/unit/DV/spec/clustering present? [y/n]
+【Main vs. appendix split】...
+【Next】jpe-writing-style
+```

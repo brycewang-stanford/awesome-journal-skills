@@ -1,0 +1,26 @@
+{
+  "name": "qje-skills",
+  "description": "Agent skill stack for manuscripts targeted at the Quarterly Journal of Economics (QJE), one of the top-5 economics journals. Covers big-question topic selection, literature positioning, credible causal identification (RCT / staggered DID / IV / RDD), theory-model framing, extensive robustness and online appendices, figure-forward exhibits, QJE house style, replication packages, referee strategy, Editorial Express submission, and R&R rebuttals. Bilingual en / zh-CN docs; Stata / R / Python conventions.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/qje-skills",
+  "repository": "https://github.com/brycewang-stanford/qje-skills",
+  "keywords": [
+    "quarterly-journal-of-economics",
+    "qje",
+    "top-5-economics",
+    "empirical-microeconomics",
+    "causal-inference",
+    "difference-in-differences",
+    "instrumental-variables",
+    "regression-discontinuity",
+    "randomized-controlled-trial",
+    "replication-package",
+    "academic-writing",
+    "editorial-express"
+  ]
+}

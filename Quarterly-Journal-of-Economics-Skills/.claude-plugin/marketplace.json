@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "qje-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at the Quarterly Journal of Economics (QJE), a top-5 economics journal.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "qje-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Quarterly Journal of Economics (QJE) manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/qje-skills",
+      "repository": "https://github.com/brycewang-stanford/qje-skills",
+      "keywords": [
+        "quarterly-journal-of-economics",
+        "qje",
+        "top-5-economics",
+        "empirical-microeconomics",
+        "causal-inference",
+        "replication-package",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/qje-workflow",
+        "skills/qje-topic-selection",
+        "skills/qje-literature-positioning",
+        "skills/qje-identification",
+        "skills/qje-theory-model",
+        "skills/qje-robustness",
+        "skills/qje-tables-figures",
+        "skills/qje-writing-style",
+        "skills/qje-replication-package",
+        "skills/qje-referee-strategy",
+        "skills/qje-submission",
+        "skills/qje-rebuttal"
+      ]
+    }
+  ]
+}

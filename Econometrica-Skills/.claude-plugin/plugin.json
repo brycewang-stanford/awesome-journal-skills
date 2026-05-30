@@ -1,0 +1,26 @@
+{
+  "name": "econometrica-skills",
+  "description": "Agent skill stack for submitting to Econometrica, the journal of the Econometric Society and the field's flagship for economic theory, game theory, decision theory, and econometric methods. Covers theorem-driven topic selection, methods-literature positioning, identification and asymptotic theory (or axioms and existence/uniqueness), proof-strategy and generality, Monte Carlo and finite-sample evidence, simulation exhibits, terse formal house style, replication under the Data and Code Availability Policy, referee and co-editor strategy, Editorial Express submission, and multi-round rebuttals.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/econometrica-skills",
+  "repository": "https://github.com/brycewang-stanford/econometrica-skills",
+  "keywords": [
+    "econometrica",
+    "econometric-society",
+    "econometric-theory",
+    "microeconomic-theory",
+    "game-theory",
+    "decision-theory",
+    "asymptotic-theory",
+    "identification",
+    "monte-carlo",
+    "mathematical-proofs",
+    "structural-estimation",
+    "academic-writing"
+  ]
+}

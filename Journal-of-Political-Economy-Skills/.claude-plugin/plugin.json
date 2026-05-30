@@ -1,0 +1,26 @@
+{
+  "name": "jpe-skills",
+  "description": "Agent skill stack for submitting to the Journal of Political Economy (JPE), a University of Chicago Press top-five economics journal rooted in the Chicago price-theory tradition. Covers mechanism-driven topic selection, literature positioning, credible causal identification, structural and price-theoretic modeling, robustness, exhibits, JPE house style, AEA-standard replication packages, referee strategy, submission preflight, and R&R rebuttals. Bilingual en / zh-CN docs; Stata / R / Python templates.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/jpe-skills",
+  "repository": "https://github.com/brycewang-stanford/jpe-skills",
+  "keywords": [
+    "journal-of-political-economy",
+    "jpe",
+    "university-of-chicago-press",
+    "price-theory",
+    "economics",
+    "structural-estimation",
+    "causal-inference",
+    "economic-mechanism",
+    "general-equilibrium",
+    "replication-package",
+    "academic-writing",
+    "top-five-economics"
+  ]
+}

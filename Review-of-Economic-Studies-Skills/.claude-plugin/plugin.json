@@ -1,0 +1,26 @@
+{
+  "name": "restud-skills",
+  "description": "Agent skill stack for manuscripts targeted at The Review of Economic Studies (REStud), one of the top-5 economics journals. Covers original-contribution topic selection, literature positioning, state-of-the-art causal identification (RCT / modern staggered DID / defended IV / RDD), rigorous theory-model development with online-appendix proofs, demanding robustness, clean exhibits, REStud house style, replication packages, referee strategy, Editorial Express submission, and multi-round R&R rebuttals. Bilingual en / zh-CN docs; Stata / R / Python conventions.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/restud-skills",
+  "repository": "https://github.com/brycewang-stanford/restud-skills",
+  "keywords": [
+    "review-of-economic-studies",
+    "restud",
+    "top-5-economics",
+    "economic-theory",
+    "applied-economics",
+    "causal-inference",
+    "difference-in-differences",
+    "instrumental-variables",
+    "regression-discontinuity",
+    "structural-estimation",
+    "replication-package",
+    "academic-writing"
+  ]
+}

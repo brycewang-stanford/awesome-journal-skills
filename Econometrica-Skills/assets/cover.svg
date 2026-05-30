@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="300" viewBox="0 0 220 300" role="img" aria-label="Econometrica journal cover">
+  <rect width="220" height="300" fill="#1b2a4a"/>
+  <rect x="10" y="10" width="200" height="280" fill="none" stroke="#c9a227" stroke-width="2"/>
+  <text x="110" y="120" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="bold" text-anchor="middle">ECONOMETRICA</text>
+  <line x1="40" y1="140" x2="180" y2="140" stroke="#c9a227" stroke-width="1.5"/>
+  <text x="110" y="170" fill="#dfe6f0" font-family="Georgia, 'Times New Roman', serif" font-size="12" text-anchor="middle">Journal of the</text>
+  <text x="110" y="188" fill="#dfe6f0" font-family="Georgia, 'Times New Roman', serif" font-size="12" text-anchor="middle">Econometric Society</text>
+  <text x="110" y="245" fill="#9fb0c8" font-family="Georgia, 'Times New Roman', serif" font-size="10" text-anchor="middle">Theoretical and empirical economics</text>
+</svg>
