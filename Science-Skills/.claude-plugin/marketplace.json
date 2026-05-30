@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "science-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at Science (AAAS), the flagship multidisciplinary journal.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "science-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Science manuscript lifecycle: workflow router, scope/significance fit, advance framing, abstract + one-sentence summary, main-text writing, display items, statistics & reproducibility, data/materials/code availability, reference style, cover letter, submission preflight, and reviewer rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "science",
+        "aaas",
+        "natural-sciences",
+        "multidisciplinary",
+        "reproducibility",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/sci-workflow",
+        "skills/sci-fit",
+        "skills/sci-framing",
+        "skills/sci-abstract",
+        "skills/sci-writing",
+        "skills/sci-figures",
+        "skills/sci-statistics",
+        "skills/sci-data",
+        "skills/sci-citation",
+        "skills/sci-cover-letter",
+        "skills/sci-submission",
+        "skills/sci-rebuttal"
+      ]
+    }
+  ]
+}

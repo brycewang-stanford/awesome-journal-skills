@@ -3,20 +3,20 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/agent-Claude%20Code-cc785c)](https://github.com/anthropics/claude-code)
-[![Skills](https://img.shields.io/badge/skills-353-cc785c)](#the-skill-packs)
+[![Skills](https://img.shields.io/badge/skills-413-cc785c)](#the-skill-packs)
 
 English | [简体中文](README.zh-CN.md)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Skills-353-cc785c?style=for-the-badge" alt="353 agent skills">
+  <img src="https://img.shields.io/badge/Skills-413-cc785c?style=for-the-badge" alt="413 agent skills">
   &nbsp;
-  <img src="https://img.shields.io/badge/Skill_Packs-18-2b3137?style=for-the-badge" alt="18 skill packs">
+  <img src="https://img.shields.io/badge/Skill_Packs-23-2b3137?style=for-the-badge" alt="23 skill packs">
 </p>
 <p align="center">
-  <sub><b>353 agent skills</b> across <b>18 curated packs</b> — one index.</sub>
+  <sub><b>413 agent skills</b> across <b>23 curated packs</b> — one index.</sub>
 </p>
 
-A curated index of **journal-specific agent skill packs** for social-science manuscript work — selecting topics, identifying causal effects, writing introductions, formatting tables, preparing replication packages, and responding to reviewers.
+A curated index of **journal-specific agent skill packs** for manuscript work — selecting topics, framing the advance, identifying causal effects, formatting tables and figures, preparing replication / data-availability packages, and responding to reviewers. Coverage spans **top social-science journals (Chinese + English)** and **top natural-science and clinical journals (Science, Cell, PNAS, NEJM, The Lancet)**.
 
 Each pack is **journal-specific by design**: it encodes the editorial preferences, formatting conventions, identification standards, and review culture of a single target venue. Generic "scientific writing" skill packs miss these constraints.
 
@@ -36,7 +36,7 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 
 ## The Skill Packs
 
-> **Scope.** This index targets **top social-science journals (Chinese + English)** plus **top English journals in other disciplines**. Each flagship venue ships as a **depth pack** (full ~12-step per-journal workflow); the [Chinese-SocialScience-Journal-Skills](Chinese-SocialScience-Journal-Skills/) **breadth bundle** adds one router skill for each of ~100 China econ/management roadmap journals. The 12 flagship Chinese venues are intentionally covered both ways.
+> **Scope.** This index targets **top social-science journals (Chinese + English)** and **top natural-science and clinical journals (English)**. Each flagship venue ships as a **depth pack** (full 12-step per-journal workflow); the [Chinese-SocialScience-Journal-Skills](Chinese-SocialScience-Journal-Skills/) **breadth bundle** adds one router skill for each of ~100 China econ/management roadmap journals. The 12 flagship Chinese venues are intentionally covered both ways. Natural sciences now ship as **first-party depth packs** (Science, Cell, PNAS, NEJM, The Lancet) alongside the curated third-party Nature packs.
 
 ### Social science · Chinese top journals — depth packs
 
@@ -67,7 +67,19 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 |-------|------|------------|-------:|
 | **American Economic Review** + AER:Insights + AEJ family | [AER-skills](https://github.com/brycewang-stanford/AER-skills) | Economics (top-5) | 9 |
 
-### Other disciplines · English top journals — third-party, curated
+### Natural sciences · English top journals — depth packs
+
+| Venue | Pack | Discipline | Skills |
+|-------|------|------------|-------:|
+| **Science** (AAAS) | [Science-Skills/](Science-Skills/) | Multidisciplinary (natural sciences) | 12 |
+| **Cell** (Cell Press) | [Cell-Skills/](Cell-Skills/) | Life sciences / molecular biology | 12 |
+| **PNAS** | [PNAS-Skills/](PNAS-Skills/) | Multidisciplinary (bio / phys / social) | 12 |
+| **NEJM** New England Journal of Medicine | [NEJM-Skills/](NEJM-Skills/) | Clinical medicine | 12 |
+| **The Lancet** | [Lancet-Skills/](Lancet-Skills/) | Clinical medicine / global health | 12 |
+
+Each natural-science pack is opinionated by venue: Science encodes the one-sentence summary and broad-significance desk filter; Cell encodes STAR Methods + the Key Resources Table and the Highlights/eTOC/graphical-abstract trio; PNAS encodes the ≤120-word Significance Statement and the Direct/Contributed submission tracks; NEJM and The Lancet encode trial registration, CONSORT/STROBE/PRISMA reporting, structured clinical abstracts, ICMJE ethics/disclosures, and (for The Lancet) the *Research in context* panel.
+
+### Natural sciences · English top journals — third-party, curated
 
 | Venue | Repository | Discipline | Status |
 |-------|------------|------------|--------|
@@ -81,7 +93,7 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 | **Claude Scholar** | [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | Ideation → writing → publication (Claude Code / OpenCode / Codex) | upstream |
 | **Codex/Claude Academic Skills** | [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) | Reading · writing · scientific computing | upstream |
 
-<sub><b>Count methodology.</b> The homepage <b>353</b> = every <code>SKILL.md</code> minus the 9 duplicated Nature plugin-mirror files. Both the breadth bundle and the standalone depth packs are counted, so the 12 flagship Chinese venues covered both ways are counted in both forms. Reconciliation: 145 (12 CN depth) + 103 (CN bundle) + 9 (AER) + 27 (Nature family) + 69 (toolkits) = 353.</sub>
+<sub><b>Count methodology.</b> The homepage <b>413</b> = every <code>SKILL.md</code> minus the 9 duplicated Nature plugin-mirror files. Both the breadth bundle and the standalone depth packs are counted, so the 12 flagship Chinese venues covered both ways are counted in both forms. Reconciliation: 145 (12 CN depth) + 60 (5 natural-science depth: Science / Cell / PNAS / NEJM / Lancet, 12 each) + 103 (CN bundle) + 9 (AER) + 27 (Nature family) + 69 (toolkits) = 413.</sub>
 
 <p align="center">
   <a href="Economic-Research-Journal-Skills/"><img src="assets/covers/economic-research.png" alt="《经济研究》 Economic Research" width="116"></a>
@@ -100,6 +112,16 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 </p>
 <p align="center">
   <sub>Flagship social-science venues (Chinese + English) — uniform cover cards. Real journal covers ship inside each pack's <code>assets/</code>.</sub>
+</p>
+<p align="center">
+  <a href="Science-Skills/"><img src="assets/covers/science.png" alt="Science (AAAS)" width="116"></a>
+  <a href="Cell-Skills/"><img src="assets/covers/cell.png" alt="Cell (Cell Press)" width="116"></a>
+  <a href="PNAS-Skills/"><img src="assets/covers/pnas.png" alt="PNAS" width="116"></a>
+  <a href="NEJM-Skills/"><img src="assets/covers/nejm.png" alt="NEJM — New England Journal of Medicine" width="116"></a>
+  <a href="Lancet-Skills/"><img src="assets/covers/lancet.png" alt="The Lancet" width="116"></a>
+</p>
+<p align="center">
+  <sub>Flagship natural-science &amp; clinical venues — first-party depth packs (12 skills each). Card art is illustrative, not the journals' trademarks.</sub>
 </p>
 <p align="center">
   <a href="nature-skills/"><img src="assets/nature-cover.jpg" alt="Nature journal cover (illustration © Inna-Marie Strazhnik, 2019)" width="150"></a>
@@ -130,6 +152,12 @@ awesome-journal-skills/
 ├── Sociological-Studies-Skills/           → 《社会学研究》 (12 skills)
 ├── Journal-of-Quantitative-and-Technological-Economics-Skills/  → 《数量经济技术经济研究》 (13 skills)
 ├── Chinese-SocialScience-Journal-Skills/  → breadth bundle, ~100-journal router (103 skills)
+│   # Natural-science & clinical depth packs (first-party, authored / maintained here)
+├── Science-Skills/                → Science (AAAS) (12 skills)
+├── Cell-Skills/                   → Cell (Cell Press) (12 skills)
+├── PNAS-Skills/                   → PNAS (12 skills)
+├── NEJM-Skills/                   → New England Journal of Medicine (12 skills)
+├── Lancet-Skills/                 → The Lancet (12 skills)
 │   # Git submodules (pinned to upstream, auto-synced daily)
 ├── AER-skills/                    → submodule of brycewang-stanford/AER-skills
 ├── nature-skills/                 → submodule of Yuan1z0825/nature-skills (third-party)
@@ -486,6 +514,12 @@ Generic scientific-writing skill packs (different scope — not journal-specific
 - [literature-review-skill](https://github.com/YANZHANLIN/literature-review-skill) — 5-step literature-review pipeline (search/fetch/read/synthesize/chapter).
 - [agent-research-skills](https://github.com/lingzhi227/agent-research-skills) — deep-research systematic literature review.
 - [qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) — 177+ academic skills across 17 disciplines.
+
+Natural-science / life-science skill libraries (broad, not journal-specific — listed for reference):
+
+- [research-skills](https://github.com/neuromechanist/research-skills) — academic research plugin with **multi-journal manuscript & figure formatting presets** (Nature / Science / PNAS / Cell / IEEE), literature search, grant writing. The closest third-party analog to a per-journal pack — it formats to multiple venues rather than encoding one venue's editorial culture in depth.
+- [SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) — 197 bioinformatics & life-science skills (RNA-seq, single-cell, proteomics, drug discovery) for Claude Code and AI agents.
+- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) (K-Dense) — 140+ ready-to-use science skills plus 100+ scientific databases across biology, chemistry, and medicine; compatible with the open Agent Skills standard.
 
 ---
 

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "nejm-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at The New England Journal of Medicine (NEJM), the flagship clinical-medicine journal.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "nejm-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the NEJM clinical manuscript lifecycle: workflow router, clinical-significance fit, study design & trial registration, EQUATOR reporting guidelines, structured abstract, terse IMRAD writing, clinical statistics, clinical display items, clinical ethics & integrity, Vancouver/ICMJE references, submission preflight, and response to reviewers.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "nejm",
+        "clinical-medicine",
+        "clinical-trials",
+        "evidence-based-medicine",
+        "CONSORT",
+        "ICMJE"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/nejm-workflow",
+        "skills/nejm-fit",
+        "skills/nejm-study-design",
+        "skills/nejm-reporting",
+        "skills/nejm-abstract",
+        "skills/nejm-writing",
+        "skills/nejm-statistics",
+        "skills/nejm-figures-tables",
+        "skills/nejm-ethics",
+        "skills/nejm-citation",
+        "skills/nejm-submission",
+        "skills/nejm-rebuttal"
+      ]
+    }
+  ]
+}

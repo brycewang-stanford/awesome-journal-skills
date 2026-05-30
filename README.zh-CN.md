@@ -3,20 +3,20 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/agent-Claude%20Code-cc785c)](https://github.com/anthropics/claude-code)
-[![Skills](https://img.shields.io/badge/skills-353-cc785c)](#skill-pack-一览)
+[![Skills](https://img.shields.io/badge/skills-413-cc785c)](#skill-pack-一览)
 
 [English](README.md) | 简体中文
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Skills-353-cc785c?style=for-the-badge" alt="353 个 Agent Skill">
+  <img src="https://img.shields.io/badge/Skills-413-cc785c?style=for-the-badge" alt="413 个 Agent Skill">
   &nbsp;
-  <img src="https://img.shields.io/badge/Skill_Packs-18-2b3137?style=for-the-badge" alt="18 个 Skill 包">
+  <img src="https://img.shields.io/badge/Skill_Packs-23-2b3137?style=for-the-badge" alt="23 个 Skill 包">
 </p>
 <p align="center">
-  <sub>共收录 <b>353 个 Agent Skill</b>，分布在 <b>18 个精选 Skill 包</b>中——一站式索引。</sub>
+  <sub>共收录 <b>413 个 Agent Skill</b>，分布在 <b>23 个精选 Skill 包</b>中——一站式索引。</sub>
 </p>
 
-按**期刊**组织的社科 Agent Skill 包索引——涵盖选题、识别策略、引言写作、表格规范、复制包准备、修改回复。
+按**期刊**组织的 Agent Skill 包索引——涵盖选题、定位核心进展、识别策略、表格与图件规范、复制包 / 数据可得性准备、修改回复。覆盖**社会科学中英文顶刊**，以及**自然科学与临床顶刊（Science、Cell、PNAS、NEJM、The Lancet）**。
 
 每个 pack 都是**针对单一期刊**的方法论沉淀：它编码了某一本期刊的编委偏好、格式规范、识别标准和审稿文化。通用的"科研写作"Skill 包做不到这一点。
 
@@ -36,7 +36,7 @@
 
 ## Skill Pack 一览
 
-> **收录范围。** 本索引聚焦**社会科学中英文顶刊**，外加**其他学科的顶级英文期刊**。每个重点期刊都是一个**深度包**（单刊全流程，约 12 步）；[Chinese-SocialScience-Journal-Skills](Chinese-SocialScience-Journal-Skills/) **广度合集**则为约 100 本中文经管路线图期刊各提供 1 个 router 技能。12 本重点中文期刊有意同时以两种形态收录。
+> **收录范围。** 本索引聚焦**社会科学中英文顶刊**，以及**自然科学与临床英文顶刊**。每个重点期刊都是一个**深度包**（单刊全流程，12 步）；[Chinese-SocialScience-Journal-Skills](Chinese-SocialScience-Journal-Skills/) **广度合集**则为约 100 本中文经管路线图期刊各提供 1 个 router 技能。12 本重点中文期刊有意同时以两种形态收录。自然科学现已提供**自有深度包**（Science、Cell、PNAS、NEJM、The Lancet），与收录的第三方 Nature 包并列。
 
 ### 社会科学 · 中文顶刊 —— 深度独立包
 
@@ -67,7 +67,19 @@
 |------|------|------|-------:|
 | **American Economic Review** + AER:Insights + AEJ 系列 | [AER-skills](https://github.com/brycewang-stanford/AER-skills) | 经济学（Top-5） | 9 |
 
-### 其他学科 · 英文顶刊 —— 第三方收录
+### 自然科学 · 英文顶刊 —— 深度独立包
+
+| 期刊 | Pack | 学科 | 技能数 |
+|------|------|------|-------:|
+| **Science**（AAAS） | [Science-Skills/](Science-Skills/) | 综合（自然科学） | 12 |
+| **Cell**（Cell Press） | [Cell-Skills/](Cell-Skills/) | 生命科学 / 分子生物 | 12 |
+| **PNAS** | [PNAS-Skills/](PNAS-Skills/) | 综合（生物 / 物理 / 社科） | 12 |
+| **NEJM** 新英格兰医学杂志 | [NEJM-Skills/](NEJM-Skills/) | 临床医学 | 12 |
+| **The Lancet** 柳叶刀 | [Lancet-Skills/](Lancet-Skills/) | 临床医学 / 全球健康 | 12 |
+
+每个自然科学包都按刊定制：Science 编码"一句话总结"与广泛意义初筛；Cell 编码 STAR Methods + Key Resources Table 以及 Highlights/eTOC/图形摘要三件套；PNAS 编码 ≤120 词的 Significance Statement 与 Direct/Contributed 投稿通道；NEJM 与 The Lancet 编码试验注册、CONSORT/STROBE/PRISMA 报告规范、结构化临床摘要、ICMJE 伦理与利益声明，以及（柳叶刀的）*Research in context* 面板。
+
+### 自然科学 · 英文顶刊 —— 第三方收录
 
 | 期刊 | 仓库 | 学科 | 状态 |
 |------|------|------|------|
@@ -81,7 +93,7 @@
 | **Claude Scholar** | [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 选题 → 写作 → 发表（Claude Code / OpenCode / Codex） | upstream |
 | **Codex/Claude 学术 Skills** | [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) | 阅读 · 写作 · 科学计算 | upstream |
 
-<sub><b>计数口径。</b> 首页 <b>353</b> = 仓库内全部 <code>SKILL.md</code> 减去 9 个 Nature 插件镜像重复文件。广度合集与深度独立包均计入，因此 12 本同时双形态收录的重点中文期刊会被计两次。对账：145（12 中文深度包）+ 103（中文合集）+ 9（AER）+ 27（Nature 系）+ 69（通用工具）= 353。</sub>
+<sub><b>计数口径。</b> 首页 <b>413</b> = 仓库内全部 <code>SKILL.md</code> 减去 9 个 Nature 插件镜像重复文件。广度合集与深度独立包均计入，因此 12 本同时双形态收录的重点中文期刊会被计两次。对账：145（12 中文深度包）+ 60（5 个自然科学深度包：Science / Cell / PNAS / NEJM / Lancet，各 12）+ 103（中文合集）+ 9（AER）+ 27（Nature 系）+ 69（通用工具）= 413。</sub>
 
 <p align="center">
   <a href="Economic-Research-Journal-Skills/"><img src="assets/covers/economic-research.png" alt="《经济研究》 Economic Research" width="116"></a>
@@ -100,6 +112,16 @@
 </p>
 <p align="center">
   <sub>社会科学中英文顶刊 —— 风格统一的封面卡。各刊真实封面仍存放在对应 pack 的 <code>assets/</code> 中。</sub>
+</p>
+<p align="center">
+  <a href="Science-Skills/"><img src="assets/covers/science.png" alt="Science (AAAS)" width="116"></a>
+  <a href="Cell-Skills/"><img src="assets/covers/cell.png" alt="Cell (Cell Press)" width="116"></a>
+  <a href="PNAS-Skills/"><img src="assets/covers/pnas.png" alt="PNAS" width="116"></a>
+  <a href="NEJM-Skills/"><img src="assets/covers/nejm.png" alt="NEJM — 新英格兰医学杂志" width="116"></a>
+  <a href="Lancet-Skills/"><img src="assets/covers/lancet.png" alt="The Lancet 柳叶刀" width="116"></a>
+</p>
+<p align="center">
+  <sub>自然科学与临床顶刊 —— 自有深度包（每个 12 个技能）。封面卡为示意设计，非各刊商标。</sub>
 </p>
 <p align="center">
   <a href="nature-skills/"><img src="assets/nature-cover.jpg" alt="Nature 期刊封面（插画 © Inna-Marie Strazhnik, 2019）" width="150"></a>
@@ -130,6 +152,12 @@ awesome-journal-skills/
 ├── Sociological-Studies-Skills/           → 《社会学研究》（12 skills）
 ├── Journal-of-Quantitative-and-Technological-Economics-Skills/  → 《数量经济技术经济研究》（13 skills）
 ├── Chinese-SocialScience-Journal-Skills/  → 广度合集，约 100 本期刊 router（103 skills）
+│   # 自然科学与临床深度包（本仓库内编写维护）
+├── Science-Skills/                → Science（AAAS）（12 skills）
+├── Cell-Skills/                   → Cell（Cell Press）（12 skills）
+├── PNAS-Skills/                   → PNAS（12 skills）
+├── NEJM-Skills/                   → 新英格兰医学杂志（12 skills）
+├── Lancet-Skills/                 → 柳叶刀 The Lancet（12 skills）
 │   # git submodule（指向上游，每日自动同步）
 ├── AER-skills/                    → submodule: brycewang-stanford/AER-skills
 ├── nature-skills/                 → submodule: Yuan1z0825/nature-skills（第三方收录）
@@ -485,6 +513,12 @@ cp -R Economic-Research-Journal-Skills/skills/er-* ~/.claude/skills/
 - [literature-review-skill](https://github.com/YANZHANLIN/literature-review-skill) —— 5 步文献综述流水线（检索/获取/精读/综述/章节）。
 - [agent-research-skills](https://github.com/lingzhi227/agent-research-skills) —— deep-research 系统性文献综述。
 - [qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) —— 沁言学术，177+ skill，覆盖 17 个学科。
+
+自然科学 / 生命科学 skill 库（覆盖广，非特定期刊，仅供参考）：
+
+- [research-skills](https://github.com/neuromechanist/research-skills) —— 科研插件，带**多刊手稿与图件格式预设**（Nature / Science / PNAS / Cell / IEEE）、文献检索、基金写作。最接近"按刊定制包"的第三方方案——但它是面向多刊套格式，而非深度编码单一期刊的编辑文化。
+- [SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) —— 197 个生物信息与生命科学 skill（RNA-seq、单细胞、蛋白组、药物发现）。
+- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)（K-Dense）—— 140+ 科学 skill + 100+ 科学数据库，覆盖生物/化学/医学，兼容开放 Agent Skills 标准。
 
 ---
 

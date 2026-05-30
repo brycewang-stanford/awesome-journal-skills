@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "pnas-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at PNAS (Proceedings of the National Academy of Sciences), the broad-coverage multidisciplinary journal of the U.S. National Academy of Sciences.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "pnas-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the PNAS manuscript lifecycle: workflow router, scope/significance fit, submission-track selection (Direct vs Contributed), the ≤120-word Significance Statement, ≤250-word abstract, main-text writing with in-text Materials and Methods + classification, display items, statistics & reproducibility, data/code availability, numbered reference style, submission preflight, and reviewer rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "pnas",
+        "national-academy-of-sciences",
+        "multidisciplinary",
+        "significance-statement",
+        "reproducibility",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/pnas-workflow",
+        "skills/pnas-fit",
+        "skills/pnas-track",
+        "skills/pnas-significance",
+        "skills/pnas-abstract",
+        "skills/pnas-writing",
+        "skills/pnas-figures",
+        "skills/pnas-statistics",
+        "skills/pnas-data",
+        "skills/pnas-citation",
+        "skills/pnas-submission",
+        "skills/pnas-rebuttal"
+      ]
+    }
+  ]
+}

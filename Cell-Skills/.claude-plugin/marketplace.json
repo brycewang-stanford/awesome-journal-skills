@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "cell-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at Cell (Cell Press), the flagship molecular and cell-biology journal.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "cell-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Cell manuscript lifecycle: workflow router, scope/significance fit, single-narrative framing, the Highlights + eTOC + Graphical Abstract trio, the ≤150-word Summary, main-text writing, display items, STAR Methods + Key Resources Table, data/code availability, Cell Press author–date references, submission preflight + cover letter, and reviewer rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "cell",
+        "cell-press",
+        "molecular-biology",
+        "cell-biology",
+        "star-methods",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/cell-workflow",
+        "skills/cell-fit",
+        "skills/cell-framing",
+        "skills/cell-highlights",
+        "skills/cell-summary",
+        "skills/cell-writing",
+        "skills/cell-figures",
+        "skills/cell-star-methods",
+        "skills/cell-data",
+        "skills/cell-citation",
+        "skills/cell-submission",
+        "skills/cell-rebuttal"
+      ]
+    }
+  ]
+}

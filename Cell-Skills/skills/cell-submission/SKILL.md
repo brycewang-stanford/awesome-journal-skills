@@ -1,0 +1,89 @@
+---
+name: cell-submission
+description: Use as the final preflight before submitting to Cell — a complete checklist across significance, narrative, Highlights/eTOC/Graphical Abstract, Summary, figures, STAR Methods, data, references, and required files. Bundles the checklist and cover-letter templates.
+---
+
+# Submission Preflight & Cover Letter (cell-submission)
+
+## When to trigger
+
+- The manuscript is "done" and you're about to upload to Editorial Manager.
+- You want a single gate confirming every other cell-* skill's output landed.
+- A revision is going back and you need to confirm nothing regressed.
+
+## Master preflight checklist
+
+### Significance & narrative
+- [ ] Clears the complete-mechanistic-story bar (`cell-fit` rung ≥ 4, multiple converging lines).
+- [ ] Single narrative arc (hypothesis → mechanism → significance); no parallel mini-stories.
+- [ ] Title is declarative, names the actor + effect.
+
+### Cell signature artifacts
+- [ ] **Highlights**: 3–4 bullets, each ≤ 85 characters incl. spaces.
+- [ ] **eTOC / In Brief blurb**: ~50 words, third person, lay language.
+- [ ] **Graphical Abstract**: single panel, clear flow, minimal text, RGB, correct size.
+
+### Summary & writing
+- [ ] **Summary**: single paragraph ≤ ~150 words, mechanism named, ≥1 quantified result, no citations.
+- [ ] Main text ~45,000 characters (incl. legends); display items within ~7–8.
+- [ ] Results have claim-style subheadings; Discussion is interpretive, not a recap.
+
+### Figures & display items
+- [ ] Sized to 85 / 114 / 174 mm; min font ~6–7 pt; RGB.
+- [ ] Data shown (points + n + replicate type); error bars defined; scale bars present.
+- [ ] Colorblind-safe; legends stand alone (title + per-panel + statistics).
+- [ ] Image integrity: uncropped key blots in supplement; source data retained.
+
+### STAR Methods
+- [ ] **Key Resources Table** complete (antibodies w/ Cat#+RRID; deposited data w/ accession; software w/ version).
+- [ ] **Resource Availability** has all three subsections: Lead Contact / Materials Availability / Data and Code Availability.
+- [ ] Experimental Model and Subject Details incl. ethics (IRB/IACUC, consent, authentication).
+- [ ] Method Details reproducible; **Quantification and Statistical Analysis** consolidated.
+
+### Data & code
+- [ ] Data deposited; accession numbers/DOIs in hand; mirrored into KRT "Deposited Data."
+- [ ] Code public + archived (Zenodo/Mendeley DOI).
+- [ ] Three-bullet Data and Code Availability statement complete (data / code / additional).
+
+### References
+- [ ] Cell Press **author–date** in text; **alphabetical** reference list; full author lists.
+- [ ] Every in-text "(Author, year)" resolves; a/b suffixes for same author/year.
+
+### Required files & metadata
+- [ ] Main text (Summary, Intro, Results, Discussion, STAR Methods, legends, references).
+- [ ] Figures at required resolution + legends; Graphical Abstract file.
+- [ ] Highlights and eTOC blurb files/fields.
+- [ ] Supplemental Information (figures/tables/videos + captions).
+- [ ] Cover letter (conceptual-advance + completeness forward).
+- [ ] Authors, affiliations, ORCIDs, corresponding author, **Lead Contact**.
+- [ ] CRediT author contributions; competing interests; funding.
+- [ ] Suggested / opposed reviewers (if used).
+
+## Final integrity sweep
+- [ ] No over-claiming beyond the evidence (re-read Summary + Discussion).
+- [ ] Every figure's n, replicate type, error bar, and test defined and consistent with QSA.
+- [ ] All accession numbers/DOIs live and correct.
+- [ ] Single-blind by default — do not anonymize unless double-blind requested. Confirm.
+
+## Templates
+- `templates/checklist.md` — copyable preflight checklist.
+- `templates/cover_letter_template.md` — conceptual-advance cover-letter scaffold.
+
+## Output format
+
+```
+【Blocking gaps】 [...]  (must fix before upload)
+【Warnings】 [...]       (should fix)
+【Files ready】 main / figures+legends / GA / Highlights+eTOC / SI / cover letter / metadata
+【Verdict】 GO / NO-GO + the top 3 fixes
+【Next】 submit | cell-rebuttal (after decision)
+```
+
+## Anti-patterns
+
+- **Do not** upload before accession numbers/DOIs exist.
+- **Do not** ship Highlights over 85 characters or an eTOC blurb in the first person.
+- **Do not** submit a free-text Methods section instead of STAR Methods.
+- **Do not** rely on memory; run the checklist top to bottom.
+
+> Confirm all caps and required files against current Cell Press author guidelines before upload.

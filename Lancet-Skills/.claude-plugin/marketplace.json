@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "lancet-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at The Lancet, the flagship clinical-medicine and global-health journal.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "lancet-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Lancet manuscript lifecycle: workflow router, scope/significance fit, study design + trial registration, EQUATOR reporting guidelines, the Research in context panel, the structured abstract, main-text writing, clinical statistics, clinical figures/tables, ethics + declaration of interests + role of funding source, submission preflight, and reviewer rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "repository": "https://github.com/brycewang-stanford/awesome-journal-skills",
+      "keywords": [
+        "lancet",
+        "clinical-trials",
+        "global-health",
+        "health-equity",
+        "CONSORT",
+        "STROBE",
+        "PRISMA",
+        "research-in-context"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/lancet-workflow",
+        "skills/lancet-fit",
+        "skills/lancet-study-design",
+        "skills/lancet-reporting",
+        "skills/lancet-research-in-context",
+        "skills/lancet-abstract",
+        "skills/lancet-writing",
+        "skills/lancet-statistics",
+        "skills/lancet-figures-tables",
+        "skills/lancet-ethics",
+        "skills/lancet-submission",
+        "skills/lancet-rebuttal"
+      ]
+    }
+  ]
+}
