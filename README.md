@@ -85,6 +85,74 @@ A curated index of **journal-specific agent skill packs** for manuscript work �
 
 Each pack is **journal-specific by design**: it encodes the editorial preferences, formatting conventions, identification standards, and review culture of a single target venue. Generic "scientific writing" skill packs miss these constraints.
 
+<!-- ROOT-JOURNAL-FOLDERS:START -->
+
+## 200 Root Journal Folders
+
+For visual browsing at the repository root, the 200 social-science breadth journals now also have one lightweight folder each: 100 Chinese roadmap journals in pinyin folder names, and 100 English econ / finance / management / business journals in title-style folder names. These folders are navigation entries only; the canonical installable `SKILL.md` files remain inside their bundle directories, so plugin paths and the 615-skill count stay stable.
+
+### Chinese Roadmap Journals · 100 Pinyin Folders
+
+|  |  |  |  |
+|---|---|---|---|
+| [Kuaiji-Yu-Jingji-Yanjiu/](Kuaiji-Yu-Jingji-Yanjiu/)<br><sub>《会计与经济研究》</sub> | [Kuaiji-Yanjiu/](Kuaiji-Yanjiu/)<br><sub>《会计研究》</sub> | [Yatai-Jingji/](Yatai-Jingji/)<br><sub>《亚太经济》</sub> | [Shenji-Yu-Jingji-Yanjiu/](Shenji-Yu-Jingji-Yanjiu/)<br><sub>《审计与经济研究》</sub> |
+| [Shenji-Yanjiu/](Shenji-Yanjiu/)<br><sub>《审计研究》</sub> | [Zhongguo-Kexueyuan-Yuankan/](Zhongguo-Kexueyuan-Yuankan/)<br><sub>《中国科学院院刊》</sub> | [Jingji-Guanli/](Jingji-Guanli/)<br><sub>《经济管理》</sub> | [Kuaiji-Pinglun/](Kuaiji-Pinglun/)<br><sub>《会计评论》</sub> |
+| [Jingjixue-Jikan/](Jingjixue-Jikan/)<br><sub>《经济学（季刊）》</sub> | [Zhongguo-Jingji-Wenti/](Zhongguo-Jingji-Wenti/)<br><sub>《中国经济问题》</sub> | [Zhongguo-Gongye-Jingji/](Zhongguo-Gongye-Jingji/)<br><sub>《中国工业经济》</sub> | [Gonggong-Guanli-Pinglun/](Gonggong-Guanli-Pinglun/)<br><sub>《公共管理评论》</sub> |
+| [Zhongguo-Nongcun-Jingji/](Zhongguo-Nongcun-Jingji/)<br><sub>《中国农村经济》</sub> | [Zhongguo-Nongcun-Guancha/](Zhongguo-Nongcun-Guancha/)<br><sub>《中国农村观察》</sub> | [Zhongguo-Ruan-Kexue/](Zhongguo-Ruan-Kexue/)<br><sub>《中国软科学》</sub> | [Guanli-Xuebao/](Guanli-Xuebao/)<br><sub>《管理学报》</sub> |
+| [Zhongguo-Guanli-Kexue/](Zhongguo-Guanli-Kexue/)<br><sub>《中国管理科学》</sub> | [Zhongguo-Xingzheng-Guanli/](Zhongguo-Xingzheng-Guanli/)<br><sub>《中国行政管理》</sub> | [Jinrong-Pinglun/](Jinrong-Pinglun/)<br><sub>《金融评论》</sub> | [Jingji-Shehui-Tizhi-Bijiao/](Jingji-Shehui-Tizhi-Bijiao/)<br><sub>《经济社会体制比较》</sub> |
+| [Xiandai-Riben-Jingji/](Xiandai-Riben-Jingji/)<br><sub>《现代日本经济》</sub> | [Dangdai-Caijing/](Dangdai-Caijing/)<br><sub>《当代财经》</sub> | [Dianzi-Zhengwu/](Dianzi-Zhengwu/)<br><sub>《电子政务》</sub> | [Huadong-Jingji-Guanli/](Huadong-Jingji-Guanli/)<br><sub>《华东经济管理》</sub> |
+| [Jingji-Zongheng/](Jingji-Zongheng/)<br><sub>《经济纵横》</sub> | [Jingjixue-Dongtai/](Jingjixue-Dongtai/)<br><sub>《经济学动态》</sub> | [Jingji-Wenti/](Jingji-Wenti/)<br><sub>《经济问题》</sub> | [Jingji-Yanjiu/](Jingji-Yanjiu/)<br><sub>《经济研究》</sub> |
+| [Jingji-Pinglun/](Jingji-Pinglun/)<br><sub>《经济评论》</sub> | [Jingji-Kexue/](Jingji-Kexue/)<br><sub>《经济科学》</sub> | [Jingji-Lilun-Yu-Jingji-Guanli/](Jingji-Lilun-Yu-Jingji-Guanli/)<br><sub>《经济理论与经济管理》</sub> | [Jingjixuejia/](Jingjixuejia/)<br><sub>《经济学家》</sub> |
+| [Caijing-Kexue/](Caijing-Kexue/)<br><sub>《财经科学》</sub> | [Caimao-Jingji/](Caimao-Jingji/)<br><sub>《财贸经济》</sub> | [Jinrong-Jianguan-Yanjiu/](Jinrong-Jianguan-Yanjiu/)<br><sub>《金融监管研究》</sub> | [Waiguo-Jingji-Yu-Guanli/](Waiguo-Jingji-Yu-Guanli/)<br><sub>《外国经济与管理》</sub> |
+| [Zhongguo-Keji-Luntan/](Zhongguo-Keji-Luntan/)<br><sub>《中国科技论坛》</sub> | [Gongcheng-Guanli-Keji-Qianyan/](Gongcheng-Guanli-Keji-Qianyan/)<br><sub>《工程管理科技前沿》</sub> | [Zhili-Yanjiu/](Zhili-Yanjiu/)<br><sub>《治理研究》</sub> | [Chanye-Jingji-Yanjiu/](Chanye-Jingji-Yanjiu/)<br><sub>《产业经济研究》</sub> |
+| [Jingji-Wenti-Tansuo/](Jingji-Wenti-Tansuo/)<br><sub>《经济问题探索》</sub> | [Guoji-Jingji-Pinglun/](Guoji-Jingji-Pinglun/)<br><sub>《国际经济评论》</sub> | [Guoji-Jingmao-Tansuo/](Guoji-Jingmao-Tansuo/)<br><sub>《国际经贸探索》</sub> | [Nongye-Jingji-Wenti/](Nongye-Jingji-Wenti/)<br><sub>《农业经济问题》</sub> |
+| [Nongye-Jishu-Jingji/](Nongye-Jishu-Jingji/)<br><sub>《农业技术经济》</sub> | [Shangye-Jingji-Yu-Guanli/](Shangye-Jingji-Yu-Guanli/)<br><sub>《商业经济与管理》</sub> | [Zhongyang-Caijing-Daxue-Xuebao/](Zhongyang-Caijing-Daxue-Xuebao/)<br><sub>《中央财经大学学报》</sub> | [Caijing-Yanjiu/](Caijing-Yanjiu/)<br><sub>《财经研究》</sub> |
+| [Jinrong-Yanjiu/](Jinrong-Yanjiu/)<br><sub>《金融研究》</sub> | [Guangdong-Caijing-Daxue-Xuebao/](Guangdong-Caijing-Daxue-Xuebao/)<br><sub>《广东财经大学学报》</sub> | [Guanli-Gongcheng-Xuebao/](Guanli-Gongcheng-Xuebao/)<br><sub>《管理工程学报》</sub> | [Guoji-Maoyi-Wenti/](Guoji-Maoyi-Wenti/)<br><sub>《国际贸易问题》</sub> |
+| [Jiangxi-Caijing-Daxue-Xuebao/](Jiangxi-Caijing-Daxue-Xuebao/)<br><sub>《江西财经大学学报》</sub> | [Hongguan-Zhiliang-Yanjiu/](Hongguan-Zhiliang-Yanjiu/)<br><sub>《宏观质量研究》</sub> | [Guanli-Xuekan/](Guanli-Xuekan/)<br><sub>《管理学刊》</sub> | [Guanli-Kexue-Xuebao/](Guanli-Kexue-Xuebao/)<br><sub>《管理科学学报》</sub> |
+| [Gonggong-Guanli-Xuebao/](Gonggong-Guanli-Xuebao/)<br><sub>《公共管理学报》</sub> | [Shuliang-Jingji-Jishu-Jingji-Yanjiu/](Shuliang-Jingji-Jishu-Jingji-Yanjiu/)<br><sub>《数量经济技术经济研究》</sub> | [Shanghai-Caijing-Daxue-Xuebao/](Shanghai-Caijing-Daxue-Xuebao/)<br><sub>《上海财经大学学报》</sub> | [Shanxi-Caijing-Daxue-Xuebao/](Shanxi-Caijing-Daxue-Xuebao/)<br><sub>《山西财经大学学报》</sub> |
+| [Shijie-Jingji/](Shijie-Jingji/)<br><sub>《世界经济》</sub> | [Zhongnan-Caijing-Zhengfa-Daxue-Xuebao/](Zhongnan-Caijing-Zhengfa-Daxue-Xuebao/)<br><sub>《中南财经政法大学学报》</sub> | [Hongguan-Jingji-Yanjiu/](Hongguan-Jingji-Yanjiu/)<br><sub>《宏观经济研究》</sub> | [Guanli-Pinglun/](Guanli-Pinglun/)<br><sub>《管理评论》</sub> |
+| [Guanli-Kexue/](Guanli-Kexue/)<br><sub>《管理科学》</sub> | [Guanli-Shijie/](Guanli-Shijie/)<br><sub>《管理世界》</sub> | [Xiandai-Jingji-Tantao/](Xiandai-Jingji-Tantao/)<br><sub>《现代经济探讨》</sub> | [Dangdai-Jingji-Kexue/](Dangdai-Jingji-Kexue/)<br><sub>《当代经济科学》</sub> |
+| [Xiandai-Caijing-Tianjin-Caijing-Daxue-Xuebao/](Xiandai-Caijing-Tianjin-Caijing-Daxue-Xuebao/)<br><sub>《现代财经（天津财经大学学报）》</sub> | [Xiandai-Jinrong-Yanjiu/](Xiandai-Jinrong-Yanjiu/)<br><sub>《现代金融研究》</sub> | [Nankai-Guanli-Pinglun/](Nankai-Guanli-Pinglun/)<br><sub>《南开管理评论》</sub> | [Nankai-Jingji-Yanjiu/](Nankai-Jingji-Yanjiu/)<br><sub>《南开经济研究》</sub> |
+| [Zuzhi-Yu-Guanli/](Zuzhi-Yu-Guanli/)<br><sub>《组织与管理》</sub> | [Gonggong-Guanli-Yu-Zhengce-Pinglun/](Gonggong-Guanli-Yu-Zhengce-Pinglun/)<br><sub>《公共管理与政策评论》</sub> | [Caizheng-Yanjiu/](Caizheng-Yanjiu/)<br><sub>《财政研究》</sub> | [Gaige/](Gaige/)<br><sub>《改革》</sub> |
+| [Jingji-Tizhi-Gaige/](Jingji-Tizhi-Gaige/)<br><sub>《经济体制改革》</sub> | [Yanjiu-Yu-Fazhan-Guanli/](Yanjiu-Yu-Fazhan-Guanli/)<br><sub>《研究与发展管理》</sub> | [Jingji-Yu-Guanli-Yanjiu/](Jingji-Yu-Guanli-Yanjiu/)<br><sub>《经济与管理研究》</sub> | [Caijing-Wenti-Yanjiu/](Caijing-Wenti-Yanjiu/)<br><sub>《财经问题研究》</sub> |
+| [Zhengzhi-Jingjixue-Pinglun/](Zhengzhi-Jingjixue-Pinglun/)<br><sub>《政治经济学评论》</sub> | [Nongcun-Jingji/](Nongcun-Jingji/)<br><sub>《农村经济》</sub> | [Keji-Jinbu-Yu-Duice/](Keji-Jinbu-Yu-Duice/)<br><sub>《科技进步与对策》</sub> | [Kexuexue-Yu-Kexue-Jishu-Guanli/](Kexuexue-Yu-Kexue-Jishu-Guanli/)<br><sub>《科学学与科学技术管理》</sub> |
+| [Keyan-Guanli/](Keyan-Guanli/)<br><sub>《科研管理》</sub> | [Kexue-Juece/](Kexue-Juece/)<br><sub>《科学决策》</sub> | [Kexue-Guanli-Yanjiu/](Kexue-Guanli-Yanjiu/)<br><sub>《科学管理研究》</sub> | [Zhengquan-Shichang-Daobao/](Zhengquan-Shichang-Daobao/)<br><sub>《证券市场导报》</sub> |
+| [Shanghai-Jingji-Yanjiu/](Shanghai-Jingji-Yanjiu/)<br><sub>《上海经济研究》</sub> | [Shehui-Baozhang-Pinglun/](Shehui-Baozhang-Pinglun/)<br><sub>《社会保障评论》</sub> | [Ruan-Kexue/](Ruan-Kexue/)<br><sub>《软科学》</sub> | [Nanfang-Jingji/](Nanfang-Jingji/)<br><sub>《南方经济》</sub> |
+| [Laodong-Jingji-Yanjiu/](Laodong-Jingji-Yanjiu/)<br><sub>《劳动经济研究》</sub> | [Kexuexue-Yanjiu/](Kexuexue-Yanjiu/)<br><sub>《科学学研究》</sub> | [Jinrong-Jingjixue-Yanjiu/](Jinrong-Jingjixue-Yanjiu/)<br><sub>《金融经济学研究》</sub> | [Guoji-Jinrong-Yanjiu/](Guoji-Jinrong-Yanjiu/)<br><sub>《国际金融研究》</sub> |
+| [Xitong-Gongcheng-Lilun-Yu-Shijian/](Xitong-Gongcheng-Lilun-Yu-Shijian/)<br><sub>《系统工程理论与实践》</sub> | [Shuiwu-Yanjiu/](Shuiwu-Yanjiu/)<br><sub>《税务研究》</sub> | [Shijie-Jingji-Wenhui/](Shijie-Jingji-Wenhui/)<br><sub>《世界经济文汇》</sub> | [Shijie-Jingji-Yanjiu/](Shijie-Jingji-Yanjiu/)<br><sub>《世界经济研究》</sub> |
+
+### English Econ & Business Journals · 100 Folders
+
+|  |  |  |  |
+|---|---|---|---|
+| [American-Economic-Review/](American-Economic-Review/)<br><sub>American Economic Review</sub> | [Quarterly-Journal-of-Economics/](Quarterly-Journal-of-Economics/)<br><sub>Quarterly Journal of Economics</sub> | [Journal-of-Political-Economy/](Journal-of-Political-Economy/)<br><sub>Journal of Political Economy</sub> | [Econometrica/](Econometrica/)<br><sub>Econometrica</sub> |
+| [Review-of-Economic-Studies/](Review-of-Economic-Studies/)<br><sub>Review of Economic Studies</sub> | [AER-Insights/](AER-Insights/)<br><sub>AER: Insights</sub> | [AEJ-Applied-Economics/](AEJ-Applied-Economics/)<br><sub>AEJ: Applied Economics</sub> | [AEJ-Macroeconomics/](AEJ-Macroeconomics/)<br><sub>AEJ: Macroeconomics</sub> |
+| [AEJ-Microeconomics/](AEJ-Microeconomics/)<br><sub>AEJ: Microeconomics</sub> | [AEJ-Economic-Policy/](AEJ-Economic-Policy/)<br><sub>AEJ: Economic Policy</sub> | [Journal-of-Economic-Literature/](Journal-of-Economic-Literature/)<br><sub>Journal of Economic Literature</sub> | [Journal-of-Economic-Perspectives/](Journal-of-Economic-Perspectives/)<br><sub>Journal of Economic Perspectives</sub> |
+| [Review-of-Economics-and-Statistics/](Review-of-Economics-and-Statistics/)<br><sub>Review of Economics and Statistics</sub> | [Journal-of-Econometrics/](Journal-of-Econometrics/)<br><sub>Journal of Econometrics</sub> | [Journal-of-Monetary-Economics/](Journal-of-Monetary-Economics/)<br><sub>Journal of Monetary Economics</sub> | [Journal-of-Economic-Growth/](Journal-of-Economic-Growth/)<br><sub>Journal of Economic Growth</sub> |
+| [Journal-of-Labor-Economics/](Journal-of-Labor-Economics/)<br><sub>Journal of Labor Economics</sub> | [Journal-of-the-European-Economic-Association/](Journal-of-the-European-Economic-Association/)<br><sub>Journal of the European Economic Association</sub> | [The-Economic-Journal/](The-Economic-Journal/)<br><sub>The Economic Journal</sub> | [RAND-Journal-of-Economics/](RAND-Journal-of-Economics/)<br><sub>RAND Journal of Economics</sub> |
+| [Journal-of-International-Economics/](Journal-of-International-Economics/)<br><sub>Journal of International Economics</sub> | [Journal-of-Public-Economics/](Journal-of-Public-Economics/)<br><sub>Journal of Public Economics</sub> | [Journal-of-Development-Economics/](Journal-of-Development-Economics/)<br><sub>Journal of Development Economics</sub> | [Journal-of-Economic-Theory/](Journal-of-Economic-Theory/)<br><sub>Journal of Economic Theory</sub> |
+| [Journal-of-Money-Credit-and-Banking/](Journal-of-Money-Credit-and-Banking/)<br><sub>Journal of Money, Credit and Banking</sub> | [Review-of-Economic-Dynamics/](Review-of-Economic-Dynamics/)<br><sub>Review of Economic Dynamics</sub> | [European-Economic-Review/](European-Economic-Review/)<br><sub>European Economic Review</sub> | [Journal-of-Human-Resources/](Journal-of-Human-Resources/)<br><sub>Journal of Human Resources</sub> |
+| [International-Economic-Review/](International-Economic-Review/)<br><sub>International Economic Review</sub> | [Experimental-Economics/](Experimental-Economics/)<br><sub>Experimental Economics</sub> | [Journal-of-Applied-Econometrics/](Journal-of-Applied-Econometrics/)<br><sub>Journal of Applied Econometrics</sub> | [Journal-of-Business-and-Economic-Statistics/](Journal-of-Business-and-Economic-Statistics/)<br><sub>Journal of Business & Economic Statistics</sub> |
+| [Journal-of-Health-Economics/](Journal-of-Health-Economics/)<br><sub>Journal of Health Economics</sub> | [Journal-of-Environmental-Economics-and-Management/](Journal-of-Environmental-Economics-and-Management/)<br><sub>Journal of Environmental Economics and Management</sub> | [Journal-of-Urban-Economics/](Journal-of-Urban-Economics/)<br><sub>Journal of Urban Economics</sub> | [Games-and-Economic-Behavior/](Games-and-Economic-Behavior/)<br><sub>Games and Economic Behavior</sub> |
+| [Journal-of-Law-and-Economics/](Journal-of-Law-and-Economics/)<br><sub>Journal of Law and Economics</sub> | [Journal-of-Law-Economics-and-Organization/](Journal-of-Law-Economics-and-Organization/)<br><sub>Journal of Law, Economics, and Organization</sub> | [World-Development/](World-Development/)<br><sub>World Development</sub> | [World-Bank-Economic-Review/](World-Bank-Economic-Review/)<br><sub>World Bank Economic Review</sub> |
+| [IMF-Economic-Review/](IMF-Economic-Review/)<br><sub>IMF Economic Review</sub> | [Annual-Review-of-Economics/](Annual-Review-of-Economics/)<br><sub>Annual Review of Economics</sub> | [Brookings-Papers-on-Economic-Activity/](Brookings-Papers-on-Economic-Activity/)<br><sub>Brookings Papers on Economic Activity</sub> | [Economic-Policy/](Economic-Policy/)<br><sub>Economic Policy</sub> |
+| [Journal-of-Risk-and-Uncertainty/](Journal-of-Risk-and-Uncertainty/)<br><sub>Journal of Risk and Uncertainty</sub> | [Quantitative-Economics/](Quantitative-Economics/)<br><sub>Quantitative Economics</sub> | [The-Econometrics-Journal/](The-Econometrics-Journal/)<br><sub>The Econometrics Journal</sub> | [Econometric-Theory/](Econometric-Theory/)<br><sub>Econometric Theory</sub> |
+| [Journal-of-Economic-Behavior-and-Organization/](Journal-of-Economic-Behavior-and-Organization/)<br><sub>Journal of Economic Behavior & Organization</sub> | [Journal-of-Economic-Geography/](Journal-of-Economic-Geography/)<br><sub>Journal of Economic Geography</sub> | [Journal-of-Finance/](Journal-of-Finance/)<br><sub>Journal of Finance</sub> | [Journal-of-Financial-Economics/](Journal-of-Financial-Economics/)<br><sub>Journal of Financial Economics</sub> |
+| [Review-of-Financial-Studies/](Review-of-Financial-Studies/)<br><sub>Review of Financial Studies</sub> | [Review-of-Finance/](Review-of-Finance/)<br><sub>Review of Finance</sub> | [Journal-of-Financial-and-Quantitative-Analysis/](Journal-of-Financial-and-Quantitative-Analysis/)<br><sub>Journal of Financial and Quantitative Analysis</sub> | [Journal-of-Financial-Intermediation/](Journal-of-Financial-Intermediation/)<br><sub>Journal of Financial Intermediation</sub> |
+| [Journal-of-Financial-Markets/](Journal-of-Financial-Markets/)<br><sub>Journal of Financial Markets</sub> | [Journal-of-Banking-and-Finance/](Journal-of-Banking-and-Finance/)<br><sub>Journal of Banking & Finance</sub> | [Journal-of-Corporate-Finance/](Journal-of-Corporate-Finance/)<br><sub>Journal of Corporate Finance</sub> | [Journal-of-International-Money-and-Finance/](Journal-of-International-Money-and-Finance/)<br><sub>Journal of International Money and Finance</sub> |
+| [Mathematical-Finance/](Mathematical-Finance/)<br><sub>Mathematical Finance</sub> | [Journal-of-Empirical-Finance/](Journal-of-Empirical-Finance/)<br><sub>Journal of Empirical Finance</sub> | [Financial-Management/](Financial-Management/)<br><sub>Financial Management</sub> | [Academy-of-Management-Journal/](Academy-of-Management-Journal/)<br><sub>Academy of Management Journal</sub> |
+| [Academy-of-Management-Review/](Academy-of-Management-Review/)<br><sub>Academy of Management Review</sub> | [Academy-of-Management-Annals/](Academy-of-Management-Annals/)<br><sub>Academy of Management Annals</sub> | [Administrative-Science-Quarterly/](Administrative-Science-Quarterly/)<br><sub>Administrative Science Quarterly</sub> | [Strategic-Management-Journal/](Strategic-Management-Journal/)<br><sub>Strategic Management Journal</sub> |
+| [Organization-Science/](Organization-Science/)<br><sub>Organization Science</sub> | [Journal-of-Management/](Journal-of-Management/)<br><sub>Journal of Management</sub> | [Journal-of-Management-Studies/](Journal-of-Management-Studies/)<br><sub>Journal of Management Studies</sub> | [Organization-Studies/](Organization-Studies/)<br><sub>Organization Studies</sub> |
+| [Human-Relations/](Human-Relations/)<br><sub>Human Relations</sub> | [Human-Resource-Management/](Human-Resource-Management/)<br><sub>Human Resource Management</sub> | [Journal-of-International-Business-Studies/](Journal-of-International-Business-Studies/)<br><sub>Journal of International Business Studies</sub> | [Research-Policy/](Research-Policy/)<br><sub>Research Policy</sub> |
+| [Journal-of-Business-Venturing/](Journal-of-Business-Venturing/)<br><sub>Journal of Business Venturing</sub> | [Entrepreneurship-Theory-and-Practice/](Entrepreneurship-Theory-and-Practice/)<br><sub>Entrepreneurship Theory and Practice</sub> | [Journal-of-Marketing/](Journal-of-Marketing/)<br><sub>Journal of Marketing</sub> | [Journal-of-Marketing-Research/](Journal-of-Marketing-Research/)<br><sub>Journal of Marketing Research</sub> |
+| [Marketing-Science/](Marketing-Science/)<br><sub>Marketing Science</sub> | [Journal-of-Consumer-Research/](Journal-of-Consumer-Research/)<br><sub>Journal of Consumer Research</sub> | [Journal-of-Consumer-Psychology/](Journal-of-Consumer-Psychology/)<br><sub>Journal of Consumer Psychology</sub> | [Journal-of-the-Academy-of-Marketing-Science/](Journal-of-the-Academy-of-Marketing-Science/)<br><sub>Journal of the Academy of Marketing Science</sub> |
+| [The-Accounting-Review/](The-Accounting-Review/)<br><sub>The Accounting Review</sub> | [Journal-of-Accounting-Research/](Journal-of-Accounting-Research/)<br><sub>Journal of Accounting Research</sub> | [Journal-of-Accounting-and-Economics/](Journal-of-Accounting-and-Economics/)<br><sub>Journal of Accounting and Economics</sub> | [Review-of-Accounting-Studies/](Review-of-Accounting-Studies/)<br><sub>Review of Accounting Studies</sub> |
+| [Contemporary-Accounting-Research/](Contemporary-Accounting-Research/)<br><sub>Contemporary Accounting Research</sub> | [Accounting-Organizations-and-Society/](Accounting-Organizations-and-Society/)<br><sub>Accounting, Organizations and Society</sub> | [Management-Science/](Management-Science/)<br><sub>Management Science</sub> | [Operations-Research/](Operations-Research/)<br><sub>Operations Research</sub> |
+| [Manufacturing-and-Service-Operations-Management/](Manufacturing-and-Service-Operations-Management/)<br><sub>Manufacturing & Service Operations Management</sub> | [Journal-of-Operations-Management/](Journal-of-Operations-Management/)<br><sub>Journal of Operations Management</sub> | [Production-and-Operations-Management/](Production-and-Operations-Management/)<br><sub>Production and Operations Management</sub> | [MIS-Quarterly/](MIS-Quarterly/)<br><sub>MIS Quarterly</sub> |
+| [Information-Systems-Research/](Information-Systems-Research/)<br><sub>Information Systems Research</sub> | [Journal-of-Management-Information-Systems/](Journal-of-Management-Information-Systems/)<br><sub>Journal of Management Information Systems</sub> | [Journal-of-the-Association-for-Information-Systems/](Journal-of-the-Association-for-Information-Systems/)<br><sub>Journal of the Association for Information Systems</sub> | [INFORMS-Journal-on-Computing/](INFORMS-Journal-on-Computing/)<br><sub>INFORMS Journal on Computing</sub> |
+
+<!-- ROOT-JOURNAL-FOLDERS:END -->
+
 ---
 
 ## Why "Journal-Specific" Skills?
@@ -105,20 +173,20 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 
 ### Social science · Chinese top journals — depth packs
 
-| Venue | Pack | Discipline | Skills |
-|-------|------|------------|-------:|
-| **《经济研究》** Economic Research | [Economic-Research-Journal-Skills/](Economic-Research-Journal-Skills/) | Economics (China-CSSCI top) | 12 |
-| **《管理世界》** Management World | [Journal-of-Management-World-Skills/](Journal-of-Management-World-Skills/) | Management + applied economics | 11 |
-| **《中国社会科学》** Social Sciences in China | [Social-Sciences-in-China-Skills/](Social-Sciences-in-China-Skills/) | General social science | 11 |
-| **《中国工业经济》** China Industrial Economics | [China-Industrial-Economics-Skills/](China-Industrial-Economics-Skills/) | Industrial economics | 13 |
-| **《数量经济技术经济研究》** Quantitative & Technological Economics | [Journal-of-Quantitative-and-Technological-Economics-Skills/](Journal-of-Quantitative-and-Technological-Economics-Skills/) | Quantitative economics | 13 |
-| **《会计研究》** Accounting Research | [Accounting-Research-Skills/](Accounting-Research-Skills/) | Accounting | 13 |
-| **《经济学(季刊)》** China Economic Quarterly | [China-Economic-Quarterly-Skills/](China-Economic-Quarterly-Skills/) | Economics | 12 |
-| **《金融研究》** Journal of Financial Research | [Journal-of-Financial-Research-Skills/](Journal-of-Financial-Research-Skills/) | Finance | 12 |
-| **《世界经济》** The Journal of World Economy | [Journal-of-World-Economy-Skills/](Journal-of-World-Economy-Skills/) | International economics | 12 |
-| **《管理科学学报》** J. of Management Sciences in China | [Journal-of-Management-Sciences-in-China-Skills/](Journal-of-Management-Sciences-in-China-Skills/) | Management science | 12 |
-| **《南开管理评论》** Nankai Business Review | [Nankai-Business-Review-Skills/](Nankai-Business-Review-Skills/) | Management | 12 |
-| **《社会学研究》** Sociological Studies | [Sociological-Studies-Skills/](Sociological-Studies-Skills/) | Sociology | 12 |
+| Icon | Venue | Pack | Discipline | Skills |
+|:----:|-------|------|------------|-------:|
+| <a href="Economic-Research-Journal-Skills/"><img src="assets/covers/economic-research.png" alt="《经济研究》" width="56"></a> | **《经济研究》** Economic Research | [Economic-Research-Journal-Skills/](Economic-Research-Journal-Skills/) | Economics (China-CSSCI top) | 12 |
+| <a href="Journal-of-Management-World-Skills/"><img src="assets/covers/management-world.png" alt="《管理世界》" width="56"></a> | **《管理世界》** Management World | [Journal-of-Management-World-Skills/](Journal-of-Management-World-Skills/) | Management + applied economics | 11 |
+| <a href="Social-Sciences-in-China-Skills/"><img src="assets/covers/social-sciences-in-china.png" alt="《中国社会科学》" width="56"></a> | **《中国社会科学》** Social Sciences in China | [Social-Sciences-in-China-Skills/](Social-Sciences-in-China-Skills/) | General social science | 11 |
+| <a href="China-Industrial-Economics-Skills/"><img src="assets/covers/china-industrial-economics.png" alt="《中国工业经济》" width="56"></a> | **《中国工业经济》** China Industrial Economics | [China-Industrial-Economics-Skills/](China-Industrial-Economics-Skills/) | Industrial economics | 13 |
+| <a href="Journal-of-Quantitative-and-Technological-Economics-Skills/"><img src="assets/covers/quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="56"></a> | **《数量经济技术经济研究》** Quantitative & Technological Economics | [Journal-of-Quantitative-and-Technological-Economics-Skills/](Journal-of-Quantitative-and-Technological-Economics-Skills/) | Quantitative economics | 13 |
+| <a href="Accounting-Research-Skills/"><img src="assets/covers/accounting-research.png" alt="《会计研究》" width="56"></a> | **《会计研究》** Accounting Research | [Accounting-Research-Skills/](Accounting-Research-Skills/) | Accounting | 13 |
+| <a href="China-Economic-Quarterly-Skills/"><img src="assets/covers/china-economic-quarterly.png" alt="《经济学(季刊)》" width="56"></a> | **《经济学(季刊)》** China Economic Quarterly | [China-Economic-Quarterly-Skills/](China-Economic-Quarterly-Skills/) | Economics | 12 |
+| <a href="Journal-of-Financial-Research-Skills/"><img src="assets/covers/journal-of-financial-research.png" alt="《金融研究》" width="56"></a> | **《金融研究》** Journal of Financial Research | [Journal-of-Financial-Research-Skills/](Journal-of-Financial-Research-Skills/) | Finance | 12 |
+| <a href="Journal-of-World-Economy-Skills/"><img src="assets/covers/world-economy.png" alt="《世界经济》" width="56"></a> | **《世界经济》** The Journal of World Economy | [Journal-of-World-Economy-Skills/](Journal-of-World-Economy-Skills/) | International economics | 12 |
+| <a href="Journal-of-Management-Sciences-in-China-Skills/"><img src="assets/covers/management-sciences-in-china.png" alt="《管理科学学报》" width="56"></a> | **《管理科学学报》** J. of Management Sciences in China | [Journal-of-Management-Sciences-in-China-Skills/](Journal-of-Management-Sciences-in-China-Skills/) | Management science | 12 |
+| <a href="Nankai-Business-Review-Skills/"><img src="assets/covers/nankai-business-review.png" alt="《南开管理评论》" width="56"></a> | **《南开管理评论》** Nankai Business Review | [Nankai-Business-Review-Skills/](Nankai-Business-Review-Skills/) | Management | 12 |
+| <a href="Sociological-Studies-Skills/"><img src="assets/covers/sociological-studies.png" alt="《社会学研究》" width="56"></a> | **《社会学研究》** Sociological Studies | [Sociological-Studies-Skills/](Sociological-Studies-Skills/) | Sociology | 12 |
 
 ### Social science · Chinese top journals — breadth bundle
 
@@ -128,9 +196,9 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 
 ### Social science · English top journals — depth pack
 
-| Venue | Pack | Discipline | Skills |
-|-------|------|------------|-------:|
-| **American Economic Review** + AER:Insights + AEJ family | [AER-skills](https://github.com/brycewang-stanford/AER-skills) | Economics (top-5) | 9 |
+| Icon | Venue | Pack | Discipline | Skills |
+|:----:|-------|------|------------|-------:|
+| <a href="https://github.com/brycewang-stanford/AER-skills"><img src="assets/covers/aer.png" alt="American Economic Review" width="56"></a> | **American Economic Review** + AER:Insights + AEJ family | [AER-skills](https://github.com/brycewang-stanford/AER-skills) | Economics (top-5) | 9 |
 
 ### Social science · English top journals — breadth bundle
 
@@ -142,13 +210,13 @@ This bundle covers the full English roadmap below: Economics 50 · Finance 13 ·
 
 ### Natural sciences · English top journals — depth packs
 
-| Venue | Pack | Discipline | Skills |
-|-------|------|------------|-------:|
-| **Science** (AAAS) | [Science-Skills/](Science-Skills/) | Multidisciplinary (natural sciences) | 12 |
-| **Cell** (Cell Press) | [Cell-Skills/](Cell-Skills/) | Life sciences / molecular biology | 12 |
-| **PNAS** | [PNAS-Skills/](PNAS-Skills/) | Multidisciplinary (bio / phys / social) | 12 |
-| **NEJM** New England Journal of Medicine | [NEJM-Skills/](NEJM-Skills/) | Clinical medicine | 12 |
-| **The Lancet** | [Lancet-Skills/](Lancet-Skills/) | Clinical medicine / global health | 12 |
+| Icon | Venue | Pack | Discipline | Skills |
+|:----:|-------|------|------------|-------:|
+| <a href="Science-Skills/"><img src="assets/covers/science.png" alt="Science (AAAS)" width="56"></a> | **Science** (AAAS) | [Science-Skills/](Science-Skills/) | Multidisciplinary (natural sciences) | 12 |
+| <a href="Cell-Skills/"><img src="assets/covers/cell.png" alt="Cell (Cell Press)" width="56"></a> | **Cell** (Cell Press) | [Cell-Skills/](Cell-Skills/) | Life sciences / molecular biology | 12 |
+| <a href="PNAS-Skills/"><img src="assets/covers/pnas.png" alt="PNAS" width="56"></a> | **PNAS** | [PNAS-Skills/](PNAS-Skills/) | Multidisciplinary (bio / phys / social) | 12 |
+| <a href="NEJM-Skills/"><img src="assets/covers/nejm.png" alt="NEJM — New England Journal of Medicine" width="56"></a> | **NEJM** New England Journal of Medicine | [NEJM-Skills/](NEJM-Skills/) | Clinical medicine | 12 |
+| <a href="Lancet-Skills/"><img src="assets/covers/lancet.png" alt="The Lancet" width="56"></a> | **The Lancet** | [Lancet-Skills/](Lancet-Skills/) | Clinical medicine / global health | 12 |
 
 Each natural-science pack is opinionated by venue: Science encodes the one-sentence summary and broad-significance desk filter; Cell encodes STAR Methods + the Key Resources Table and the Highlights/eTOC/graphical-abstract trio; PNAS encodes the ≤120-word Significance Statement and the Direct/Contributed submission tracks; NEJM and The Lancet encode trial registration, CONSORT/STROBE/PRISMA reporting, structured clinical abstracts, ICMJE ethics/disclosures, and (for The Lancet) the *Research in context* panel.
 
@@ -182,8 +250,16 @@ This bundle is the natural-science sibling of the English social-science breadth
 
 This repo combines **in-repo folder packs** (the China flagship depth packs and the breadth bundle, authored and maintained here) with **git submodules** pinned to upstream repos (AER plus the third-party packs). A scheduled GitHub Action ([`.github/workflows/sync-submodules.yml`](.github/workflows/sync-submodules.yml)) bumps the submodule pins to the latest upstream `main` daily.
 
+The root also includes **200 lightweight journal entry folders** for visual browsing: 100 Chinese roadmap journals in pinyin (`Jingji-Yanjiu/`, `Guanli-Shijie/`, …) and 100 English econ/business journals (`American-Economic-Review/`, `Journal-of-Finance/`, …). These folders contain only navigation READMEs; installable `SKILL.md` files remain in the canonical bundle paths below.
+
 ```text
 awesome-journal-skills/
+│   # Root-level journal entry folders (navigation aliases, no SKILL.md)
+├── Jingji-Yanjiu/                 → 《经济研究》 root entry
+├── Guanli-Shijie/                 → 《管理世界》 root entry
+├── American-Economic-Review/      → American Economic Review root entry
+├── Journal-of-Finance/            → Journal of Finance root entry
+├── ...                            → 196 more root journal entry folders
 │   # In-repo folder packs (first-party, authored / maintained here)
 ├── Economic-Research-Journal-Skills/      → 《经济研究》 (12 skills)
 ├── Journal-of-Management-World-Skills/    → 《管理世界》 (11 skills)
