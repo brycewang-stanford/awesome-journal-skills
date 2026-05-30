@@ -1,5 +1,9 @@
 # 英文经管社科期刊 Skills（English Social-Science Journal Skills）
 
+<p align="center">
+  <img src="assets/cover.png" alt="英文经管社科期刊 Skills — 100 本旗舰经管期刊" width="220">
+</p>
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Index](https://img.shields.io/badge/index-FT50%20%C2%B7%20UTD24%20%C2%B7%20top--5-1f6feb)](#)
 [![Claude Code](https://img.shields.io/badge/agent-Claude%20Code-cc785c)](https://github.com/anthropics/claude-code)

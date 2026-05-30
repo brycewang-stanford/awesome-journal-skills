@@ -16,6 +16,71 @@
   <sub>共收录 <b>514 个 Agent Skill</b>，分布在 <b>24 个精选 Skill 包</b>中——一站式索引。</sub>
 </p>
 
+<p align="center">
+  <sub><b>先看期刊，再进 Pack。</b>点击任意封面即可进入对应的期刊 Skill 包。</sub>
+</p>
+<p align="center">
+  <a href="Economic-Research-Journal-Skills/"><img src="assets/covers/economic-research.png" alt="《经济研究》 Economic Research" width="116"></a>
+  <a href="Journal-of-Management-World-Skills/"><img src="assets/covers/management-world.png" alt="《管理世界》 Management World" width="116"></a>
+  <a href="Social-Sciences-in-China-Skills/"><img src="assets/covers/social-sciences-in-china.png" alt="《中国社会科学》 Social Sciences in China" width="116"></a>
+  <a href="China-Industrial-Economics-Skills/"><img src="assets/covers/china-industrial-economics.png" alt="《中国工业经济》 China Industrial Economics" width="116"></a>
+  <a href="Journal-of-World-Economy-Skills/"><img src="assets/covers/world-economy.png" alt="《世界经济》 The Journal of World Economy" width="116"></a>
+  <a href="China-Economic-Quarterly-Skills/"><img src="assets/covers/china-economic-quarterly.png" alt="《经济学(季刊)》 China Economic Quarterly" width="116"></a>
+  <a href="Journal-of-Quantitative-and-Technological-Economics-Skills/"><img src="assets/covers/quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="116"></a>
+  <a href="Accounting-Research-Skills/"><img src="assets/covers/accounting-research.png" alt="《会计研究》 Accounting Research" width="116"></a>
+  <a href="Journal-of-Financial-Research-Skills/"><img src="assets/covers/journal-of-financial-research.png" alt="《金融研究》 Journal of Financial Research" width="116"></a>
+  <a href="Journal-of-Management-Sciences-in-China-Skills/"><img src="assets/covers/management-sciences-in-china.png" alt="《管理科学学报》 J. of Management Sciences in China" width="116"></a>
+  <a href="Nankai-Business-Review-Skills/"><img src="assets/covers/nankai-business-review.png" alt="《南开管理评论》 Nankai Business Review" width="116"></a>
+  <a href="Sociological-Studies-Skills/"><img src="assets/covers/sociological-studies.png" alt="《社会学研究》 Sociological Studies" width="116"></a>
+  <a href="https://github.com/brycewang-stanford/AER-skills"><img src="assets/covers/aer.png" alt="American Economic Review" width="116"></a>
+</p>
+<p align="center">
+  <sub>中文重点社科期刊 + AER —— 风格统一的封面卡。各刊真实封面仍存放在对应 pack 的 <code>assets/</code> 中。</sub>
+</p>
+<p align="center">
+  <a href="English-SocialScience-Journal-Skills/skills/american-economic-review/"><img src="assets/covers/american-economic-review.png" alt="American Economic Review" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/quarterly-journal-of-economics/"><img src="assets/covers/quarterly-journal-of-economics.png" alt="Quarterly Journal of Economics" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-political-economy/"><img src="assets/covers/journal-of-political-economy.png" alt="Journal of Political Economy" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/econometrica/"><img src="assets/covers/econometrica.png" alt="Econometrica" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/review-of-economic-studies/"><img src="assets/covers/review-of-economic-studies.png" alt="Review of Economic Studies" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-finance/"><img src="assets/covers/journal-of-finance.png" alt="Journal of Finance" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-financial-economics/"><img src="assets/covers/journal-of-financial-economics.png" alt="Journal of Financial Economics" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/review-of-financial-studies/"><img src="assets/covers/review-of-financial-studies.png" alt="Review of Financial Studies" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/academy-of-management-journal/"><img src="assets/covers/academy-of-management-journal.png" alt="Academy of Management Journal" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/academy-of-management-review/"><img src="assets/covers/academy-of-management-review.png" alt="Academy of Management Review" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/administrative-science-quarterly/"><img src="assets/covers/administrative-science-quarterly.png" alt="Administrative Science Quarterly" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/strategic-management-journal/"><img src="assets/covers/strategic-management-journal.png" alt="Strategic Management Journal" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-marketing/"><img src="assets/covers/journal-of-marketing.png" alt="Journal of Marketing" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-marketing-research/"><img src="assets/covers/journal-of-marketing-research.png" alt="Journal of Marketing Research" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/marketing-science/"><img src="assets/covers/marketing-science.png" alt="Marketing Science" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/the-accounting-review/"><img src="assets/covers/the-accounting-review.png" alt="The Accounting Review" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-accounting-research/"><img src="assets/covers/journal-of-accounting-research.png" alt="Journal of Accounting Research" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-accounting-and-economics/"><img src="assets/covers/journal-of-accounting-and-economics.png" alt="Journal of Accounting and Economics" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/management-science/"><img src="assets/covers/management-science.png" alt="Management Science" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/operations-research/"><img src="assets/covers/operations-research.png" alt="Operations Research" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/mis-quarterly/"><img src="assets/covers/mis-quarterly.png" alt="MIS Quarterly" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/information-systems-research/"><img src="assets/covers/information-systems-research.png" alt="Information Systems Research" width="116"></a>
+</p>
+<p align="center">
+  <sub>英文经管重点期刊 —— 来自 <a href="English-SocialScience-Journal-Skills/">English-SocialScience-Journal-Skills</a> 广度合集的统一封面卡（100 本期刊 + 路由）。Top-5、Top-3、FT50、UTD24 等标签用于说明分层；卡片图形不是各刊商标。</sub>
+</p>
+<p align="center">
+  <a href="Science-Skills/"><img src="assets/covers/science.png" alt="Science (AAAS)" width="116"></a>
+  <a href="Cell-Skills/"><img src="assets/covers/cell.png" alt="Cell (Cell Press)" width="116"></a>
+  <a href="PNAS-Skills/"><img src="assets/covers/pnas.png" alt="PNAS" width="116"></a>
+  <a href="NEJM-Skills/"><img src="assets/covers/nejm.png" alt="NEJM — 新英格兰医学杂志" width="116"></a>
+  <a href="Lancet-Skills/"><img src="assets/covers/lancet.png" alt="The Lancet 柳叶刀" width="116"></a>
+</p>
+<p align="center">
+  <sub>自然科学与临床顶刊 —— 自有深度包（每个 12 个技能）。封面卡为示意设计，非各刊商标。</sub>
+</p>
+<p align="center">
+  <a href="nature-skills/"><img src="assets/nature-cover.jpg" alt="Nature 期刊封面（插画 © Inna-Marie Strazhnik, 2019）" width="150"></a>
+</p>
+<p align="center">
+  <sub>其他学科 · <b>Nature</b> &nbsp;<sup>封面插画 © <a href="https://inna-marie.com/2019/08/08/cover-art-nature-journal/">Inna-Marie Strazhnik (2019)</a></sup></sub>
+</p>
+
 按**期刊**组织的 Agent Skill 包索引——涵盖选题、定位核心进展、识别策略、表格与图件规范、复制包 / 数据可得性准备、修改回复。覆盖**社会科学中英文顶刊**，以及**自然科学与临床顶刊（Science、Cell、PNAS、NEJM、The Lancet）**。
 
 每个 pack 都是**针对单一期刊**的方法论沉淀：它编码了某一本期刊的编委偏好、格式规范、识别标准和审稿文化。通用的"科研写作"Skill 包做不到这一点。
@@ -102,41 +167,6 @@
 | **Codex/Claude 学术 Skills** | [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) | 阅读 · 写作 · 科学计算 | upstream |
 
 <sub><b>计数口径。</b> 首页 <b>514</b> = 仓库内全部 <code>SKILL.md</code> 减去 9 个 Nature 插件镜像重复文件。两个广度合集与深度独立包均计入，因此同时双形态收录的重点期刊（12 本重点中文期刊；AER）会被计两次。对账：145（12 中文深度包）+ 60（5 个自然科学深度包：Science / Cell / PNAS / NEJM / Lancet，各 12）+ 103（中文合集）+ 101（英文合集：100 本期刊 + 1 路由）+ 9（AER）+ 27（Nature 系）+ 69（通用工具）= 514。</sub>
-
-<p align="center">
-  <a href="Economic-Research-Journal-Skills/"><img src="assets/covers/economic-research.png" alt="《经济研究》 Economic Research" width="116"></a>
-  <a href="Journal-of-Management-World-Skills/"><img src="assets/covers/management-world.png" alt="《管理世界》 Management World" width="116"></a>
-  <a href="Social-Sciences-in-China-Skills/"><img src="assets/covers/social-sciences-in-china.png" alt="《中国社会科学》 Social Sciences in China" width="116"></a>
-  <a href="China-Industrial-Economics-Skills/"><img src="assets/covers/china-industrial-economics.png" alt="《中国工业经济》 China Industrial Economics" width="116"></a>
-  <a href="Journal-of-World-Economy-Skills/"><img src="assets/covers/world-economy.png" alt="《世界经济》 The Journal of World Economy" width="116"></a>
-  <a href="China-Economic-Quarterly-Skills/"><img src="assets/covers/china-economic-quarterly.png" alt="《经济学(季刊)》 China Economic Quarterly" width="116"></a>
-  <a href="Journal-of-Quantitative-and-Technological-Economics-Skills/"><img src="assets/covers/quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="116"></a>
-  <a href="Accounting-Research-Skills/"><img src="assets/covers/accounting-research.png" alt="《会计研究》 Accounting Research" width="116"></a>
-  <a href="Journal-of-Financial-Research-Skills/"><img src="assets/covers/journal-of-financial-research.png" alt="《金融研究》 Journal of Financial Research" width="116"></a>
-  <a href="Journal-of-Management-Sciences-in-China-Skills/"><img src="assets/covers/management-sciences-in-china.png" alt="《管理科学学报》 J. of Management Sciences in China" width="116"></a>
-  <a href="Nankai-Business-Review-Skills/"><img src="assets/covers/nankai-business-review.png" alt="《南开管理评论》 Nankai Business Review" width="116"></a>
-  <a href="Sociological-Studies-Skills/"><img src="assets/covers/sociological-studies.png" alt="《社会学研究》 Sociological Studies" width="116"></a>
-  <a href="https://github.com/brycewang-stanford/AER-skills"><img src="assets/covers/aer.png" alt="American Economic Review" width="116"></a>
-</p>
-<p align="center">
-  <sub>社会科学中英文顶刊 —— 风格统一的封面卡。各刊真实封面仍存放在对应 pack 的 <code>assets/</code> 中。</sub>
-</p>
-<p align="center">
-  <a href="Science-Skills/"><img src="assets/covers/science.png" alt="Science (AAAS)" width="116"></a>
-  <a href="Cell-Skills/"><img src="assets/covers/cell.png" alt="Cell (Cell Press)" width="116"></a>
-  <a href="PNAS-Skills/"><img src="assets/covers/pnas.png" alt="PNAS" width="116"></a>
-  <a href="NEJM-Skills/"><img src="assets/covers/nejm.png" alt="NEJM — 新英格兰医学杂志" width="116"></a>
-  <a href="Lancet-Skills/"><img src="assets/covers/lancet.png" alt="The Lancet 柳叶刀" width="116"></a>
-</p>
-<p align="center">
-  <sub>自然科学与临床顶刊 —— 自有深度包（每个 12 个技能）。封面卡为示意设计，非各刊商标。</sub>
-</p>
-<p align="center">
-  <a href="nature-skills/"><img src="assets/nature-cover.jpg" alt="Nature 期刊封面（插画 © Inna-Marie Strazhnik, 2019）" width="150"></a>
-</p>
-<p align="center">
-  <sub>其他学科 · <b>Nature</b> &nbsp;<sup>封面插画 © <a href="https://inna-marie.com/2019/08/08/cover-art-nature-journal/">Inna-Marie Strazhnik (2019)</a></sup></sub>
-</p>
 
 ---
 
