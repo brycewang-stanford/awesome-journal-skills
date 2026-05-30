@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "china-rural-economy-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at 《中国农村经济》, the top journal in China's agricultural and rural economics field.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "china-rural-economy-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the 《中国农村经济》 manuscript lifecycle: workflow router, 三农 topic selection, literature review, micro-household identification, mechanism, heterogeneity, tables / figures, rural-revitalization policy implications, abstract, house style, submission preflight, and R&R rebuttal.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/china-rural-economy-skills",
+      "repository": "https://github.com/brycewang-stanford/china-rural-economy-skills",
+      "keywords": [
+        "china-rural-economy",
+        "zhongguo-nongcun-jingji",
+        "cssci",
+        "agricultural-economics",
+        "rural-development",
+        "rural-revitalization",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/cre-workflow",
+        "skills/cre-topic-selection",
+        "skills/cre-literature-review",
+        "skills/cre-identification",
+        "skills/cre-mechanism",
+        "skills/cre-heterogeneity",
+        "skills/cre-tables-figures",
+        "skills/cre-policy-implication",
+        "skills/cre-abstract",
+        "skills/cre-style",
+        "skills/cre-submission",
+        "skills/cre-rebuttal"
+      ]
+    }
+  ]
+}

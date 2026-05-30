@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "chinese-public-administration-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at 《中国行政管理》, a leading authoritative journal in Chinese public administration.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "chinese-public-administration-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the 《中国行政管理》 manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/chinese-public-administration-skills",
+      "repository": "https://github.com/brycewang-stanford/chinese-public-administration-skills",
+      "keywords": [
+        "chinese-public-administration",
+        "cssci",
+        "public-administration",
+        "public-policy",
+        "governance",
+        "mixed-methods",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/cpa-workflow",
+        "skills/cpa-topic-selection",
+        "skills/cpa-literature-review",
+        "skills/cpa-identification",
+        "skills/cpa-mechanism",
+        "skills/cpa-heterogeneity",
+        "skills/cpa-tables-figures",
+        "skills/cpa-policy-implication",
+        "skills/cpa-abstract",
+        "skills/cpa-style",
+        "skills/cpa-submission",
+        "skills/cpa-rebuttal"
+      ]
+    }
+  ]
+}

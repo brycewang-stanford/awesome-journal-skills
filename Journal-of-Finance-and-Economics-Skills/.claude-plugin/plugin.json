@@ -1,0 +1,26 @@
+{
+  "name": "journal-of-finance-and-economics-skills",
+  "description": "Agent skill stack for submitting to 《财经研究》 (Journal of Finance and Economics), a CSSCI-indexed comprehensive finance-and-economics journal hosted by Shanghai University of Finance and Economics. Covers China-context topic selection with theoretical contribution, bilingual literature review, modern causal identification (DID / IV / RDD / DML / PSM), mechanism and heterogeneity analysis, three-line tables, policy implications, journal house style, submission preflight, and double-blind R&R rebuttals. Bilingual zh-CN / en docs; Stata / R / Python templates.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/journal-of-finance-and-economics-skills",
+  "repository": "https://github.com/brycewang-stanford/journal-of-finance-and-economics-skills",
+  "keywords": [
+    "journal-of-finance-and-economics",
+    "caijing-yanjiu",
+    "cssci",
+    "china-economics",
+    "public-finance",
+    "corporate-finance",
+    "causal-inference",
+    "difference-in-differences",
+    "instrumental-variables",
+    "regression-discontinuity",
+    "academic-writing",
+    "chinese-journal"
+  ]
+}
