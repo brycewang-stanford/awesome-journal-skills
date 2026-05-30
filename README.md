@@ -3,17 +3,17 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/agent-Claude%20Code-cc785c)](https://github.com/anthropics/claude-code)
-[![Skills](https://img.shields.io/badge/skills-514-cc785c)](#the-skill-packs)
+[![Skills](https://img.shields.io/badge/skills-615-cc785c)](#the-skill-packs)
 
 English | [简体中文](README.zh-CN.md)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Skills-514-cc785c?style=for-the-badge" alt="514 agent skills">
+  <img src="https://img.shields.io/badge/Skills-615-cc785c?style=for-the-badge" alt="615 agent skills">
   &nbsp;
-  <img src="https://img.shields.io/badge/Skill_Packs-24-2b3137?style=for-the-badge" alt="24 skill packs">
+  <img src="https://img.shields.io/badge/Skill_Packs-25-2b3137?style=for-the-badge" alt="25 skill packs">
 </p>
 <p align="center">
-  <sub><b>514 agent skills</b> across <b>24 curated packs</b> — one index.</sub>
+  <sub><b>615 agent skills</b> across <b>25 curated packs</b> — one index.</sub>
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ English | [简体中文](README.zh-CN.md)
   <sub>Other disciplines · <b>Nature</b> &nbsp;<sup>cover illustration © <a href="https://inna-marie.com/2019/08/08/cover-art-nature-journal/">Inna-Marie Strazhnik (2019)</a></sup></sub>
 </p>
 
-A curated index of **journal-specific agent skill packs** for manuscript work — selecting topics, framing the advance, identifying causal effects, formatting tables and figures, preparing replication / data-availability packages, and responding to reviewers. Coverage spans **top social-science journals (Chinese + English)** and **top natural-science and clinical journals (Science, Cell, PNAS, NEJM, The Lancet)**.
+A curated index of **journal-specific agent skill packs** for manuscript work — selecting topics, framing the advance, identifying causal effects, formatting tables and figures, preparing replication / data-availability packages, and responding to reviewers. Coverage spans **top social-science journals (Chinese + English)** and **top natural-science and clinical journals (Science, Cell, PNAS, NEJM, The Lancet)** — now extended with a 100-journal **English natural-science breadth bundle** across life sciences, medicine, physics, chemistry, materials, earth science, CS/AI, and mathematics.
 
 Each pack is **journal-specific by design**: it encodes the editorial preferences, formatting conventions, identification standards, and review culture of a single target venue. Generic "scientific writing" skill packs miss these constraints.
 
@@ -101,7 +101,7 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 
 ## The Skill Packs
 
-> **Scope.** This index targets **top social-science journals (Chinese + English)** and **top natural-science and clinical journals (English)**. Each flagship venue ships as a **depth pack** (full 12-step per-journal workflow); two **breadth bundles** add one fit-and-house-style skill per journal — [Chinese-SocialScience-Journal-Skills](Chinese-SocialScience-Journal-Skills/) for ~100 China econ/management roadmap journals, and [English-SocialScience-Journal-Skills](English-SocialScience-Journal-Skills/) for the 100 mainstream English econ/finance/management/accounting/marketing/OM/IS journals (every top-5 econ, finance top-3, AOM/SMS elite, FT50/UTD24/ABS 4★). The flagship Chinese venues, and AER on the English side, are intentionally covered both ways. Natural sciences now ship as **first-party depth packs** (Science, Cell, PNAS, NEJM, The Lancet) alongside the curated third-party Nature packs.
+> **Scope.** This index targets **top social-science journals (Chinese + English)** and **top natural-science, clinical, and physical-science journals (English)**. Each flagship venue ships as a **depth pack** (full 12-step per-journal workflow); three **breadth bundles** add one fit-and-house-style skill per journal — [Chinese-SocialScience-Journal-Skills](Chinese-SocialScience-Journal-Skills/) for ~100 China econ/management roadmap journals, [English-SocialScience-Journal-Skills](English-SocialScience-Journal-Skills/) for the 100 mainstream English econ/finance/management/accounting/marketing/OM/IS journals (every top-5 econ, finance top-3, AOM/SMS elite, FT50/UTD24/ABS 4★), and [English-NaturalScience-Journal-Skills](English-NaturalScience-Journal-Skills/) for 100 mainstream English natural-science / clinical / physical / formal-science journals (the general-science triad, the Cell Press & Nature Portfolio families, the Physical Review family, the ACS/RSC chemistry flagships, the big-four medical journals and clinical society venues, and the top pure-math journals). The flagship Chinese venues, AER on the English side, and the five natural-science flagships (Science, Cell, PNAS, NEJM, The Lancet) are intentionally covered both ways. Natural sciences also ship as **first-party depth packs** alongside the curated third-party Nature packs.
 
 ### Social science · Chinese top journals — depth packs
 
@@ -152,6 +152,14 @@ This bundle covers the full English roadmap below: Economics 50 · Finance 13 ·
 
 Each natural-science pack is opinionated by venue: Science encodes the one-sentence summary and broad-significance desk filter; Cell encodes STAR Methods + the Key Resources Table and the Highlights/eTOC/graphical-abstract trio; PNAS encodes the ≤120-word Significance Statement and the Direct/Contributed submission tracks; NEJM and The Lancet encode trial registration, CONSORT/STROBE/PRISMA reporting, structured clinical abstracts, ICMJE ethics/disclosures, and (for The Lancet) the *Research in context* panel.
 
+### Natural sciences · English top journals — breadth bundle
+
+| Bundle | Pack | Coverage | Skills |
+|--------|------|----------|-------:|
+| **100 English natural-science / clinical / physical / formal-science journals** | [English-NaturalScience-Journal-Skills/](English-NaturalScience-Journal-Skills/) | one fit-and-house-style skill per journal + `en-natsci-journal-workflow` router | 101 |
+
+This bundle is the natural-science sibling of the English social-science breadth bundle — the "other 100": General & multidisciplinary 7 · Cell/molecular/genome biology 16 · Ecology/evolution/plant 5 · Immunology/microbiology/experimental medicine 4 · Open-access & genomics 3 · Neuroscience & behaviour 4 · Clinical general 7 · Clinical specialty 11 · Translational & cancer 4 · Physics 9 · Astronomy 3 · Chemistry 10 · Materials & energy 5 · Earth/environment/climate 5 · CS/AI/engineering 4 · Mathematics 3. Like the other breadth bundles, each profile defers volatile facts (impact factors, fees, word/figure limits) to a per-journal official-submission re-check, and for clinical venues to the applicable reporting guideline (CONSORT/PRISMA/STROBE/ARRIVE).
+
 ### Natural sciences · English top journals — third-party, curated
 
 | Venue | Repository | Discipline | Status |
@@ -166,7 +174,7 @@ Each natural-science pack is opinionated by venue: Science encodes the one-sente
 | **Claude Scholar** | [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | Ideation → writing → publication (Claude Code / OpenCode / Codex) | upstream |
 | **Codex/Claude Academic Skills** | [codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) | Reading · writing · scientific computing | upstream |
 
-<sub><b>Count methodology.</b> The homepage <b>514</b> = every <code>SKILL.md</code> minus the 9 duplicated Nature plugin-mirror files. Both breadth bundles and the standalone depth packs are counted, so the flagship venues covered both ways (the 12 Chinese flagships; AER) are counted in both forms. Reconciliation: 145 (12 CN depth) + 60 (5 natural-science depth: Science / Cell / PNAS / NEJM / Lancet, 12 each) + 103 (CN bundle) + 101 (EN bundle: 100 journals + 1 router) + 9 (AER) + 27 (Nature family) + 69 (toolkits) = 514.</sub>
+<sub><b>Count methodology.</b> The homepage <b>615</b> = every <code>SKILL.md</code> minus the 9 duplicated Nature plugin-mirror files. All three breadth bundles and the standalone depth packs are counted, so the flagship venues covered both ways (the 12 Chinese flagships; AER; the 5 natural-science flagships) are counted in both forms. Reconciliation: 145 (12 CN depth) + 60 (5 natural-science depth: Science / Cell / PNAS / NEJM / Lancet, 12 each) + 103 (CN bundle) + 101 (EN social-science bundle: 100 journals + 1 router) + 101 (EN natural-science bundle: 100 journals + 1 router) + 9 (AER) + 27 (Nature family) + 69 (toolkits) = 615.</sub>
 
 ---
 
@@ -190,7 +198,8 @@ awesome-journal-skills/
 ├── Sociological-Studies-Skills/           → 《社会学研究》 (12 skills)
 ├── Journal-of-Quantitative-and-Technological-Economics-Skills/  → 《数量经济技术经济研究》 (13 skills)
 ├── Chinese-SocialScience-Journal-Skills/  → CN breadth bundle, ~100-journal router (103 skills)
-├── English-SocialScience-Journal-Skills/  → EN breadth bundle, 100-journal fit skills + router (101 skills)
+├── English-SocialScience-Journal-Skills/  → EN econ/business breadth bundle, 100-journal fit skills + router (101 skills)
+├── English-NaturalScience-Journal-Skills/ → EN natural-science breadth bundle, 100-journal fit skills + router (101 skills)
 │   # Natural-science & clinical depth packs (first-party, authored / maintained here)
 ├── Science-Skills/                → Science (AAAS) (12 skills)
 ├── Cell-Skills/                   → Cell (Cell Press) (12 skills)
