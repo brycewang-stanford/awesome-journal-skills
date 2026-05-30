@@ -20,56 +20,56 @@ English | [简体中文](README.zh-CN.md)
   <sub><b>Start with the venue.</b> Click any cover to open its journal-specific skill pack.</sub>
 </p>
 <p align="center">
-  <a href="Economic-Research-Journal-Skills/"><img src="assets/covers/economic-research.png" alt="《经济研究》 Economic Research" width="116"></a>
-  <a href="Journal-of-Management-World-Skills/"><img src="assets/covers/management-world.png" alt="《管理世界》 Management World" width="116"></a>
-  <a href="Social-Sciences-in-China-Skills/"><img src="assets/covers/social-sciences-in-china.png" alt="《中国社会科学》 Social Sciences in China" width="116"></a>
-  <a href="China-Industrial-Economics-Skills/"><img src="assets/covers/china-industrial-economics.png" alt="《中国工业经济》 China Industrial Economics" width="116"></a>
-  <a href="Journal-of-World-Economy-Skills/"><img src="assets/covers/world-economy.png" alt="《世界经济》 The Journal of World Economy" width="116"></a>
-  <a href="China-Economic-Quarterly-Skills/"><img src="assets/covers/china-economic-quarterly.png" alt="《经济学(季刊)》 China Economic Quarterly" width="116"></a>
-  <a href="Journal-of-Quantitative-and-Technological-Economics-Skills/"><img src="assets/covers/quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="116"></a>
-  <a href="Accounting-Research-Skills/"><img src="assets/covers/accounting-research.png" alt="《会计研究》 Accounting Research" width="116"></a>
-  <a href="Journal-of-Financial-Research-Skills/"><img src="assets/covers/journal-of-financial-research.png" alt="《金融研究》 Journal of Financial Research" width="116"></a>
-  <a href="Journal-of-Management-Sciences-in-China-Skills/"><img src="assets/covers/management-sciences-in-china.png" alt="《管理科学学报》 J. of Management Sciences in China" width="116"></a>
-  <a href="Nankai-Business-Review-Skills/"><img src="assets/covers/nankai-business-review.png" alt="《南开管理评论》 Nankai Business Review" width="116"></a>
-  <a href="Sociological-Studies-Skills/"><img src="assets/covers/sociological-studies.png" alt="《社会学研究》 Sociological Studies" width="116"></a>
-  <a href="https://github.com/brycewang-stanford/AER-skills"><img src="assets/covers/aer.png" alt="American Economic Review" width="116"></a>
+  <a href="Economic-Research-Journal-Skills/"><img src="assets/covers/economic-research.png" alt="《经济研究》 Economic Research" width="160"></a>
+  <a href="Journal-of-Management-World-Skills/"><img src="assets/covers/management-world.png" alt="《管理世界》 Management World" width="160"></a>
+  <a href="Social-Sciences-in-China-Skills/"><img src="assets/covers/social-sciences-in-china.png" alt="《中国社会科学》 Social Sciences in China" width="160"></a>
+  <a href="China-Industrial-Economics-Skills/"><img src="assets/covers/china-industrial-economics.png" alt="《中国工业经济》 China Industrial Economics" width="160"></a>
+  <a href="Journal-of-World-Economy-Skills/"><img src="assets/covers/world-economy.png" alt="《世界经济》 The Journal of World Economy" width="160"></a>
+  <a href="China-Economic-Quarterly-Skills/"><img src="assets/covers/china-economic-quarterly.png" alt="《经济学(季刊)》 China Economic Quarterly" width="160"></a>
+  <a href="Journal-of-Quantitative-and-Technological-Economics-Skills/"><img src="assets/covers/quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="160"></a>
+  <a href="Accounting-Research-Skills/"><img src="assets/covers/accounting-research.png" alt="《会计研究》 Accounting Research" width="160"></a>
+  <a href="Journal-of-Financial-Research-Skills/"><img src="assets/covers/journal-of-financial-research.png" alt="《金融研究》 Journal of Financial Research" width="160"></a>
+  <a href="Journal-of-Management-Sciences-in-China-Skills/"><img src="assets/covers/management-sciences-in-china.png" alt="《管理科学学报》 J. of Management Sciences in China" width="160"></a>
+  <a href="Nankai-Business-Review-Skills/"><img src="assets/covers/nankai-business-review.png" alt="《南开管理评论》 Nankai Business Review" width="160"></a>
+  <a href="Sociological-Studies-Skills/"><img src="assets/covers/sociological-studies.png" alt="《社会学研究》 Sociological Studies" width="160"></a>
+  <a href="https://github.com/brycewang-stanford/AER-skills"><img src="assets/covers/aer.png" alt="American Economic Review" width="160"></a>
 </p>
 <p align="center">
   <sub>Flagship Chinese social-science venues + AER — uniform cover cards (depth packs). Real journal covers ship inside each pack's <code>assets/</code>.</sub>
 </p>
 <p align="center">
-  <a href="English-SocialScience-Journal-Skills/skills/american-economic-review/"><img src="assets/covers/american-economic-review.png" alt="American Economic Review" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/quarterly-journal-of-economics/"><img src="assets/covers/quarterly-journal-of-economics.png" alt="Quarterly Journal of Economics" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/journal-of-political-economy/"><img src="assets/covers/journal-of-political-economy.png" alt="Journal of Political Economy" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/econometrica/"><img src="assets/covers/econometrica.png" alt="Econometrica" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/review-of-economic-studies/"><img src="assets/covers/review-of-economic-studies.png" alt="Review of Economic Studies" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/journal-of-finance/"><img src="assets/covers/journal-of-finance.png" alt="Journal of Finance" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/journal-of-financial-economics/"><img src="assets/covers/journal-of-financial-economics.png" alt="Journal of Financial Economics" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/review-of-financial-studies/"><img src="assets/covers/review-of-financial-studies.png" alt="Review of Financial Studies" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/academy-of-management-journal/"><img src="assets/covers/academy-of-management-journal.png" alt="Academy of Management Journal" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/academy-of-management-review/"><img src="assets/covers/academy-of-management-review.png" alt="Academy of Management Review" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/administrative-science-quarterly/"><img src="assets/covers/administrative-science-quarterly.png" alt="Administrative Science Quarterly" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/strategic-management-journal/"><img src="assets/covers/strategic-management-journal.png" alt="Strategic Management Journal" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/journal-of-marketing/"><img src="assets/covers/journal-of-marketing.png" alt="Journal of Marketing" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/journal-of-marketing-research/"><img src="assets/covers/journal-of-marketing-research.png" alt="Journal of Marketing Research" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/marketing-science/"><img src="assets/covers/marketing-science.png" alt="Marketing Science" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/the-accounting-review/"><img src="assets/covers/the-accounting-review.png" alt="The Accounting Review" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/journal-of-accounting-research/"><img src="assets/covers/journal-of-accounting-research.png" alt="Journal of Accounting Research" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/journal-of-accounting-and-economics/"><img src="assets/covers/journal-of-accounting-and-economics.png" alt="Journal of Accounting and Economics" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/management-science/"><img src="assets/covers/management-science.png" alt="Management Science" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/operations-research/"><img src="assets/covers/operations-research.png" alt="Operations Research" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/mis-quarterly/"><img src="assets/covers/mis-quarterly.png" alt="MIS Quarterly" width="116"></a>
-  <a href="English-SocialScience-Journal-Skills/skills/information-systems-research/"><img src="assets/covers/information-systems-research.png" alt="Information Systems Research" width="116"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/american-economic-review/"><img src="assets/covers/american-economic-review.png" alt="American Economic Review" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/quarterly-journal-of-economics/"><img src="assets/covers/quarterly-journal-of-economics.png" alt="Quarterly Journal of Economics" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-political-economy/"><img src="assets/covers/journal-of-political-economy.png" alt="Journal of Political Economy" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/econometrica/"><img src="assets/covers/econometrica.png" alt="Econometrica" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/review-of-economic-studies/"><img src="assets/covers/review-of-economic-studies.png" alt="Review of Economic Studies" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-finance/"><img src="assets/covers/journal-of-finance.png" alt="Journal of Finance" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-financial-economics/"><img src="assets/covers/journal-of-financial-economics.png" alt="Journal of Financial Economics" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/review-of-financial-studies/"><img src="assets/covers/review-of-financial-studies.png" alt="Review of Financial Studies" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/academy-of-management-journal/"><img src="assets/covers/academy-of-management-journal.png" alt="Academy of Management Journal" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/academy-of-management-review/"><img src="assets/covers/academy-of-management-review.png" alt="Academy of Management Review" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/administrative-science-quarterly/"><img src="assets/covers/administrative-science-quarterly.png" alt="Administrative Science Quarterly" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/strategic-management-journal/"><img src="assets/covers/strategic-management-journal.png" alt="Strategic Management Journal" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-marketing/"><img src="assets/covers/journal-of-marketing.png" alt="Journal of Marketing" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-marketing-research/"><img src="assets/covers/journal-of-marketing-research.png" alt="Journal of Marketing Research" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/marketing-science/"><img src="assets/covers/marketing-science.png" alt="Marketing Science" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/the-accounting-review/"><img src="assets/covers/the-accounting-review.png" alt="The Accounting Review" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-accounting-research/"><img src="assets/covers/journal-of-accounting-research.png" alt="Journal of Accounting Research" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-accounting-and-economics/"><img src="assets/covers/journal-of-accounting-and-economics.png" alt="Journal of Accounting and Economics" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/management-science/"><img src="assets/covers/management-science.png" alt="Management Science" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/operations-research/"><img src="assets/covers/operations-research.png" alt="Operations Research" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/mis-quarterly/"><img src="assets/covers/mis-quarterly.png" alt="MIS Quarterly" width="160"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/information-systems-research/"><img src="assets/covers/information-systems-research.png" alt="Information Systems Research" width="160"></a>
 </p>
 <p align="center">
   <sub>Flagship English econ &amp; business venues — uniform cover cards from the <a href="English-SocialScience-Journal-Skills/">English-SocialScience-Journal-Skills</a> breadth bundle (100 journals + router). Tier badges (Top-5 · Top-3 · FT50 · UTD24) are illustrative; card art is not the journals' trademarks.</sub>
 </p>
 <p align="center">
-  <a href="Science-Skills/"><img src="assets/covers/science.png" alt="Science (AAAS)" width="116"></a>
-  <a href="Cell-Skills/"><img src="assets/covers/cell.png" alt="Cell (Cell Press)" width="116"></a>
-  <a href="PNAS-Skills/"><img src="assets/covers/pnas.png" alt="PNAS" width="116"></a>
-  <a href="NEJM-Skills/"><img src="assets/covers/nejm.png" alt="NEJM — New England Journal of Medicine" width="116"></a>
-  <a href="Lancet-Skills/"><img src="assets/covers/lancet.png" alt="The Lancet" width="116"></a>
+  <a href="Science-Skills/"><img src="assets/covers/science.png" alt="Science (AAAS)" width="160"></a>
+  <a href="Cell-Skills/"><img src="assets/covers/cell.png" alt="Cell (Cell Press)" width="160"></a>
+  <a href="PNAS-Skills/"><img src="assets/covers/pnas.png" alt="PNAS" width="160"></a>
+  <a href="NEJM-Skills/"><img src="assets/covers/nejm.png" alt="NEJM — New England Journal of Medicine" width="160"></a>
+  <a href="Lancet-Skills/"><img src="assets/covers/lancet.png" alt="The Lancet" width="160"></a>
 </p>
 <p align="center">
   <sub>Flagship natural-science &amp; clinical venues — first-party depth packs (12 skills each). Card art is illustrative, not the journals' trademarks.</sub>
