@@ -194,6 +194,117 @@
 |------|------|------|-------:|
 | **约 100 本中文经管路线图期刊** | [Chinese-SocialScience-Journal-Skills/](Chinese-SocialScience-Journal-Skills/) | 一刊一个 router 技能 | 103 |
 
+<!-- COVER-GALLERY:cn-soc:START -->
+<details>
+<summary>📚 <b>展开全部 102 本中文社科期刊封面</b> &mdash; 按学科分组（点击展开）</summary>
+
+<p align="center">
+  <a href="Chinese-SocialScience-Journal-Skills/skills/economic-research/"><img src="assets/covers/economic-research.png" alt="《经济研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/china-industrial-economics/"><img src="assets/covers/china-industrial-economics.png" alt="《中国工业经济》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-world-economy/"><img src="assets/covers/world-economy.png" alt="《世界经济》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/china-economic-quarterly/"><img src="assets/covers/china-economic-quarterly.png" alt="《经济学(季刊)》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/asia-pacific-economic-review/"><img src="assets/covers/asia-pacific-economic-review.png" alt="《亚太经济》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/china-economic-studies/"><img src="assets/covers/china-economic-studies.png" alt="《中国经济问题》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/china-rural-economy/"><img src="assets/covers/china-rural-economy.png" alt="《中国农村经济》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/china-rural-survey/"><img src="assets/covers/china-rural-survey.png" alt="《中国农村观察》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/comparative-economic-and-social-systems/"><img src="assets/covers/comparative-economic-and-social-systems.png" alt="《经济社会体制比较》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/contemporary-economy-of-japan/"><img src="assets/covers/contemporary-economy-of-japan.png" alt="《现代日本经济》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/contemporary-finance-and-economics/"><img src="assets/covers/contemporary-finance-and-economics.png" alt="《当代财经》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/east-china-economic-management/"><img src="assets/covers/east-china-economic-management.png" alt="《华东经济管理》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/economic-aspects/"><img src="assets/covers/economic-aspects.png" alt="《经济纵横》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/economic-perspectives/"><img src="assets/covers/economic-perspectives.png" alt="《经济学动态》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/economic-problems/"><img src="assets/covers/economic-problems.png" alt="《经济问题》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/economic-review-cn/"><img src="assets/covers/economic-review-cn.png" alt="《经济评论》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/economic-science/"><img src="assets/covers/economic-science.png" alt="《经济科学》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/economic-theory-and-business-management/"><img src="assets/covers/economic-theory-and-business-management.png" alt="《经济理论与经济管理》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/economist-cn/"><img src="assets/covers/economist-cn.png" alt="《经济学家》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/finance-and-economics/"><img src="assets/covers/finance-and-economics.png" alt="《财经科学》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/finance-and-trade-economics/"><img src="assets/covers/finance-and-trade-economics.png" alt="《财贸经济》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/industrial-economics-research/"><img src="assets/covers/industrial-economics-research.png" alt="《产业经济研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/inquiry-into-economic-issues/"><img src="assets/covers/inquiry-into-economic-issues.png" alt="《经济问题探索》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/international-economic-review-cn/"><img src="assets/covers/international-economic-review-cn.png" alt="《国际经济评论》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/international-economics-and-trade-research/"><img src="assets/covers/international-economics-and-trade-research.png" alt="《国际经贸探索》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/issues-in-agricultural-economy/"><img src="assets/covers/issues-in-agricultural-economy.png" alt="《农业经济问题》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-agrotechnical-economics/"><img src="assets/covers/journal-of-agrotechnical-economics.png" alt="《农业技术经济》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-business-economics/"><img src="assets/covers/journal-of-business-economics.png" alt="《商业经济与管理》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-central-university-of-finance-and-economics/"><img src="assets/covers/journal-of-central-university-of-finance-and-economics.png" alt="《中央财经大学学报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-finance-and-economics/"><img src="assets/covers/journal-of-finance-and-economics.png" alt="《财经研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-guangdong-university-of-finance-and-economics/"><img src="assets/covers/journal-of-guangdong-university-of-finance-and-economics.png" alt="《广东财经大学学报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-international-trade/"><img src="assets/covers/journal-of-international-trade.png" alt="《国际贸易问题》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-jiangxi-university-of-finance-and-economics/"><img src="assets/covers/journal-of-jiangxi-university-of-finance-and-economics.png" alt="《江西财经大学学报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-macro-quality-research/"><img src="assets/covers/journal-of-macro-quality-research.png" alt="《宏观质量研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-shanghai-university-of-finance-and-economics/"><img src="assets/covers/journal-of-shanghai-university-of-finance-and-economics.png" alt="《上海财经大学学报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-shanxi-university-of-finance-and-economics/"><img src="assets/covers/journal-of-shanxi-university-of-finance-and-economics.png" alt="《山西财经大学学报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-zhongnan-university-of-economics-and-law/"><img src="assets/covers/journal-of-zhongnan-university-of-economics-and-law.png" alt="《中南财经政法大学学报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/macroeconomics/"><img src="assets/covers/macroeconomics.png" alt="《宏观经济研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/modern-economic-research/"><img src="assets/covers/modern-economic-research.png" alt="《现代经济探讨》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/modern-economic-science/"><img src="assets/covers/modern-economic-science.png" alt="《当代经济科学》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/modern-finance-and-economics/"><img src="assets/covers/modern-finance-and-economics.png" alt="《现代财经（天津财经大学学报）》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/nankai-economic-studies/"><img src="assets/covers/nankai-economic-studies.png" alt="《南开经济研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/public-finance-research/"><img src="assets/covers/public-finance-research.png" alt="《财政研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/reform/"><img src="assets/covers/reform.png" alt="《改革》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/reform-of-economic-system/"><img src="assets/covers/reform-of-economic-system.png" alt="《经济体制改革》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/research-on-economics-and-management/"><img src="assets/covers/research-on-economics-and-management.png" alt="《经济与管理研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/research-on-financial-and-economic-issues/"><img src="assets/covers/research-on-financial-and-economic-issues.png" alt="《财经问题研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/review-of-political-economy/"><img src="assets/covers/review-of-political-economy.png" alt="《政治经济学评论》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/rural-economy/"><img src="assets/covers/rural-economy.png" alt="《农村经济》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/shanghai-journal-of-economics/"><img src="assets/covers/shanghai-journal-of-economics.png" alt="《上海经济研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/south-china-journal-of-economics/"><img src="assets/covers/south-china-journal-of-economics.png" alt="《南方经济》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/studies-in-labor-economics/"><img src="assets/covers/studies-in-labor-economics.png" alt="《劳动经济研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/world-economic-papers/"><img src="assets/covers/world-economic-papers.png" alt="《世界经济文汇》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/world-economic-studies/"><img src="assets/covers/world-economic-studies.png" alt="《世界经济研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-financial-research/"><img src="assets/covers/journal-of-financial-research.png" alt="《金融研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/chinese-review-of-financial-studies/"><img src="assets/covers/chinese-review-of-financial-studies.png" alt="《金融评论》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/financial-regulation-research/"><img src="assets/covers/financial-regulation-research.png" alt="《金融监管研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/modern-financial-research/"><img src="assets/covers/modern-financial-research.png" alt="《现代金融研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/securities-market-herald/"><img src="assets/covers/securities-market-herald.png" alt="《证券市场导报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/studies-of-financial-economics/"><img src="assets/covers/studies-of-financial-economics.png" alt="《金融经济学研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/studies-of-international-finance/"><img src="assets/covers/studies-of-international-finance.png" alt="《国际金融研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/management-world/"><img src="assets/covers/management-world.png" alt="《管理世界》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/nankai-business-review/"><img src="assets/covers/nankai-business-review.png" alt="《南开管理评论》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-management-sciences-china/"><img src="assets/covers/management-sciences-in-china.png" alt="《管理科学学报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/business-management-journal/"><img src="assets/covers/business-management-journal.png" alt="《经济管理》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/chinese-journal-of-management/"><img src="assets/covers/chinese-journal-of-management.png" alt="《管理学报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/chinese-journal-of-management-science/"><img src="assets/covers/chinese-journal-of-management-science.png" alt="《中国管理科学》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/foreign-economics-and-management/"><img src="assets/covers/foreign-economics-and-management.png" alt="《外国经济与管理》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/frontiers-of-engineering-management-science-and-technology/"><img src="assets/covers/frontiers-of-engineering-management-science-and-technology.png" alt="《工程管理科技前沿》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-industrial-engineering-and-engineering-management/"><img src="assets/covers/journal-of-industrial-engineering-and-engineering-management.png" alt="《管理工程学报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-management/"><img src="assets/covers/journal-of-management.png" alt="《管理学刊》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/management-review/"><img src="assets/covers/management-review.png" alt="《管理评论》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/management-science-cn/"><img src="assets/covers/management-science-cn.png" alt="《管理科学》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/organization-and-management/"><img src="assets/covers/organization-and-management.png" alt="《组织与管理》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/accounting-research/"><img src="assets/covers/accounting-research.png" alt="《会计研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/accounting-and-economics-research/"><img src="assets/covers/accounting-and-economics-research.png" alt="《会计与经济研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/auditing-and-economics-research/"><img src="assets/covers/auditing-and-economics-research.png" alt="《审计与经济研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/auditing-research/"><img src="assets/covers/auditing-research.png" alt="《审计研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/china-accounting-review/"><img src="assets/covers/china-accounting-review.png" alt="《会计评论》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/tax-research/"><img src="assets/covers/tax-research.png" alt="《税务研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-quantitative-technological-economics/"><img src="assets/covers/quantitative-technological-economics.png" alt="《数量经济技术经济研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/bulletin-of-chinese-academy-of-sciences/"><img src="assets/covers/bulletin-of-chinese-academy-of-sciences.png" alt="《中国科学院院刊》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/china-soft-science/"><img src="assets/covers/china-soft-science.png" alt="《中国软科学》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/forum-on-science-and-technology-in-china/"><img src="assets/covers/forum-on-science-and-technology-in-china.png" alt="《中国科技论坛》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/research-and-development-management/"><img src="assets/covers/research-and-development-management.png" alt="《研究与发展管理》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/science-and-technology-progress-and-policy/"><img src="assets/covers/science-and-technology-progress-and-policy.png" alt="《科技进步与对策》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/science-of-science-and-management-of-st/"><img src="assets/covers/science-of-science-and-management-of-st.png" alt="《科学学与科学技术管理》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/science-research-management/"><img src="assets/covers/science-research-management.png" alt="《科研管理》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/scientific-decision-making/"><img src="assets/covers/scientific-decision-making.png" alt="《科学决策》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/scientific-management-research/"><img src="assets/covers/scientific-management-research.png" alt="《科学管理研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/soft-science/"><img src="assets/covers/soft-science.png" alt="《软科学》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/studies-in-science-of-science/"><img src="assets/covers/studies-in-science-of-science.png" alt="《科学学研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/systems-engineering-theory-and-practice/"><img src="assets/covers/systems-engineering-theory-and-practice.png" alt="《系统工程理论与实践》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/china-public-administration-review/"><img src="assets/covers/china-public-administration-review.png" alt="《公共管理评论》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/chinese-public-administration/"><img src="assets/covers/chinese-public-administration.png" alt="《中国行政管理》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/e-government/"><img src="assets/covers/e-government.png" alt="《电子政务》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/governance-studies/"><img src="assets/covers/governance-studies.png" alt="《治理研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/journal-of-public-management/"><img src="assets/covers/journal-of-public-management.png" alt="《公共管理学报》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/public-administration-and-policy-review/"><img src="assets/covers/public-administration-and-policy-review.png" alt="《公共管理与政策评论》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/social-sciences-in-china/"><img src="assets/covers/social-sciences-in-china.png" alt="《中国社会科学》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/sociological-studies/"><img src="assets/covers/sociological-studies.png" alt="《社会学研究》" width="100"></a>
+  <a href="Chinese-SocialScience-Journal-Skills/skills/social-security-studies/"><img src="assets/covers/social-security-studies.png" alt="《社会保障评论》" width="100"></a>
+</p>
+</details>
+<!-- COVER-GALLERY:cn-soc:END -->
+
 ### 社会科学 · 英文顶刊 —— 深度独立包
 
 | 封面 | 期刊 | Pack | 学科 | 技能数 |
@@ -207,6 +318,115 @@
 | **100 本英文经管路线图期刊** | [English-SocialScience-Journal-Skills/](English-SocialScience-Journal-Skills/) | 一刊一个“选刊定位 + 写作风格”技能 + `en-journal-workflow` 路由 | 101 |
 
 该合集覆盖下方完整英文路线图：经济学 50 · 金融 13 · 管理/战略/组织 15 · 营销 6 · 会计 6 · 运营与信息系统 10。与中文广度合集一致，每个 profile 都是“选刊 / 改写框架”工具，并把易变事实（影响因子、版面费、字数限制）交由单刊“官方核验清单”在投稿前重新核对。
+
+<!-- COVER-GALLERY:en-soc:START -->
+<details>
+<summary>📚 <b>展开全部 100 本英文社科期刊封面</b> &mdash; 按学科分组（点击展开）</summary>
+
+<p align="center">
+  <a href="English-SocialScience-Journal-Skills/skills/american-economic-review/"><img src="assets/covers/american-economic-review.png" alt="《American Economic Review》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/quarterly-journal-of-economics/"><img src="assets/covers/quarterly-journal-of-economics.png" alt="《Quarterly Journal of Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-political-economy/"><img src="assets/covers/journal-of-political-economy.png" alt="《Journal of Political Economy》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/econometrica/"><img src="assets/covers/econometrica.png" alt="《Econometrica》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/review-of-economic-studies/"><img src="assets/covers/review-of-economic-studies.png" alt="《Review of Economic Studies》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/aer-insights/"><img src="assets/covers/aer-insights.png" alt="《AER: Insights》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/aej-applied-economics/"><img src="assets/covers/aej-applied-economics.png" alt="《American Economic Journal: Applied Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/aej-macroeconomics/"><img src="assets/covers/aej-macroeconomics.png" alt="《American Economic Journal: Macroeconomics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/aej-microeconomics/"><img src="assets/covers/aej-microeconomics.png" alt="《American Economic Journal: Microeconomics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/aej-economic-policy/"><img src="assets/covers/aej-economic-policy.png" alt="《American Economic Journal: Economic Policy》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-economic-literature/"><img src="assets/covers/journal-of-economic-literature.png" alt="《Journal of Economic Literature》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-economic-perspectives/"><img src="assets/covers/journal-of-economic-perspectives.png" alt="《Journal of Economic Perspectives》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/review-of-economics-and-statistics/"><img src="assets/covers/review-of-economics-and-statistics.png" alt="《Review of Economics and Statistics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-econometrics/"><img src="assets/covers/journal-of-econometrics.png" alt="《Journal of Econometrics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-monetary-economics/"><img src="assets/covers/journal-of-monetary-economics.png" alt="《Journal of Monetary Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-economic-growth/"><img src="assets/covers/journal-of-economic-growth.png" alt="《Journal of Economic Growth》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-labor-economics/"><img src="assets/covers/journal-of-labor-economics.png" alt="《Journal of Labor Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-the-european-economic-association/"><img src="assets/covers/journal-of-the-european-economic-association.png" alt="《Journal of the European Economic Association》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/the-economic-journal/"><img src="assets/covers/the-economic-journal.png" alt="《The Economic Journal》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/rand-journal-of-economics/"><img src="assets/covers/rand-journal-of-economics.png" alt="《RAND Journal of Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-international-economics/"><img src="assets/covers/journal-of-international-economics.png" alt="《Journal of International Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-public-economics/"><img src="assets/covers/journal-of-public-economics.png" alt="《Journal of Public Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-development-economics/"><img src="assets/covers/journal-of-development-economics.png" alt="《Journal of Development Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-economic-theory/"><img src="assets/covers/journal-of-economic-theory.png" alt="《Journal of Economic Theory》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-money-credit-and-banking/"><img src="assets/covers/journal-of-money-credit-and-banking.png" alt="《Journal of Money, Credit and Banking》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/review-of-economic-dynamics/"><img src="assets/covers/review-of-economic-dynamics.png" alt="《Review of Economic Dynamics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/european-economic-review/"><img src="assets/covers/european-economic-review.png" alt="《European Economic Review》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-human-resources/"><img src="assets/covers/journal-of-human-resources.png" alt="《Journal of Human Resources》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/international-economic-review/"><img src="assets/covers/international-economic-review.png" alt="《International Economic Review》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/experimental-economics/"><img src="assets/covers/experimental-economics.png" alt="《Experimental Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-applied-econometrics/"><img src="assets/covers/journal-of-applied-econometrics.png" alt="《Journal of Applied Econometrics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-business-and-economic-statistics/"><img src="assets/covers/journal-of-business-and-economic-statistics.png" alt="《Journal of Business and Economic Statistics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-health-economics/"><img src="assets/covers/journal-of-health-economics.png" alt="《Journal of Health Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-environmental-economics-and-management/"><img src="assets/covers/journal-of-environmental-economics-and-management.png" alt="《Journal of Environmental Economics and Management》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-urban-economics/"><img src="assets/covers/journal-of-urban-economics.png" alt="《Journal of Urban Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/games-and-economic-behavior/"><img src="assets/covers/games-and-economic-behavior.png" alt="《Games and Economic Behavior》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-law-and-economics/"><img src="assets/covers/journal-of-law-and-economics.png" alt="《Journal of Law and Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-law-economics-and-organization/"><img src="assets/covers/journal-of-law-economics-and-organization.png" alt="《Journal of Law, Economics, and Organization》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/world-development/"><img src="assets/covers/world-development.png" alt="《World Development》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/world-bank-economic-review/"><img src="assets/covers/world-bank-economic-review.png" alt="《World Bank Economic Review》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/imf-economic-review/"><img src="assets/covers/imf-economic-review.png" alt="《IMF Economic Review》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/annual-review-of-economics/"><img src="assets/covers/annual-review-of-economics.png" alt="《Annual Review of Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/brookings-papers-on-economic-activity/"><img src="assets/covers/brookings-papers-on-economic-activity.png" alt="《Brookings Papers on Economic Activity》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/economic-policy/"><img src="assets/covers/economic-policy.png" alt="《Economic Policy》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-risk-and-uncertainty/"><img src="assets/covers/journal-of-risk-and-uncertainty.png" alt="《Journal of Risk and Uncertainty》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/quantitative-economics/"><img src="assets/covers/quantitative-economics.png" alt="《Quantitative Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/the-econometrics-journal/"><img src="assets/covers/the-econometrics-journal.png" alt="《The Econometrics Journal》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/econometric-theory/"><img src="assets/covers/econometric-theory.png" alt="《Econometric Theory》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-economic-behavior-and-organization/"><img src="assets/covers/journal-of-economic-behavior-and-organization.png" alt="《Journal of Economic Behavior and Organization》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-economic-geography/"><img src="assets/covers/journal-of-economic-geography.png" alt="《Journal of Economic Geography》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-finance/"><img src="assets/covers/journal-of-finance.png" alt="《Journal of Finance》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-financial-economics/"><img src="assets/covers/journal-of-financial-economics.png" alt="《Journal of Financial Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/review-of-financial-studies/"><img src="assets/covers/review-of-financial-studies.png" alt="《Review of Financial Studies》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/review-of-finance/"><img src="assets/covers/review-of-finance.png" alt="《Review of Finance》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-financial-and-quantitative-analysis/"><img src="assets/covers/journal-of-financial-and-quantitative-analysis.png" alt="《Journal of Financial and Quantitative Analysis》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-financial-intermediation/"><img src="assets/covers/journal-of-financial-intermediation.png" alt="《Journal of Financial Intermediation》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-financial-markets/"><img src="assets/covers/journal-of-financial-markets.png" alt="《Journal of Financial Markets》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-banking-and-finance/"><img src="assets/covers/journal-of-banking-and-finance.png" alt="《Journal of Banking and Finance》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-corporate-finance/"><img src="assets/covers/journal-of-corporate-finance.png" alt="《Journal of Corporate Finance》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-international-money-and-finance/"><img src="assets/covers/journal-of-international-money-and-finance.png" alt="《Journal of International Money and Finance》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/mathematical-finance/"><img src="assets/covers/mathematical-finance.png" alt="《Mathematical Finance》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-empirical-finance/"><img src="assets/covers/journal-of-empirical-finance.png" alt="《Journal of Empirical Finance》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/financial-management/"><img src="assets/covers/financial-management.png" alt="《Financial Management》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/academy-of-management-journal/"><img src="assets/covers/academy-of-management-journal.png" alt="《Academy of Management Journal》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/academy-of-management-review/"><img src="assets/covers/academy-of-management-review.png" alt="《Academy of Management Review》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/academy-of-management-annals/"><img src="assets/covers/academy-of-management-annals.png" alt="《Academy of Management Annals》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/administrative-science-quarterly/"><img src="assets/covers/administrative-science-quarterly.png" alt="《Administrative Science Quarterly》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/strategic-management-journal/"><img src="assets/covers/strategic-management-journal.png" alt="《Strategic Management Journal》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/organization-science/"><img src="assets/covers/organization-science.png" alt="《Organization Science》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-management-en/"><img src="assets/covers/journal-of-management-en.png" alt="《Journal of Management》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-management-studies/"><img src="assets/covers/journal-of-management-studies.png" alt="《Journal of Management Studies》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/organization-studies/"><img src="assets/covers/organization-studies.png" alt="《Organization Studies》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/human-relations/"><img src="assets/covers/human-relations.png" alt="《Human Relations》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/human-resource-management/"><img src="assets/covers/human-resource-management.png" alt="《Human Resource Management》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-international-business-studies/"><img src="assets/covers/journal-of-international-business-studies.png" alt="《Journal of International Business Studies》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/research-policy/"><img src="assets/covers/research-policy.png" alt="《Research Policy》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-business-venturing/"><img src="assets/covers/journal-of-business-venturing.png" alt="《Journal of Business Venturing》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/entrepreneurship-theory-and-practice/"><img src="assets/covers/entrepreneurship-theory-and-practice.png" alt="《Entrepreneurship Theory and Practice》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-marketing/"><img src="assets/covers/journal-of-marketing.png" alt="《Journal of Marketing》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-marketing-research/"><img src="assets/covers/journal-of-marketing-research.png" alt="《Journal of Marketing Research》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/marketing-science/"><img src="assets/covers/marketing-science.png" alt="《Marketing Science》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-consumer-research/"><img src="assets/covers/journal-of-consumer-research.png" alt="《Journal of Consumer Research》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-consumer-psychology/"><img src="assets/covers/journal-of-consumer-psychology.png" alt="《Journal of Consumer Psychology》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-the-academy-of-marketing-science/"><img src="assets/covers/journal-of-the-academy-of-marketing-science.png" alt="《Journal of the Academy of Marketing Science》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/the-accounting-review/"><img src="assets/covers/the-accounting-review.png" alt="《The Accounting Review》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-accounting-research/"><img src="assets/covers/journal-of-accounting-research.png" alt="《Journal of Accounting Research》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-accounting-and-economics/"><img src="assets/covers/journal-of-accounting-and-economics.png" alt="《Journal of Accounting and Economics》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/review-of-accounting-studies/"><img src="assets/covers/review-of-accounting-studies.png" alt="《Review of Accounting Studies》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/contemporary-accounting-research/"><img src="assets/covers/contemporary-accounting-research.png" alt="《Contemporary Accounting Research》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/accounting-organizations-and-society/"><img src="assets/covers/accounting-organizations-and-society.png" alt="《Accounting, Organizations and Society》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/management-science/"><img src="assets/covers/management-science.png" alt="《Management Science》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/operations-research/"><img src="assets/covers/operations-research.png" alt="《Operations Research》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/manufacturing-and-service-operations-management/"><img src="assets/covers/manufacturing-and-service-operations-management.png" alt="《Manufacturing and Service Operations Management》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-operations-management/"><img src="assets/covers/journal-of-operations-management.png" alt="《Journal of Operations Management》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/production-and-operations-management/"><img src="assets/covers/production-and-operations-management.png" alt="《Production and Operations Management》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/mis-quarterly/"><img src="assets/covers/mis-quarterly.png" alt="《MIS Quarterly》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/information-systems-research/"><img src="assets/covers/information-systems-research.png" alt="《Information Systems Research》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-management-information-systems/"><img src="assets/covers/journal-of-management-information-systems.png" alt="《Journal of Management Information Systems》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/journal-of-the-association-for-information-systems/"><img src="assets/covers/journal-of-the-association-for-information-systems.png" alt="《Journal of the Association for Information Systems》" width="100"></a>
+  <a href="English-SocialScience-Journal-Skills/skills/informs-journal-on-computing/"><img src="assets/covers/informs-journal-on-computing.png" alt="《INFORMS Journal on Computing》" width="100"></a>
+</p>
+</details>
+<!-- COVER-GALLERY:en-soc:END -->
 
 ### 自然科学 · 英文顶刊 —— 深度独立包
 
@@ -227,6 +447,115 @@
 | **100 本英文自然科学 / 临床 / 物理 / 形式科学期刊** | [English-NaturalScience-Journal-Skills/](English-NaturalScience-Journal-Skills/) | 一刊一个“选刊定位 + 写作风格”技能 + `en-natsci-journal-workflow` 路由 | 101 |
 
 这是英文经管广度合集的自然科学姊妹包——“另一个 100”：综合/多学科 7 · 细胞/分子/基因组生物学 16 · 生态/演化/植物 5 · 免疫/微生物/实验医学 4 · 开放获取与基因组学 3 · 神经科学与行为 4 · 临床综合 7 · 临床专科 11 · 转化与肿瘤 4 · 物理 9 · 天文 3 · 化学 10 · 材料与能源 5 · 地球/环境/气候 5 · CS/AI/工程 4 · 数学 3。与其它广度合集一致，每个 profile 都把易变事实（影响因子、版面费、字数/图数限制）交由单刊“官方核验清单”在投稿前重新核对；临床类还需核对适用报告规范（CONSORT/PRISMA/STROBE/ARRIVE）。
+
+<!-- COVER-GALLERY:en-nat:START -->
+<details>
+<summary>📚 <b>展开全部 100 本英文自然科学期刊封面</b> &mdash; 按学科分组（点击展开）</summary>
+
+<p align="center">
+  <a href="English-NaturalScience-Journal-Skills/skills/nature/"><img src="assets/covers/nature.png" alt="《Nature》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/science/"><img src="assets/covers/science.png" alt="《Science》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/pnas/"><img src="assets/covers/pnas.png" alt="《Proceedings of the National Academy of Sciences》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/science-advances/"><img src="assets/covers/science-advances.png" alt="《Science Advances》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-communications/"><img src="assets/covers/nature-communications.png" alt="《Nature Communications》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/national-science-review/"><img src="assets/covers/national-science-review.png" alt="《National Science Review》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/the-innovation/"><img src="assets/covers/the-innovation.png" alt="《The Innovation》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/cell/"><img src="assets/covers/cell.png" alt="《Cell》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/molecular-cell/"><img src="assets/covers/molecular-cell.png" alt="《Molecular Cell》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/developmental-cell/"><img src="assets/covers/developmental-cell.png" alt="《Developmental Cell》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/cell-stem-cell/"><img src="assets/covers/cell-stem-cell.png" alt="《Cell Stem Cell》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/current-biology/"><img src="assets/covers/current-biology.png" alt="《Current Biology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-cell-biology/"><img src="assets/covers/nature-cell-biology.png" alt="《Nature Cell Biology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-genetics/"><img src="assets/covers/nature-genetics.png" alt="《Nature Genetics》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-methods/"><img src="assets/covers/nature-methods.png" alt="《Nature Methods》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-biotechnology/"><img src="assets/covers/nature-biotechnology.png" alt="《Nature Biotechnology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-structural-and-molecular-biology/"><img src="assets/covers/nature-structural-and-molecular-biology.png" alt="《Nature Structural & Molecular Biology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/the-embo-journal/"><img src="assets/covers/the-embo-journal.png" alt="《The EMBO Journal》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/genome-biology/"><img src="assets/covers/genome-biology.png" alt="《Genome Biology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nucleic-acids-research/"><img src="assets/covers/nucleic-acids-research.png" alt="《Nucleic Acids Research》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/the-plant-cell/"><img src="assets/covers/the-plant-cell.png" alt="《The Plant Cell》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/plos-biology/"><img src="assets/covers/plos-biology.png" alt="《PLOS Biology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/elife/"><img src="assets/covers/elife.png" alt="《eLife》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/cell-metabolism/"><img src="assets/covers/cell-metabolism.png" alt="《Cell Metabolism》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/ecology-letters/"><img src="assets/covers/ecology-letters.png" alt="《Ecology Letters》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-ecology-and-evolution/"><img src="assets/covers/nature-ecology-and-evolution.png" alt="《Nature Ecology & Evolution》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/molecular-biology-and-evolution/"><img src="assets/covers/molecular-biology-and-evolution.png" alt="《Molecular Biology and Evolution》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/immunity/"><img src="assets/covers/immunity.png" alt="《Immunity》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-immunology/"><img src="assets/covers/nature-immunology.png" alt="《Nature Immunology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-microbiology/"><img src="assets/covers/nature-microbiology.png" alt="《Nature Microbiology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/cell-host-and-microbe/"><img src="assets/covers/cell-host-and-microbe.png" alt="《Cell Host & Microbe》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/journal-of-experimental-medicine/"><img src="assets/covers/journal-of-experimental-medicine.png" alt="《Journal of Experimental Medicine》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/science-immunology/"><img src="assets/covers/science-immunology.png" alt="《Science Immunology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/neuron/"><img src="assets/covers/neuron.png" alt="《Neuron》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-neuroscience/"><img src="assets/covers/nature-neuroscience.png" alt="《Nature Neuroscience》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/trends-in-cognitive-sciences/"><img src="assets/covers/trends-in-cognitive-sciences.png" alt="《Trends in Cognitive Sciences》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/molecular-psychiatry/"><img src="assets/covers/molecular-psychiatry.png" alt="《Molecular Psychiatry》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-human-behaviour/"><img src="assets/covers/nature-human-behaviour.png" alt="《Nature Human Behaviour》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nejm/"><img src="assets/covers/nejm.png" alt="《The New England Journal of Medicine》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/the-lancet/"><img src="assets/covers/lancet.png" alt="《The Lancet》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/jama/"><img src="assets/covers/jama.png" alt="《JAMA》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/the-bmj/"><img src="assets/covers/the-bmj.png" alt="《The BMJ》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/annals-of-internal-medicine/"><img src="assets/covers/annals-of-internal-medicine.png" alt="《Annals of Internal Medicine》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/plos-medicine/"><img src="assets/covers/plos-medicine.png" alt="《PLOS Medicine》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-medicine/"><img src="assets/covers/nature-medicine.png" alt="《Nature Medicine》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/science-translational-medicine/"><img src="assets/covers/science-translational-medicine.png" alt="《Science Translational Medicine》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/circulation/"><img src="assets/covers/circulation.png" alt="《Circulation》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/european-heart-journal/"><img src="assets/covers/european-heart-journal.png" alt="《European Heart Journal》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/journal-of-the-american-college-of-cardiology/"><img src="assets/covers/journal-of-the-american-college-of-cardiology.png" alt="《Journal of the American College of Cardiology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/gastroenterology/"><img src="assets/covers/gastroenterology.png" alt="《Gastroenterology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/gut/"><img src="assets/covers/gut.png" alt="《Gut》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/blood/"><img src="assets/covers/blood.png" alt="《Blood》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/diabetes-care/"><img src="assets/covers/diabetes-care.png" alt="《Diabetes Care》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/the-lancet-infectious-diseases/"><img src="assets/covers/the-lancet-infectious-diseases.png" alt="《The Lancet Infectious Diseases》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/the-lancet-neurology/"><img src="assets/covers/the-lancet-neurology.png" alt="《The Lancet Neurology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/journal-of-clinical-investigation/"><img src="assets/covers/journal-of-clinical-investigation.png" alt="《Journal of Clinical Investigation》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/cancer-cell/"><img src="assets/covers/cancer-cell.png" alt="《Cancer Cell》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/cancer-discovery/"><img src="assets/covers/cancer-discovery.png" alt="《Cancer Discovery》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/journal-of-clinical-oncology/"><img src="assets/covers/journal-of-clinical-oncology.png" alt="《Journal of Clinical Oncology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/ca-a-cancer-journal-for-clinicians/"><img src="assets/covers/ca-a-cancer-journal-for-clinicians.png" alt="《CA: A Cancer Journal for Clinicians》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/the-lancet-oncology/"><img src="assets/covers/the-lancet-oncology.png" alt="《The Lancet Oncology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/physical-review-letters/"><img src="assets/covers/physical-review-letters.png" alt="《Physical Review Letters》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/physical-review-b/"><img src="assets/covers/physical-review-b.png" alt="《Physical Review B》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/physical-review-d/"><img src="assets/covers/physical-review-d.png" alt="《Physical Review D》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/physical-review-x/"><img src="assets/covers/physical-review-x.png" alt="《Physical Review X》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/reviews-of-modern-physics/"><img src="assets/covers/reviews-of-modern-physics.png" alt="《Reviews of Modern Physics》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/reports-on-progress-in-physics/"><img src="assets/covers/reports-on-progress-in-physics.png" alt="《Reports on Progress in Physics》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-physics/"><img src="assets/covers/nature-physics.png" alt="《Nature Physics》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-photonics/"><img src="assets/covers/nature-photonics.png" alt="《Nature Photonics》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/prx-quantum/"><img src="assets/covers/prx-quantum.png" alt="《PRX Quantum》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/the-astrophysical-journal/"><img src="assets/covers/the-astrophysical-journal.png" alt="《The Astrophysical Journal》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/monthly-notices-of-the-royal-astronomical-society/"><img src="assets/covers/monthly-notices-of-the-royal-astronomical-society.png" alt="《Monthly Notices of the Royal Astronomical Society》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-astronomy/"><img src="assets/covers/nature-astronomy.png" alt="《Nature Astronomy》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/journal-of-the-american-chemical-society/"><img src="assets/covers/journal-of-the-american-chemical-society.png" alt="《Journal of the American Chemical Society》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/angewandte-chemie-international-edition/"><img src="assets/covers/angewandte-chemie-international-edition.png" alt="《Angewandte Chemie International Edition》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/chemical-reviews/"><img src="assets/covers/chemical-reviews.png" alt="《Chemical Reviews》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/chemical-society-reviews/"><img src="assets/covers/chemical-society-reviews.png" alt="《Chemical Society Reviews》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/accounts-of-chemical-research/"><img src="assets/covers/accounts-of-chemical-research.png" alt="《Accounts of Chemical Research》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-chemistry/"><img src="assets/covers/nature-chemistry.png" alt="《Nature Chemistry》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-catalysis/"><img src="assets/covers/nature-catalysis.png" alt="《Nature Catalysis》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/chem/"><img src="assets/covers/chem.png" alt="《Chem》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/acs-nano/"><img src="assets/covers/acs-nano.png" alt="《ACS Nano》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/advanced-materials/"><img src="assets/covers/advanced-materials.png" alt="《Advanced Materials》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-materials/"><img src="assets/covers/nature-materials.png" alt="《Nature Materials》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-nanotechnology/"><img src="assets/covers/nature-nanotechnology.png" alt="《Nature Nanotechnology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/energy-and-environmental-science/"><img src="assets/covers/energy-and-environmental-science.png" alt="《Energy & Environmental Science》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/joule/"><img src="assets/covers/joule.png" alt="《Joule》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-energy/"><img src="assets/covers/nature-energy.png" alt="《Nature Energy》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-geoscience/"><img src="assets/covers/nature-geoscience.png" alt="《Nature Geoscience》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-climate-change/"><img src="assets/covers/nature-climate-change.png" alt="《Nature Climate Change》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-sustainability/"><img src="assets/covers/nature-sustainability.png" alt="《Nature Sustainability》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/one-earth/"><img src="assets/covers/one-earth.png" alt="《One Earth》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/environmental-science-and-technology/"><img src="assets/covers/environmental-science-and-technology.png" alt="《Environmental Science & Technology》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/ieee-transactions-on-pattern-analysis-and-machine-intelligence/"><img src="assets/covers/ieee-transactions-on-pattern-analysis-and-machine-intelligence.png" alt="《IEEE Transactions on Pattern Analysis and Machine Intelligence》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/journal-of-machine-learning-research/"><img src="assets/covers/journal-of-machine-learning-research.png" alt="《Journal of Machine Learning Research》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/nature-machine-intelligence/"><img src="assets/covers/nature-machine-intelligence.png" alt="《Nature Machine Intelligence》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/science-robotics/"><img src="assets/covers/science-robotics.png" alt="《Science Robotics》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/annals-of-mathematics/"><img src="assets/covers/annals-of-mathematics.png" alt="《Annals of Mathematics》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/inventiones-mathematicae/"><img src="assets/covers/inventiones-mathematicae.png" alt="《Inventiones Mathematicae》" width="100"></a>
+  <a href="English-NaturalScience-Journal-Skills/skills/journal-of-the-american-mathematical-society/"><img src="assets/covers/journal-of-the-american-mathematical-society.png" alt="《Journal of the American Mathematical Society》" width="100"></a>
+</p>
+</details>
+<!-- COVER-GALLERY:en-nat:END -->
 
 ### 自然科学 · 英文顶刊 —— 第三方收录
 
