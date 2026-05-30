@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "annals-of-mathematics-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for theorem-and-proof manuscripts targeted at Annals of Mathematics.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "annals-of-mathematics-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Annals of Mathematics manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/annals-of-mathematics-skills",
+      "repository": "https://github.com/brycewang-stanford/annals-of-mathematics-skills",
+      "keywords": [
+        "annals-of-mathematics",
+        "pure-mathematics",
+        "theorem-proof",
+        "ams-latex",
+        "proof-verification",
+        "mathematical-writing",
+        "peer-review"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/anmath-workflow",
+        "skills/anmath-scope-fit",
+        "skills/anmath-results-framing",
+        "skills/anmath-methods",
+        "skills/anmath-figures",
+        "skills/anmath-supplementary",
+        "skills/anmath-writing-style",
+        "skills/anmath-length-management",
+        "skills/anmath-cover-letter",
+        "skills/anmath-submission",
+        "skills/anmath-referee-strategy",
+        "skills/anmath-revision"
+      ]
+    }
+  ]
+}

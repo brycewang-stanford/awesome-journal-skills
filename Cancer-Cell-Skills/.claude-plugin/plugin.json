@@ -1,0 +1,26 @@
+{
+  "name": "cancer-cell-skills",
+  "description": "Agent skill stack for submitting molecular and translational oncology manuscripts to Cancer Cell (Cell Press). Covers scope fit (mechanism plus translational relevance), experimental design across in vitro / in vivo (mouse, PDX, organoid) / human tumor systems, STAR Methods rigor and reproducibility, biological statistics, multi-panel mechanistic figures, the Cancer Cell summary / Highlights / graphical abstract, IACUC / IRB ethics and GEO/SRA/PRIDE/PDB data deposition, cover letters, submission preflight, and consultative peer review. Bilingual en / zh-CN docs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/cancer-cell-skills",
+  "repository": "https://github.com/brycewang-stanford/cancer-cell-skills",
+  "keywords": [
+    "cancer-cell",
+    "cell-press",
+    "molecular-oncology",
+    "tumor-biology",
+    "immuno-oncology",
+    "cancer-genomics",
+    "tumor-microenvironment",
+    "star-methods",
+    "rigor-reproducibility",
+    "mouse-models",
+    "data-deposition",
+    "academic-writing"
+  ]
+}

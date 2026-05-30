@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "jama-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for clinical manuscripts targeted at JAMA (Journal of the American Medical Association).",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "jama-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the JAMA (Journal of the American Medical Association) manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/jama-skills",
+      "repository": "https://github.com/brycewang-stanford/jama-skills",
+      "keywords": [
+        "jama",
+        "clinical-research",
+        "consort",
+        "strobe",
+        "prisma",
+        "icmje",
+        "medical-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/jama-workflow",
+        "skills/jama-scope-fit",
+        "skills/jama-study-design",
+        "skills/jama-reporting-standards",
+        "skills/jama-statistics",
+        "skills/jama-figures-tables",
+        "skills/jama-structured-abstract",
+        "skills/jama-ethics-registration",
+        "skills/jama-writing-style",
+        "skills/jama-cover-letter",
+        "skills/jama-submission",
+        "skills/jama-peer-review-revision"
+      ]
+    }
+  ]
+}

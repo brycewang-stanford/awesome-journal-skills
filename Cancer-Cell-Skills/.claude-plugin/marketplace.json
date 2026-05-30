@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "cancer-cell-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for molecular and translational oncology manuscripts targeted at Cancer Cell (Cell Press).",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "cancer-cell-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Cancer Cell (Cell Press) manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/cancer-cell-skills",
+      "repository": "https://github.com/brycewang-stanford/cancer-cell-skills",
+      "keywords": [
+        "cancer-cell",
+        "cell-press",
+        "molecular-oncology",
+        "star-methods",
+        "rigor-reproducibility",
+        "immuno-oncology",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/cc-workflow",
+        "skills/cc-scope-fit",
+        "skills/cc-study-design",
+        "skills/cc-reporting-standards",
+        "skills/cc-statistics",
+        "skills/cc-figures-tables",
+        "skills/cc-structured-abstract",
+        "skills/cc-ethics-registration",
+        "skills/cc-writing-style",
+        "skills/cc-cover-letter",
+        "skills/cc-submission",
+        "skills/cc-peer-review-revision"
+      ]
+    }
+  ]
+}

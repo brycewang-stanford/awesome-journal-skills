@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "jacs-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at the Journal of the American Chemical Society (JACS), a premier broad-scope chemistry journal of the ACS.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "jacs-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Journal of the American Chemical Society (JACS) manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/jacs-skills",
+      "repository": "https://github.com/brycewang-stanford/jacs-skills",
+      "keywords": [
+        "jacs",
+        "acs",
+        "chemistry",
+        "synthesis",
+        "characterization",
+        "catalysis",
+        "academic-writing"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/jacs-workflow",
+        "skills/jacs-scope-fit",
+        "skills/jacs-results-framing",
+        "skills/jacs-methods",
+        "skills/jacs-figures",
+        "skills/jacs-supplementary",
+        "skills/jacs-writing-style",
+        "skills/jacs-length-management",
+        "skills/jacs-cover-letter",
+        "skills/jacs-submission",
+        "skills/jacs-referee-strategy",
+        "skills/jacs-revision"
+      ]
+    }
+  ]
+}

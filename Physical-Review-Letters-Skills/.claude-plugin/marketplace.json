@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "prl-skills",
+  "version": "0.1.0",
+  "description": "An opinionated agent skill stack for manuscripts targeted at Physical Review Letters (PRL), the APS premier physics letters journal.",
+  "owner": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "metadata": {
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "prl-skills",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Twelve-skill bundle covering the Physical Review Letters (PRL) manuscript lifecycle.",
+      "author": {
+        "name": "Bryce Wang",
+        "email": "brycew6m@stanford.edu"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/brycewang-stanford/prl-skills",
+      "repository": "https://github.com/brycewang-stanford/prl-skills",
+      "keywords": [
+        "physical-review-letters",
+        "prl",
+        "aps",
+        "physics",
+        "length-limit",
+        "supplemental-material",
+        "peer-review"
+      ],
+      "category": "academic",
+      "skills": [
+        "skills/prl-workflow",
+        "skills/prl-scope-fit",
+        "skills/prl-results-framing",
+        "skills/prl-methods",
+        "skills/prl-figures",
+        "skills/prl-supplementary",
+        "skills/prl-writing-style",
+        "skills/prl-length-management",
+        "skills/prl-cover-letter",
+        "skills/prl-submission",
+        "skills/prl-referee-strategy",
+        "skills/prl-revision"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "prl-skills",
+  "description": "Agent skill stack for submitting to Physical Review Letters (PRL), the American Physical Society's premier physics letters journal. Covers the importance-and-broad-interest scope gate, central-result framing, concise methods, high-impact figures, Supplemental Material partitioning, PRL house style, the strict deductible length limit, the importance-justifying cover letter, submission preflight, referee strategy, and revision. English docs with bilingual zh-CN README.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bryce Wang",
+    "email": "brycew6m@stanford.edu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brycewang-stanford/prl-skills",
+  "repository": "https://github.com/brycewang-stanford/prl-skills",
+  "keywords": [
+    "physical-review-letters",
+    "prl",
+    "american-physical-society",
+    "aps",
+    "physics",
+    "condensed-matter",
+    "quantum",
+    "letters-journal",
+    "length-limit",
+    "supplemental-material",
+    "scientific-writing",
+    "peer-review"
+  ]
+}
