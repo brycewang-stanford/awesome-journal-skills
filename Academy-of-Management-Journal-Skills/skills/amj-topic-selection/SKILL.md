@@ -8,15 +8,17 @@ description: Use when scoping or sanity-checking a research question for an Acad
 ## When to trigger
 
 - You have a dataset, a context, or a phenomenon, but no sharp research question
-- You are unsure whether the idea belongs at AMJ vs. AMR (theory-only), ASQ, SMJ, or a field journal
+- You are unsure whether the idea belongs at AMJ vs. its AOM sister AMR (theory-only, no data), or at non-AOM venues ASQ (Cornell/SAGE) or SMJ (Wiley/SMS), or a field journal
 - The question feels like "no one has studied X here" rather than "theory predicts something surprising"
 - You want to pressure-test fit before investing months in data collection
 
 ## AMJ fit test (all four must pass)
 
+AMJ's mission is "to publish empirical research that tests, extends, or builds management theory and contributes to management practice," and it judges every paper on three criteria: a strong **empirical** contribution, a meaningful **theoretical** contribution, and **practical relevance**. The fit test below operationalizes those criteria.
+
 1. **Phenomenon-grounded but theory-driven.** AMJ wants real organizational phenomena (micro OB, macro/strategy, HR, entrepreneurship, organizational theory) examined through a theoretical lens. A purely descriptive or purely methodological paper does not fit.
 2. **A theoretical mechanism, not just an empirical association.** Ask: *why* would A affect B, and *when*? If you can only say "they are correlated," you have a topic, not yet an AMJ paper.
-3. **Original data and a defensible design are feasible.** AMJ is empirical. If you cannot get suitable data (multi-source, multi-wave, archival, experimental, or field), it is an AMR idea, not an AMJ idea.
+3. **Original data and a defensible design are feasible.** AMJ is empirical and welcomes *all* empirical methods — qualitative, quantitative, field, laboratory, meta-analytic, and mixed. If you cannot get suitable data of *any* of these kinds, it is an AMR idea (theory-only, no data), not an AMJ idea.
 4. **Surprise or tension.** The strongest AMJ questions sit on a tension between theories, a counterintuitive boundary condition, or an unresolved debate — not a confirmation of the obvious.
 
 ## Choosing the divisional home

@@ -35,7 +35,7 @@ description: Use when drafting the response letter and revising a Strategic Mana
 
 ## SMJ-specific emphases in the response
 
-- If the gating concern was **endogeneity**, your strongest reply is a *design* improvement (instrument, shock, matching, selection model) with the identification evidence shown — not more controls or rhetoric.
+- If the gating concern was **endogeneity**, your strongest reply is a *design* improvement (instrument, shock, matching, selection model, or partial-identification bounds) with the identification evidence shown — not more controls or rhetoric. This aligns with SMJ's own standard (Bettis, Gambardella, Helfat & Mitchell, 2014, *SMJ* 35: 949–953): a good-faith effort to address endogeneity, and **no spec-mining for better p-values** (SMJ disapproves of data snooping / p-hacking). If causation remains imperfect, reframe the claim honestly — SMJ accepts this.
 - If the gating concern was **contribution**, sharpen the theoretical advance and its strategy stakes (loop back to `smj-contribution-framing`); do not merely add findings.
 - Keep the manuscript's framing consistent with the letter — reviewers re-read the intro and discussion to check that promised changes actually landed.
 
@@ -70,5 +70,10 @@ description: Use when drafting the response letter and revising a Strategic Mana
 【Reviewer conflicts reconciled】yes / flagged to editor
 【Manuscript versions】clean + tracked
 【Tone】grateful, evidence-led
-【Next step】resubmit via ScholarOne → smj-review-process for the next round
+【Next step】re-preflight via smj-submission, then resubmit → smj-review-process for the next round
 ```
+
+## Templates & resources
+
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — SMJ endogeneity / p-hacking policy (Bettis et al. 2014) and Co-Editor roster
+- [`../../resources/external_tools.md`](../../resources/external_tools.md) — packages for added identification / robustness analyses

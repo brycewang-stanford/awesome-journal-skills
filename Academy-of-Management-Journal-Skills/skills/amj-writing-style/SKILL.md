@@ -15,7 +15,7 @@ description: Use for full-manuscript prose polish of an Academy of Management Jo
 
 ## The AMJ prose standard
 
-AMJ values prose that is **rigorous yet readable**: the theoretical argument should be visible to a reader from another division. Front-load the point — say what you argue, then support it. Write in the active voice with human/organizational actors as subjects. Hedge precisely (state what the data show), not defensively (avoid stacking "may possibly suggest").
+AMJ values prose that is **rigorous yet readable**: the theoretical argument should be visible to a reader from another division. Front-load the point — say what you argue, then support it. Write in the active voice with human/organizational actors as subjects. Hedge precisely (state what the data show), not defensively (avoid stacking "may possibly suggest"). AMJ's *From the Editors* (FTE) series has devoted whole editorials to storytelling and crafting the introduction — the journal genuinely rewards a paper that "tells a story," so treat narrative arc as a substantive standard, not decoration.
 
 ## Structure to enforce
 
@@ -39,9 +39,9 @@ Standard full structure: **Introduction → Theory & Hypotheses → Methods → 
 
 ## House style (verify against the current AOM Style Guide)
 
-- Follow AOM/APA-style conventions for citations, headings, and references as specified in the current AOM Style Guide.
+- Follow AOM/APA-style conventions for citations, headings, and references as specified in the current AMJ Style Guide for Authors.
 - US spelling and AOM heading hierarchy; consistent tense (past tense for what you did/found, present for established theory).
-- Confirm current word/page expectations on the AMJ submission page (full empirical articles are substantial; verify the limit before trimming).
+- The full manuscript main body must fit the **40-page maximum** (text + references + appendices; tables/figures excluded), **double-spaced, Times New Roman 12-pt, 1-inch margins** — so trimming targets prose, not just exhibits, and a bloated reference list eats into your page budget.
 
 ## Checklist
 
@@ -51,8 +51,8 @@ Standard full structure: **Introduction → Theory & Hypotheses → Methods → 
 - [ ] Construct terms are defined once and used consistently everywhere
 - [ ] Sections are signposted; the theory→method→results→discussion arc is followed
 - [ ] Hedging is calibrated, not stacked
-- [ ] Citations/headings/references conform to the current AOM Style Guide
-- [ ] Length checked against current AMJ requirements
+- [ ] Citations/headings/references conform to the current AMJ Style Guide
+- [ ] Main body ≤ 40 pages (refs + appendices count; tables/figures do not); 12-pt TNR, double-spaced
 
 ## Anti-patterns
 
@@ -72,6 +72,6 @@ Standard full structure: **Introduction → Theory & Hypotheses → Methods → 
 【Terminology】construct names consistent? drift: [...]
 【Structure/signposting】arc intact? gaps: [...]
 【House style】AOM/APA citations & headings: pass/fix
-【Length】vs. current AMJ limit: ok/trim
+【Length】main body vs. 40-page limit (refs+appendices incl.): ok/trim
 【Next step】amj-submission
 ```

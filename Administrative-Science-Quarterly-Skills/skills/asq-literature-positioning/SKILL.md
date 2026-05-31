@@ -25,15 +25,15 @@ Steps:
 
 ## Engage the traditions
 
-ASQ has a long lineage in organization theory and the sociology of organizations. Failing to engage the relevant tradition is a common rejection trigger. Map your puzzle to the canonical lineages where appropriate (verify exact citations yourself):
+ASQ has a long lineage in organization theory and the sociology of organizations, running back to its 1956 founding by James D. Thompson. Failing to engage the relevant tradition is a common rejection trigger. Many of these traditions were *defined or sharpened in ASQ's own pages* — so the relevant prior is often an ASQ paper, not an AMJ/SMJ one. Map your puzzle to the canonical lineages where appropriate (verify exact citations yourself):
 
-- Carnegie-school decision-making and bounded rationality
-- Institutional theory and institutional logics
+- Carnegie-school decision-making and bounded rationality (e.g., the garbage-can model, Cohen, March & Olsen 1972, ASQ)
+- Institutional theory and institutional logics (a core ASQ conversation; note DiMaggio & Powell's 1983 "Iron Cage Revisited" appeared in *American Sociological Review*, not ASQ — cite it as lineage, not as an ASQ paper)
 - Organizational ecology and selection
 - Resource dependence and power
 - Network and status/structural-position theories
 - Categories, valuation, and audiences
-- Identity, image, and sensemaking
+- Identity, image, and sensemaking (e.g., Weick 1993, Mann Gulch, ASQ)
 - Routines, capabilities, and practice
 
 You need not cite all of these — but you must show command of the *relevant* lineage and recent ASQ-adjacent work in it.
@@ -41,7 +41,7 @@ You need not cite all of these — but you must show command of the *relevant* l
 ## Recency and venue
 
 - Engage **recent** work (the conversation as it stands now), not only foundational citations
-- Include recent ASQ articles and closely related Organization Science / AMJ / SMJ pieces — show you know where the live debate is
+- Anchor in recent **ASQ** articles first, then closely related Organization Science / AMJ / SMJ pieces — ASQ reviewers expect to see you in dialogue with the journal's own ongoing conversations, not only adjacent venues
 - If a recent paper appears to scoop you, address it head-on and sharpen your distinct contribution
 
 ## Avoid the "everything" review

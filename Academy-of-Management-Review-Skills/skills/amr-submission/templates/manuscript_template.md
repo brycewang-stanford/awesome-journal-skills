@@ -54,7 +54,11 @@ formatting on the current AOM author page.
 
 ### 3.3 Relationships, mechanisms, and propositions
 
-For each proposition, write the argument FIRST, then state the proposition.
+For each proposition, write the argument FIRST, then state the proposition. Aim at the AMR
+contribution bar — What/How/Why/Who-Where-When (Whetten, AMR 1989, DOI
+10.5465/amr.1989.4308371); define constructs per Suddaby's clarity criteria (AMR 2010, DOI
+10.5465/amr.2010.0419). Exemplars built by argument alone: Oliver 1991 (DOI
+10.5465/amr.1991.4279002); Dyer & Singh 1998 (DOI 10.5465/amr.1998.1255632).
 
 > [Argument: premise → premise → mechanism (the "why") → conclusion.]
 >
@@ -104,9 +108,11 @@ For each proposition, write the argument FIRST, then state the proposition.
 
 ## References
 
-> AOM author-date style; full reference list per the Academy of Management Style Guide.
-> Every in-text citation appears here and vice versa. Cite the recent conversation, not
-> only seminal anchors.
+> **APA-style** author–date citations; full reference list per the Academy of Management
+> (APA-derived) Style Guide (APA edition UNVERIFIED — confirm; see
+> resources/official-source-map.md). Every in-text citation appears here and vice versa.
+> Cite the recent conversation, not only seminal anchors. Use **propositions** (P1...Pn),
+> never "hypotheses" or "supported / not supported."
 
 ---
 

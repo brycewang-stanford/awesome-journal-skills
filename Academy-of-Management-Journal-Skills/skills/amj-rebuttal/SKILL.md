@@ -12,7 +12,7 @@ description: Use when drafting the revision and response letter after an Academy
 - You must reconcile conflicting reviewer demands for the action editor
 - A later-round decision asks you to defend or further revise prior changes
 
-> Write the response letter **after** revising the manuscript, not before. The letter documents changes you have made, not promises.
+> Write the response letter **after** revising the manuscript, not before. The letter documents changes you have made, not promises. AMJ's process is developmental and typically multi-round; resubmit the revised manuscript and response document through ScholarOne (mc.manuscriptcentral.com/AMJ), keeping the same action editor across rounds where possible, and remember the revised main body still must respect the **40-page limit** (text + references + appendices).
 
 ## Response-document structure
 
@@ -29,7 +29,7 @@ description: Use when drafting the revision and response letter after an Academy
 - **"Deepen the theoretical contribution."** Strengthen the mechanism and the contribution sentences; show what the field now learns. Do not just add citations — revise the argument (see `amj-theory-development`, `amj-contribution-framing`).
 - **"Strengthen the method / address endogeneity."** Add the identification strategy, robustness, or a supplementary study; report it and explain why it resolves the concern (see `amj-methods`, `amj-data-analysis`).
 - **"Common-method bias."** Provide designed or additional evidence; if you cannot collect new data, give the strongest available statistical evidence and acknowledge residual risk as a boundary.
-- **"Add a study."** If feasible, an experiment or replication that nails the mechanism is often the decisive move in the developmental process.
+- **"Add a study."** If feasible, an experiment or replication that nails the mechanism is often the decisive move in the developmental process — but watch the 40-page budget: heavy new material often lives in an online supplement so the main body stays within limit.
 
 ## Tone and tactics
 

@@ -36,7 +36,8 @@ At ASQ, exhibits are part of the *argument*, not decoration. A reader should be 
 - Each exhibit is self-contained: title, units, notes, significance conventions, and source defined in the note.
 - Figures are clean and legible in grayscale; no chart-junk; consistent fonts and labels.
 - Number and reference every exhibit in text; the text *interprets*, it does not merely repeat the table.
-- Follow ASQ/SAGE formatting conventions (table notes, significance symbols, decimals) — verify the current Manuscript Submission Guidelines on the journal's official page.
+- Keep exhibits **anonymized** for ASQ's double-blind review (no author-revealing site names or acknowledgments in figure sources).
+- Follow **APA style** for citations in notes (ASQ adopted APA in January 2025), with SAGE table conventions; manuscripts go in via ScholarOne (Word or PDF, 12-pt Times New Roman, double-spaced). Exhibits count toward length, and ASQ rewards "high intellectual value per page" — keep the whole manuscript near the suggested **35–45 pages of text** (over-long files are unsubmitted before review). Verify current details at journals.sagepub.com/author-instructions/asq.
 
 ## Checklist
 

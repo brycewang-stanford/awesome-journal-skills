@@ -22,7 +22,7 @@ A typical empirical SMJ paper carries a compact, predictable set of exhibits:
 4. **Robustness table(s).** Alternative DVs, samples, estimators.
 5. **Figure(s):** marginal-effects / interaction plot, event-study plot for DID, or a mechanism/path diagram.
 
-Move secondary tables to an online appendix/supplement rather than crowding the main text.
+Move secondary tables to an online appendix/supplement rather than crowding the main text. SMJ guides authors toward a tight page budget — full articles around **40 pages** (including tables, figures, and references) and short research articles around **20 pages** (verify the current limit) — so exhibits compete for space: keep the main paper lean and use APA-style table formatting with clear notes.
 
 ## Table craft
 
@@ -47,7 +47,8 @@ Move secondary tables to an online appendix/supplement rather than crowding the 
 - [ ] An identification/endogeneity exhibit is present and prominent
 - [ ] Interactions are visualized (marginal-effects plot), not read off coefficients
 - [ ] Variable names, decimals, ordering consistent across all exhibits; N reconciles
-- [ ] Secondary tables moved to the appendix/supplement
+- [ ] Secondary tables moved to the appendix/supplement (main paper within the ~40-page / ~20-page budget)
+- [ ] Coefficients interpretable as economic magnitudes, not bare stars
 - [ ] Figures are greyscale-legible with labeled axes
 
 ## Anti-patterns
@@ -69,5 +70,11 @@ Move secondary tables to an online appendix/supplement rather than crowding the 
 【Interaction visualized】yes / needs marginal-effects plot
 【Event-study figure (if DID)】present / missing
 【Appendix moves】[tables relocated]
+【Within page budget (~40 / ~20)】yes / trim
 【Next step】smj-writing-style
 ```
+
+## Templates & resources
+
+- [`../../resources/external_tools.md`](../../resources/external_tools.md) — table/figure tooling (estout/esttab, modelsummary, coefplot, marginsplot, ggplot2)
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — SMJ formatting, APA reference style, and page-limit guidance

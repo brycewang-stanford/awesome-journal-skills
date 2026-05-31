@@ -14,7 +14,7 @@ description: Use for full-manuscript prose and narrative craft on an Administrat
 
 ## ASQ's craft bar
 
-ASQ is known for *superb writing* — long-form articles with a strong narrative arc. The best ASQ papers read as compelling intellectual stories, not as lab reports. Craft is a real evaluation criterion, not a courtesy.
+ASQ is known for *superb writing* — long-form articles with a strong narrative arc. The best ASQ papers read as compelling intellectual stories, not as lab reports; Weick's (1993, ASQ) Mann Gulch paper is the canonical example of analysis carried by narrative. The journal's guidelines treat the **compelling presentation of supporting evidence as one dimension of a submission's quality** (verify at journals.sagepub.com/author-instructions/asq), and current editorial communications emphasize **curation** — selecting and shaping papers that will endure. Craft is a real evaluation criterion here, not a courtesy.
 
 ## The narrative arc
 

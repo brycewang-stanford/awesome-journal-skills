@@ -11,7 +11,7 @@ description: Use when building or cleaning the tables and figures for an Academy
 - The correlation/descriptives table is missing reliabilities or has inconsistent decimals
 - Interaction effects are reported only in text, not plotted
 - The theoretical model has no figure, or the figure does not match the hypotheses
-- Tables/figures are off AOM house style (verify the current AOM Style Guide)
+- Tables/figures are off AOM house style (verify the current AMJ Style Guide for Authors)
 
 ## The exhibits an AMJ paper expects
 
@@ -29,7 +29,8 @@ description: Use when building or cleaning the tables and figures for an Academy
 - **Standard errors / CIs**: report SEs (or CIs) in parentheses; be consistent across tables.
 - **Decimals**: consistent precision (commonly two decimals); align on the decimal point.
 - **Nested models**: report model fit / ΔR² / Δ-2LL across steps so the incremental contribution of interactions is visible.
-- Confirm current limits on number/format of exhibits and figure resolution on the AMJ submission page.
+- **Exhibits do not count toward the page limit.** AOM's 40-page main-body maximum *excludes* tables and figures (it includes text, references, and appendices), so move dense supporting material into well-built exhibits rather than crowding the prose — but keep each exhibit genuinely necessary, not padding.
+- Confirm current limits on number/format of exhibits and figure resolution against the AMJ Style Guide for Authors and the ScholarOne portal.
 
 ## Figures
 
@@ -46,7 +47,7 @@ description: Use when building or cleaning the tables and figures for an Academy
 - [ ] Every significant interaction has a simple-slopes plot
 - [ ] Theoretical-model figure maps one-to-one to the hypotheses
 - [ ] Each exhibit is self-contained (title + complete note)
-- [ ] Exhibit count/format checked against current AMJ/AOM requirements
+- [ ] Exhibit count/format checked against the AMJ Style Guide (tables/figures are excluded from the 40-page limit)
 
 ## Anti-patterns
 

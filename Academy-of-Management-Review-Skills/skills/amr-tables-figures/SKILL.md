@@ -21,7 +21,7 @@ description: Use when building the conceptual exhibits of an Academy of Manageme
 | Exhibit | Use it when | It must show |
 |---------|-------------|--------------|
 | Process model | The theory is a sequence / becoming | Stages, triggers, feedback loops, timing — and the engine that drives movement |
-| 2x2 (or NxM) typology | The phenomenon has theoretically distinct types | Two theory-derived dimensions; mutually exclusive, jointly exhaustive cells; ideally theorized transitions between cells |
+| 2x2 (or NxM) typology | The phenomenon has theoretically distinct types | Two theory-derived dimensions; mutually exclusive, jointly exhaustive cells; ideally theorized transitions between cells (cf. Oliver's antecedent-conditions × responses logic, AMR 1991, DOI 10.5465/amr.1991.4279002) |
 | Multi-level framework | The action spans individual ↔ collective | Levels as horizontal bands; emergence (bottom-up) and top-down arrows labeled |
 | Variance/relational model | Core constructs and their specified links | Constructs as nodes; arrows labeled with proposition numbers and form (causal/moderating/mediating) |
 | Propositions table | There are many propositions | Pn | statement | underlying mechanism | boundary condition |
@@ -34,6 +34,19 @@ description: Use when building the conceptual exhibits of an Academy of Manageme
 - **The figure adds, not repeats.** It should let a reader grasp the *structure* of the argument at a glance — not merely re-list the propositions.
 - **Levels and time are explicit** when the theory is multi-level or processual.
 - **Consistency**: construct labels in the figure match the text exactly; numbering matches.
+
+## The empirical-exhibit reframe (what each AMR exhibit replaces)
+
+| Empirical sibling exhibit (AMJ/ASQ/SMJ) | AMR conceptual replacement |
+|-----------------------------------------|----------------------------|
+| Table 1: descriptive statistics / correlations | Construct-definition table (definitions + scope conditions) |
+| Regression / coefficient table | Propositions table (P1...Pn) |
+| Marginal-effects / interaction plot | Conceptual model figure with moderator arrows |
+| Event-study / time-series plot | Process model with stages and feedback loops |
+
+If any exhibit reports a number estimated from data, the manuscript is a misfiled empirical
+paper. A construct-definition table also supports construct clarity (Suddaby, AMR 2010, DOI
+10.5465/amr.2010.0419).
 
 ## Propositions table template
 

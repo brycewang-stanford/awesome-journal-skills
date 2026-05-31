@@ -14,7 +14,7 @@ description: Use when sharpening the theoretical contribution and the "so what" 
 
 ## The ASQ standard: a theoretical contribution, not a finding
 
-At ASQ the deliverable is a *change in how organization theorists understand something*. A finding answers a question; a contribution **reframes the question** or overturns a prior. Frame around the surprise identified in `asq-topic-selection` and the mechanism from `asq-theory-development`.
+At ASQ the deliverable is a *change in how organization theorists understand something*. A finding answers a question; a contribution **reframes the question** or overturns a prior. Frame around the surprise identified in `asq-topic-selection` and the mechanism from `asq-theory-development`. The ASQ archetype is a paper that gives the field a new lens it cannot un-see — the garbage-can model of organizational choice (Cohen, March & Olsen 1972, ASQ) or Barley's (1986, ASQ) reconception of technology as an occasion for structuring. Note what is *not* the ASQ deliverable: an improvement in firm performance (the SMJ register) or a well-powered confirmation of a moderated hypothesis (a common AMJ profile) is not, by itself, a theoretical contribution here.
 
 ## Types of contribution (name yours)
 

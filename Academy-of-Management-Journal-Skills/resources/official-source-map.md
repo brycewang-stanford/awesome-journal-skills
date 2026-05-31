@@ -1,0 +1,47 @@
+# AMJ Official Source Map
+
+Canonical sources for verifying every AMJ-specific claim made in this skill pack.
+Sources were searched and corroborated on **2026-05-30**. Several official AOM pages
+return HTTP 403 to automated fetchers, so some facts below are corroborated through
+the AOM submitting page, the AMJ Style Guide for Authors, and AOM news releases
+rather than a direct scrape of the landing page. Time-sensitive items (current
+Editor-in-Chief, fees, acceptance rate, impact factor) are flagged **approximate**
+or **UNVERIFIED** where an official page could not be confirmed.
+
+## Source table
+
+| # | URL | What it verifies | Accessed |
+| --- | --- | --- | --- |
+| 1 | https://journals.aom.org/journal/amj | AMJ landing page: aims & scope, "empirical" mandate, masthead, metrics | 2026-05-30 |
+| 2 | https://www.aom.org/publications/journals/publishing-with-aom/author-and-reviewer-resources/author-resources/submitting-to-journal/ | Mission statement; three acceptance criteria; abstract no more than 200 words plus three keywords; blind review; ~60-day developmental-feedback target; ScholarOne; AI-disclosure requirement; reviewer-reciprocity norm; iThenticate screening | 2026-05-30 |
+| 3 | https://support.aom.org/hc/en-us/articles/360053627474 | Full-manuscript formatting: 40-page maximum including references (tables and figures excluded); double-spaced; Times New Roman 12-pt; Letter (8.5x11) page setup; Word file | 2026-05-30 |
+| 4 | https://mc.manuscriptcentral.com/AMJ | ScholarOne Manuscripts portal: submission system, author/ORCID account, remove-all-identifiers (blind) requirement | 2026-05-30 (URL confirmed via AOM submitting page) |
+| 5 | https://aom.org/publications/amj/styleguide | AMJ Style Guide for Authors: APA citation and reference conventions, headings, table/figure house style (PDF mirror: https://www.aom.org/wp-content/uploads/2025/07/aom_journal_style_guidea3b84b773e3649569a17a05e14cc6eaf.pdf) | 2026-05-30 |
+| 6 | https://journals.aom.org/topic/from-the-editors | "From the Editors" (FTE) editorials: theory bar, "so what?", storytelling, grounded-theory and qualitative transparency | 2026-05-30 |
+| 7 | https://aom.org/about-aom/aom-news/blog-detail_releases/blog-detail/releases/2025/02/11/incoming-editors-annals-and-amj | Incoming AMJ editorial team: Gary A. Ballinger (UVA McIntire) as incoming Editor-in-Chief; new team began receiving submissions 1 July 2025 | 2026-05-30 |
+| 8 | https://en.wikipedia.org/wiki/Academy_of_Management_Journal | History (founded 1958 as Journal of the Academy of Management; renamed 1963); bimonthly; FT50 list; current Editor-in-Chief Quinetta Roberson (Michigan State); 2023 JCR impact factor ~9.5 | 2026-05-30 |
+| 9 | https://journals.aom.org/journal/amr | AMR scope — contrast AMJ (empirical) vs AMR (theory-only, no original data; ~25-30 double-spaced pages excl. refs) | 2026-05-30 |
+
+## VERIFIED facts injected into the skills (with source #)
+
+- **Mission (quote):** "to publish empirical research that tests, extends, or builds management theory and contributes to management practice." (#1, #2)
+- **All empirical methods welcome:** qualitative, quantitative, field, laboratory, meta-analytic, and mixed methods. (#1, #2)
+- **Three acceptance criteria:** strong empirical contribution + meaningful theoretical contribution + practical relevance. (#2)
+- **Full-manuscript limit:** 40 pages maximum *including references*, *excluding* tables and figures; double-spaced, Times New Roman 12-pt, Letter page setup, Word file. AOM enforces a PAGE limit, not a word cap. (#3, also corroborated by the submitting page #2)
+- **Abstract:** no more than 200 words; three keywords supplied at submission. (#2)
+- **Submission system:** ScholarOne Manuscripts at mc.manuscriptcentral.com/AMJ; all author identifiers removed for blind review. (#2, #4)
+- **Review:** blind peer review; AMJ targets developmental feedback to authors within ~60 days; desk review typically ~1-2 weeks; authors are expected to reciprocate by reviewing. (#2)
+- **Style:** APA conventions per the AMJ Style Guide for Authors. (#5)
+- **AI policy:** authors must disclose any AI use in the cover letter and acknowledgements and confirm they read the AOM AI policy; AI cannot be an author. (#2)
+- **Integrity:** manuscripts screened with iThenticate; no simultaneous submission; online preprints removed during review. (#2)
+- **Fees:** AOM charges **no submission fee**; optional immediate open access carries an APC of **US$3,500** (subscription publication otherwise). (#2)
+- **Cadence/history:** bimonthly (Feb/Apr/Jun/Aug/Oct/Dec); founded 1958. (#8)
+- **Editor:** incoming Editor-in-Chief Gary A. Ballinger (UVA), team receiving submissions from 1 July 2025; the immediately prior EiC was Quinetta Roberson (Michigan State). (#7, #8)
+
+## Items flagged approximate or UNVERIFIED (confirm via sources above)
+
+- **Acceptance rate** ~6% per a third-party aggregator — treat as approximate; not confirmed on an official AOM page.
+- **Impact factor** sources diverge (2023 JCR ~9.5 vs. older/third-party figures); treat any single number as approximate.
+- **AOM membership requirement to submit** was not confirmed as a hard gate on an official page on 2026-05-30 (AOM is membership-driven, but the submit-time requirement is UNVERIFIED).
+- **Full current editorial-board roster** and division action editors (rotates on multi-year terms).
+- **Formal open-science / data-availability mandate** wording: AOM ethics, iThenticate, and the AI policy are confirmed, but a mandatory data-deposit requirement was not confirmed.

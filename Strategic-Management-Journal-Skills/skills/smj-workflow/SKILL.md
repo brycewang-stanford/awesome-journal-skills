@@ -9,7 +9,7 @@ description: Use when deciding which smj-* sub-skill to invoke next, or when seq
 
 This is the router. It does not do the work of any specialized skill — it tells you **which smj-* skill to use right now** given where your manuscript stands.
 
-Default assumption: unless you say otherwise, the target is the **Strategic Management Journal (SMJ)** — the flagship strategy journal published by Wiley for the Strategic Management Society (SMS). SMJ wants a clear contribution to **strategy theory** (firm performance, competitive advantage) backed by rigorous, identification-aware empirics. Generic "management" framing and unaddressed endogeneity are the two fastest paths to rejection.
+Default assumption: unless you say otherwise, the target is the **Strategic Management Journal (SMJ)** — the flagship strategy journal published by Wiley for the Strategic Management Society (SMS), founded 1980 and led by four **Co-Editors** (Agarwal, Benner, Gaba, Silverman). SMJ wants a clear contribution to **strategy theory** (firm performance, competitive advantage) backed by rigorous, identification-aware empirics. It is highly selective (third-party estimates ~7% acceptance — UNVERIFIED), uses **double-blind** review, and requires **two abstracts** (research summary + managerial summary, ≤125 words each), **five keywords**, and **APA** references within a ~40-page budget. Generic "management" framing and unaddressed endogeneity are the two fastest paths to rejection. If the paper's engine is entrepreneurship or internationalization, the SMS siblings **SEJ** or **GSJ** may fit better than SMJ.
 
 ## When to trigger
 
@@ -30,7 +30,7 @@ Default assumption: unless you say otherwise, the target is the **Strategic Mana
 | Reviewers may ask "so what for strategy?"; contribution is thin        | `smj-contribution-framing`  |
 | Too many tables; exhibits not self-contained; no path/effect figure    | `smj-tables-figures`        |
 | Prose is jargon-heavy, hedged, or buries the argument                  | `smj-writing-style`         |
-| Ready to submit; need ScholarOne preflight and format check            | `smj-submission`            |
+| Ready to submit; need preflight (dual abstracts, 5 keywords, APA, format) | `smj-submission`            |
 | Want to understand the review timeline / action-editor process         | `smj-review-process`        |
 | Received an R&R; need a response strategy and letter                    | `smj-rebuttal`              |
 
@@ -44,8 +44,8 @@ Default assumption: unless you say otherwise, the target is the **Strategic Mana
 6. `smj-contribution-framing` — sharpen the contribution to strategy theory
 7. `smj-tables-figures` — finalize self-contained exhibits
 8. `smj-writing-style` — full-draft polish (do this late)
-9. `smj-submission` — ScholarOne preflight
-10. `smj-review-process` — understand what happens after submission
+9. `smj-submission` — preflight (dual abstracts, 5 keywords, APA, page budget, anonymization)
+10. `smj-review-process` — understand what happens after submission (Co-Editor screen → action editor)
 11. `smj-rebuttal` — after the R&R decision
 
 > `smj-writing-style` is a **late-stage polish**. Do not polish prose while the identification strategy or the theoretical contribution is still unsettled.
@@ -71,3 +71,9 @@ If the paper's center of gravity is general organizational behavior, HRM, or mic
 - **Do not** let `smj-tables-figures` polish exhibits before the identification strategy holds.
 - **Do not** let `smj-rebuttal` draft a response letter before you have actually revised the manuscript.
 - **Do not** treat this as a generic management workflow; every stage must reconnect to strategy.
+- **Do not** forget SMJ's dual-abstract / 5-keyword / APA requirements until submission day, or route an SEJ/GSJ-shaped paper to SMJ.
+
+## Templates & resources
+
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — SMJ scope, Co-Editors, dual-abstract/keyword/reference rules, and the SMS journal family
+- [`../../resources/external_tools.md`](../../resources/external_tools.md) — strategy data sources and analysis packages across the pipeline

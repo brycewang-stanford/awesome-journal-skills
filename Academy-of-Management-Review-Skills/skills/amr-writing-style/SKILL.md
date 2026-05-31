@@ -26,7 +26,12 @@ AOM author page, but the durable shape is:
 4. **Discussion.** Contribution (what's new, differentiated), boundary conditions, and
    implications for theory, future research, and practice.
 
-There is **no methods, results, or data section** — AMR is theory-only.
+There is **no methods, results, or data section** — AMR is theory-only. The reasoning *is*
+the contribution, so make the *Why* vivid (Whetten, AMR 1989, DOI 10.5465/amr.1989.4308371);
+define constructs precisely and consistently (Suddaby, AMR 2010, DOI 10.5465/amr.2010.0419).
+Exemplar to study for narrative: Oliver's "Strategic Responses to Institutional Processes"
+(AMR 1991, DOI 10.5465/amr.1991.4279002) — puzzle → typology → propositions → implications,
+no methods, no results.
 
 ## Voice and prose discipline
 
@@ -40,8 +45,13 @@ There is **no methods, results, or data section** — AMR is theory-only.
   argument that earns it.
 - **Precision over flourish.** AMR prizes conceptual precision. Avoid vague intensifiers
   ("very important," "highly significant") and metaphors that do no theoretical work.
-- **AOM style mechanics.** Author-date in-text citations; full reference list per the
-  Academy of Management Style Guide; double-spaced manuscript. Verify current formatting.
+- **No hypothesis vocabulary.** Never write "we hypothesize," "H1," "results show," "we
+  find," or "supported / not supported." AMR uses **propositions** because nothing is tested;
+  that vocabulary is AMJ's and reads immediately as wrong-journal to AMR editors.
+- **AOM/APA style mechanics.** **APA-style** author–date in-text citations; full reference
+  list per the Academy of Management (APA-derived) style guide; double-spaced manuscript.
+  (APA edition UNVERIFIED — confirm in the style guide; see `resources/official-source-map.md`.)
+  Verify current length and abstract limits before submitting (also UNVERIFIED here).
 
 ## Self-edit passes
 

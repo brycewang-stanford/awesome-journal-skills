@@ -15,7 +15,7 @@ description: Use when the front end of an Academy of Management Journal (AMJ) ma
 
 ## The positioning move AMJ rewards
 
-AMJ papers join an **ongoing theoretical conversation** and change it. The front end should name the conversation, show the unresolved tension or contradiction in it, and signal how this study resolves or extends it. "Gap-spotting" — pointing to an empty cell in a table of prior studies — is treated as a weak motivation; AMJ wants a *problematization*: surfacing and challenging an assumption the literature has taken for granted.
+AMJ papers join an **ongoing theoretical conversation** and change it. The front end should name the conversation, show the unresolved tension or contradiction in it, and signal how this study resolves or extends it. "Gap-spotting" — pointing to an empty cell in a table of prior studies — is treated as a weak motivation; AMJ wants a *problematization*: surfacing and challenging an assumption the literature has taken for granted (Alvesson & Sandberg's problematization argument is the standard reference for this move). AMJ's *From the Editors* editorials repeatedly press the "so what?" and "who cares?" tests — your positioning must make the contribution matter to the broad management readership, not only a niche.
 
 ## Three legitimate motivating moves
 
@@ -28,7 +28,7 @@ A bare "gap" (no study has done X) is *not* on this list unless you supply the t
 ## Engaging the literatures
 
 - Identify the **focal literature** (the conversation you join) and any **supporting literatures** (the lens or mechanism you import). Keep them distinct.
-- Cite the canonical theoretical works that define the focal construct/theory, plus recent AMJ/AMR/ASQ/SMJ papers that show the conversation is live.
+- Cite the canonical theoretical works that define the focal construct/theory, plus recent papers that show the conversation is live — favor AMJ and its AOM sister journals (AMR for the theory side, AMD for emerging phenomena) and, where the conversation spans them, ASQ and SMJ.
 - Review *to build your argument*, not to catalog: each cited stream should end with the tension your study addresses.
 - Place the paper relative to the closest 2–3 prior studies and say precisely how yours differs in mechanism, level, boundary, or design — not merely in context.
 

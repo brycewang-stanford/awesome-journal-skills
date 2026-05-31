@@ -39,8 +39,9 @@ Aim for the bottom two rows.
 
 - Cite the **specific SMJ stream** you extend; reviewers are often authors in it. Ignoring obvious recent SMJ work is a credibility hit.
 - Distinguish your contribution from the 2–3 closest papers explicitly ("Unlike [paper], which holds the mechanism fixed, we…").
-- Use balanced citation: foundational strategy works plus current-decade pieces. A reference list with no recent work signals a stale framing.
-- Do not weaponize self-citation; position honestly.
+- Use balanced citation: foundational SMJ anchors (e.g., Wernerfelt, 1984, on the resource-based view; Teece, Pisano & Shuen, 1997, on dynamic capabilities) **plus** current-decade pieces. A reference list with no recent work signals a stale framing.
+- If your closest antecedents sit in an SMS sibling (SEJ for entrepreneurship, GSJ for global strategy), acknowledge them and clarify why your firm-level strategy framing belongs in SMJ — this preempts a fit-based desk reject.
+- Use **APA author-date** citation throughout, and keep self-citations neutral for double-blind review; do not weaponize self-citation.
 
 ## Checklist
 
@@ -70,3 +71,7 @@ Aim for the bottom two rows.
 【Missing-citation risk】checked / to verify
 【Next step】smj-methods
 ```
+
+## Templates & resources
+
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — SMJ scope, SMS journal family (SMJ/SEJ/GSJ), and verified landmark papers for anchoring

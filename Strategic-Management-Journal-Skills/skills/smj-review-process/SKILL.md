@@ -14,17 +14,18 @@ description: Use when interpreting the Strategic Management Journal (SMJ) review
 
 ## How SMJ review works (durable norms)
 
-- Submissions go through **ScholarOne**; an editor (Editor / Co-Editor) assigns an **action editor (associate editor)** who handles the paper.
-- The action editor typically secures **multiple reviewers** and writes a decision letter that **synthesizes** the reviews and signals priorities.
-- Expect **multiple rounds**: a first decision is rarely an outright accept; **Major Revision** is a normal, encouraging outcome.
+- Submissions go through Wiley's workflow (legacy tracking at **ScholarOne Manuscript Central, mc.manuscriptcentral.com/smj**). One of the four **Co-Editors** — Rajshree Agarwal (Maryland), Mary Benner (Minnesota), Vibha Gaba (INSEAD), or Brian Silverman (Toronto) — screens the paper and assigns an **action editor (Associate Editor)** who handles it. SMJ has Co-Editors rather than a single Editor-in-Chief.
+- Many submissions are **desk-rejected** for fit or readiness before review. Those that pass go to (typically) two or more reviewers from the Editorial Review Board and the field.
+- The action editor writes a decision letter that **synthesizes** the reviews and signals priorities; expect **multiple rounds** — a first decision is rarely an outright accept, and **Major Revision** is a normal, encouraging outcome.
+- SMJ is **highly selective**: third-party metric aggregators report an acceptance rate around **7%** and a median time to first decision on the order of **~54 days** (indicative — UNVERIFIED against the official site). Track your paper's status in the submission system rather than guessing.
 - Reviewers and the action editor push hardest on two axes: a clear **contribution to strategy theory** and credible **identification/endogeneity**. A paper can be empirically clean yet rejected for a thin strategy contribution, and vice versa.
-- Timelines vary; do not assume a fixed turnaround. Track your paper's status in ScholarOne rather than guessing.
 
 ## Reading a decision letter
 
 | Decision                | What it usually means                                            |
 |-------------------------|------------------------------------------------------------------|
-| Reject (desk or after review) | Scope/contribution or identification judged not fixable here |
+| Desk reject (no review) | Fit/scope or readiness — often a non-strategy question (better at SEJ/GSJ/AMJ/ASQ), missing dual abstracts, or no credible identification |
+| Reject (after review)   | Scope/contribution or identification judged not fixable here     |
 | Reject & resubmit       | Door not fully closed, but treat as a near-new submission        |
 | Major Revision          | Genuine interest; substantial work expected over 1+ rounds       |
 | Minor Revision          | Largely there; address specific points carefully                 |
@@ -70,3 +71,7 @@ description: Use when interpreting the Strategic Management Journal (SMJ) review
 【Revision feasible this round?】yes / reconsider fit
 【Next step】smj-rebuttal
 ```
+
+## Templates & resources
+
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — SMJ Co-Editors, double-blind policy, submission portal, and indicative timeline/acceptance figures

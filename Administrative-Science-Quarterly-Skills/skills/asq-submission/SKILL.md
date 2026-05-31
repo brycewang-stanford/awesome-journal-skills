@@ -11,7 +11,11 @@ description: Use when running the final pre-submission preflight for an Administ
 - You are unsure what files and metadata the editorial system requires
 - You need a fit + anonymization + formatting sweep
 
-> Volatile specifics (exact word limits, current named editors, any fee) change over time. Treat the numbers below as durable norms and **verify the current Manuscript Submission Guidelines on ASQ's official page** before submitting.
+> Volatile specifics (length norms, abstract cap, named editors) change over time. Treat them as durable norms and **verify the current Manuscript Submission Guidelines** at journals.sagepub.com/author-instructions/asq and the live portal at https://mc.manuscriptcentral.com/asq before submitting.
+>
+> **Fees.** ASQ is a *hybrid* journal with **no submission fee and no mandatory publication fee**. Optional gold open access costs an article processing charge (APC) of **US$3,000**, billed only *after* acceptance if you opt in. Do not budget a submission fee — there is none.
+>
+> **Reference style: APA.** As of January 2025, ASQ uses **APA style** for in-text citations and the reference list (this changed from its older in-house ASQ style — verify you are on the current APA convention).
 
 ## Fit pre-check (do not skip)
 
@@ -23,14 +27,14 @@ description: Use when running the final pre-submission preflight for an Administ
 
 ## Format
 
-- [ ] Manuscript type selected correctly (article vs. book review — ASQ also publishes book reviews)
-- [ ] Long-form article structure with strong narrative; theory foregrounded
+- [ ] Manuscript type selected correctly (research article vs. **book review** — ASQ runs a standing book review section, unusual among top management journals)
+- [ ] One key point statable in a single sentence (ASQ: "each manuscript should contain one key point")
 - [ ] Title page (with author info) is a **separate** file from the main document
-- [ ] Abstract within the journal's stated limit; keywords included
-- [ ] References in ASQ/SAGE style (author–date in text; full reference list)
-- [ ] Tables and figures formatted per current guidelines; placed/uploaded as required
-- [ ] Line numbering and double spacing if required by current guidelines
-- [ ] File formats accepted by the system (typically Word/PDF for text)
+- [ ] Abstract is **200 words or fewer**, jargon-free; keywords drawn from the ASQ ScholarOne keyword list
+- [ ] Length near the suggested **35–45 pages of text** (12-pt Times New Roman, double-spaced, 1-inch margins) plus refs/tables/figures; over-long files get **unsubmitted** before review
+- [ ] References in **APA style** (ASQ adopted APA in January 2025)
+- [ ] Manuscript in **Word or PDF** (Word required later if accepted); supplemental material placed online and anonymized
+- [ ] Data & Methods Transparency plan ready (a required ScholarOne item at submission)
 
 ## Anonymization (double-blind)
 
@@ -56,20 +60,21 @@ description: Use when running the final pre-submission preflight for an Administ
 
 ## Editorial system & metadata
 
-- [ ] Account created in the journal's editorial system (ScholarOne Manuscripts is standard for SAGE)
-- [ ] Cover letter prepared: state the puzzle, the contribution, and fit with ASQ
-- [ ] Keywords / categories selected accurately
-- [ ] Suggested/opposed reviewers handled per current system prompts
-- [ ] Required declarations completed (originality, conflicts, data/ethics as applicable)
-- [ ] Confirmed the manuscript is not under review elsewhere
+- [ ] Account created at ASQ's ScholarOne portal (https://mc.manuscriptcentral.com/asq) — **no submission fee**
+- [ ] Cover letter does **not** summarize the paper; it lists prior viewers/conflicts and discloses any data overlap with other work (ASQ's overlap rule is broad)
+- [ ] Keywords from the ASQ ScholarOne keyword list; suggested reviewers named in the cover letter (the form no longer accepts them)
+- [ ] Declarations done (originality, COPE ethics, data transparency)
+- [ ] Not under review elsewhere and **not previously rejected by ASQ** (no resubmissions of rejected papers)
 
 ## Anti-patterns
 
 - Submitting a thin-theory, sophisticated-method paper to a theory-first journal
-- Forgetting to anonymize self-citations, acknowledgments, or file metadata
-- A cover letter that summarizes findings but never states the theoretical contribution
+- Forgetting to anonymize self-citations, acknowledgments, or file metadata (ASQ review is double-blind)
+- A cover letter that summarizes the paper (ASQ says this is not useful) instead of disclosing overlap and conflicts
 - Exhibits not self-contained; figures illegible in grayscale
-- Assuming current limits/fees without checking the official guidelines
+- A bloated manuscript well past ~45 pages — length-to-contribution is an explicit evaluation criterion, and editors will unsubmit it
+- Using old in-house ASQ references instead of **APA** (changed January 2025)
+- Resubmitting a paper ASQ already rejected (not permitted)
 
 ## Output format
 

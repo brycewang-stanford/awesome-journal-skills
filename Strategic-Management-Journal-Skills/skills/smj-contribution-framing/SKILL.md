@@ -16,6 +16,8 @@ description: Use when sharpening the contribution claim of a Strategic Managemen
 
 SMJ rewards a contribution to **strategy theory** — a change in how scholars understand firm performance or competitive advantage — backed by credible evidence. A finding alone is not a contribution. The test: *after reading this, what should a strategy scholar now believe that they did not, or believe differently?*
 
+SMJ also asks you to make the work relevant to practice via a **separate managerial summary (≤125 words)** alongside the academic research summary. So the contribution needs a defensible "so what for managers" as well as a "so what for theory" — and the theory claim should rest on an **economically meaningful** effect, not just a significant coefficient (SMJ disapproves of p-hacking).
+
 ## Types of contribution (and how to make each land)
 
 | Type                        | How to frame it                                              |
@@ -50,6 +52,8 @@ SMJ rewards a contribution to **strategy theory** — a change in how scholars u
 - [ ] The claim is specific and falsifiable, not "we contribute to the literature"
 - [ ] The claim is right-sized to the evidence (no over/under-claiming)
 - [ ] Intro, theory, and discussion frame the same contribution consistently
+- [ ] The managerial summary (≤125 words) gives real practitioner takeaways, not a restated abstract
+- [ ] The claim rests on an economically meaningful magnitude, not just statistical significance
 - [ ] Practical/managerial implications are present but do not replace the theoretical contribution
 
 ## Anti-patterns
@@ -69,6 +73,11 @@ SMJ rewards a contribution to **strategy theory** — a change in how scholars u
 【Conversation moved】(from smj-literature-positioning)
 【Strategy stakes】link to performance / competitive advantage
 【Claim size check】supported by evidence? yes/needs trimming
+【So-what for managers (feeds managerial summary)】[one line]
 【Consistency】intro = theory = discussion? yes/fix
 【Next step】smj-tables-figures
 ```
+
+## Templates & resources
+
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — SMJ scope and the dual-abstract (research + managerial summary) requirement

@@ -24,7 +24,14 @@ the **set-up of the tension** your theory will resolve. Two questions govern eve
 2. **How do I challenge AND extend it?** AMR's hallmark phrase. You must do both: show a
    limit/contradiction in the existing theory (challenge) and offer the new theoretical
    machinery that resolves it (extend). Pure praise = no contribution; pure critique = no
-   theory.
+   theory. AMR's scope explicitly welcomes work that "significantly challenges or clarifies
+   existing theory."
+
+As you characterize the conversation, define the constructs you build on or revise. Suddaby's
+AMR "Editor's Comments: Construct Clarity in Theories of Management and Organization" (2010,
+DOI 10.5465/amr.2010.0419) is the field standard: each construct needs a precise definition,
+scope conditions, and clear semantic relationships to neighbors. Positioning that leaves core
+constructs fuzzy invites the "this is a relabel" objection.
 
 ## Positioning moves (pick the one your puzzle supports)
 
@@ -36,6 +43,15 @@ the **set-up of the tension** your theory will resolve. Two questions govern eve
 | Bridge two conversations | You connect two streams that have ignored each other, generating new propositions |
 | Reconceptualize a construct | You split, merge, or redefine a construct, dissolving a standing debate |
 | Shift the level | A construct theorized at one level (individual) is re-theorized at another (collective) with new dynamics |
+
+## Exemplar
+
+Dyer & Singh's "The Relational View" (AMR 1998, DOI 10.5465/amr.1998.1255632) is model
+positioning: it names two dominant conversations (the resource-based view and the
+industry-structure view), shows both locate competitive advantage at the wrong unit, and
+opens new theoretical space (relational rents accruing to dyads/networks) — challenge AND
+extend, by argument, with no dataset. Cite the conversation in **APA-style** (AOM house
+style).
 
 ## How to read the conversation (durable practice)
 

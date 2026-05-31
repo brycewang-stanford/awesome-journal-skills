@@ -20,8 +20,8 @@ SMJ wants a **causal logic**: a chain of premises that explains *why* a strategi
 
 | Lens                          | Core engine                                            | Typical use |
 |-------------------------------|--------------------------------------------------------|-------------|
-| Resource-based / capabilities | Heterogeneous, hard-to-imitate resources earn rents    | Why advantage persists |
-| Dynamic capabilities          | Sensing/seizing/reconfiguring under change             | Adaptation, renewal |
+| Resource-based / capabilities | Heterogeneous, hard-to-imitate resources earn rents (Wernerfelt, 1984, SMJ) | Why advantage persists |
+| Dynamic capabilities          | Sensing/seizing/reconfiguring under change (Teece, Pisano & Shuen, 1997, SMJ) | Adaptation, renewal |
 | Transaction cost economics    | Governance minimizes contracting hazards               | Make-vs-buy, alliances, scope |
 | Agency / governance           | Incentive misalignment shapes strategic choice         | Boards, ownership, M&A |
 | Competitive dynamics          | Action–response, awareness–motivation–capability       | Rivalry, market entry |
@@ -30,6 +30,10 @@ SMJ wants a **causal logic**: a chain of premises that explains *why* a strategi
 | Institutional / nonmarket     | Legitimacy and regulatory environment shape advantage  | CSR, political strategy |
 
 Borrowing a lens is fine; **extending or qualifying** it is what earns a contribution. State which lens you build on and exactly where you depart from it.
+
+> Anchor RBV with **Wernerfelt (1984), SMJ** when you want an SMJ-internal reference. Barney's much-cited 1991 RBV statement appeared in *Journal of Management*, **not** SMJ — do not list it as an SMJ landmark.
+
+SMJ is a **theory-develop-and/or-test** journal: unlike AMR, it does not publish purely conceptual papers, so your theory must set up implications that are evaluable (testable, or otherwise assessable for qualitative/formal work).
 
 ## Building the argument (mechanism-first)
 
@@ -75,3 +79,7 @@ Borrowing a lens is fine; **extending or qualifying** it is what earns a contrib
 【Empirical implication】mechanism test needed → flag for smj-data-analysis
 【Next step】smj-literature-positioning
 ```
+
+## Templates & resources
+
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — SMJ scope and verified landmark strategy-theory papers (Wernerfelt 1984; Teece, Pisano & Shuen 1997)

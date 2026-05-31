@@ -33,10 +33,11 @@ Introduction → Theory & Hypotheses → Methods (sample, measures, identificati
 
 ## House conventions (verify current Author Guidelines)
 
-- SMJ uses **Wiley** production; follow the current SMJ author guidelines for reference style, headings, and any length expectations — these are periodically updated, so check the official page rather than relying on memory.
-- Abstract is concise and states question, approach, and finding; keep it free of citations.
+- **Two abstracts**, each up to **125 words**: a *research summary* (precise, stands alone, no citations) **and** a *managerial summary* (plain, non-academic, for practitioners). This dual-summary requirement is distinctive to SMJ — AMJ and ASQ ask for a single abstract — so budget real time for the managerial summary.
+- **Five (5) keywords** for indexing.
+- **APA author-date** references ("(Author, 2021)"; "(Collins, 2005a, 2005b)") — set your citation manager to APA, not a default style.
+- Respect the page budget (full articles ~40 pages incl. tables/figures/references; short research articles ~20 — verify the current limit on the official page); references single-spaced to conserve space.
 - US spelling and standard academic register; expand acronyms on first use.
-- Provide a managerial-implications passage, but keep it proportionate to the theoretical contribution.
 
 ## Checklist
 
@@ -47,10 +48,12 @@ Introduction → Theory & Hypotheses → Methods (sample, measures, identificati
 - [ ] Hedging is proportionate to the evidence
 - [ ] No paragraph is repeated across intro/theory/discussion
 - [ ] Discussion interprets (theory implications + limits + agenda), not re-lists
-- [ ] Reference/heading style matches current SMJ/Wiley guidelines (verified, not assumed)
+- [ ] Both summaries written: research summary (≤125 words) AND managerial summary (≤125 words); 5 keywords
+- [ ] References in APA author-date style; headings/length match current SMJ guidelines (verified, not assumed)
 
 ## Anti-patterns
 
+- Submitting one abstract when SMJ requires two (research + managerial); a managerial summary written in academic jargon
 - A bland abstract that hides the contribution
 - Throat-clearing introductions that delay the point for two pages
 - Over-hedged prose that makes solid findings read as tentative
@@ -67,6 +70,11 @@ Introduction → Theory & Hypotheses → Methods (sample, measures, identificati
 【Hedging level】appropriate / over-hedged
 【Construct naming consistent】yes / fix
 【Redundancy cut】[sections trimmed]
-【Format vs. guidelines】verified on official page / to verify
+【Dual abstracts (≤125 each) + 5 keywords】present / fix
+【Format vs. guidelines】APA author-date; verified on official page / to verify
 【Next step】smj-submission
 ```
+
+## Templates & resources
+
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — SMJ dual-abstract, 5-keyword, APA reference, and page-limit rules

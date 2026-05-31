@@ -9,7 +9,7 @@ description: Use when deciding which asq-* sub-skill to invoke next, or when seq
 
 This is the router. It does not replace any specialized skill; it tells you **which asq-* skill to use at your current stage**.
 
-Default assumption: unless the user says otherwise, treat the target as **Administrative Science Quarterly (ASQ)** — a top, theory-driven journal in organization theory and the sociology of organizations, published by SAGE in association with the Samuel Curtis Johnson Graduate School of Management at Cornell University. ASQ's hallmark is a deep, often *surprising* theoretical insight about organizations, delivered with superb craft. It publishes **both** rigorous quantitative work **and** rich qualitative/inductive studies (grounded-theory, ethnographic, historical) — method follows the theoretical question.
+Default assumption: unless the user says otherwise, treat the target as **Administrative Science Quarterly (ASQ)** — a top, theory-driven journal in organization theory and the sociology of organizations, **founded in 1956 by James D. Thompson** (first editor 1956–1973; author of *Organizations in Action*) and published by SAGE in association with the **Samuel Curtis Johnson Graduate School of Management at Cornell University**. Its motto: "Dedicated to advancing the understanding of administration through empirical investigation and theoretical analysis." ASQ's hallmark is a deep, often *surprising* theoretical insight about organizations, delivered with superb craft. It publishes **both** rigorous quantitative work **and** rich qualitative/inductive studies (grounded-theory, ethnographic, historical) — method follows the theoretical question. The current Editor is **Beth Bechky** (UC Davis; term began July 1, 2025, succeeding Christine Beckman and András Tilcsik), an ethnographer of work and occupations — a signal of ASQ's openness to inductive fieldwork. ASQ has **no submission fee**, is exceptionally selective (reported acceptance ~8%), uses **APA references** (since January 2025), and is distinctive among management journals for its standing **book review section**.
 
 ## When to trigger
 
@@ -63,12 +63,12 @@ Default assumption: unless the user says otherwise, treat the target as **Admini
 
 ## Differences vs. other management packs
 
-- **ASQ**: theory first; *surprise* and craft are paramount; qualitative/inductive work is fully first-class; process theory is common.
+- **ASQ**: theory first; *surprise* and craft are paramount; qualitative/inductive work is fully first-class (think Barley's 1986 CT-scanner study or Weick's 1993 Mann Gulch paper); process theory is common; the sociology-of-organizations lineage is central. Reviews books as well as articles.
 - **AMJ**: empirical, hypothesis-testing norm dominates; strong quantitative bar.
 - **AMR**: theory-only; no data at all.
-- **SMJ**: strategy-focused; performance outcomes central.
+- **SMJ**: strategy-focused; firm performance / competitive advantage outcomes central.
 
-If the manuscript is a pure conceptual paper with no data, an AMR-style stack fits better. If it is a hypothesis-testing study with no theoretical surprise, reconsider whether ASQ is the right home.
+A pure conceptual paper fits an AMR-style stack better. A hypothesis-testing study aimed purely at firm-performance outcomes with no organizational-theory surprise may belong at SMJ — at ASQ a thin contribution dressed in a strong method will not survive screening, however clean the identification.
 
 ## Anti-patterns
 

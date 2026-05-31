@@ -15,7 +15,7 @@ description: Use when turning results into an explicit theoretical contribution 
 
 ## The contribution question AMJ asks
 
-For AMJ, the empirical contribution must be paired with a **theoretical** one: *what do we now understand about the theory that we did not before?* A clear, defensible answer is essential — strong results with no theoretical advance read as a technical report, not an AMJ paper.
+AMJ evaluates every paper on **three criteria**: a strong empirical contribution, a meaningful **theoretical** contribution, and **practical relevance**. The empirical contribution must be paired with a theoretical one: *what do we now understand about the theory that we did not before?* — and the discussion must also speak to why it matters for management practice. A clear, defensible theoretical answer is essential; strong results with no theoretical advance read as a technical report, not an AMJ paper. AMJ's *From the Editors* tradition frames this as the "so what?" and "who cares?" tests.
 
 ## Types of theoretical contribution (claim the right one)
 
@@ -36,7 +36,7 @@ A strong AMJ discussion typically:
 
 1. **Restates the core finding** in theoretical terms (one short paragraph, no number-dump).
 2. **Theoretical implications** — for each, name the literature, state what changes, and how (this is the heart of the section).
-3. **Practical implications** — specific to the phenomenon and grounded in the findings, not boilerplate.
+3. **Practical implications** — a genuine AMJ criterion, not an afterthought: specific to the phenomenon and grounded in the findings, never boilerplate. (Practical relevance is one of AMJ's three formal acceptance criteria, but it complements rather than substitutes for the theoretical contribution.)
 4. **Limitations** — honest, but framed as boundary conditions and future directions, not as fatal flaws.
 5. **Future research** — concrete questions the study opens, tied to the mechanism/boundary.
 

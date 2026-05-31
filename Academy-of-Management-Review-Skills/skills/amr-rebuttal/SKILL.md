@@ -41,9 +41,15 @@ description: Use when writing the response document for an Academy of Management
 - **Concede what is right.** If a reviewer found a genuine logical gap, fix it and say so
   plainly. Graceful concession builds credibility for the points you do contest.
 - **Defend the contribution explicitly** if novelty was questioned — restate the before →
-  after and the differentiation from the nearest prior theory.
-- **Keep the tone collegial.** AMR review is developmental; the response should read as a
-  conversation among theorists.
+  after and the differentiation from the nearest prior theory, framed against Whetten's
+  What/How/Why/Who-Where-When (AMR 1989, DOI 10.5465/amr.1989.4308371).
+- **Sharpen constructs** if distinctiveness was challenged — redefine with scope conditions
+  per Suddaby's construct-clarity criteria (AMR 2010, DOI 10.5465/amr.2010.0419).
+- **Keep the tone collegial.** AMR review is developmental and typically runs **multiple
+  rounds**, with the bar rising each round; the response should read as a conversation among
+  theorists. (At AMR's empirical sibling AMJ, "we ran additional analyses and the result is
+  robust" is a strong move; at AMR the equivalent strength comes from a tighter, more
+  complete *argument*.)
 
 ## Per-comment template
 

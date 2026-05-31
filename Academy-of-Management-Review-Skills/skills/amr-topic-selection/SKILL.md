@@ -22,7 +22,17 @@ not-X — and no current theory resolves the contradiction." Run every idea thro
 2. **Is there a genuine puzzle / tension / contradiction?** A gap ("no one has studied Z") is NOT a puzzle. A puzzle is a place where current theory is internally inconsistent, incomplete in a specific way, or makes a prediction that fails.
 3. **Whose theory is at stake?** Name the existing theory you will challenge and extend. If you cannot, route to `amr-literature-positioning`.
 4. **Will it change how scholars think?** AMR asks for theory that reorients a conversation, not an incremental relabeling.
-5. **Is the scope a journal article, not a book?** One focused theoretical move, fully developed.
+5. **Does it yield testable knowledge-based claims?** AMR's scope requires submissions to "extend theory in ways that develop testable knowledge-based claims." You do no testing — but your propositions must, in principle, be refutable by someone, later.
+6. **Is the scope a journal article, not a book?** One focused theoretical move, fully developed.
+
+AMR's own scope names four legitimate paths for a topic: (a) develop new theory; (b)
+significantly challenge or clarify existing theory; (c) synthesize recent advances into
+fresh theory; (d) identify and delineate a novel theoretical problem. If your idea fits none
+of these, it is likely not AMR. Exemplars to emulate: Oliver's "Strategic Responses to
+Institutional Processes" (AMR 1991, DOI 10.5465/amr.1991.4279002) challenged institutional
+theory's conformity assumption by theorizing agency; Dyer & Singh's "The Relational View"
+(AMR 1998, DOI 10.5465/amr.1998.1255632) synthesized a new locus of advantage. Neither used
+data.
 
 ## Sources of a strong AMR puzzle
 
@@ -61,6 +71,9 @@ If any line is blank, the idea is not yet AMR-ready.
 - A literature-review topic ("the state of research on X") with no new theoretical move
 - Relabeling an existing construct and calling it new
 - A puzzle so broad it would take a book; or so narrow it is a footnote to one paper
+
+> The most common AMR desk reject is "this is an empirical paper"; the next is "incremental
+> theory." Screen for both here, before investing in `amr-theory-development`.
 
 ## Output format
 

@@ -18,9 +18,11 @@ AMR theory is assembled in a disciplined sequence. Skipping a step is the most c
 reason a draft reads as "assertions, not theory."
 
 1. **Define the constructs.** For each new or re-specified construct: a precise conceptual
-   definition, its **domain** (what it includes and, crucially, excludes), and how it
-   differs from neighboring constructs. A construct that overlaps an existing one without
-   distinction will be challenged.
+   definition, its **domain** (what it includes and, crucially, excludes), scope conditions,
+   and how it differs from neighboring constructs. This is the construct-clarity standard
+   from Suddaby's AMR editorial (2010, DOI 10.5465/amr.2010.0419): definition, scope
+   conditions, semantic relationships, coherence. A construct that overlaps an existing one
+   without distinction will be challenged as a relabel.
 2. **State the assumptions.** What must be true about actors, the setting, and the world
    for the theory to operate? Make them explicit; hidden assumptions are where reviewers
    attack.
@@ -28,8 +30,10 @@ reason a draft reads as "assertions, not theory."
    moderating, mediating, constitutive. "X relates to Y" is not a relationship — specify
    direction, shape, and why.
 4. **Articulate the mechanism.** The *why*. The mechanism is the engine that makes the
-   relationship hold. A proposition without a mechanism is a guess. (Develop the mechanism
-   logic with `amr-data-analysis`.)
+   relationship hold. A proposition without a mechanism is a guess. Whetten's AMR editorial
+   (1989, DOI 10.5465/amr.1989.4308371) is explicit that the **Why** is what makes theory
+   theory; the What and How without the Why is description. (Develop the mechanism logic with
+   `amr-data-analysis`.)
 5. **Write the propositions.** Each proposition is a falsifiable theoretical claim that
    follows from the constructs + mechanism. Number them (P1, P2...). Each must be preceded
    by the argument that earns it.
@@ -53,6 +57,15 @@ For each construct, fill:
 - Every proposition is preceded by its logical argument; the proposition is the *summary* of an argument already made.
 - Propositions build on each other; later ones may depend on earlier constructs.
 - Keep them theoretical (P: "the stronger A, the more likely B, because mechanism M"), never operational ("A measured by survey predicts B at p<.05").
+- Never write "H1" or "supported / not supported" — that support/rejection vocabulary is AMJ's, not AMR's. Each proposition should be **testable in principle** (AMR's scope: "testable knowledge-based claims") but you do no testing.
+
+## Exemplar
+
+Oliver's "Strategic Responses to Institutional Processes" (AMR 1991, DOI
+10.5465/amr.1991.4279002) builds a typology of five responses (acquiescence, compromise,
+avoidance, defiance, manipulation) and derives propositions linking antecedent conditions
+(cause, constituents, content, control, context) to them — defined constructs, explicit
+mechanisms, numbered propositions, stated boundaries, and not a single datum.
 
 ## Checklist
 

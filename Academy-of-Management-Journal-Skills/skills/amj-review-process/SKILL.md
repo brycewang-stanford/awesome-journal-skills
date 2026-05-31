@@ -12,13 +12,13 @@ description: Use when you need to understand or set expectations for the Academy
 - You are unsure how much weight reviewers vs. the action editor carry
 - You want to plan a revision strategy before drafting the response (then go to `amj-rebuttal`)
 
-> Editorial structure, named editors, and exact timelines change. Verify the current editorial team, policies, and turnaround on the official AMJ site; the norms below are durable.
+> Editorial structure, named editors, and exact timelines change. Verify the current editorial team, policies, and turnaround on the official AMJ site; the norms below are durable. As of 2026-05-30: AMJ uses **blind review**, targets constructive **developmental feedback to authors within ~60 days**, and the incoming Editor-in-Chief is **Gary A. Ballinger (University of Virginia)**, whose team began receiving submissions on 1 July 2025.
 
 ## How AMJ review works (durable norms)
 
-1. **Submission & routing.** The editor (or an associate/action editor) screens the manuscript and routes it to an action editor in the relevant division.
-2. **Desk decision.** Manuscripts that are off-fit, atheoretical, or fatally underpowered may be desk-rejected without external review. A clear theoretical contribution and appropriate design are what get a paper past the desk.
-3. **External peer review.** Typically several (often three) reviewers in the focal conversation evaluate the theoretical contribution, design rigor, and analysis.
+1. **Submission & routing.** The editor (or an associate/action editor) screens the manuscript and routes it to an action editor in the relevant division. Submission is via ScholarOne (mc.manuscriptcentral.com/AMJ) with all author identifiers removed for blind review.
+2. **Desk decision.** Manuscripts that are off-fit, atheoretical, fatally underpowered, or that miss one of AMJ's three criteria (empirical contribution, theoretical contribution, practical relevance) may be desk-rejected without external review. A clear theoretical contribution and appropriate design are what get a paper past the desk.
+3. **External peer review.** Typically several (often three) reviewers in the focal conversation evaluate the theoretical contribution, design rigor, and analysis; AMJ aims to return developmental feedback within roughly 60 days.
 4. **Action editor synthesis.** The action editor weighs the reviews, forms an independent judgment, and writes the decision letter. The editor's letter — not a vote count — drives the outcome.
 5. **Decision.** Common outcomes: reject; reject with encouragement to resubmit as new; major revision (R&R); minor revision; (rarely) accept. A first-round acceptance is essentially unheard of.
 

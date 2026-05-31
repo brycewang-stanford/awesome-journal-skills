@@ -11,12 +11,23 @@ This is the router. It does not replace any specialized skill — it tells you *
 amr-* skill to use at the current stage** of an Academy of Management Review manuscript.
 
 Default assumption: unless the user says otherwise, treat the target as AMR — the Academy
-of Management's premier **theory journal**. AMR publishes **conceptual articles that build
-new theory**. It contains **no datasets, no hypothesis tests, no results section**. The
+of Management's premier **theory-development journal**. AMR publishes **conceptual articles
+that build new theory**; per its scope, submissions "must extend theory in ways that develop
+**testable knowledge-based claims**." It contains **no datasets, no hypothesis tests, no
+results section** — empirical hypothesis-testing is the lane of its sibling AMJ. The
 deliverable is a genuinely new theoretical contribution: new constructs, a new process
 model, or a reconceptualization — developed with rigorous logic, explicit assumptions,
 propositions, and boundary conditions. If the project has data and tests, it belongs at
 AMJ / ASQ / SMJ, not AMR.
+
+The AMR contribution bar is set by two AMR-published editorials worth keeping in view at
+every stage: Whetten's "What Constitutes a Theoretical Contribution?" (1989, DOI
+10.5465/amr.1989.4308371) — the What/How/Why/Who-Where-When rubric — and Suddaby's "Editor's
+Comments: Construct Clarity in Theories of Management and Organization" (2010, DOI
+10.5465/amr.2010.0419). Pure-theory exemplars built by argument alone: Oliver, "Strategic
+Responses to Institutional Processes" (1991, DOI 10.5465/amr.1991.4279002); Dyer & Singh,
+"The Relational View" (1998, DOI 10.5465/amr.1998.1255632). References follow **APA-style**
+(AOM house style).
 
 ## When to trigger
 
@@ -88,3 +99,7 @@ or an AMJ draft whose "theory" is a literature summary. Pick the right stack ear
 - **Do not** let `amr-tables-figures` pretty up a model before the propositions and mechanisms exist.
 - **Do not** let `amr-rebuttal` draft a response before the theory itself has actually been revised.
 - **Do not** treat AMR as a venue for data; route empirical work elsewhere.
+
+> Volatile specifics (editor-in-chief, exact length/abstract limits, fees, APA edition,
+> acceptance rate) change or could not be machine-verified — see
+> `resources/official-source-map.md` and confirm on the official AMR / AOM author page.

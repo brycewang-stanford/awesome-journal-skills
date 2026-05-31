@@ -14,18 +14,28 @@ description: Use when scoping or pressure-testing whether a research question is
 
 ## The SMJ fit test
 
-SMJ asks fundamentally one family of question: **why do firms differ, and why do some sustain superior performance or competitive advantage?** A fitting paper connects its core construct to that question. Run the four-part test:
+SMJ asks fundamentally one family of question: **why do firms differ, and why do some sustain superior performance or competitive advantage?** This is the journal's stated scope — research whose questions, evidence, and conclusions are relevant to strategic management and engaging to strategy scholars. A fitting paper connects its core construct to that question. Run the four-part test:
 
 1. **Strategy DNA.** Does the dependent (or focal) construct concern firm performance, competitive advantage, value creation/capture, or a strategic outcome (entry, scope, alliance, M&A, governance, innovation, nonmarket position)? If the DV is purely individual attitudes or generic org behavior, fit is weak.
 2. **Firm-level (or higher) lens.** SMJ's natural unit is the firm, business unit, or the strategic dyad/alliance — even when mechanisms run through managers. Pure micro-OB belongs elsewhere.
 3. **Theoretical stakes for strategy.** Would the answer change how strategy scholars think about resources/capabilities, governance, competitive dynamics, corporate strategy, or strategic leadership?
 4. **Identifiable empirics.** Can the strategic choice and its performance consequence be studied without hopeless endogeneity? (If the choice is obviously co-determined with performance and you have no leverage, reconsider.)
 
+## Pick the right SMS journal
+
+The Strategic Management Society sponsors **three** Wiley journals — route deliberately before defaulting to SMJ:
+
+- **SMJ** (founded 1980) — broad strategy; competitive advantage and firm performance.
+- **SEJ** (Strategic Entrepreneurship Journal, est. 2007) — strategy at the entrepreneurship interface (new venture, opportunity, founder/firm emergence).
+- **GSJ** (Global Strategy Journal, est. 2011) — international/global and cross-border strategy.
+
+If the question's primary engine is founding/entry, SEJ fits; if internationalization/global, GSJ fits; otherwise SMJ. Sending an entrepreneurship- or internationalization-core paper to SMJ is a common, avoidable desk-reject.
+
 ## Domain map (where SMJ papers live)
 
 | Domain                         | Example focal questions                                            |
 |--------------------------------|-------------------------------------------------------------------|
-| Resources & capabilities       | When do VRIN resources / dynamic capabilities yield rent?         |
+| Resources & capabilities       | When do VRIN resources / dynamic capabilities yield rent? (Wernerfelt, 1984, SMJ; Teece, Pisano & Shuen, 1997, SMJ) |
 | Competitive dynamics & strategy formulation | How do firms position, signal, and respond to rivals? |
 | Corporate strategy & scope     | Diversification, vertical integration, divestiture, BU portfolios |
 | Alliances & M&A                | Partner selection, governance, integration, acquisition returns   |
@@ -55,7 +65,7 @@ SMJ asks fundamentally one family of question: **why do firms differ, and why do
 - "Firm performance" as an afterthought DV bolted onto an OB study
 - Atheoretical "X predicts performance" framing with no mechanism or boundary
 - A topic so broad ("does strategy matter?") that no clean test exists
-- Choosing SMJ for prestige when the natural home is an OB, HRM, or general outlet
+- Choosing SMJ for prestige when the natural home is an OB/HRM/general outlet — or an SMS sibling (SEJ for entrepreneurship, GSJ for global strategy)
 
 ## Output format
 
@@ -65,6 +75,11 @@ SMJ asks fundamentally one family of question: **why do firms differ, and why do
 【Domain】resources | competitive dynamics | corporate strategy | alliances/M&A | governance | innovation | nonmarket | strategic leadership
 【Boundary condition】...
 【Identification risk】selection into the choice / reverse causality / unobserved heterogeneity
+【Right SMS journal】SMJ / SEJ / GSJ / (elsewhere: __)
 【Closest SMJ anchors】[2–3 papers]
 【Next step】smj-theory-development
 ```
+
+## Templates & resources
+
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — SMJ aims & scope, the SMS journal family (SMJ/SEJ/GSJ), and landmark strategy papers

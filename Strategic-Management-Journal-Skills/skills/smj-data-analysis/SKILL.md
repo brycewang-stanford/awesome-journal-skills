@@ -16,6 +16,8 @@ description: Use when estimating models and defeating endogeneity for a Strategi
 
 Performance regressions with **unaddressed endogeneity or reverse causality are the #1 SMJ rejection reason.** Treat causal identification as a first-class part of the paper, not a footnote. The reviewer's mental model: *firms that make this strategic choice are different in ways that also affect performance.* You must close that door explicitly.
 
+SMJ codifies this in Bettis, Gambardella, Helfat & Mitchell (2014), "Quantitative empirical analysis in strategic management," *SMJ* 35(7): 949–953: acknowledge endogeneity, make a good-faith effort to address it, and avoid **data snooping / p-hacking**. Report **economic magnitudes**, not just stars. SMJ will publish well-designed studies that report **null results** — so do not suppress a theory-relevant null.
+
 ## Threat → tool map
 
 | Threat                                   | Primary tools                                              |
@@ -49,8 +51,9 @@ Pick from the threat named in `smj-methods`; usually you will combine FE with on
 
 ## Mechanism & robustness
 
-- **Mechanism test:** if you theorized a mediator, test it (and prefer evidence beyond a Baron–Kenny mediation regression — e.g., moderation-of-process, subsample variation in the mechanism).
-- **Robustness battery (report, do not bury):** alternative DV operationalizations; alternative samples (drop dominant industries/years); alternative estimators; clustering choices; controlling for prior performance; addressing survivorship.
+- **Mechanism test:** if you theorized a mediator, test it (prefer evidence beyond a Baron–Kenny mediation regression — e.g., moderation-of-process, subsample variation in the mechanism).
+- **Magnitude, not just stars:** interpret the key effect in economic terms (e.g., "a 1 SD increase in X → a Y% change in performance"); SMJ cares about meaningful effects.
+- **Robustness battery (report, do not bury):** alternative DVs; alternative samples (drop dominant industries/years); alternative estimators; clustering choices; prior performance; survivorship. Where feasible, show sensitivity to the identifying assumption (partial-identification / bounding).
 - **Inference:** cluster standard errors at the level of treatment assignment (often firm); justify the choice.
 
 ## Checklist
@@ -75,6 +78,7 @@ Pick from the threat named in `smj-methods`; usually you will combine FE with on
 - Ignoring that firms self-select into the very strategic choice being studied
 - Staggered DID with naive two-way FE and no heterogeneity correction
 - A wall of robustness tables that never confronts the central threat
+- Specification hunting until p < 0.05 (data snooping); reporting stars with no economic magnitude; suppressing a theory-relevant null — all discouraged by SMJ
 
 ## Output format
 
@@ -86,5 +90,12 @@ Pick from the threat named in `smj-methods`; usually you will combine FE with on
 【Mechanism test】[what + result]
 【Robustness】[DV alt, sample alt, estimator alt, clustering]
 【Residual threat acknowledged】...
+【Economic magnitude reported】yes / add
+【Nulls reported honestly (no p-hacking)】yes
 【Next step】smj-contribution-framing
 ```
+
+## Templates & resources
+
+- [`../../resources/external_tools.md`](../../resources/external_tools.md) — Stata/R/Python packages (reghdfe, ivreghdfe, csdid/did, psmatch2, rdrobust) and strategy data sources
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — SMJ p-hacking / null-results / endogeneity policy and the Bettis et al. (2014) editorial

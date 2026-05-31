@@ -15,7 +15,7 @@ description: Use when the research design and method are the bottleneck for an A
 
 ## Match the design to the question
 
-AMJ accepts many designs — the bar is *fit and rigor*, not a single preferred method.
+AMJ explicitly welcomes **all empirical methods** — qualitative, quantitative, field, laboratory, meta-analytic, and mixed. The bar is *fit and rigor*, not a single preferred method, and qualitative designs are held to an equally demanding standard (the Eisenhardt multiple-case approach and the Gioia methodology for grounded qualitative rigor are the field's reference points).
 
 | Theoretical claim                          | Design that earns it                                     |
 |--------------------------------------------|----------------------------------------------------------|
@@ -29,7 +29,7 @@ A two-study design (e.g., field study for generalizability + experiment for caus
 
 ## Designing against the threats AMJ cares about
 
-- **Common-method bias (CMB)**: separate sources for predictor and outcome; temporal separation across waves; objective/archival outcomes where possible. Procedural remedies beat statistical fixes. Plan this *before* collecting data.
+- **Common-method bias (CMB)**: separate sources for predictor and outcome; temporal separation across waves; objective/archival outcomes where possible. Procedural remedies beat statistical fixes (the Podsakoff et al. guidance is the standard reference). Plan this *before* collecting data.
 - **Endogeneity (archival)**: anticipate omitted variables, reverse causality, and selection. Plan an identification strategy (instrument, natural experiment, panel fixed effects, difference-in-differences, Heckman/2SLS, propensity matching) and the assumptions each requires.
 - **Measurement**: use validated multi-item scales; pilot new measures; plan a CFA. State the level at which each construct is measured and how cross-level data are aggregated (with justification: ICC, r_wg, aggregation theory).
 - **Sampling and power**: justify the sampling frame, response rate, and statistical power for the focal and interaction effects (interactions need more power).

@@ -14,14 +14,15 @@ description: Use when understanding and navigating Administrative Science Quarte
 
 ## How ASQ review works (durable norms)
 
-ASQ is known for a **developmental, craft-focused** review process. Editors and reviewers typically engage deeply with the *idea* and aim to help promising papers become their best version. Expect:
+ASQ is known for a **developmental, craft-focused, double-blind** review process. Editors and reviewers typically engage deeply with the *idea* and aim to help promising papers become their best version. The editorship passed from **Christine Beckman and András Tilcsik** to **Beth Bechky** (UC Davis; term began July 1, 2025), and recent editorial communications have foregrounded **curation** — shaping a smaller set of enduring papers rather than maximizing throughput. The three questions editors say they ask of any manuscript: does it (1) advance understanding of organizing (teams, enterprises, markets), (2) develop a new theoretical account or findings that challenge prior understanding, and (3) address a significant, challenging problem of management? Expect:
 
-- **Editorial screening** for fit and contribution before papers go out to review; thin-theory or off-scope papers may be returned without full review.
+- **No submission fee** (ASQ has no mandatory submission or publication charge), but **selectivity is severe**: reported acceptance is around **8%** (third-party trackers, not an official figure — verify).
+- **Editorial screening** for fit and contribution before papers go out to review; thin-theory, off-scope, or excessively long manuscripts are returned/unsubmitted without full review.
 - **Multiple expert reviewers** plus a handling editor who synthesizes and adds editorial direction.
 - **Multiple rounds.** A path to acceptance often runs through two or more revision rounds; this is normal, not a bad sign.
 - **Developmental tone.** Reviews can be long and demanding precisely because reviewers take the idea seriously — read them as collaboration, not gatekeeping.
 
-(Verify current timelines, decision categories, and editorial team on ASQ's official page; these change.)
+Note that qualitative manuscripts are reviewed by reviewers fluent in inductive standards, not forced through a variance-theory lens. A previously rejected paper may **not** be resubmitted, even substantially revised.
 
 ## Decision types (typical)
 

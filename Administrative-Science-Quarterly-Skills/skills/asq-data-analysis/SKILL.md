@@ -14,14 +14,14 @@ description: Use when executing and reporting the analysis for an Administrative
 
 ## Branch A — Qualitative analysis (the data-to-theory link)
 
-ASQ expects readers to *see how raw data became theory*. Make the analytic ladder visible.
+ASQ expects readers to *see how raw data became theory* — its guidelines stress that helping readers understand *how the research was performed* and ensuring the *trustworthiness* of published work are explicit aims (verify at journals.sagepub.com/author-instructions/asq). Qualitative rigor is judged on its own terms here, not held to a quantitative yardstick. Make the analytic ladder visible.
 
 - **Transparent coding.** Describe first-order codes (informant terms), second-order themes (researcher constructs), and aggregate dimensions — the Gioia-style data structure — or an equivalent (Eisenhardt cross-case, Langley process bracketing). State who coded, how disagreements were resolved, and how iteration proceeded.
 - **Data-to-theory table.** Provide a table linking representative raw evidence → codes → constructs, so the inference is auditable (see `asq-tables-figures`).
 - **Power quotes vs. proof quotes.** Use a few vivid "power quotes" in the body; place corroborating "proof quotes" in tables/appendix. Quotes must *carry* the claim, not illustrate it after the fact.
 - **Evidence for each construct.** Every theoretical construct should be backed by patterned evidence across informants/cases, with counts or prevalence where appropriate.
 - **Negative cases.** Report disconfirming instances and how they refined the theory.
-- **Process display.** For process theory, show the temporal/event structure (timeline, phase model, visual mapping).
+- **Process display.** For process theory, show the temporal/event structure (timeline, phase model, visual mapping) — as Barley (1986, ASQ) did in tracing how CT scanners restructured radiology departments over time.
 
 ## Branch B — Quantitative analysis
 

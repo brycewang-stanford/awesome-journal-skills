@@ -9,7 +9,9 @@ description: Use when deciding which amj-* sub-skill to invoke next, or when seq
 
 This is the router. It does not replace any specialized skill; it tells you **which amj-* skill to use right now** for your AMJ manuscript.
 
-Default assumption: unless the user says otherwise, treat the target as AMJ — the premier *empirical* management journal published by the Academy of Management (AOM). The non-negotiable bar: a strong empirical study that **also makes a clear theoretical contribution**. Reviewers and the action editor will ask "what new theory do we learn?" as insistently as "is the method sound?" Both must pass.
+Default assumption: unless the user says otherwise, treat the target as AMJ — the premier *empirical* management journal published by the Academy of Management (AOM), founded in 1958 and published bimonthly (Feb/Apr/Jun/Aug/Oct/Dec). AMJ's stated mission is "to publish empirical research that tests, extends, or builds management theory and contributes to management practice." It explicitly welcomes **all empirical methods** — qualitative, quantitative, field, laboratory, meta-analytic, and mixed — and judges every manuscript on **three criteria**: a strong empirical contribution, a meaningful theoretical contribution, and practical relevance. The non-negotiable bar: a strong empirical study that **also makes a clear theoretical contribution**. Reviewers and the action editor will ask "what new theory do we learn?" as insistently as "is the method sound?" Both must pass.
+
+> Editorial team changes: Gary A. Ballinger (University of Virginia, McIntire) is the incoming Editor-in-Chief whose team began receiving submissions on 1 July 2025; verify the current masthead at journals.aom.org/journal/amj. Impact factor and acceptance rate fluctuate (2023 JCR IF ≈ 9.5) — treat any figure as **approximate** and confirm on the official page.
 
 ## When to trigger
 
@@ -64,10 +66,10 @@ Default assumption: unless the user says otherwise, treat the target as AMJ — 
 
 ## Difference vs. AMR / ASQ / SMJ stacks
 
-- **AMJ**: empirical contribution that *also* advances theory — data and theory weighted equally.
-- **AMR** (theory-only): no data; the contribution is a novel, internally consistent theory. Use an AMR stack.
-- **ASQ**: empirical or theoretical, but prizes deep contextual/qualitative work and bold framing.
-- **SMJ**: strategy-focused; performance and competitive-advantage questions, often archival.
+- **AMJ**: empirical contribution that *also* advances theory — data and theory weighted equally. AOM journal; 40-page main-body limit; ScholarOne at mc.manuscriptcentral.com/AMJ.
+- **AMR** (theory-only): a *sister AOM journal* with no data — the contribution is a novel, internally consistent theory, typically ~25-30 double-spaced pages excluding references. Use an AMR stack.
+- **ASQ**: Cornell/SAGE journal (not AOM); empirical or theoretical, prizes deep contextual/qualitative work and bold framing.
+- **SMJ**: Strategic Management Society / Wiley journal (not AOM); strategy-focused, performance and competitive-advantage questions, often archival.
 
 If your paper has no original data and is purely conceptual, AMJ is the wrong venue — target AMR.
 

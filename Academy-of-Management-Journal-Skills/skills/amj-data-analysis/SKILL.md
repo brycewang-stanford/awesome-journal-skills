@@ -21,6 +21,7 @@ AMJ reviewers expect the measurement model to be defended first:
 - **Confirmatory factor analysis (CFA)**: report fit (e.g., CFI, TLI, RMSEA, SRMR) and show the hypothesized factor structure fits better than plausible alternatives (one-factor, combined-factor models).
 - **Convergent & discriminant validity**: AVE per construct; AVE > inter-construct squared correlations (or HTMT). Report the correlation matrix with reliabilities on the diagonal.
 - **Aggregation** (multilevel): justify with ICC(1), ICC(2), and r_wg(j) before aggregating to a higher level.
+- **Qualitative analysis**: where the design is qualitative, "validity" becomes trustworthiness — present a Gioia-style data structure (first-order codes → second-order themes → aggregate dimensions), an audit trail, and representative quotations so the path from raw data to constructs is traceable.
 
 ## Choose the estimator that matches the design
 
@@ -37,7 +38,7 @@ Match clustering of standard errors to the sampling/nesting structure.
 
 ## Common-method bias (CMB)
 
-Report the *designed* separations from `amj-methods` first; then provide statistical evidence: a Harman single-factor test is necessary but weak — prefer a marker-variable approach, an unmeasured latent method factor (CFA), or showing interaction effects survive (interactions are hard to inflate by CMB).
+Report the *designed* separations from `amj-methods` first; then provide statistical evidence: a Harman single-factor test is necessary but weak — prefer a marker-variable approach, an unmeasured latent method factor (CFA), or showing interaction effects survive (interactions are hard to inflate by CMB). The Podsakoff et al. framework is the expected reference for both procedural and statistical remedies.
 
 ## Reporting mediation, moderation, and effect sizes
 

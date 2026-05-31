@@ -19,13 +19,13 @@ This is the central choice at ASQ. Get it right before drafting.
 - **Variance theory** explains *how much* of an outcome varies with antecedents: X → Y, with moderators/mediators. Appropriate for "whether and under what conditions" questions, typically quantitative.
 - **Process theory** explains *how and why* something unfolds over time: sequences, events, feedback, transformation. Appropriate for emergence, becoming, contestation, and dynamics — typically qualitative/inductive.
 
-ASQ punishes **variance framing forced onto a process question**: if your data show a sequence of events transforming an organization but you write it as "factor A increases outcome B," reviewers will say the theory and phenomenon are mismatched. Match the form of the theory to the form of the phenomenon.
+ASQ punishes **variance framing forced onto a process question**: if your data show a sequence of events transforming an organization but you write it as "factor A increases outcome B," reviewers will say the theory and phenomenon are mismatched. Match the form of the theory to the form of the phenomenon. ASQ's lineage makes process and interpretive theorizing fully legitimate as the *main* contribution — this is a real difference from journals where the variance/hypothesis template is the implicit standard. Barley's (1986) ASQ study of CT scanners, for instance, theorized *structuring as a process* rather than estimating an effect of technology on structure.
 
 ## Mechanism first
 
 A construct is not a mechanism. State the *generative mechanism* — the social/organizational process that produces the relationship or sequence:
 
-- Name the **actors** and what they are doing (sensemaking, competing, imitating, categorizing, coordinating, resisting)
+- Name the **actors** and what they are doing (sensemaking, competing, imitating, categorizing, coordinating, resisting). ASQ's sociology-of-organizations roots mean *collective* and *field-level* mechanisms (mimetic, normative, and coercive isomorphism in the DiMaggio & Powell 1983 sense) are as welcome as micro ones.
 - Name the **social structure** in which they act (field, hierarchy, network, category system, status order)
 - Specify the **causal/processual logic**: why does this actor, in this structure, produce this outcome or this next step?
 - Specify **boundary conditions**: where does the mechanism hold, weaken, or reverse?
@@ -38,6 +38,7 @@ If theory is *emergent* (grounded), this skill still applies — but in reverse 
 
 - Theory is the *output*, presented after the data structure (see `asq-data-analysis`)
 - Still required: a named mechanism, a process model (often a figure with phases/feedback), and a clear statement of what is novel relative to existing organizational theory
+- A grounded, inductively-built theory can be the *entire* contribution at ASQ — it need not be a stepping stone to a later deductive test, as it might be framed elsewhere
 - Avoid "theory by adjective": calling a pattern "dynamic" or "recursive" without specifying the process
 
 ## For deductive papers

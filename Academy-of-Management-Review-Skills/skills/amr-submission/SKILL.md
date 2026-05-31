@@ -40,7 +40,7 @@ description: Use when running the final pre-submission preflight for an Academy 
 - [ ] File names contain no author or institution name
 
 ### References & citations
-- [ ] AOM author-date in-text style; full reference list per the AOM Style Guide
+- [ ] **APA-style** author–date in-text citations; full reference list per the AOM (APA-derived) Style Guide (APA edition UNVERIFIED — confirm; see source map)
 - [ ] Every in-text citation appears in the reference list and vice versa
 - [ ] The recent, live conversation in the target stream is cited, not only seminal works
 - [ ] All references are real and accurately quoted (no fabricated or mis-cited sources)
@@ -57,12 +57,22 @@ description: Use when running the final pre-submission preflight for an Academy 
 - [ ] Cover note / response to editor if requested
 - [ ] Any author-agreement or conflict-of-interest forms the system requires
 
+## Desk-reject triggers to preempt
+
+1. **It's an empirical study** (reports data, tests hypotheses) — the defining AMR desk reject.
+2. **Incremental theory** — a minor extension with no new construct or mechanism.
+3. **A literature review** with no original theoretical move (AMR is not a review journal).
+4. **Construct proliferation** — relabeling existing ideas (cf. Suddaby, AMR 2010, DOI 10.5465/amr.2010.0419).
+5. **Untestable-in-principle or tautological propositions** (AMR's scope demands "testable knowledge-based claims").
+6. **Poor fit/scope** or anonymization/formatting failures.
+
 ## ScholarOne operation notes
 
-- AMR uses **ScholarOne Manuscripts**; register and submit through the official AMR portal.
+- AMR uses **ScholarOne Manuscripts (Manuscript Central)**; register and submit through the AMR portal linked from journals.aom.org/journal/amr (exact URL — confirm; see source map).
 - Enter author metadata only in the system, never in the anonymized manuscript.
 - Suggested/opposed reviewers: provide only if the system asks and per its limits.
 - Choose the correct submission/article type (theoretical/conceptual article).
+- **Submission fee** and **AOM membership** requirement: both **UNVERIFIED** — confirm on the AOM author guidelines; do not assume a fee.
 - Keep within the file-size and file-type limits the portal states.
 
 ## Anti-patterns

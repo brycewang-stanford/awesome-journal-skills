@@ -14,7 +14,7 @@ description: Use when choosing and justifying the research design for an Adminis
 
 ## Principle: method follows the theoretical question
 
-At ASQ, neither method is privileged. The journal publishes superb qualitative *and* quantitative work. What is non-negotiable is that the design fits the question (see `asq-theory-development`) and is executed with rigor. A sophisticated method cannot rescue a thin theory, and a simple design is fine if the insight is deep and the craft is high.
+At ASQ, neither method is privileged. The journal publishes superb qualitative *and* quantitative work, and the current Editor, **Beth Bechky** (UC Davis; term began July 1, 2025), is herself an ethnographer of work and occupations — a signal that rich fieldwork is genuinely first-class here, not a tolerated minority. The ASQ guidelines say it plainly: "We do not attach greater significance to one methodological style than another, but we value data" — and it is "open to work based on qualitative or quantitative data collected from archives, the lab, or the field, as well as simulations and formal models." The guidelines also stress supporting a *diversity of methods* and ensuring the *trustworthiness* of published work (verify at journals.sagepub.com/author-instructions/asq). What is non-negotiable is that the design fits the question (see `asq-theory-development`) and is executed with rigor. A sophisticated estimator cannot rescue a thin theory, and a single immersive case can carry an ASQ paper if the insight is deep and the craft is high — a different bar from venues where a clean causal-identification design is itself treated as the contribution.
 
 ## Branch A — Qualitative / inductive design
 
@@ -35,7 +35,7 @@ Use for *whether/how much/under what conditions* questions across many cases.
 Design requirements:
 
 - **Sample and unit of analysis** justified relative to the theory (organizations, dyads, fields, events, individuals nested in units).
-- **Identification.** Be explicit about the causal claim and the threat to it. Where causal language is used, justify it: panel FE, instruments, natural experiments, event-history/survival models, matching, difference-in-differences (and modern staggered-adoption caveats if relevant).
+- **Identification (in service of theory).** Be explicit about the causal claim and the threat to it: panel FE, instruments, natural experiments, event-history/survival models, matching, difference-in-differences (with modern staggered-adoption caveats if relevant). At ASQ, identification is a means to a *theoretical* end, not the end itself — a flawless quasi-experiment that yields no new understanding of organizing will still be rejected. Lead with the mechanism the design illuminates, not the estimator.
 - **Measurement validity.** Construct operationalization defended; multi-item measures with reliability; address common-method bias if same-source.
 - **Multilevel structure.** If theory is cross-level, use appropriate models (HLM/mixed models) and justify level of aggregation.
 - **Power and design adequacy** for the effects and interactions claimed.

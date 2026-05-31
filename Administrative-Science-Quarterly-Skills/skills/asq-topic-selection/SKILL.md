@@ -14,7 +14,7 @@ description: Use when judging whether a research idea fits Administrative Scienc
 
 ## What ASQ rewards
 
-ASQ publishes deep, often **counterintuitive** insight about organizations and the social structures around them. The bar is not "is this interesting?" but "**does this change how we understand organizing?**"
+ASQ publishes deep, often **counterintuitive** insight about organizations and the social structures around them. Since its 1956 founding (by James D. Thompson at Cornell), the journal has prized organizational ideas drawn from sociology, psychology, political science, economics, anthropology, and management — not a single home discipline. The bar is not "is this interesting?" but "**does this change how we understand organizing?**" A finding that merely raises firm performance (the SMJ test) or cleanly tests a hypothesis in a new sample (a common AMJ profile) is not yet an ASQ paper.
 
 Fit test — a strong ASQ paper usually has all four:
 
@@ -38,10 +38,10 @@ If the best you can do is "no one has studied X in setting S," that is a gap, no
 
 Decide which engine the puzzle needs — this previews `asq-methods`:
 
-- **How / why a process unfolds, identity/meaning, emergent dynamics** → inductive / qualitative (grounded-theory, ethnographic, historical, comparative case)
+- **How / why a process unfolds, identity/meaning, emergent dynamics** → inductive / qualitative (grounded-theory, ethnographic, historical, comparative case). ASQ has published field-defining inductive work — e.g., Barley's (1986) observational study of CT scanners and the social order of radiology departments, and Weick's (1993) interpretive analysis of the Mann Gulch disaster.
 - **Whether and how much a relationship holds across many cases, with identification** → quantitative (panel, event-history, network, archival, experiment)
 
-Do not pick method first and reverse-engineer a question.
+Do not pick method first and reverse-engineer a question. Unlike journals where the quantitative hypothesis-testing template is the default expectation, at ASQ a single deep ethnography or a historical case can be the whole paper if the insight is profound and the craft is high.
 
 ## Contribution claim (one paragraph)
 
@@ -57,9 +57,9 @@ If you cannot fill every slot, the topic is not ready.
 - [ ] The core is organizational/sociological, in ASQ's wheelhouse
 - [ ] There is a genuine surprise that overturns or complicates a prior
 - [ ] The insight is generative (opens questions), not a dead-end finding
-- [ ] Method is chosen *because* the puzzle demands it
+- [ ] Method is chosen *because* the puzzle demands it (qualitative is fully first-class here)
 - [ ] A one-paragraph contribution claim is drafted with every slot filled
-- [ ] You have 2–3 recent ASQ articles you can name as conversation partners
+- [ ] You have 2–3 recent ASQ articles you can name as conversation partners (not just AMJ/SMJ pieces)
 
 ## Anti-patterns
 

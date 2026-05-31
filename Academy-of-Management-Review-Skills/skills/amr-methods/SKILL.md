@@ -23,17 +23,18 @@ description: Use when choosing and applying a theory-construction method for an 
 |----------|-------------|-----------|
 | Conceptual elaboration | Extending a known theory to a new domain | Carry over the core logic; re-specify constructs for the new setting; add boundary conditions |
 | Analogical / metaphorical transfer | A construct from another field illuminates a management phenomenon | Map source → target carefully; theorize where the analogy holds and breaks |
-| Typology construction | The phenomenon has distinct, theoretically meaningful types | Derive dimensions from theory (not data); ensure types are mutually exclusive and jointly exhaustive; theorize transitions |
+| Typology construction | The phenomenon has distinct, theoretically meaningful types | Derive dimensions from theory (not data); ensure types are mutually exclusive and jointly exhaustive; theorize transitions (e.g., Oliver's strategic-responses typology, AMR 1991, DOI 10.5465/amr.1991.4279002) |
 | Process theorizing | The phenomenon is a sequence/becoming, not a variance relationship | Specify stages, triggers, feedback loops, and timing; theorize the engine that drives movement |
 | Construct re-specification | An existing construct conflates distinct phenomena | Split or merge; re-define the domain; re-derive downstream relationships |
 | Cross-level theorizing | The action spans individual ↔ collective | Specify emergence (bottom-up) and top-down effects; avoid level confusion |
 
 ## Building each component well
 
-- **Constructs**: a good construct is *necessary* (the theory cannot be stated without it), *distinct* (not a synonym), and has a clear domain. Define what it excludes, not only what it includes.
+- **Constructs**: a good construct is *necessary* (the theory cannot be stated without it), *distinct* (not a synonym), and has a clear domain and scope conditions (Suddaby's construct-clarity criteria, AMR 2010, DOI 10.5465/amr.2010.0419). Define what it excludes, not only what it includes. Construct domain is the conceptual analog of avoiding a contaminated sample — but done in argument, not data cleaning.
 - **Relationships**: derive, don't assert. Each link should follow from the constructs and an explicit mechanism. Specify form (causal / recursive / moderating / mediating / constitutive).
-- **Mechanisms**: name the engine. Prefer mechanisms with micro-foundations — actors doing things for stated reasons — over black-box "is associated with."
+- **Mechanisms**: name the engine — the *why* that makes theory explanatory rather than descriptive (Whetten, AMR 1989, DOI 10.5465/amr.1989.4308371). Prefer mechanisms with micro-foundations — actors doing things for stated reasons — over black-box "is associated with."
 - **Boundary conditions**: state the contextual, temporal, and level limits. Strong theory specifies its own scope; this is contribution, not hedging.
+- **Falsifiability**: design propositions to be refutable in principle (AMR's scope demands "testable knowledge-based claims"). This is the AMR analog of identification rigor at AMJ — credibility rests on tight, falsifiable logic, not on a clean estimate.
 
 ## Checklist
 

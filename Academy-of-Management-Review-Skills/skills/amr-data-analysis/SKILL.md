@@ -10,6 +10,21 @@ description: Use when stress-testing the LOGIC of an Academy of Management Revie
 > proposition follow logically from the constructs and mechanisms? At AMR, logical
 > soundness plays the role that statistical rigor plays at empirical journals.
 
+## The empirical-analog reframe (keep the folder, change the content)
+
+This skill replaces an empirical "identification + robustness" stage. The mapping:
+
+| Empirical sibling (AMJ/ASQ/SMJ) | AMR theory analog |
+|---------------------------------|-------------------|
+| Identification strategy (IV, DiD, RD, matching) | Generative **mechanism** — the *why* (Whetten 1989, DOI 10.5465/amr.1989.4308371) |
+| Robustness checks / alternative specifications | **Internal consistency** + counterfactual probes on premises |
+| Ruling out confounders | Engaging and bettering the strongest **rival theory** |
+| Replication package (data + code) | **Transparent reasoning** — premises and derivations a reader can re-derive |
+| "Estimates are significant and robust" | **Propositions are falsifiable in principle** (AMR's "testable knowledge-based claims") |
+
+There is no instrument, no parallel-trends test, no placebo here; their presence signals a
+misfiled empirical paper.
+
 ## When to trigger
 
 - Propositions are written but you are not sure they actually follow from the argument
@@ -51,10 +66,14 @@ boundary condition, or the proposition needs to be narrowed.
 
 ## Internal-coherence checks across the whole theory
 
-- **Consistency**: no two propositions contradict each other (unless the tension is the point and is theorized).
+- **Consistency**: no two propositions contradict each other (unless the tension is the point and is theorized). Constructs mean the same thing throughout — no concept drift (a core Suddaby construct-clarity criterion, AMR 2010, DOI 10.5465/amr.2010.0419).
 - **Non-circularity**: a construct is not defined by its effects, then used to explain those effects.
 - **Sufficiency**: the constructs and mechanisms are enough to generate the propositions — nothing is smuggled in mid-argument.
 - **Parsimony**: every construct earns its place; drop any that does no logical work.
+
+Exemplar: Oliver (AMR 1991, DOI 10.5465/amr.1991.4279002) "analyzes" by argument — deriving
+a typology and propositions from antecedent conditions and addressing why organizations might
+resist rather than conform (the rival expectation) — all logic, no data.
 
 ## Checklist
 

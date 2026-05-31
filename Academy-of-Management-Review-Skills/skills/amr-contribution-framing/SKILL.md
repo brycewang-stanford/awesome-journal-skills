@@ -12,6 +12,17 @@ description: Use when articulating and differentiating the theoretical contribut
 - Your contribution paragraph restates the propositions instead of differentiating them
 - You cannot say, in one sentence, what scholars can now explain that they could not
 
+## The AMR contribution bar
+
+AMR seeks "novel, insightful, and carefully crafted conceptual articles that challenge
+conventional wisdom." Whetten's classic AMR editorial, "What Constitutes a Theoretical
+Contribution?" (1989, DOI 10.5465/amr.1989.4308371), is the rubric: a complete contribution
+specifies the **What** (constructs), **How** (relationships), **Why** (the underlying logic),
+and **Who/Where/When** (boundary conditions). The *Why* is the centerpiece — it is what
+separates theory from description. AMR's scope frames the four legitimate contribution paths:
+develop new theory; significantly challenge or clarify existing theory; synthesize advances
+into fresh theory; or identify and delineate a novel theoretical problem.
+
 ## The two questions AMR contributions must answer
 
 1. **What is new?** Not "we studied X" — AMR has no studies. *What theoretical machinery
@@ -31,7 +42,8 @@ work." Defend against it explicitly:
 - **Name the closest prior theory** and state, concretely, how yours differs — not "we go
   further" but *in what specific respect*.
 - **Distinguish from relabeling**: if a reviewer could map your construct one-to-one onto
-  an existing one, you have a synonym, not a contribution.
+  an existing one, you have a synonym, not a contribution (cf. Suddaby on construct clarity,
+  AMR 2010, DOI 10.5465/amr.2010.0419).
 - **Distinguish from incremental moderation**: "we add a moderator" is usually an empirical
   contribution, not a theoretical one. AMR wants a change in the *theory*, not a new
   contingency to test.
@@ -46,6 +58,14 @@ work." Defend against it explicitly:
 | Bounding an existing theory in a newly theorized way | Solid |
 | Adding a contingency/moderator to existing theory | Usually too thin for AMR alone |
 | Reviewing/organizing a literature | Not a theoretical contribution |
+
+## Exemplar
+
+Dyer & Singh's "The Relational View" (AMR 1998, DOI 10.5465/amr.1998.1255632) states its
+"before → after" crisply: before, competitive advantage was theorized at the firm or industry
+level; after, *relational rents* can accrue to dyads and networks, with four specified
+sources. That is new theoretical machinery, differentiated from the nearest prior theories —
+not a relabel and not an added moderator.
 
 ## Implications (part of the contribution)
 

@@ -54,10 +54,17 @@ Academy of Management author page before submitting.
 
 ## 7. References
 
-- [ ] AOM author-date in-text citations; full reference list per the AOM Style Guide
+- [ ] **APA-style** author–date in-text citations; full reference list per the AOM (APA-derived) Style Guide (APA edition UNVERIFIED — confirm; see source map)
 - [ ] Every in-text citation is in the list and vice versa
 - [ ] The recent, live conversation is cited (not only seminal anchors)
 - [ ] All references are real and accurately represented
+
+## 7b. Contribution bar
+
+- [ ] Clears Whetten's What/How/Why/Who-Where-When (AMR 1989, DOI 10.5465/amr.1989.4308371)
+- [ ] Constructs meet Suddaby's clarity criteria (AMR 2010, DOI 10.5465/amr.2010.0419)
+- [ ] Contribution differentiated from the nearest prior theory (top reject reason)
+- [ ] Propositions are testable in principle (AMR scope: "testable knowledge-based claims")
 
 ## 8. Ethics & portal (ScholarOne)
 
@@ -66,5 +73,6 @@ Academy of Management author page before submitting.
 - [ ] Prior conference/working-paper version disclosed if required
 - [ ] Similarity check run; self-overlap disclosed
 - [ ] Registered in the AMR ScholarOne portal; correct article type selected
+- [ ] Submission fee and AOM membership requirement checked (both UNVERIFIED — confirm; do not assume)
 - [ ] Files staged: anonymized manuscript + separate title page + any required forms
 - [ ] Within portal file-size and file-type limits

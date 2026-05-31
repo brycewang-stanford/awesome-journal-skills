@@ -15,7 +15,9 @@ description: Use when the theoretical argument and hypotheses are the bottleneck
 
 ## The AMJ theory bar
 
-AMJ does not publish atheoretical work. Every hypothesis must be **derived from an articulated theoretical mechanism**, written *before* the results are known. The argument should make a reader feel they understand *why* the effect occurs and *under what conditions* it strengthens or reverses.
+AMJ does not publish atheoretical work — its mission is "to publish empirical research that tests, extends, or builds management theory." Every hypothesis must be **derived from an articulated theoretical mechanism**, written *before* the results are known. The argument should make a reader feel they understand *why* the effect occurs and *under what conditions* it strengthens or reverses.
+
+For **theory-building** (typically qualitative) papers, AMJ does *not* expect a priori hypotheses; it expects a grounded model with emergent propositions. Eisenhardt and Graebner's AMJ guidance on building theory from cases is the canonical exemplar for how rich data become crisp constructs and propositions — do not force such a study into a hypothetico-deductive template.
 
 ## Building a hypothesis (the mechanism chain)
 

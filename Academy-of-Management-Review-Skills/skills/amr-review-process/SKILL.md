@@ -19,13 +19,19 @@ operative word: the goal is to help promising theory papers become stronger, so 
 detailed and the bar rises across rounds. Verify current specifics on the official page, but
 the durable shape is:
 
-- A handling editor assigns the paper to several reviewers expert in your conversation.
-- Reviews focus on the two things AMR exists to protect: the **novelty of the theory** and
-  the **logical soundness of the argument** — not on data (there is none).
+- A handling editor (Editor-in-Chief / action editor; current EIC **UNVERIFIED** — confirm at journals.aom.org/journal/amr) assigns the paper to several reviewers expert in your conversation. (Exact reviewer count and AMR's acceptance rate are **UNVERIFIED** — see source map; the rate is low, as for all top AOM journals.)
+- Reviews focus on the things AMR exists to protect: a genuine **theoretical contribution** (Whetten's What/How/Why/Who-Where-When, AMR 1989, DOI 10.5465/amr.1989.4308371), **construct clarity** (Suddaby, AMR 2010, DOI 10.5465/amr.2010.0419), and the **logical soundness** of the argument — not data (there is none). Reviewers do not ask about identification, sample size, robustness, or measurement validity; those are AMJ/ASQ/SMJ criteria.
 - Decisions are commonly: **Reject**; **Reject & Resubmit** (encouraged to rebuild, treated
   as a fresh submission); **Major Revision (R&R)**; less often **Minor Revision**; rarely an
   immediate **Accept**.
 - An R&R is an invitation, not a promise. Multiple rounds are normal at AMR.
+
+## Desk-reject triggers specific to AMR
+
+The editor screens for fit and contribution before sending a paper out. Most common AMR desk
+rejects: (1) "this is an empirical paper"; (2) incremental theory; (3) a literature review
+with no original move; (4) construct proliferation (relabeling); (5) untestable-in-principle
+or tautological propositions; (6) poor fit/scope or anonymization failures.
 
 ## Reading the decision letter
 

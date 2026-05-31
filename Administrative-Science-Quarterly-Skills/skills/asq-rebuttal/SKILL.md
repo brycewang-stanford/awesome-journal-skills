@@ -15,7 +15,7 @@ description: Use when drafting the response to an Administrative Science Quarter
 
 ## Mindset for an ASQ revision
 
-ASQ's review is developmental — treat reviewers as collaborators who took the idea seriously. The winning posture is **gracious, responsive, and intellectually serious**: accommodate where they are right, and where you disagree, argue with evidence and respect rather than dismissal. The central question the editor will ask is "did the *idea mature*?" — so foreground how the contribution got deeper, not just which boxes you ticked.
+ASQ's review is developmental — treat reviewers as collaborators who took the idea seriously. The winning posture is **gracious, responsive, and intellectually serious**: accommodate where they are right, and where you disagree, argue with evidence and respect rather than dismissal. The central question the handling editor (under Editor **Beth Bechky**, term began July 1, 2025) and reviewers will ask is "did the *idea mature*?" — consistent with ASQ's emphasis on **curating** papers that will endure. Foreground how the contribution got *deeper*, not just which boxes you ticked. A response letter that reads as a checklist of mechanical robustness additions — adequate at some quantitative-leaning journals — will underperform here if the theoretical insight has not sharpened.
 
 ## Structure of the response
 
