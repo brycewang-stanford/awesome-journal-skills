@@ -194,9 +194,9 @@ Stata 外部包：reghdfe 6.12, ftools 2.49, did 1.3.1, csdid 1.7
 ## 关联资源
 
 本仓库或插件包中按需加载：
-- 目录骨架：（待补充 `examples/replication-skeleton/`）
-- 变量构造说明书模板：（待补充 `templates/codebook-template.xlsx`）
-- 数据获取指引模板：（待补充 `templates/data-acquisition-guide.md`）
+- 目录骨架：`examples/replication-skeleton/`
+- 变量构造说明书模板：`templates/codebook-template.csv`
+- 数据获取指引模板：`templates/data-acquisition-guide.md`
 
 ## 提交前自检清单
 
