@@ -5,6 +5,8 @@ description: Use to judge whether a manuscript's international / open-economy di
 
 # 对口判断与定位（jwe-fit-positioning）
 
+> 《世界经济》由中国世界经济学会与中国社会科学院世界经济与政治研究所（IWEP）共同主办、中国社会科学院主管（1978 年创刊，月刊；ISSN 1002-9621，CN 11-1138/F），定位即"世界经济"——它要的是**开放经济中的因果**，不是优秀的国内实证。这条定位线是本刊与《经济研究》/《金融研究》/《中国工业经济》最硬的区别，也是本 skill 要先把关的。基础事实见 `resources/journal-profile.md`。
+
 ## 触发时机
 
 - 拿不准稿子的"国际 / 开放"维度够不够、对不对口本刊

@@ -5,6 +5,8 @@ description: Use when a 《世界经济》 (The Journal of World Economy) manusc
 
 # 传导渠道分析（jwe-transmission-channel）
 
+> 《世界经济》（IWEP + 中国世界经济学会主办）的机制讨论须落在**跨境传导**上：贸易、投资、金融、预期四条渠道至少有一条是跨国/跨境的。换成国内导向期刊，"促进了效率"经国内传导即可；在本刊，外部冲击若不经一条可检验的开放渠道传到结果，机制就站不住。基础事实见 `resources/journal-profile.md`。
+
 ## 触发时机
 
 - 机制段停在"促进了出口 / 提升了效率"，没说**经由什么渠道**

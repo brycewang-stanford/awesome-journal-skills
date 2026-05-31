@@ -5,6 +5,8 @@ description: Use when choosing or defending the data behind a 《世界经济》
 
 # 国际经济数据来源（jwe-data-sources）
 
+> 《世界经济》（中国世界经济学会 + 中国社会科学院世界经济与政治研究所 IWEP 主办，1978 年创刊，月刊）是国内国际经济学/开放宏观重镇。本刊审稿人对**数据的"国际属性"**尤为敏感：换成《经济研究》/《金融研究》，一套省级或上市公司面板即可成稿；在本刊，数据本身必须带贸易/跨境/GVC 维度，否则"开放经济"立不住。基础事实见 `resources/journal-profile.md`，来源见 `resources/official-source-map.md`。
+
 ## 触发时机
 
 - 数据只是一般省级 / 上市公司面板，不像国际经济研究
@@ -34,6 +36,11 @@ description: Use when choosing or defending the data behind a 《世界经济》
 - GVC 分解须说明用哪张 MRIO、哪一年、行业聚合层次
 - 跨国面板注意样本国构成、缺失值与极端值；引力需对零贸易处理（PPML）
 
+## 复现要求（本刊特有）
+
+- 本刊自 **2023 年第 10 期** 起推行**数据与程序代码公开**（官网/公众号），初审通过须提供电子版及原始数据与处理过程。
+- 海关库等受限数据虽难公开原始微观记录，但**清洗脚本、变量构造、聚合代码须可复现**；用受限数据时说明获取渠道与口径。
+
 ## 自检清单
 
 - [ ] 数据带明确国际属性（贸易 / 跨境 / GVC）
@@ -41,6 +48,7 @@ description: Use when choosing or defending the data behind a 《世界经济》
 - [ ] GVC 用了具体分解法（KWW）+ 具体 MRIO（WIOD/ADB/OECD）
 - [ ] 跨国面板交代样本国、年份、缺失处理
 - [ ] 关键变量（暴露度 / 加成率 / DVAR）构造可复现
+- [ ] 代码/数据处理过程可按本刊公开政策提交
 
 ## 反模式
 

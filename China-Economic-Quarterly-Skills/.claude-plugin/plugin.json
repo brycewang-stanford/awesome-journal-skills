@@ -1,7 +1,7 @@
 {
   "name": "china-economic-quarterly-skills",
-  "description": "Agent skill stack for submitting to 《经济学(季刊)》 (China Economic Quarterly, CEQ) — the Peking University / CCER (now NSD) journal closest to international top-field economics standards in China (founded 2001; six issues per year since 2021; ISSN 2095-1086; CN 11-6010/F). Strictest among Chinese economics journals on identification and econometric rigor. Covers fit positioning, internationally-legible topic selection, field-benchmarked literature contribution, structural / quasi-experimental identification, modern staggered-DID compliance (Callaway–Sant'Anna, de Chaisemartin–D'Haultfœuille, Sun–Abraham), inference (clustering, weak-IV-robust, multiple testing), mechanism evidence, figures-over-tables, high-quality English abstract, submission preflight (in-text author-date citations, JEL codes, anonymity, reproducibility), and R&R rebuttals.",
-  "version": "0.1.0",
+  "description": "面向《经济学(季刊)》(China Economic Quarterly, CEQ) 投稿的 12 项中文写作与审稿技能。CEQ 由北京大学主办、国家发展研究院（前身中国经济研究中心 CCER）承办，2001 年创刊，与国际现代经济学接轨、强调可识别的规范化实证，要求中英文双语标题/摘要/关键词与 JEL 分类号，实行匿名审稿。技能覆盖：期刊契合度判断、可对话选题、对标前沿的文献贡献、结构/准实验识别、现代交错 DID（Callaway–Sant'Anna、de Chaisemartin–D'Haultfœuille、Sun–Abraham）、推断（聚类/弱工具稳健/多重检验）、机制证据、以图代表、英文摘要打磨、投稿预检与匿名/可复制核查，以及 R&R 回应。具体投稿网址、费用、字数与著录细则以官网当期须知为准。",
+  "version": "0.2.0",
   "author": {
     "name": "Bryce Wang",
     "email": "brycew6m@stanford.edu"

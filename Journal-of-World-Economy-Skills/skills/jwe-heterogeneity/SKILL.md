@@ -5,6 +5,8 @@ description: Use when a 《世界经济》 (The Journal of World Economy) manusc
 
 # 异质性分析（jwe-heterogeneity）
 
+> 《世界经济》（IWEP + 中国世界经济学会主办，月刊）偏好**国际经济学意义上的切分**：暴露度（进口渗透/出口依赖/GVC 联系/汇率敞口）、贸易类型（一般 vs 加工贸易）、贸易边际（扩展 vs 集约）、目的国/伙伴。东中西、国企民企这类通用维度在本刊价值有限——它们换到任何国内刊都成立，立不住本刊的开放属性。基础事实见 `resources/journal-profile.md`。
+
 ## 触发时机
 
 - 异质性只切了东中西 / 国企民企，缺国际经济学意义的维度

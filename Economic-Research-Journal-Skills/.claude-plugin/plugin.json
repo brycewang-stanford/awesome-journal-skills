@@ -1,7 +1,7 @@
 {
   "name": "economic-research-skills",
   "description": "Agent skill stack for submitting to 《经济研究》 (Economic Research Journal), the top economics journal in China. Covers China-context topic selection, bilingual literature review, modern causal identification (DID / IV / RDD / DML), mechanism and heterogeneity analysis, three-line tables, policy implications, journal house style, and R&R rebuttals. Bilingual zh-CN / en docs; Stata / R / Python templates.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Bryce Wang",
     "email": "brycew6m@stanford.edu"

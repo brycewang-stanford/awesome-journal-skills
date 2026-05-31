@@ -5,6 +5,8 @@ description: Use when responding to 《世界经济》 (The Journal of World Eco
 
 # 外审回复（jwe-rebuttal）
 
+> 《世界经济》（IWEP + 中国世界经济学会主办，月刊）实行**双向匿名审稿**（周期约 1–3 个月；坊间多源，以官网为准）。本刊外审最常追问三类硬骨头：开放维度是否够、shift-share/引力等识别推断是否现代、机制是否真跨境——回复信务必正面接招，勿回避。注意本刊 2023 年第 10 期起推行数据/代码公开，新增分析须可复现。基础事实见 `resources/journal-profile.md`。
+
 ## 触发时机
 
 - 收到《世界经济》R&R / 外审意见，需要写回复信

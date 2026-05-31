@@ -5,6 +5,8 @@ description: Use when the identification strategy is the bottleneck for a 《世
 
 # 开放经济识别策略（jwe-identification）
 
+> 在《世界经济》（IWEP + 中国世界经济学会主办，月刊），识别策略的外生变动最好锚在**国际/制度性冲击**上（关税战、入世、汇改、外资负面清单、全球需求冲击），而非国内政策的副产品——这是本刊区别于综合性/金融类期刊的识别口味。shift-share 与引力-PPML 是本刊高频设计，其现代推断批评（GPSS/BHJ/AKM）也是本刊审稿人高频追问点。基础事实见 `resources/journal-profile.md`。
+
 ## 触发时机
 
 - 实证主体仅 OLS + 控制变量，外生性靠"我们认为"

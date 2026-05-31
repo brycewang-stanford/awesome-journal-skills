@@ -1,6 +1,6 @@
 ---
 name: socs-submission
-description: Use for the pre-submission preflight to 《社会学研究》 (Sociological Studies) — checking in-text author-date citation (作者, 年: 页) plus end references (GB/T 7714, A–Z, 中外文分列), explanatory footnotes, abstract/keyword limits, the official online system (the journal's only channel), anonymity, and document hygiene. Verify every rule against the journal's current 投稿指南.
+description: "Use for the pre-submission preflight to 《社会学研究》 (Sociological Studies) — checking in-text author-date citation (作者, 年: 页) plus end references (GB/T 7714, A–Z, 中外文分列), explanatory footnotes, abstract/keyword limits, the official online system (the journal's only channel), anonymity, and document hygiene. Verify every rule against the journal's current 投稿指南."
 ---
 
 # 投稿前 preflight（socs-submission）
@@ -17,6 +17,9 @@ description: Use for the pre-submission preflight to 《社会学研究》 (Soci
 - 中文摘要 ≤ 200 字；关键词 3–5；英文摘要 ≤ 150 词；中英文标题/摘要/关键词齐全
 - 篇幅：学术论文以 **15000–20000 字**为宜
 - 主办：中国社会科学院社会学研究所；双月刊
+- **不收版面费**，采用即**奉稿酬+样刊两册**；**匿名评审 + 三审定稿制**（官网原文，2026-05-30 核实）
+- **不设通讯作者**，署名投稿后不可变动；**勿一稿多投**；**投稿 4 个月**未获刊用通知可自行处理
+- 只收**未公开发表**之作（含网络版/预印本均算已发表）
 
 > 体例与字数以官网**最新《投稿指南》**为准。规则会变，投前务必复核，不要凭记忆。
 
@@ -30,6 +33,8 @@ description: Use for the pre-submission preflight to 《社会学研究》 (Soci
 - [ ] 摘要 ≤ 200 字、关键词 3–5、英文摘要 ≤ 150 词
 - [ ] 篇幅约 15000–20000 字；图表规范、编号连续、有出处
 - [ ] 作者简介（100 字内）、联系方式按系统要求
+- [ ] 文内标题分级合规：一级"一、二、三"／二级"(一)(二)(三)"／三级"1.2.3."／四级"(1)(2)(3)"
+- [ ] 确认稿件**未在任何渠道公开发表**（含网络版/预印本）、**未一稿多投**
 
 ## 匿名评审 hygiene
 

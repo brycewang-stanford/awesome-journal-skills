@@ -9,7 +9,7 @@ description: Use when deciding which jwe-* sub-skill to invoke next, or when seq
 
 这是路由器，不替代任何专用 skill。它告诉你**当前阶段该用哪个 jwe-* skill**。
 
-默认假设：目标是国内国际经济学 / 开放宏观第一刊《世界经济》（中国社会科学院主管，中国世界经济学会与世界经济与政治研究所主办，月刊）。核心标识是**国际 / 开放维度 + 明确传导渠道**，而非"贴一句全球化"的国内政策评估。基础事实见 `resources/journal-profile.md`。
+默认假设：目标是国内国际经济学 / 开放宏观重镇《世界经济》（中国社会科学院主管，中国世界经济学会与世界经济与政治研究所 IWEP 共同主办，1978 年创刊，月刊；ISSN 1002-9621，CN 11-1138/F）。核心标识是**国际 / 开放维度 + 明确传导渠道**，而非"贴一句全球化"的国内政策评估。基础事实见 `resources/journal-profile.md`，来源与「待核实」清单见 `resources/official-source-map.md`。
 
 ## 触发时机
 
