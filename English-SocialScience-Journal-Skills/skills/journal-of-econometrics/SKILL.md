@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Journal of Econometrics submission guidelines / guide for authors" and follow the current Elsevier/society version, not a third-party broker's copy.
 - Re-check formatting, abstract/JEL or keyword codes, reference style, the supplementary-material/proof-appendix policy, and the data & code availability requirements.
 - Re-check the current replication/code-deposit expectation and any structured-submission requirements on the editorial system.

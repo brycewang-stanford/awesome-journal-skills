@@ -45,6 +45,7 @@ ACS Nano is the American Chemical Society's flagship journal for nanoscience and
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "ACS Nano author guidelines" and follow the current ACS Publications version.
 - Re-check article-type options (Article vs. Letter vs. Review), word/page/figure limits, and abstract word limit.
 - Confirm data/code availability and any deposition requirements for crystallographic or sequence data.

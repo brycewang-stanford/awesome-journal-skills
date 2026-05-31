@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Cell author instructions" or "Cell Press information for authors" and follow the current version.
 - Re-check article types, word and figure limits, and abstract format (structured vs. unstructured — re-check current requirements).
 - Re-check STAR Methods requirements: Key Resources Table format, subheading structure, and method-detail expectations.

@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Gut author instructions" on the BMJ Journals / Gut platform and follow the current version.
 - Re-check article-type classification (Original Article, Research Letter, Review, Editorial) and confirm current length and figure limits.
 - Confirm trial or study pre-registration (ISRCTN, ClinicalTrials.gov, or equivalent); upload ethics/IRB and consent documentation per BMJ policy.

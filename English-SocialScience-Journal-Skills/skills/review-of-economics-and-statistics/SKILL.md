@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Review of Economics and Statistics submission guidelines" / "information for authors" and follow the current MIT Press / editorial version.
 - Re-check the submission fee, formatting, abstract/JEL, anonymization, length expectations (including any short-paper format), and figure/table standards on the submission system.
 - Re-check the current data and code availability / replication policy and any verification workflow — confirm it is enforced before acceptance.

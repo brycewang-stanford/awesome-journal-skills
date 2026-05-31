@@ -44,6 +44,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "CA: A Cancer Journal for Clinicians author instructions" and follow the current ACS/Wiley version.
 - Confirm whether the manuscript type is invited or whether an unsolicited inquiry/proposal is appropriate for the topic; most content is commissioned.
 - Re-check abstract format and length, article-type specifications, figure-preparation requirements, and table formatting standards.

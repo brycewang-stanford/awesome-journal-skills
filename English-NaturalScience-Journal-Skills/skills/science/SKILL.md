@@ -45,6 +45,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Science author instructions" or "Science information for authors" and follow the current AAAS version.
 - Re-check current article types (Research Article, Report, etc.), word limits, abstract format, and Supplementary Materials policy.
 - Re-check data/code/materials availability requirements, community repository expectations, and any field-specific reporting guidelines.

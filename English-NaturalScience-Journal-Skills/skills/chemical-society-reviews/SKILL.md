@@ -44,6 +44,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Chemical Society Reviews author guidelines" and follow the current RSC version.
 - Determine whether to submit a proposal first or a full manuscript; re-check current RSC editorial practice for unsolicited reviews.
 - Re-check current length guidance, figure/scheme limits, and graphical abstract specifications.

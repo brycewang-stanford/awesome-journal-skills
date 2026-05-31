@@ -38,6 +38,7 @@ description: Use when targeting 《治理研究》(Governance Studies) or decidi
 
 ## 官方核验清单
 
+- 正式给出投稿格式/流程建议前，先读取 `../../resources/source-basis.md` 和 `../../resources/official-source-map.md`，从其中的官方来源锚点或同一主办/出版体系入口开始核验，并在回答中说明核验日期。
 - 核对栏目、匿名、案例材料授权、访谈伦理和投稿模板
 - 确认政策文件、地方样本和访谈材料来源
 - 检索“《治理研究》 投稿须知 / 征稿简则 / 作者指南”，以最新页面为准；不要沿用二手代投网站格式

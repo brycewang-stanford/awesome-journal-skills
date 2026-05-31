@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Journal of Clinical Oncology author guidelines" and follow the current ASCO version.
 - Re-check article type, word limits for each type, and abstract heading requirements.
 - Confirm trial registration number and ethics approval reference are present; confirm data-safety monitoring board statement for phase III trials.

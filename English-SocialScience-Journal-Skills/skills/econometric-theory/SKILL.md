@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Econometric Theory submission guidelines / instructions for authors" and follow the current Cambridge University Press version.
 - Re-check length, abstract and JEL/keyword requirements, mathematical-notation and reference style, and anonymization expectations.
 - Re-check any supplementary-material policy for extended proofs and the data/code policy if an empirical illustration is included.

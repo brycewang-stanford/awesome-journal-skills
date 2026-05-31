@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search "Cancer Cell author information" or "Cancer Cell submission guidelines" on the Cell Press / current-biology.com site and follow the live version.
 - Re-check current article types (Article vs. Short Article vs. Brief Communication), length and figure limits, and supplemental-information policy.
 - Confirm STAR Methods requirements and key resources table format for this submission cycle.

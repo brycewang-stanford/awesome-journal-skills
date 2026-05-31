@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "AER: Insights submission guidelines" and the AEA "Data and Code Availability Policy," and follow the current versions.
 - Re-check the current length limit, submission fee, formatting, abstract/JEL, and anonymization on the editorial-manager system — the length cap is the defining constraint, so confirm it.
 - Re-check the current data/code deposit and verification workflow (openICPSR / AEA Data Editor) — enforced before acceptance.

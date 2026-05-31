@@ -43,6 +43,7 @@ eLife is a non-profit open-access journal covering all of life sciences and biom
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "eLife author guide" or "eLife submission process" and follow the current version at elifesciences.org.
 - Re-check the current Reviewed-Preprint model workflow, including preprint posting consent, assessment timeline, and the distinction between "eLife Reviewed Preprint" and a "Version of Record."
 - Confirm data deposition requirements: raw data, processed data, and code repositories (Zenodo, GitHub, Dryad, GEO, SRA, RCSB, etc.) expected before publication.

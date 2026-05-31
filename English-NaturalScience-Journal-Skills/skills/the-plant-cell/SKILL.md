@@ -46,6 +46,7 @@ The Plant Cell is the flagship research journal of the American Society of Plant
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "The Plant Cell author instructions" and follow the current ASPB version.
 - Re-check article-type definitions and length/figure limits; confirm the current status of the ASPB's policies on open access, licencing, and publication fees.
 - Re-check reagent and data availability requirements: seed stocks (TAIR, NASC), plasmid deposits, sequence data (NCBI/SRA/GEO), and proteomics data repositories.

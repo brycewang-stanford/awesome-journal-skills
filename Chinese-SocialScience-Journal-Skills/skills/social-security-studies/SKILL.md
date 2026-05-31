@@ -38,6 +38,7 @@ description: Use when targeting 《社会保障评论》(Social Security Studies
 
 ## 官方核验清单
 
+- 正式给出投稿格式/流程建议前，先读取 `../../resources/source-basis.md` 和 `../../resources/official-source-map.md`，从其中的官方来源锚点或同一主办/出版体系入口开始核验，并在回答中说明核验日期。
 - 核对调查/行政数据授权、伦理、隐私和投稿格式
 - 确认政策文件、保险口径和样本权重
 - 检索“《社会保障评论》 投稿须知 / 征稿简则 / 作者指南”，以最新页面为准；不要沿用二手代投网站格式

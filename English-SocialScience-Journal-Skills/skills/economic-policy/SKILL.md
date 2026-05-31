@@ -43,6 +43,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Because the venue is Panel-driven, first confirm the route (proposal / invitation / Panel meeting); search the live site for "Economic Policy submission / Panel / instructions for authors" and the current process and timeline.
 - Re-check word/figure limits, abstract format, reference style, anonymization expectations, and disclosure-of-interest.
 - Re-check the current data and code availability / replication policy.

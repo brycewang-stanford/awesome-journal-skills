@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Journal of Economic Literature submission guidelines" / proposal instructions, and follow the current AEA / editorial version.
 - Re-check whether the piece should begin as a proposal/inquiry to the editors, and the current expectations for solicited vs. unsolicited submissions.
 - Re-check formatting, JEL-code, abstract, length, and reference conventions, and any disclosure/conflict requirements on the submission system.

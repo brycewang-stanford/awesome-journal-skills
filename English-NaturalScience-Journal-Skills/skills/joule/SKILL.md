@@ -45,6 +45,7 @@ Joule is the Cell Press flagship for sustainable energy research, positioned at 
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Joule author instructions" or "Cell Press submission guidelines" and follow the current version.
 - Re-check article-type options (Article, Report, Perspective, Review, Correspondence), word/figure limits, STAR Methods requirements, and SI scope.
 - Re-check graphical abstract specifications and "In Brief"/"Highlights" word limits.

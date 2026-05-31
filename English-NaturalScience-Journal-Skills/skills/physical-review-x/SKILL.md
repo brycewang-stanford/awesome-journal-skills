@@ -44,6 +44,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Physical Review X author guidelines" and follow the current APS version.
 - Re-check the current APC amount and any institutional open-access agreements or APS waiver programs; open-access is non-optional.
 - Re-check article-type eligibility (PRX does not publish Letters; full articles only), abstract format, and figure resolution requirements.

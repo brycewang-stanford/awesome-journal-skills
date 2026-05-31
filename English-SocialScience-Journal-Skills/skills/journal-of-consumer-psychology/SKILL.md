@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Journal of Consumer Psychology submission guidelines / author instructions" and follow the current SCP/publisher version.
 - Re-check the available article types and their formats, abstract conventions, length, anonymization, reference style, and the supplementary-materials requirement.
 - Re-check current pre-registration, open-data/materials, ethics/IRB, and AI-use disclosure policies.

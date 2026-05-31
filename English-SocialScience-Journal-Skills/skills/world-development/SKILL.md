@@ -45,6 +45,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "World Development submission guidelines / guide for authors" and follow the current Elsevier version, not a third-party copy.
 - Re-check word/figure limits, abstract and keyword format, reference style, declaration of interests, and any structured-abstract requirement.
 - Re-check the current research-data and code availability policy, ethics/IRB and informed-consent expectations for human-subjects fieldwork.

@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Management Science submission guidelines / author instructions" and follow the current INFORMS version, including the list of departments and their stated scope.
 - Re-check the current department list and DE assignments, formatting, abstract length, anonymization/double-blind policy, and reference style.
 - Re-check the current data and code availability / reproducibility policy, electronic-companion rules, and disclosure/ethics requirements.

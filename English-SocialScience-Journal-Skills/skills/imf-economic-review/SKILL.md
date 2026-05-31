@@ -42,6 +42,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "IMF Economic Review submission guidelines / instructions for authors" and follow the current Springer version.
 - Re-check word/figure limits, abstract and JEL requirements, reference style, anonymization expectations, and disclosure.
 - Re-check the current data and code / replication policy and any associated archiving requirements.

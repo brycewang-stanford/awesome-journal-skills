@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "The Econometrics Journal submission guidelines / RES instructions for authors" and follow the current OUP version.
 - Re-check word/figure limits, abstract and JEL requirements, reference and math/notation style, and anonymization expectations.
 - Re-check the current replication / data and code and supplementary-material policy.

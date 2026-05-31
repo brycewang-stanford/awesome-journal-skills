@@ -45,6 +45,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Science Advances author instructions" and follow the current AAAS version.
 - Re-check article types, abstract format, word and figure limits, and Supplementary Materials policy.
 - Re-check data/code/materials availability requirements and community repository expectations.

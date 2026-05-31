@@ -46,6 +46,7 @@ Nucleic Acids Research is an Oxford University Press open-access journal coverin
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nucleic Acids Research instructions to authors" and follow the current OUP version.
 - Re-check submission deadlines for the Database Issue and Web Server Issue — they have fixed annual submission windows distinct from the rolling research-article track.
 - Re-check article-type definitions, length and figure limits, abstract format, and open-access licence options (CC-BY is standard).

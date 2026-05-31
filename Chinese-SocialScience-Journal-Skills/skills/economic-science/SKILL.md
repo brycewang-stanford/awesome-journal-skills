@@ -38,6 +38,7 @@ description: Use when targeting 《经济科学》(Economic Science) or deciding
 
 ## 官方核验清单
 
+- 正式给出投稿格式/流程建议前，先读取 `../../resources/source-basis.md` 和 `../../resources/official-source-map.md`，从其中的官方来源锚点或同一主办/出版体系入口开始核验，并在回答中说明核验日期。
 - 核对官网投稿系统、双盲、摘要/JEL、字数、参考文献排序
 - 检索近三年本刊同主题文章，确认边际贡献
 - 检索“《经济科学》 投稿须知 / 征稿简则 / 作者指南”，以最新页面为准；不要沿用二手代投网站格式

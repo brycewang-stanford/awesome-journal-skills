@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Journal of the Association for Information Systems author guidelines / submission guidelines" and follow the current AIS/publisher version, including any genre/department statements.
 - Re-check word/length limits, abstract format, anonymization for double-blind review, and reference style.
 - Re-check the current open-science, data/code availability, and disclosure/ethics policies.

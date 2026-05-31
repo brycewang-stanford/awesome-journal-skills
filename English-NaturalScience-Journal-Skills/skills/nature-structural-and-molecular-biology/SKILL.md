@@ -44,6 +44,7 @@ Nature Structural & Molecular Biology is the Springer Nature specialist journal 
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Structural & Molecular Biology author instructions" and follow the current Springer Nature version.
 - Re-check article type and length limits (word/figure limits for Articles vs. Letters), abstract format (unstructured, character-limited), and Extended Data vs. Supplementary conventions.
 - Re-check structural-data deposition requirements: EMDB entry and PDB accession codes must be provided before acceptance; raw micrographs deposition policy may apply.

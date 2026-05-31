@@ -250,4 +250,4 @@ cp -R skills/* ~/.codex/skills/
 
 ## 事实纪律
 
-期刊规则会变。随包的 [`resources/source-basis.md`](resources/source-basis.md) 记录了本次扩展所参考的清单与取材原则，以及对易变事实（影响因子、接收率、字数/图数限制、APC 费用）的刻意省略；[`resources/_build-spec.md`](resources/_build-spec.md) 是卡片模板与事实纪律的契约，[`resources/journal-roster.md`](resources/journal-roster.md) 是锁定的 100 刊清单。正式投稿前，务必在出版社官网或投稿系统核对当期官方作者须知——临床类还需核对适用的报告规范（CONSORT / PRISMA / STROBE / ARRIVE）与试验注册要求。
+期刊规则会变。随包的 [`resources/source-basis.md`](resources/source-basis.md) 记录了本次扩展所参考的清单与取材原则，[`resources/official-source-map.md`](resources/official-source-map.md) 为每本期刊列出官方来源起点，并刻意省略易变事实（影响因子、接收率、字数/图数限制、APC 费用）；[`resources/_build-spec.md`](resources/_build-spec.md) 是卡片模板与事实纪律的契约，[`resources/journal-roster.md`](resources/journal-roster.md) 是锁定的 100 刊清单。正式投稿前，务必在出版社官网或投稿系统核对当期官方作者须知——临床类还需核对适用的报告规范（CONSORT / PRISMA / STROBE / ARRIVE）与试验注册要求。

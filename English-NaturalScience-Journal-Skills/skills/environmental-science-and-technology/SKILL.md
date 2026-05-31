@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live ACS site for "Environmental Science & Technology author guidelines" and follow the current version.
 - Re-check article type (Article vs. Letter vs. ES&T Letters vs. Perspective), length limits, abstract word limit, and figure count.
 - Confirm Supporting Information organization and what must be included (full methods, QA/QC, raw data).

@@ -46,6 +46,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "JACC author instructions" on the ACC/JACC publisher platform and follow the current version.
 - Re-check article-type classification (Original Investigation, State-of-the-Art Review, Research Correspondence) and confirm length/figure limits for each type.
 - Confirm prospective trial or study registration and upload the relevant registration documentation.

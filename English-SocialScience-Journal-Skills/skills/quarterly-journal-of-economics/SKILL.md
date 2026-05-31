@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Quarterly Journal of Economics submission guidelines" and the data and code availability policy, and follow the current OUP / editorial versions.
 - Re-check the submission fee, formatting, abstract/JEL requirements, anonymization expectations, and figure/table standards on the submission system.
 - Re-check the current data/code deposit and verification workflow (replication package, openICPSR-style archive) — confirm it is enforced before acceptance.

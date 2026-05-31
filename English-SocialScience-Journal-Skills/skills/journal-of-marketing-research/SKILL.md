@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Journal of Marketing Research submission guidelines / manuscript preparation" and follow the current AMA/SAGE version.
 - Re-check abstract format, word/length limits, anonymization, reference style, and the web-appendix / supplementary-materials requirement.
 - Re-check current data/code/materials transparency, pre-registration, ethics/IRB, and AI-use disclosure policies.

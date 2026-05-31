@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Contemporary Accounting Research submission guidelines / author instructions" and follow the current CAAA/Wiley version.
 - Re-check formatting, abstract conventions, anonymization for double-blind review, reference style, and the supplementary-materials requirement.
 - Re-check current data and code availability / replication policies and ethics/disclosure requirements.

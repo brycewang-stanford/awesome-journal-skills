@@ -43,6 +43,7 @@ PLOS Biology is the flagship journal of the Public Library of Science (PLOS) and
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "PLOS Biology submission guidelines" and follow the current version at journals.plos.org/plosbiology.
 - Re-check required reporting checklists (ARRIVE, CONSORT, STROBE, or equivalent) and confirm all applicable guidelines have been completed and attached.
 - Confirm data availability statement and deposition: all primary data underlying figures must be accessible; deposition in an approved repository (Zenodo, Dryad, GEO, SRA, etc.) is expected.

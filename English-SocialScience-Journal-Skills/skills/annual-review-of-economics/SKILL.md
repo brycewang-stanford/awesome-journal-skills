@@ -43,6 +43,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Because the venue is invited, first confirm the commission or use the official topic-suggestion channel; search the live site for "Annual Review of Economics information for authors" and the Editorial Committee topic-proposal process.
 - Re-check the current article-length target, abstract format, summary-points / future-issues requirements, figure policy, and the Annual Reviews reference style.
 - Re-check disclosure-of-interest requirements and any data/figure-permission obligations for reproduced exhibits.

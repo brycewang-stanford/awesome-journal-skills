@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "National Science Review author instructions" (OUP site) and follow the current version.
 - Re-check article types available, word and figure limits per type, and abstract format requirements.
 - Re-check data/code/materials availability requirements and any field-specific repository expectations.

@@ -38,6 +38,7 @@ description: Use when targeting 《财经研究》(Journal of Finance and Econom
 
 ## 官方核验清单
 
+- 正式给出投稿格式/流程建议前，先读取 `../../resources/source-basis.md` 和 `../../resources/official-source-map.md`，从其中的官方来源锚点或同一主办/出版体系入口开始核验，并在回答中说明核验日期。
 - 核对官网/采编系统的匿名、摘要、关键词、JEL/中图分类号和参考文献要求
 - 确认是否需要数据、程序或补充材料
 - 检索“《财经研究》 投稿须知 / 征稿简则 / 作者指南”，以最新页面为准；不要沿用二手代投网站格式

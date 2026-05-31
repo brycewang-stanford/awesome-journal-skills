@@ -63,6 +63,6 @@ cp -R skills/* ~/.codex/skills/
 
 ## 来源与核验纪律
 
-期刊要求会变。本包内置的 [`resources/source-basis.md`](resources/source-basis.md) 记录了本次扩展使用的排名清单与来源策略，并说明了为什么刻意不写入易变事实（影响因子、录用率、字数限制、版面费）。正式投稿前，请务必到出版商官网或投稿系统核对最新的作者须知。
+期刊要求会变。本包内置的 [`resources/source-basis.md`](resources/source-basis.md) 记录了本次扩展使用的排名清单与来源策略，[`resources/official-source-map.md`](resources/official-source-map.md) 为每本期刊列出官方来源起点，并说明了为什么刻意不写入易变事实（影响因子、录用率、字数限制、版面费）。正式投稿前，请务必到出版商官网或投稿系统核对最新的作者须知。
 
 > 命名说明：SAGE 的 *Journal of Management* 使用 slug `journal-of-management-en`，因为 `journal-of-management` 已被中文包用于《管理学刊》——这沿用了中文包自身的 `-cn` 消歧约定。

@@ -45,6 +45,7 @@ Nature Microbiology is Springer Nature's specialist journal for microbiology and
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Microbiology author guidelines" and follow the current Springer Nature version.
 - Re-check article-type definitions and length/figure limits; confirm current Abstract format (unstructured, character-limited).
 - Re-check data-deposition requirements for sequence data, metagenomic data, and structural data; confirm accession-number provision before acceptance.

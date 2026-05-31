@@ -2,9 +2,12 @@
 
 This pack encodes journal-fit and house-style heuristics for 100 mainstream
 English-language **natural-science, clinical/medical, physical, and formal-science**
-journals — the "other 100" complementing the sibling econ/finance/management bundle
-`English-SocialScience-Journal-Skills`. It is a positioning and re-framing aid,
-**not** a static substitute for any journal's live author instructions.
+journals -- the "other 100" complementing the sibling econ/finance/management
+bundle `English-SocialScience-Journal-Skills`. It is a positioning and
+re-framing aid, **not** a static substitute for any journal's live author
+instructions.
+
+For per-journal starting queries, use `official-source-map.md` in this directory.
 
 ## Roadmap and reference lists consulted while building this expansion
 
@@ -22,6 +25,36 @@ journals — the "other 100" complementing the sibling econ/finance/management b
   RSC, IOP, AHA, ACC, ESC, ASCO, ASH, AGA, ADA, ACP, AMA, MMS, AACR, ASCI, AMS,
   IEEE, AAS, RAS, EMBO, ASPB, SMBE, PLOS, eLife, Springer Nature / Cell Press /
   Wiley / OUP imprints).
+
+## Official source anchors checked while improving this bundle
+
+Use these as first-stop source families, then drill down to the specific journal's
+current author-instructions page or submission system:
+
+- Nature / Nature Portfolio: Nature formatting and author guidance at
+  `https://www.nature.com/nature/for-authors/formatting-guide`; Nature Portfolio
+  reporting standards and data-availability policy pages on `nature.com` and
+  `springernature.com`.
+- Springer Nature research-data policy:
+  `https://www.springernature.com/gp/authors/research-data-policy/`.
+- Cell Press: STAR Methods / Key Resources Table guidance at
+  `https://www.elsevier.com/researcher/author/tools-and-resources/key-resources-table`
+  plus the specific `cell.com/<journal>/authors` page.
+- AAAS Science family: the official `science.org` author-information page for the
+  target journal and AAAS journal family page `https://www.aaas.org/journals`.
+- PNAS: official PNAS Author Center at `https://www.pnas.org/author-center`.
+- AAS astronomy journals: author resources and manuscript preparation at
+  `https://journals.aas.org/author-resources/` and
+  `https://journals.aas.org/manuscript-preparation/`.
+- Medical journals: check the journal-specific official site plus ICMJE/CONSORT/
+  PRISMA/STROBE/ARRIVE as applicable; for JAMA, NEJM, Lancet, BMJ, Annals, JCO,
+  Blood, Circulation/JACC/EHJ, Diabetes Care, Gut, and Gastroenterology the
+  article-type rules are journal-specific and should not be inferred from another
+  title in the same publisher family.
+- Physical sciences / chemistry: APS, ACS, RSC, IOP, Wiley, and OUP official
+  instructions; for PRL / Physical Review journals re-check current APS length
+  and formatting rules, and for ACS/RSC chemistry journals re-check compound,
+  crystallographic, spectra, and supporting-information deposit requirements.
 
 ## What each profile deliberately does NOT assert
 
@@ -54,5 +87,9 @@ where they help fit.
    availability and deposition, registration / ethics / consent, competing-interests
    and funding disclosure, AI-use disclosure, preprint policy, and open-access /
    licensing terms.
-4. If the live official instructions conflict with a skill, the official
+4. For umbrella families (Nature Portfolio, Cell Press, AAAS, APS, ACS, Lancet,
+   JAMA Network, BMJ, Wiley/OUP/Springer), check both the journal-specific page and
+   the family policy page. Family-wide reporting rules often coexist with
+   journal-specific article limits.
+5. If the live official instructions conflict with a skill, the official
    instructions win.

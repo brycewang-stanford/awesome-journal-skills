@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search "Cell Metabolism author information" on the Cell Press site and follow the current version.
 - Re-check article types (Article, Short Article, Resource), length and figure limits, and supplemental policy.
 - Confirm STAR Methods and key resources table requirements for the current submission cycle.

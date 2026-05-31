@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Games and Economic Behavior guide for authors / submission guidelines" and follow the current Elsevier version.
 - Re-check formatting, abstract/JEL requirements, anonymization, and proof/appendix conventions on the submission system.
 - Re-check the current data and code / replication policy for any experimental or computational components.

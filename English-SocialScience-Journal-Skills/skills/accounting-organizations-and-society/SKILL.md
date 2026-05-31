@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Accounting, Organizations and Society submission guidelines / author instructions" and follow the current Elsevier version.
 - Re-check formatting, abstract conventions, anonymization, reference style, and any supplementary-materials requirement.
 - Re-check current research-ethics expectations (especially for fieldwork/human subjects), data/transparency norms appropriate to qualitative work, and disclosure policies.

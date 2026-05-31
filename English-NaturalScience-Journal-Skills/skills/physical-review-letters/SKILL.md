@@ -44,6 +44,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Physical Review Letters author guidelines" and follow the current APS version; pay particular attention to the current length limit in manuscript units.
 - Re-check article-type options (Letter vs. Rapid Communication legacy conventions), abstract format (single paragraph, no display equations), figure count and resolution requirements.
 - Re-check the Supplemental Material policy: what is permitted there vs. what must appear in the main text.

@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Quantitative Economics submission guidelines / Econometric Society instructions for authors" and follow the current version.
 - Re-check word/figure limits, abstract and JEL requirements, reference and math style, anonymization expectations, and any open-access / article-processing arrangements.
 - Re-check the current replication / data and code archive policy (Econometric Society replication requirements).

@@ -45,6 +45,7 @@ Chem is the Cell Press flagship chemistry journal, publishing fundamental chemic
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Chem author instructions" or "Cell Press author guidelines" and follow the current version.
 - Re-check article-type definitions, length limits, figure-count limits, STAR Methods requirements, and supplemental information scope.
 - Re-check graphical abstract format specs, "In Brief" and "Highlights" word limits, and the significance statement requirement.

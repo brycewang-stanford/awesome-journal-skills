@@ -43,6 +43,7 @@ Genome Biology, published by BioMed Central (Springer Nature), is a leading open
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Genome Biology submission guidelines" and follow the current BioMed Central version.
 - Re-check article-type options (Research, Method, Software, Database, Comment, Review) and their respective scope and format requirements.
 - Confirm data deposition: all sequencing data to GEO/SRA/ENA with accession numbers; processed data and tables as supplementary.

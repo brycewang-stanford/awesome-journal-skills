@@ -45,6 +45,7 @@ Nature Geoscience is the Nature-portfolio journal for the solid earth, ocean, at
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Geoscience author instructions" and follow the current Nature Portfolio version.
 - Re-check article-type definitions and word/figure/Extended Data limits.
 - Re-check Nature's reporting summary requirements (statistics, reproducibility, datasets, analytical methods).

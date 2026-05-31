@@ -45,6 +45,7 @@ The EMBO Journal is the flagship research journal of EMBO Press and one of the m
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "The EMBO Journal author guidelines" and follow the current EMBO Press version.
 - Re-check article type, length, and figure-number limits; structured vs. unstructured abstract requirements; and current formats for Expanded View.
 - Re-check the transparent peer-review opt-in/opt-out policy — by default, referee identities and reviews may be published; confirm the current default and author options.

@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "JAMA instructions for authors" and follow the current AMA version.
 - Re-check article type, current word count, abstract heading requirements, and the Key Points format.
 - Confirm registration number (for trials and reviews), ethics approval, and informed-consent statement.

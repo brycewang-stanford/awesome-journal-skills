@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Marketing Science submission guidelines / author instructions" and follow the current INFORMS version.
 - Re-check formatting (often INFORMS LaTeX style), abstract conventions, anonymization, reference style, and the technical/online-appendix requirement.
 - Re-check current data/code availability and replication policies and any disclosure/ethics requirements.

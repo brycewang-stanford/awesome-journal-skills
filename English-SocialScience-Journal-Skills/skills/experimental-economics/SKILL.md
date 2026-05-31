@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Experimental Economics submission guidelines / instructions for authors" and follow the current ESA/Springer version.
 - Re-check formatting, abstract/JEL requirements, anonymization, and the requirement to include experimental instructions and procedures.
 - Re-check the current data and code / replication-material deposit policy, pre-registration disclosure, and ethics/IRB requirements.

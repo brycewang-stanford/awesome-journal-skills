@@ -44,6 +44,7 @@ The New England Journal of Medicine, published by the Massachusetts Medical Soci
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "NEJM information for authors" and follow the current Massachusetts Medical Society version.
 - Confirm trial registration: registry name, trial number, and date of registration (must be prior to first patient enrollment) must be stated in the Methods.
 - Attach the completed CONSORT checklist (for RCTs), STROBE (observational), STARD (diagnostic), or PRISMA (systematic review/meta-analysis) as appropriate.

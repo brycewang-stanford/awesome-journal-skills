@@ -45,6 +45,7 @@ Energy & Environmental Science (EES) is the Royal Society of Chemistry's flagshi
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Energy & Environmental Science author guidelines" (RSC) and follow the current version.
 - Re-check article-type options (Paper vs. Communication vs. Review vs. Analysis), word/figure limits, and SI scope.
 - Confirm CCDC/CIF deposition requirements for crystallographic data and any other mandatory data deposition.

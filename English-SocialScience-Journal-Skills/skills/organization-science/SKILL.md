@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Organization Science submission guidelines / author guidelines" (INFORMS) and follow the current version.
 - Re-check word/length limits, abstract format, anonymization for double-blind review, reference style, and code/data and replication expectations for computational work.
 - Re-check current open-science, data-availability, and AI-use disclosure policies, and any INFORMS-wide submission requirements.

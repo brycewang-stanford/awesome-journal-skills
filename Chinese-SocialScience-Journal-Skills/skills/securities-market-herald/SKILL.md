@@ -38,6 +38,7 @@ description: Use when targeting 《证券市场导报》(Securities Market Heral
 
 ## 官方核验清单
 
+- 正式给出投稿格式/流程建议前，先读取 `../../resources/source-basis.md` 和 `../../resources/official-source-map.md`，从其中的官方来源锚点或同一主办/出版体系入口开始核验，并在回答中说明核验日期。
 - 核对投稿体例、图表、参考文献和数据来源披露
 - 确认交易日、公告日、停牌和样本筛选规则
 - 检索“《证券市场导报》 投稿须知 / 征稿简则 / 作者指南”，以最新页面为准；不要沿用二手代投网站格式

@@ -189,6 +189,6 @@ Every skill returns a fit verdict, method/evidence requirements, desk-reject ris
 
 ## Source Discipline
 
-Editorial rules change. The bundled [`resources/source-basis.md`](resources/source-basis.md) records the ranking lists and source policy used for this expansion, and the deliberate omission of volatile facts (impact factors, acceptance rates, word limits, fees). Before final submission, always verify the live official author instructions on the publisher's own site or submission system.
+Editorial rules change. The bundled [`resources/source-basis.md`](resources/source-basis.md) records the ranking lists and source policy used for this expansion, [`resources/official-source-map.md`](resources/official-source-map.md) gives one official-source starting query per journal, and volatile facts (impact factors, acceptance rates, word limits, fees) are deliberately omitted. Before final submission, always verify the live official author instructions on the publisher's own site or submission system.
 
 > Naming note: the SAGE *Journal of Management* uses the slug `journal-of-management-en` because the plain `journal-of-management` is already used by the Chinese bundle for 《管理学刊》 — mirroring that bundle's own `-cn` disambiguation convention.

@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search "Nature Genetics author information" on the Nature Portfolio site and follow the current version.
 - Re-check article types (Article vs. Brief Communication vs. Letter — format names may have changed; re-check), length and figure limits, and Extended Data policy.
 - Confirm Nature reporting summary requirements and any genetics-specific checklists (e.g., ARRIVE for animal studies, human-subjects consent).

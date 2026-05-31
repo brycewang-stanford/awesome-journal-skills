@@ -44,6 +44,7 @@ The Journal of Experimental Medicine, published by Rockefeller University Press,
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Journal of Experimental Medicine author information" and follow the current Rockefeller University Press version.
 - Re-check article-type definitions (Research Articles, Brief Definitive Reports, Correspondence) and their current length/figure norms.
 - Confirm data and materials availability: genomics data deposition (GEO, SRA), reagent sharing expectations, and any current open-data policy requirements.

@@ -151,4 +151,4 @@ Every skill returns a fit verdict, method/evidence requirements, desk-reject ris
 
 ## Source Discipline
 
-Editorial rules change. The bundled `resources/source-basis.md` records the source policy used for this expansion. Before final submission, always verify the live official 投稿须知 / 征稿简则 / 作者指南.
+Editorial rules change. The bundled [`resources/source-basis.md`](resources/source-basis.md) records the source policy used for this expansion, and [`resources/official-source-map.md`](resources/official-source-map.md) gives one official-source starting query per journal. Before final submission, always verify the live official 投稿须知 / 征稿简则 / 作者指南.

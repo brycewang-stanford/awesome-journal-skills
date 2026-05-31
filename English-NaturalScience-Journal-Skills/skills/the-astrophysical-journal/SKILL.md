@@ -44,6 +44,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Astrophysical Journal author instructions" or "AAS journals information for authors" and follow the current IOP/AAS version.
 - Confirm which article type applies: ApJ Article, ApJL Letter, or ApJS (Supplement Series) for large data products.
 - Re-check the current length limit for ApJL, abstract length, and figure/table policies.

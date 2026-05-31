@@ -48,6 +48,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live IEEE site for "TPAMI information for authors" and follow the current IEEE Computer Society version.
 - Re-check page/length limits and double-column formatting requirements.
 - Confirm IEEE Open Access options and check the current policy on conference-to-journal extensions.

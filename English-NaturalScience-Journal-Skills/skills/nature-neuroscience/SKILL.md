@@ -42,6 +42,7 @@ Nature Neuroscience, published by Springer Nature, is among the most selective j
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Neuroscience author information" and follow the current Springer Nature version.
 - Re-check article types: Articles (standard), Letters have been phased out in many Nature titles — confirm current format and length expectations.
 - Complete the Life Sciences Reporting Summary: this is mandatory and covers experimental design, sample sizes, randomization, blinding, statistical tests, and inclusion/exclusion criteria.

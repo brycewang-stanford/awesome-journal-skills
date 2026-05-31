@@ -48,6 +48,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Medicine author information" and follow the current Springer Nature version.
 - Re-check article types (Article vs. Brief Communication vs. Perspective), current length guidelines, and extended-data figure allowances.
 - Complete and submit the Nature-family Reporting Summary; confirm all statistical reporting requirements within the summary are addressed.

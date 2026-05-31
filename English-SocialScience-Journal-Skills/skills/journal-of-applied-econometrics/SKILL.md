@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Journal of Applied Econometrics submission guidelines / author guidelines" and follow the current Wiley version, and note the JAE Data Archive requirements.
 - Re-check formatting, abstract/JEL requirements, anonymization, and figure/table standards on the submission system.
 - Re-check the current data and code deposit policy and the JAE Data Archive submission workflow (a permanent, replication-focused feature of this journal).

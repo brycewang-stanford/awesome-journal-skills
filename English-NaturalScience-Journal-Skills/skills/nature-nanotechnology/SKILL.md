@@ -45,6 +45,7 @@ Nature Nanotechnology publishes papers that represent a significant conceptual a
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Nanotechnology author instructions" or "Nature Portfolio submission guidelines" and follow the current version.
 - Re-check article-type definitions, word/figure limits, Extended Data limits, and Supplementary Information scope.
 - Re-check the Nature reporting summary requirements (statistics, reproducibility, blinding, sample sizes, animal/human research).

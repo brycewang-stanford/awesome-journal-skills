@@ -46,6 +46,7 @@ Advanced Materials is Wiley's flagship high-impact materials journal and the hig
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Advanced Materials author guidelines" (Wiley Online Library) and follow the current version.
 - Re-check article-type options (Communication vs. Full Paper vs. Review), word/page/figure limits, and ToC figure specs.
 - Confirm open-access options, APC, and licensing (Wiley hybrid journal; re-check current OA policy).

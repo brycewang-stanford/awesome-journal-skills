@@ -45,6 +45,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Sustainability author instructions" and follow the current Springer Nature version.
 - Re-check article type (Article vs. Brief Communication vs. Review), length limits, abstract format (unstructured, ≤ current word limit), figure and display-item limits.
 - Confirm data availability statement, code availability statement, and deposition requirements for datasets.

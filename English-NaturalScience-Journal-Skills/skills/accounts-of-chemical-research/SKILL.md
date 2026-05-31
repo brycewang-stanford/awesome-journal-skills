@@ -44,6 +44,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Accounts of Chemical Research author guidelines" and follow the current ACS version.
 - For unsolicited submissions: contact the editorial office or submit a proposal before writing the full manuscript; confirm that unsolicited full manuscripts are currently accepted.
 - Re-check the current length limit (pages and/or words); Accounts enforces this strictly.

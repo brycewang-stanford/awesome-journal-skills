@@ -45,6 +45,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Physics author guidelines" and follow the current Springer Nature version.
 - Re-check article-type options (Article, Letter legacy, Review, Perspective), current word/figure limits for each type, and abstract format.
 - Re-check Nature Portfolio data availability, code availability, and reporting summary requirements; these are mandatory and must accompany the manuscript.

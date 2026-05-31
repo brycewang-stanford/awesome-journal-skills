@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live Cell Press site for "One Earth author information" and follow the current version.
 - Re-check article type (Article, Review, Perspective, Correspondence), length limits, and abstract format.
 - Prepare Cell Press summary blurb, highlights, and graphical abstract per current instructions.

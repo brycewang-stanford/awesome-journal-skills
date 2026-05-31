@@ -151,4 +151,4 @@ cp -R skills/* ~/.codex/skills/
 
 ## 来源纪律
 
-期刊规则会变化。`resources/source-basis.md` 记录了本次扩展的来源纪律。正式投稿前，必须重新核对该刊最新官方投稿须知 / 征稿简则 / 作者指南；若 skill 与官方要求冲突，以官方要求为准。
+期刊规则会变化。[`resources/source-basis.md`](resources/source-basis.md) 记录了本次扩展的来源纪律，[`resources/official-source-map.md`](resources/official-source-map.md) 为每本期刊列出官方来源起点。正式投稿前，必须重新核对该刊最新官方投稿须知 / 征稿简则 / 作者指南；若 skill 与官方要求冲突，以官方要求为准。

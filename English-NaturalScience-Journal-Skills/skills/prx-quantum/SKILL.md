@@ -46,6 +46,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "PRX Quantum author guidelines" and follow the current APS version.
 - Re-check current APC, APS institutional open-access agreements, and waiver eligibility; open-access is non-optional.
 - Re-check article-type options, abstract format, and any structured abstract or significance-statement requirements.

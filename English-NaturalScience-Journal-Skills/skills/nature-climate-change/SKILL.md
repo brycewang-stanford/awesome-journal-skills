@@ -45,6 +45,7 @@ Nature Climate Change publishes research that advances understanding of the phys
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Climate Change author instructions" and follow the current Nature Portfolio version.
 - Re-check article-type definitions and word/figure/Extended Data limits.
 - Re-check Nature's reporting summary requirements (statistics, reproducibility, sample sizes, datasets, code).

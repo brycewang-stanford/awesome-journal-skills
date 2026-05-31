@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Mathematical Finance author guidelines" and follow the current Wiley version.
 - Re-check formatting (LaTeX class, theorem environments, reference style), abstract and MSC/JEL classification, and anonymization expectations.
 - Re-check any code/data or supplementary-material requirements for numerical results.

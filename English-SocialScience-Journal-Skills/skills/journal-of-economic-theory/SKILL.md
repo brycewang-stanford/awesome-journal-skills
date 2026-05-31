@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Journal of Economic Theory guide for authors / submission guidelines" and follow the current Elsevier version, not a third-party broker's copy.
 - Re-check formatting, abstract/JEL codes, reference style, and the supplementary-appendix / proof policy.
 - Re-check any structured-submission requirements and the current expectations for supplementary material on the editorial system.

@@ -46,6 +46,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "PNAS information for authors" and follow the current version at pnas.org.
 - Re-check submission tracks: Direct Submission vs. any active track requiring member involvement (track rules have changed historically — verify current state).
 - Re-check Significance Statement word limit, abstract format, article-type options, and word/figure limits per type.

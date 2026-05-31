@@ -38,6 +38,7 @@ description: Use when targeting 《审计研究》(Auditing Research) or decidin
 
 ## 官方核验清单
 
+- 正式给出投稿格式/流程建议前，先读取 `../../resources/source-basis.md` 和 `../../resources/official-source-map.md`，从其中的官方来源锚点或同一主办/出版体系入口开始核验，并在回答中说明核验日期。
 - 核对投稿须知、数据/程序公开要求、匿名和字数格式
 - 确认会计准则、审计准则和监管文件引用
 - 检索“《审计研究》 投稿须知 / 征稿简则 / 作者指南”，以最新页面为准；不要沿用二手代投网站格式

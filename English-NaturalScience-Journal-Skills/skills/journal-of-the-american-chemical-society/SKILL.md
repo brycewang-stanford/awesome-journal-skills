@@ -44,6 +44,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "JACS information for authors" and follow the current ACS version.
 - Re-check the article type (Communication vs. Article), current length limits for main text and SI, and abstract character limit.
 - Confirm TOC graphic specifications (size, format, content requirements).

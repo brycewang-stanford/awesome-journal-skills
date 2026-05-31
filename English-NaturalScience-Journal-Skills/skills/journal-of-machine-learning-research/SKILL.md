@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Visit jmlr.org for the current submission instructions; there is no APC and no standard commercial publisher portal.
 - Re-check which JMLR track is appropriate (regular, Software, Datasets & Benchmarks) and follow that track's specific requirements.
 - Confirm code release: a working implementation accessible from the paper is the norm, not the exception.

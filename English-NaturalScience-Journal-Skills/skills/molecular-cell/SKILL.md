@@ -48,6 +48,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Molecular Cell author instructions" and follow the current Cell Press version.
 - Re-check article types, word and figure limits per type, and abstract format.
 - Re-check STAR Methods requirements: Key Resources Table format, subheading conventions, and reagent-identifier requirements (RRIDs).

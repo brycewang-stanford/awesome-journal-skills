@@ -43,6 +43,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Because the venue is conference-driven, first confirm the invitation or use the official paper-proposal channel; search the live site for "Brookings Papers on Economic Activity call for papers / submission" and the proposal process and deadlines.
 - Re-check the current length target, abstract format, figure / data conventions, and the conference timeline (draft deadlines, discussant process).
 - Re-check the data and code availability policy and disclosure-of-interest requirements.

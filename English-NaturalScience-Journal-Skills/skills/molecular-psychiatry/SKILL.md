@@ -43,6 +43,7 @@ Molecular Psychiatry, published by Springer Nature, is a leading journal in biol
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Molecular Psychiatry submission guidelines" and follow the current Springer Nature version.
 - Re-check article-type options: original research articles, meta-analyses, reviews, perspectives, letters — confirm scope and length conventions for each.
 - Complete the relevant reporting checklists: ARRIVE for animal experiments, CONSORT for trials, STROBE for observational studies; attach the checklist at submission.

@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "JCI author instructions" on the ASCI / JCI platform and follow the current version.
 - Re-check article-type classification (Research Article, Research Letter, Clinical Medicine, Commentary) and confirm current length and figure limits.
 - Upload ethics/IRB and patient-consent documentation for all human sample studies; IACUC documentation for animal studies.

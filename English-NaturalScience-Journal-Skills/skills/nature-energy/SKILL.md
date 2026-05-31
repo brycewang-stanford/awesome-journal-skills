@@ -45,6 +45,7 @@ Nature Energy publishes research that advances understanding of energy generatio
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Energy author instructions" and follow the current Nature Portfolio version.
 - Re-check article-type definitions and word/figure/Extended Data limits.
 - Re-check Nature's reporting summary requirements (statistics, reproducibility, datasets, models, code).

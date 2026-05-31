@@ -45,6 +45,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature author instructions" and follow the current Springer Nature version.
 - Re-check current article-type options (Article, Letter if still active, Brief Communication), word/figure limits, abstract format, and Extended Data allowance.
 - Re-check reporting summary requirements (life-sciences checklist; physical/earth-sciences equivalents), data/code deposition policy, and materials-availability statement.

@@ -43,6 +43,7 @@ Cell Host & Microbe is the Cell Press flagship for host-pathogen interaction, mi
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Cell Host & Microbe information for authors" and follow the current Cell Press version.
 - Re-check article-type options and associated length/figure limits; confirm STAR Methods format requirements and mandatory sections.
 - Verify data/code/materials availability statements: sequencing data must be deposited (GEO, SRA, or equivalent) prior to revision acceptance; reagents governed by the Cell Press key resources table.

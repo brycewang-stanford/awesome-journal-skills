@@ -45,6 +45,7 @@ Ecology Letters is a Wiley journal published in association with the Centre Nati
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Ecology Letters author guidelines" and follow the current Wiley version.
 - Re-check the strict word limit and figure limit for Letters and any other article types; confirm current Supporting Information conventions and Methods-in-SI policy.
 - Re-check data-availability and code-availability requirements; confirm accepted repositories and data-archiving expectations.

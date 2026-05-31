@@ -48,6 +48,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "PLOS Medicine submission guidelines" and follow the current PLOS version.
 - Re-check current article types, word limits, abstract format, and Author Summary requirements.
 - Confirm registration number (trials and reviews), ethics approval reference, and informed-consent statement are in the manuscript.

@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "The Lancet information for authors" and follow the current Elsevier/Lancet version.
 - Re-check article type definitions and current word/figure limits; re-check abstract structure requirements and the "Added value" panel format.
 - Confirm trial or review registration number, ethics approval reference, and informed-consent statement are included.

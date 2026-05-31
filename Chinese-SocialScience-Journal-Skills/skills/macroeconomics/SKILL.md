@@ -38,6 +38,7 @@ description: Use when targeting 《宏观经济研究》(Macroeconomics) or deci
 
 ## 官方核验清单
 
+- 正式给出投稿格式/流程建议前，先读取 `../../resources/source-basis.md` 和 `../../resources/official-source-map.md`，从其中的官方来源锚点或同一主办/出版体系入口开始核验，并在回答中说明核验日期。
 - 核对数据来源、宏观口径、图表单位和投稿模板
 - 确认是否需要附录、公式推导或数据说明
 - 检索“《宏观经济研究》 投稿须知 / 征稿简则 / 作者指南”，以最新页面为准；不要沿用二手代投网站格式

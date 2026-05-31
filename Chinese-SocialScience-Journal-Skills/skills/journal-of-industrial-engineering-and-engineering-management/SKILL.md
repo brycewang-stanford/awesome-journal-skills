@@ -38,6 +38,7 @@ description: Use when targeting 《管理工程学报》(Journal of Industrial E
 
 ## 官方核验清单
 
+- 正式给出投稿格式/流程建议前，先读取 `../../resources/source-basis.md` 和 `../../resources/official-source-map.md`，从其中的官方来源锚点或同一主办/出版体系入口开始核验，并在回答中说明核验日期。
 - 核对数学符号、图表、摘要、参考文献和附录证明要求
 - 确认在线投稿与模板版本
 - 检索“《管理工程学报》 投稿须知 / 征稿简则 / 作者指南”，以最新页面为准；不要沿用二手代投网站格式

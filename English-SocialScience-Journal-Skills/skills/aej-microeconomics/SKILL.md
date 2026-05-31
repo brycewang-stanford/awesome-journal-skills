@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "AEJ: Microeconomics submission guidelines" and (for any data/computation) the AEA "Data and Code Availability Policy," and follow the current versions.
 - Re-check the submission fee, LaTeX/formatting, abstract/JEL, anonymization, and proof-appendix conventions on the editorial-manager system.
 - Re-check the current supplementary-material policy and, if the paper uses data or simulations, the code/replication deposit and verification workflow.

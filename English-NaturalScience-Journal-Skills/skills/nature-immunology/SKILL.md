@@ -45,6 +45,7 @@ Nature Immunology is Springer Nature's premier specialist immunology journal, si
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Immunology author guidelines" and follow the current Springer Nature version.
 - Re-check article-type and length/figure limits; confirm current Abstract format (unstructured, character-limited).
 - Re-check data-deposition requirements for sequencing data (GEO/SRA) and flow cytometry data; confirm that accession numbers are provided before acceptance.

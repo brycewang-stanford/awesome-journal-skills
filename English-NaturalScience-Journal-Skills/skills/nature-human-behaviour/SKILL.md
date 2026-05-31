@@ -44,6 +44,7 @@ Nature Human Behaviour, published by Springer Nature, covers the full breadth of
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Human Behaviour author information" and follow the current version at nature.com/nathumbehav.
 - Re-check the Registered Reports submission pathway and its two-stage editorial process if submitting a registered report.
 - Complete the relevant reporting checklist (Life Sciences Reporting Summary for biological studies; social-science reporting standards as applicable) — verify current requirements.

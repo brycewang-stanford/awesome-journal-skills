@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Academy of Management Review submission guidelines / information for contributors" and follow the current version.
 - Re-check word/length limits, abstract format, anonymization for double-blind review, reference style (APA), and the conceptual-paper expectations.
 - Re-check current policies on AI-use disclosure and any limits on empirical content (AMR is a theory journal — confirm what, if any, illustrative data are permitted).

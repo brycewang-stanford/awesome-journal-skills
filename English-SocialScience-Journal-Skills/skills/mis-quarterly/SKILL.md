@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "MIS Quarterly submission guidelines / author guidelines / editorial statements" and follow the current version, including any research-genre statements (e.g., design science, theory development).
 - Re-check word/length limits, abstract/structured-abstract format, anonymization for double-blind review, and reference style.
 - Re-check the current open-science, data/code availability, and AI-use disclosure policies.

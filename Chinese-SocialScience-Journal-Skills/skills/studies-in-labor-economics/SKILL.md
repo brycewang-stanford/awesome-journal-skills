@@ -38,6 +38,7 @@ description: Use when targeting 《劳动经济研究》(Studies in Labor Econom
 
 ## 官方核验清单
 
+- 正式给出投稿格式/流程建议前，先读取 `../../resources/source-basis.md` 和 `../../resources/official-source-map.md`，从其中的官方来源锚点或同一主办/出版体系入口开始核验，并在回答中说明核验日期。
 - 核对调查数据使用协议、变量定义、权重和投稿格式
 - 确认伦理/隐私与数据可用性要求
 - 检索“《劳动经济研究》 投稿须知 / 征稿简则 / 作者指南”，以最新页面为准；不要沿用二手代投网站格式

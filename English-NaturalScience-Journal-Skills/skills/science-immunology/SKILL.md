@@ -45,6 +45,7 @@ Science Immunology is the AAAS specialist immunology journal in the Science fami
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Science Immunology author instructions" and follow the current AAAS version.
 - Re-check article-type definitions, word and figure limits, and the current summary-paragraph or abstract format requirements.
 - Re-check AAAS data and code availability requirements; confirm sequencing data deposition (GEO/SRA) and flow cytometry repository expectations.

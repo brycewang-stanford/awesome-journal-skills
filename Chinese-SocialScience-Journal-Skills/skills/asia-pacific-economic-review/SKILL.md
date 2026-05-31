@@ -38,6 +38,7 @@ description: Use when targeting 《亚太经济》(Asia-Pacific Economic Review)
 
 ## 官方核验清单
 
+- 正式给出投稿格式/流程建议前，先读取 `../../resources/source-basis.md` 和 `../../resources/official-source-map.md`，从其中的官方来源锚点或同一主办/出版体系入口开始核验，并在回答中说明核验日期。
 - 核对栏目、注释/参考文献、外文资料译名和投稿格式
 - 确认国别数据、政策文件和翻译准确
 - 检索“《亚太经济》 投稿须知 / 征稿简则 / 作者指南”，以最新页面为准；不要沿用二手代投网站格式

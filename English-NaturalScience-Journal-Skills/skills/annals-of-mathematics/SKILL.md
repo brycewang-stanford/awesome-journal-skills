@@ -45,6 +45,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Check the current submission instructions at annals.math.princeton.edu; submission is by email or through the indicated system — re-verify the current procedure.
 - Assign MSC primary and secondary classification codes.
 - Post to arXiv (or confirm prior posting) with the arXiv identifier ready to include in correspondence.

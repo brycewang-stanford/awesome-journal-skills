@@ -48,6 +48,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search "Nature Cell Biology author information" on the Nature Portfolio site and follow the current version.
 - Re-check article types (Article vs. Brief Communication), length and figure limits, and Extended Data policy.
 - Confirm Nature reporting summary requirements and any microscopy-specific reporting standards (e.g., image acquisition parameters, quantification methods).

@@ -45,6 +45,7 @@ Nature Ecology & Evolution is Springer Nature's primary specialist journal for r
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Nature Ecology & Evolution author guidelines" and follow the current Springer Nature version.
 - Re-check article-type definitions and word/figure limits for Articles vs. Letters; confirm which types are currently accepting unsolicited submissions.
 - Re-check data and code availability requirements and supported repositories; confirm deposition expectations for sequence data, occurrence data, and phylogenetic trees.

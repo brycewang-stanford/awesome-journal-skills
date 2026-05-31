@@ -42,6 +42,7 @@ Trends in Cognitive Sciences (TiCS), published by Cell Press, is one of the lead
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Trends in Cognitive Sciences author information" and follow the current Cell Press version.
 - Confirm whether submission is invited or unsolicited; for unsolicited work, contact the editorial office with a pre-submission inquiry before preparing a full manuscript.
 - Re-check article-type definitions and associated length/figure limits (these change — verify current constraints on the live site).

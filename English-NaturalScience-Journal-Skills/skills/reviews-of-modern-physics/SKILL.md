@@ -44,6 +44,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Reviews of Modern Physics author guidelines" and follow the current APS version.
 - Confirm article type (Colloquium vs. Review) with the handling editor before drafting, as length expectations and structure differ significantly.
 - Re-check current length norms (Colloquia are substantially shorter than Reviews), figure and table policies, and any LaTeX template requirements.

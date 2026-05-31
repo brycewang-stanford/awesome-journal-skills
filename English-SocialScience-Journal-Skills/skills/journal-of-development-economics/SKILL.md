@@ -41,6 +41,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "Journal of Development Economics guide for authors / submission guidelines" and follow the current Elsevier version, not a third-party broker's copy.
 - Re-check formatting, abstract/JEL codes, reference style, the online-appendix policy, the data & code / replication availability requirements, and any registered-report route.
 - Re-check the current pre-registration / pre-analysis-plan and trial-registry expectations, ethics/IRB disclosure, and the replication-package requirement on the editorial system.

@@ -47,6 +47,7 @@ This skill is a **fit / venue-selection / re-framing** tool. It does not replace
 
 ## Official-submission checklist
 
+- Before giving submission-ready advice, read `../../resources/source-basis.md` and `../../resources/official-source-map.md`; start from the official source anchors for this journal family, then cite the current journal-specific page you checked.
 - Search the live site for "The BMJ instructions for authors" and follow the current BMJ Publishing Group version.
 - Re-check article type and current word and abstract limits; confirm the "What is already known / What this study adds" box requirements.
 - Confirm trial or review registration number and ethics approval reference are stated in the methods.
