@@ -7,9 +7,11 @@ description: Use when a revise-and-resubmit or referee reports arrive for an Eco
 
 ## When to trigger
 
-- A decision letter with a co-editor recommendation and referee reports has arrived
+- A decision letter with a handling Co-Editor recommendation and referee reports has arrived
 - You need to plan a (typically major) revision and draft a point-by-point response
 - A referee flagged a proof gap, a generality limit, or missing finite-sample evidence
+- You reached **conditional acceptance** and must satisfy the Co-Editor's last conditions
+  *and* prepare final files for the ES **Data Editor**'s reproducibility check
 
 Do not draft the response before the revised theorems, simulations, and code are actually
 done — promised fixes that are not yet real read as evasive to this referee pool.
@@ -19,8 +21,10 @@ done — promised fixes that are not yet real read as evasive to this referee po
 - The **co-editor's letter is the controlling document.** Identify which points the co-editor
   treats as essential vs. which are referee suggestions left to your judgment. Address the
   co-editor's essential points fully and first.
-- An R&R at Econometrica is a genuine opportunity but signals **substantial remaining work**
-  and likely **another round**. Plan accordingly; do not do the minimum.
+- An R&R at Econometrica is a genuine opportunity (the acceptance rate is ~6–9%, and R&R is
+  the common path to publication) but signals **substantial remaining work** and likely
+  **another round**, followed by **conditional acceptance** and the Data Editor stage. Plan
+  accordingly; do not do the minimum.
 - Sort every comment into: (a) genuine error / gap to fix, (b) request for added generality /
   evidence, (c) presentation, (d) a point you will respectfully push back on with argument.
 
@@ -33,7 +37,7 @@ We thank you and the referees for [specific, sincere]. The main changes are:
 (1) [most important fix — e.g., closed the gap in the proof of Theorem 2],
 (2) [added the limiting-distribution / uniform result requested],
 (3) [added Monte Carlo design X showing finite-sample size control].
-All changes are marked in the revision; new proofs are in Online Appendix §...
+All changes are marked in the revision; new proofs are in Supplemental Material §...
 
 — Response to the Co-Editor —
 [CE point 1] ... [CE point 2] ...
@@ -63,8 +67,12 @@ All changes are marked in the revision; new proofs are in Online Appendix §...
 
 ## Revision discipline
 
-- Re-run the **full replication package** after every substantive change; numbers in the letter,
-  text, and tables must agree (see `ecta-replication-package`).
+- Re-run the **full replication package** after every substantive change; numbers in the
+  letter, text, and tables must agree (see `ecta-replication-package`). At conditional
+  acceptance the ES **Data Editor** will re-run this code, so it must reproduce bit-for-bit.
+- Watch the **45-page** body limit: a revision that adds results can push the body over the
+  cap — move the overflow (proofs, extra Monte Carlo) into the Supplemental Material rather
+  than cutting content.
 - Re-check **theorem numbering and cross-references** after reorganizing — added results shift numbers.
 - If a fix changes a result, trace it through: identification → asymptotics → simulations → text.
 - Keep a marked-changes version; keep a clean version; keep the response letter in sync with both.
@@ -98,6 +106,7 @@ All changes are marked in the revision; new proofs are in Online Appendix §...
 【Proof gaps closed】[Theorem N: ...]
 【New evidence added】[design/result ...]
 【Push-backs (with argument)】[...]
-【Package re-run + consistent】yes/no
+【Package re-run + consistent】yes/no (Data Editor will re-run at conditional acceptance)
+【Body ≤45pp after revision】yes/no — overflow moved to Supplemental Material: [...]
 【Status】response letter drafted → re-submit via Editorial Express
 ```

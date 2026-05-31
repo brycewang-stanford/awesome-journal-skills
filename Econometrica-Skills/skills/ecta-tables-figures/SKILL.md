@@ -13,7 +13,14 @@ description: Use when finalizing the simulation tables and any empirical / illus
 - Numbers in the table cannot be traced to a specific script / seed
 
 Econometrica exhibits are read closely by referees who will recompute or sanity-check
-entries. Every table and figure must stand alone.
+entries — and at conditional acceptance the ES **Data Editor** re-runs the code behind every
+table, figure, and number that comes from data or simulation. Every table and figure must
+stand alone *and* trace to a seeded script in the replication package. Two Econometrica
+specifics that differ from applied siblings: (1) the **45-page** main-text limit (incl.
+references and appendices) forces ruthless triage — keep the headline size/power/coverage
+tables in the body and push secondary designs to the **Supplemental Material**; (2)
+reproducibility is enforced by the **Econometric Society** Data Editor with a **Zenodo**
+deposit, not the AEA/openICPSR pipeline the AER/AEJ packs assume.
 
 ## Simulation-table standards
 

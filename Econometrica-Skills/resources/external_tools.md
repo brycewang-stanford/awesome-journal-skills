@@ -78,8 +78,12 @@ evidence.
 
 ## 5. Reproducibility and Replication
 
-The Data and Code Availability Policy is strictly enforced (verify current text and the
-role of the Data Editor). Build the package as you go, not at the end.
+The Econometric Society Data and Code Availability Policy is strictly enforced for papers
+with empirical, experimental, **and/or simulation** results (verify current text and the
+role of the Data Editor; pure-theory papers may be exempt if requested at initial
+submission). The ES Data Editor runs a pre-acceptance reproducibility check; the README must
+be a **PDF** (Social Science Data Editors' template). Build the package as you go, not at the
+end.
 
 | Tool | Use |
 |------|-----|
@@ -88,7 +92,7 @@ role of the Data Editor). Build the package as you go, not at the end.
 | Make / master script (`run_all`) | One command reproduces every exhibit |
 | Set/seeded RNG | Bit-for-bit reproducibility of Monte Carlo tables |
 | README with run instructions | Hardware, runtime, software versions, data provenance |
-| Data deposit | Journal-designated repository (e.g., openICPSR / Econometric Society supplement) — verify current location |
+| Data deposit | **Econometric Society Journals' Community at Zenodo** (for packages conditionally accepted after July 1, 2023; reserve a DOI in advance) — not the AEA/openICPSR route; verify current location |
 
 ## 6. Reference and Literature Search
 
@@ -102,13 +106,18 @@ role of the Data Editor). Build the package as you go, not at the end.
 
 ## 7. Submission Logistics
 
-- Submission portal: Editorial Express (verify current URL via the journal site).
-- Submission fee with an Econometric Society member discount (verify current amounts and
-  any waivers).
-- Supplementary / Online Appendix is a first-class component: full proofs, Monte Carlo,
-  and additional results live there.
-- Long review times and multiple demanding rounds are normal; co-editors and referees
-  read proofs closely.
+- Submission portal: **Editorial Express** (editorialexpress.com, `dbase=econometrica`;
+  verify current URL via the journal site).
+- At least one author must be an **Econometric Society** member; submission fee
+  **US$125 regular / US$50 student** member (from 2025; invited resubmissions and ES-journal
+  transfers are fee-exempt — verify current amounts).
+- Main text **≤45 pages incl. references and appendices**; **Supplemental Appendix ≤25 pages**;
+  abstract **≤150 words**; JEL codes optional.
+- **Supplemental Material** is a first-class component: full proofs, Monte Carlo, and
+  additional results live there (it does not count toward the 45-page limit).
+- Acceptance rate is low (~6–9%); long review times and multiple demanding rounds are normal;
+  the handling co-editor and referees read proofs closely; **conditional acceptance** precedes
+  final acceptance, with the ES **Data Editor** running a reproducibility check at that stage.
 
 ## 8. Notes and Cautions
 

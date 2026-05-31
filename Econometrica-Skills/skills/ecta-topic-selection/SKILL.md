@@ -14,19 +14,27 @@ description: Use when judging whether a result is general, deep, and method-driv
 
 ## What Econometrica rewards
 
-Econometrica prizes **generality and elegance over narrow application**. The product is a
-durable methodological or theoretical advance. Before investing, classify the paper:
+Econometrica (Econometric Society / Wiley; founded 1933) is the field's flagship for
+**econometric methods and rigorous economic theory**, not applied "top-5" causal-inference
+papers. Its charter is the *unification of the theoretical-quantitative and the
+empirical-quantitative approaches, penetrated by constructive and rigorous thinking*. It
+prizes **generality and elegance over narrow application**; the product is a durable
+methodological or theoretical advance. Before investing, classify the paper:
 
-| Paper type | What must be true to fit |
-|------------|--------------------------|
-| Econometric theory | A new estimator / test / identification result with full asymptotic theory and finite-sample evidence |
-| Microeconomic / game theory | New axioms or a new model yielding existence/uniqueness, comparative statics, and an economic payoff |
-| Decision theory | A representation theorem (axioms ⇔ functional form) with behavioral content |
-| Structural / empirical | A method or identification argument that is itself the contribution, applied with rigor |
+| Paper type | What must be true to fit | Exemplar |
+|------------|--------------------------|----------|
+| Econometric theory | A new estimator / test / identification result with full asymptotic theory and finite-sample evidence | Hansen (1982, GMM); Newey–West (1987, HAC) |
+| Microeconomic / game theory | New axioms or a new model yielding existence/uniqueness, comparative statics, and an economic payoff | game-theoretic equilibrium-existence results |
+| Decision theory | A representation theorem (axioms ⇔ functional form) with behavioral content | Kahneman–Tversky (1979, prospect theory) |
+| Structural / empirical | A method or identification argument that is itself the contribution, applied with rigor | Rust (1987, nested fixed point); Heckman (1979, selection) |
 
-A paper that is "policy evaluation with off-the-shelf DID" or "a clever application with
-no new method" is off-fit, however well executed — redirect it to a general-interest
-applied journal.
+A paper that is "policy evaluation with off-the-shelf DID/RDD" or "a clever application with
+no new method" is off-fit, however well executed — redirect it to a general-interest applied
+journal (AER / QJE / JPE / REStud). **This is the single most common Econometrica mismatch
+and a desk-reject trigger**: at the eligibility/co-editor screen, "pure applied work lacking
+a methodological or identification innovation" is routinely returned. The right question is
+not "is this an important answer?" but "is the *estimator, theorem, or identification
+argument* itself the contribution?"
 
 ## The generality test
 
@@ -61,7 +69,8 @@ Avoid "we propose a method and show it works." Name the theorem and the assumpti
 - [ ] Most general setting identified; not tied to one parametric example
 - [ ] Every assumption is used somewhere in the argument and is defensible
 - [ ] Clear payoff: what becomes possible / characterizable that was not before
-- [ ] Honest placement: is this Econometrica-deep, or general-interest-applied?
+- [ ] Honest placement: is this Econometrica-deep (method/theorem), or general-interest-applied (AER/QJE/JPE/REStud)?
+- [ ] The contribution survives the eligibility screen: a *new method/theorem/identification result*, not an off-the-shelf application
 - [ ] A concrete behavioral or inferential consequence is stated, not just a formal property
 
 ## Anti-patterns

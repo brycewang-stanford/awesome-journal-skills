@@ -4,6 +4,11 @@ A skeleton for a theorem-driven Econometrica manuscript. Adapt for a structural 
 paper by expanding the application section and the identification discussion. Use LaTeX with
 `amsthm` theorem environments in the actual paper; this template shows the logical structure.
 
+> Econometrica constraints to keep in view while drafting: the main text must fit
+> **≤45 pages including references and appendices** (font ≥12pt, line spacing ≥1.5, margins
+> ≥1.25in); the **Supplemental Appendix is ≤25 pages** and further **Supplemental Material**
+> (full proofs, Monte Carlo detail) is unrestricted; the abstract is **≤150 words**.
+
 ---
 
 ## Title
@@ -16,11 +21,11 @@ paper by expanding the application section and the identification discussion. Us
 
 ## Abstract
 
-> A few sentences: the setting, the central result (in words), what assumption it relaxes or
-> what object it delivers, and the payoff. State the result, not just the topic.
+> A few sentences (≤150 words): the setting, the central result (in words), what assumption
+> it relaxes or what object it delivers, and the payoff. State the result, not just the topic.
 
-**Keywords:** ...
-**JEL Classification:** ... (at least two)
+**Keywords:** ... (required)
+**JEL Classification:** ... (optional at Econometrica)
 
 ---
 
@@ -54,7 +59,7 @@ paper by expanding the application section and the identification discussion. Us
 
 - **Theorem 1.** *Under Assumptions 1–2, [precise conclusion: identification / existence].*
 
-  *Proof sketch.* [Architecture + the hard step. Full proof in Online Appendix §A.] ∎
+  *Proof sketch.* [Architecture + the hard step. Full proof in Supplemental Material §A.] ∎
 
 > Interpretation paragraph: what the result means, what is surprising, which assumption does the work.
 
@@ -96,19 +101,23 @@ paper by expanding the application section and the identification discussion. Us
 ## Appendix A. Proof of Theorem 1
 ## Appendix B. Proof of Theorem 2
 
-> Full, complete proofs. In the submitted paper these (if long) live in the Online /
-> Supplementary Appendix, cross-referenced from the body.
+> Full, complete proofs. In the submitted paper these (if long) live in the **Supplemental
+> Material** (Supplemental Appendix ≤25 pages, plus unrestricted online Supplemental
+> Material), cross-referenced from the body — they do not count toward the 45-page limit.
 
-## Online / Supplementary Appendix
+## Supplemental Material
 
 - Full proofs of all results not fully proven in the body.
 - Complete Monte Carlo design and additional simulations.
 - Additional theorems / extensions.
-- Data and Code Availability: provenance, environment, exhibit↔script map (verify current policy).
+- Data and Code Availability (Econometric Society policy): provenance, environment,
+  exhibit↔script map, PDF README; Data Editor reproducibility check at conditional
+  acceptance; Zenodo deposit (verify current policy).
 
 ---
 
 ## References
 
 > Cite theorem-level results precisely where a proof depends on them. Match the journal's
-> current reference style. Ensure in-text and list agree both ways.
+> current reference style. Ensure in-text and list agree both ways. References count toward
+> the 45-page limit, so keep the list tight and load-bearing.

@@ -1,6 +1,6 @@
 ---
 name: ecta-submission
-description: Use when running the final pre-submission preflight for an Econometrica manuscript via Editorial Express — manuscript assembly, Online/Supplementary Appendix, anonymization, references, fee, and Data and Code Availability Policy compliance.
+description: Use when running the final pre-submission preflight for an Econometrica manuscript via Editorial Express — manuscript assembly, Supplemental Material, the 45-page limit, anonymization, references, the ES-member submission fee, and Data and Code Availability Policy compliance.
 ---
 
 # Submission Preflight (ecta-submission)
@@ -8,39 +8,59 @@ description: Use when running the final pre-submission preflight for an Economet
 ## When to trigger
 
 - "Submitting tomorrow"; final check before clicking submit on Editorial Express
-- Unsure how to split the body vs. the Supplementary / Online Appendix
+- Unsure how to split the body (≤45 pages) vs. the Supplemental Material
 - Unsure which files and declarations the portal needs
 
-> Verify all volatile specifics — portal URL, submission fee, Econometric Society member
-> discount, the current Data and Code Availability Policy, and formatting rules — on the
-> official journal site before submitting. The items below are durable norms; the figures are not.
+> Verify all volatile specifics — portal URL, submission fee, the current Data and Code
+> Availability Policy, the editorial board, and formatting rules — on the official journal
+> site before submitting. The figures below were current as of 2026-05-30 but change.
+
+## Econometrica specifics (verify; current as of 2026-05-30)
+
+- **Membership + fee:** at least one author must be a member of the **Econometric Society**.
+  Submission fee (from Jan 1, 2025): **US$125 regular member, US$50 student member**. Invited
+  resubmissions and ES-journal transfers are fee-exempt.
+- **Length:** main text **≤45 pages including references and appendices**; font ≥12pt, line
+  spacing ≥1.5, margins ≥1.25in. **Supplemental Appendix ≤25 pages**, same formatting;
+  additional online Supplemental Material (proofs, Monte Carlo detail) is uploaded with the
+  submission and does **not** count toward the limit.
+- **Front matter:** abstract **≤150 words**, keywords required, **JEL codes optional**.
+- **Portal:** **Editorial Express** (editorialexpress.com, `dbase=econometrica`).
+- **Replication:** governed by the **Econometric Society** Data and Code Availability Policy;
+  the **Data Editor** runs a reproducibility check at conditional acceptance; deposit at the
+  ES Journals' Community on **Zenodo** (see `ecta-replication-package`).
+- **Anonymization: UNVERIFIED.** Economics convention is single-anonymous (referees know the
+  author); confirm whether Econometrica currently requires a de-identified PDF before relying
+  on it.
 
 ## Pre-submission checklist
 
 ### Manuscript assembly
 
 - [ ] Main text states the contribution / informal main theorem early
+- [ ] Main text fits **≤45 pages incl. references and appendices**; font ≥12pt / spacing ≥1.5 / margins ≥1.25in
 - [ ] Definitions and assumptions are numbered, displayed objects
 - [ ] Theorems numbered consistently; cross-references by number
-- [ ] Proof sketches in the body; **full proofs in the Supplementary / Online Appendix** if long
-- [ ] Online Appendix carries full proofs, Monte Carlo detail, and additional results
+- [ ] Proof sketches in the body; **full proofs in the Supplemental Material** if long
+- [ ] Supplemental Appendix **≤25 pages**; further Supplemental Material carries full proofs, Monte Carlo detail, additional results
 - [ ] Every number in the text matches the tables
-- [ ] Abstract and JEL codes present; keywords appropriate
+- [ ] Abstract **≤150 words**; keywords present; JEL codes (optional) included if used
 
-### Online / Supplementary Appendix
+### Supplemental Material
 
 - [ ] Full, complete proofs of every result not proven in full in the body
 - [ ] Complete Monte Carlo design and any additional simulations
 - [ ] Additional theorems / extensions referenced from the body
-- [ ] Appendix is self-contained and cross-referenced from the main text
+- [ ] Supplemental Appendix within ≤25 pages; further material in unrestricted Supplemental Material
+- [ ] Self-contained and cross-referenced from the main text
 
-### Anonymization (double-blind norms)
+### Anonymization (verify — UNVERIFIED whether currently required)
 
-- [ ] No author-identifying content in the manuscript body
+- [ ] If a de-identified PDF is required: no author-identifying content in the body
 - [ ] Self-citation phrased in the third person ("X (2020) shows"), not "our earlier work"
 - [ ] Acknowledgments / funding removed from the anonymized manuscript
 - [ ] File metadata scrubbed of author names
-- [ ] (Confirm the journal's current blinding policy — verify on site)
+- [ ] Confirm the journal's **current** blinding policy on the Instructions/Editorial Procedures pages
 
 ### References
 
@@ -49,50 +69,57 @@ description: Use when running the final pre-submission preflight for an Economet
 - [ ] Reference style matches the journal's current requirement
 - [ ] Foundational and contemporaneous work cited fairly
 
-### Data and Code Availability Policy
+### Data and Code Availability Policy (Econometric Society)
 
 - [ ] Replication package built and reproduces from a clean checkout (see `ecta-replication-package`)
-- [ ] Monte Carlo tables reproduce bit-for-bit (seeds recorded)
+- [ ] Monte Carlo / simulation tables reproduce bit-for-bit (seeds recorded) — simulations are in-scope
 - [ ] Data provenance / access documented; restricted-data procedures handled
-- [ ] Data-availability statement prepared as the policy requires
-- [ ] Verified against the **current** policy text and deposit location on the journal site
+- [ ] README in **PDF** (Social Science Data Editors' template); Zenodo deposit planned (ES Journals' Community)
+- [ ] If pure theory (no empirical/experimental/simulation results): exemption noted **at initial submission**
+- [ ] Verified against the **current** ES Data Editor policy and deposit location
 
 ### Fee and member status
 
-- [ ] Submission fee handled; Econometric Society member discount applied if eligible (verify current amounts)
-- [ ] Any waiver process checked if applicable
+- [ ] Submission fee handled (US$125 regular / US$50 student member, from 2025 — verify current amounts)
+- [ ] At least one author is a current Econometric Society member
+- [ ] Fee-exemption checked if an invited resubmission or ES-journal transfer
 
 ## Editorial Express operation
 
-- Submit via Editorial Express (verify current URL via the journal site).
-- Upload the main manuscript and the Supplementary / Online Appendix as the portal specifies.
-- Enter abstract, JEL codes, and keywords accurately.
+- Submit via **Editorial Express** (editorialexpress.com, `dbase=econometrica`; verify the
+  current URL via the journal site).
+- Upload the main manuscript and the Supplemental Material as the portal specifies.
+- Enter abstract (≤150 words), keywords, and JEL codes (optional) accurately.
 - Provide qualified, conflict-free referee suggestions (see `ecta-referee-strategy`).
 - Choose the correct classification / field for routing to an appropriate co-editor.
+- At **conditional acceptance**, final files (and the replication package) go to a separate
+  Editorial Express account for the **Data Editor**'s reproducibility check.
 
 ## Anti-patterns
 
-- Submitting with proofs only in the body and the Online Appendix not assembled
+- Submitting with proofs only in the body and the Supplemental Material not assembled
+- A body over **45 pages** (incl. references and appendices) with no prior editor exception
+- Submitting without an Econometric Society member among the authors, or unpaid fee
 - Asymptotics in, Monte Carlo left for "the revision" — often a fast rejection
-- A replication package that does not actually reproduce
-- Self-citations that de-anonymize the manuscript
+- A replication package that does not actually reproduce (the Data Editor will run it)
+- An off-the-shelf applied paper with no methodological contribution (eligibility desk-reject)
 - Citing a survey where the proof depends on a specific theorem
-- Trusting a stale fee / policy figure instead of verifying on the journal site
+- Trusting a stale fee / board / policy figure instead of verifying on the journal site
 
 ## Output format
 
 ```
-【Body vs Appendix】proofs split correctly: yes/no
-【Online Appendix assembled】yes/no — missing: [...]
-【Anonymization】pass / fix: [...]
+【Body ≤45pp + split】within limit + proofs split correctly: yes/no
+【Supplemental Material assembled】yes/no — missing: [...]
+【Anonymization】pass / fix / N/A (verify if required): [...]
 【References】in/out consistent: yes/no
-【Data & Code Policy】reproduces + statement ready: yes/no
-【Fee/member discount】handled: yes/no (verify amounts)
-【Next step】await decision / R&R → ecta-rebuttal
+【ES Data & Code Policy】reproduces + Zenodo plan / theory-exempt: yes/no
+【Fee + ES membership】handled: yes/no (US$125/US$50 — verify)
+【Next step】await decision / R&R / conditional acceptance → ecta-rebuttal
 ```
 
 ## Related resources
 
 - [`templates/checklist.md`](templates/checklist.md) — full pre-submission self-check (manuscript, appendix, anonymization, proofs, simulations, references, replication, portal)
-- [`templates/manuscript_template.md`](templates/manuscript_template.md) — standard theory/methods manuscript skeleton (assumptions, theorems, proof sketches, Online Appendix)
+- [`templates/manuscript_template.md`](templates/manuscript_template.md) — standard theory/methods manuscript skeleton (assumptions, theorems, proof sketches, Supplemental Material)
 - [`../../resources/external_tools.md`](../../resources/external_tools.md) — typesetting, symbolic/computation, and reproducibility toolchain

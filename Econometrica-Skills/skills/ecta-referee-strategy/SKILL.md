@@ -10,22 +10,30 @@ description: Use to red-team an Econometrica manuscript before submission and to
 - Before submitting, to find the hole a referee will find first
 - When you suspect a proof step or a generality claim is the weak point
 - When choosing how to present the contribution to survive a demanding referee pool
-- When deciding what to put in the body vs. the Online Appendix to pre-empt objections
+- When deciding what to put in the body vs. the Supplemental Material to pre-empt objections
 
 Econometrica's referees are usually experts in exactly your method — often the authors of
 the results you build on. Reviews are demanding, multi-round, and the **co-editor and
 referees check proofs closely**. Assume every step will be read by someone who could have
 proven it themselves.
 
-## How Econometrica review works (durable norms)
+## How Econometrica review works
 
-- A co-editor handles the paper and weighs referee reports; the co-editor's read carries
-  decisive weight.
-- Referees verify proofs, not just plausibility. A single genuine gap can sink the paper.
+- A submission is screened for eligibility (ES membership of at least one author, fee, the
+  **45-page** limit) and routed by the **Editor** (Marina Halac, Yale, 2025–2029 — verify)
+  to a handling **Co-Editor** from a small board (e.g., Keisuke Hirano, Aureo de Paula,
+  Marciano Siniscalchi, Pete Klenow, Patrick Kline). The Co-Editor's read carries decisive
+  weight and they often pick referees who *are* the authors of the results you extend.
+- Referees verify proofs, not just plausibility. A single genuine gap can sink the paper —
+  this is a different failure mode from applied siblings (AER / QJE / JPE / REStud) where a
+  shaky empirical narrative is the usual killer.
+- The **acceptance rate is low (~6–9%)**; outright first-round acceptance is rare and
+  **R&R is the common positive outcome**, typically followed by **conditional acceptance**
+  (at which point final files go to the ES **Data Editor** for a reproducibility check).
 - Review times are long and there are typically **multiple rounds** of demanding revision.
-- A "revise and resubmit" is a real opportunity but signals substantial remaining work.
 
-(Verify any current procedural specifics on the journal site; the norms above are durable.)
+(Verify the current board, acceptance rate, and timeline in the latest Report of the Editors
+and on the journal site; the procedure above is from official ES sources but evolves.)
 
 ## Red-team the paper
 
@@ -43,16 +51,21 @@ Attack your own manuscript in the order a referee will:
    the designs fair, the competitors real, the size controlled (see `ecta-robustness`)?
 5. **Did you ignore the obvious competitor?** A referee will name the method you should have
    compared to. Compare to it.
-6. **Does the replication package actually reproduce?** A non-reproducing package is a credibility
-   problem the Data Editor will surface (see `ecta-replication-package`).
+6. **Does the replication package actually reproduce?** A non-reproducing package is a
+   credibility problem the **ES Data Editor** will surface at conditional acceptance — and
+   that includes **Monte Carlo / simulation** code, which is in-scope under the ES policy
+   (see `ecta-replication-package`).
+7. **Is this Econometrica-fit at all?** The eligibility/co-editor screen returns "pure
+   applied work with no methodological or identification innovation." If the contribution is
+   an off-the-shelf causal estimate, expect a fast desk rejection (see `ecta-topic-selection`).
 
 ## Presentation choices that help
 
 - Put the **hard step of the proof in full** where a referee can find it; do not hide it.
 - A short **"Discussion of Assumptions"** subsection naming what each buys and what relaxing it
   would cost defuses the "why this assumption?" line of attack.
-- An **Online Appendix** with extra results, robustness, and the long proofs lets the body stay
-  clean while pre-empting "what about X?"
+- The **Supplemental Material** with extra results, robustness, and the long proofs lets the
+  body stay within 45 pages and clean while pre-empting "what about X?"
 - Acknowledge limitations explicitly; a referee who finds an unstated limitation distrusts the rest.
 
 ## Suggested vs. excluded referees
@@ -90,7 +103,7 @@ Attack your own manuscript in the order a referee will:
 【Generality defense】...
 【Finite-sample defense】...
 【Competitor addressed】yes/no
-【Pre-empt moves】[discussion-of-assumptions, online appendix item, ...]
+【Pre-empt moves】[discussion-of-assumptions, supplemental-material item, ...]
 【Referee suggestions】[qualified, conflict-free]
 【Next step】ecta-submission
 ```

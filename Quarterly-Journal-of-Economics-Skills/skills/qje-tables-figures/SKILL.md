@@ -1,6 +1,6 @@
 ---
 name: qje-tables-figures
-description: Use when finalizing the main exhibits of a Quarterly Journal of Economics (QJE) manuscript — making the paper figure-forward, with clean tables and self-contained notes. Designs exhibits; it does not run new analysis.
+description: Use when finalizing the main exhibits of a Quarterly Journal of Economics (QJE) manuscript — making the paper figure-forward, with clean tables and self-contained notes that read well in QJE's single-PDF, author-date format. Designs exhibits; it does not run new analysis.
 ---
 
 # Tables & Figures (qje-tables-figures)
@@ -14,7 +14,7 @@ description: Use when finalizing the main exhibits of a Quarterly Journal of Eco
 
 ## QJE aesthetic: figure-forward, self-contained exhibits
 
-QJE increasingly values **figure-forward presentation** — a great paper makes its central result legible in one well-designed graph. Identification designs are inherently visual: event-study plots, RDD discontinuity plots, and binned scatters communicate credibility better than a coefficient buried in a regression column. Tables remain essential for estimates and robustness, but the *headline* should often be a figure a reader grasps in five seconds.
+QJE has moved firmly toward **figure-forward presentation** — the Opportunity Insights / Chetty-style QJE paper makes its central result legible in one well-designed graph (e.g., the binned mobility maps and exposure-effect plots of the QJE 2014/2018 neighborhoods papers). Identification designs are inherently visual: event-study plots, RDD discontinuity plots, and binned scatters communicate credibility better than a coefficient buried in a regression column. Tables remain essential for estimates and robustness, but the *headline* should often be a figure a reader grasps in five seconds. Practical QJE constraints: at initial submission **everything is one PDF with figures embedded** (no separate figure files), exhibits are numbered and called out in order, and in-text references are **author-date (Chicago)**.
 
 ## The headline-figure decision
 
@@ -28,16 +28,16 @@ QJE increasingly values **figure-forward presentation** — a great paper makes 
 
 ## Table craft
 
-- **Width discipline.** Main results table should be readable; if it sprawls past a handful of columns, split it or move variants to the appendix.
+- **Width discipline.** Main results table should be readable; if it sprawls past a handful of columns, split it or move variants to the appendix (no page limit means you can — but readability still wins).
 - **Self-contained notes.** Every table/figure note states: sample and time span, unit of observation, what each column is, fixed effects included, standard-error clustering level, and how significance is denoted.
 - **Standard errors in parentheses**, clustering level named in the note; report N and relevant fit statistics.
 - **Coefficients with meaning.** Report units so the magnitude is interpretable (effect in SDs, in dollars, in percentage points), not just a bare number.
-- Author-date in-text references; figures and tables numbered and called out in order.
+- Author-date (Chicago) in-text references; figures and tables numbered and called out in order.
 
 ## Figure craft
 
 - Show the data: binned scatters, confidence bands, and raw-ish patterns build credibility.
-- Avoid chartjunk: no 3D, no needless color, legible axis labels with units.
+- Avoid chartjunk: no 3D, no needless color, legible axis labels with units; figures must remain legible embedded in the single submission PDF and at print resolution.
 - Confidence intervals shown, not just point estimates; bandwidth/bin choices noted.
 - A figure should be interpretable from its caption alone.
 
@@ -49,7 +49,7 @@ QJE increasingly values **figure-forward presentation** — a great paper makes 
 - [ ] Magnitudes are interpretable (units stated), not bare coefficients
 - [ ] Event-study / RDD / first-stage results are plotted, not only tabulated
 - [ ] Confidence intervals / bands shown on figures
-- [ ] Tables and figures numbered and referenced in order; author-date citations
+- [ ] Figures embedded and legible in the single submission PDF; numbered, author-date citations
 
 ## Anti-patterns
 

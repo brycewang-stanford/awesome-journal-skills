@@ -1,6 +1,6 @@
 ---
 name: qje-robustness
-description: Use when building the robustness suite and online appendix for a Quarterly Journal of Economics (QJE) manuscript — the extensive checks top-5 referees expect. Plans and prioritizes robustness; it does not change the core identification design.
+description: Use when building the robustness suite and online appendix for a Quarterly Journal of Economics (QJE) manuscript — the extensive checks QJE referees expect, exploiting the journal's no-page-limit norm. Plans and prioritizes robustness; it does not change the core identification design.
 ---
 
 # Robustness & Online Appendix (qje-robustness)
@@ -14,7 +14,7 @@ description: Use when building the robustness suite and online appendix for a Qu
 
 ## QJE expectation: an exhaustive, organized appendix
 
-QJE papers carry **very extensive online appendices**. A short robustness section signals an unfinished paper. But volume is not the goal — *anticipation* is. The appendix should answer, in advance, every serious threat a smart referee would raise, organized so the editor can find each answer. Lead with the checks that defend the **identifying assumption**, then the ones that defend **measurement**, then **specification**.
+QJE imposes **no hard page limit** and the modern QJE empirical paper carries a **very extensive online appendix** — the Chetty–Hendren neighborhoods papers (QJE 2018) and Chetty–Hendren–Kline–Saez (QJE 2014) are the genre standard, with online appendices dwarfing the printed text. A short robustness section signals an unfinished paper. But volume is not the goal — *anticipation* is. The appendix should answer, in advance, every serious threat a smart referee would raise, organized so the handling Editor can find each answer fast. Note: at submission everything ships in **one PDF** (no separate appendix file at the initial stage), so the appendix must be cleanly sectioned within that document. Lead with the checks that defend the **identifying assumption**, then **measurement**, then **specification**.
 
 ## Robustness priority ladder (defend in this order)
 
@@ -27,7 +27,7 @@ QJE papers carry **very extensive online appendices**. A short robustness sectio
 
 ## What goes in the body vs. the appendix
 
-| Goes in the main text                                  | Goes in the online appendix                              |
+| Goes in the main text                                  | Goes in the online appendix (same PDF at submission)     |
 |--------------------------------------------------------|----------------------------------------------------------|
 | The one or two checks that *make or break* the design  | The full battery of alternative specs                    |
 | The headline robustness figure (e.g., event study)     | All variant tables, by category                          |
@@ -40,12 +40,13 @@ QJE papers carry **very extensive online appendices**. A short robustness sectio
 - [ ] Estimate shown to be insensitive to reasonable specification choices
 - [ ] Few-cluster / multiple-hypothesis inference handled
 - [ ] Appendix is organized by threat category, not dumped chronologically
+- [ ] Appendix is cleanly sectioned within the single submission PDF
 - [ ] Each appendix result is referenced and one-line-summarized in the main text
 - [ ] Magnitudes benchmarked against prior estimates in the literature
 
 ## Anti-patterns
 
-- A two-paragraph robustness section in a paper claiming a causal effect
+- A two-paragraph robustness section in a paper claiming a causal effect (QJE's no-page-limit norm leaves no excuse)
 - Appendix tables with no narrative linking them to specific threats
 - Reporting only the checks that pass; hiding the fragile specification
 - "Results are robust to a battery of checks (see Appendix)" with no specifics in text

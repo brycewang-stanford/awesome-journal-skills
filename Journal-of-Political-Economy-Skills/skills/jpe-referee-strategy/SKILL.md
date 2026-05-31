@@ -14,7 +14,7 @@ description: Use when running a pre-submission pre-mortem on a Journal of Politi
 
 ## How JPE referees read
 
-JPE referees read the paper as an **economic argument** and probe its internal consistency. The prototypical Chicago referee asks: does this respect optimization, prices, incentives, and equilibrium? They are unimpressed by a clean coefficient with no economic meaning, and they will name the alternative mechanism or the GE force you ignored. Anticipating these is worth more than any extra robustness table. The process is selective and demanding; a single unanswered first-order objection sinks a paper.
+JPE referees read the paper as an **economic argument** and probe its internal consistency. The prototypical Chicago referee asks: does this respect optimization, prices, incentives, and equilibrium? They are unimpressed by a clean coefficient with no economic meaning, and they will name the alternative mechanism or the GE force you ignored. Anticipating these is worth more than any extra robustness table. The process is selective and demanding, and JPE-specific: a **co-editor** (the board is led by Esteban Rossi-Hansberg and weighted toward University of Chicago faculty) runs the desk screen; review is **single-blind** (referees know who you are); and the **$250 / $125 submission fee is non-refundable even on a desk reject**. A single unanswered first-order objection sinks a paper before that paid-for gate.
 
 ## The objection taxonomy (pre-empt each in the text)
 
@@ -31,7 +31,7 @@ JPE referees read the paper as an **economic argument** and probe its internal c
 - Write the referee report you fear, in their voice, listing the three objections most likely to trigger a reject.
 - For each, decide: fixable in text now (do it), needs new analysis (do it or scope it), or a genuine limitation (state it honestly and bound its damage).
 - Identify the **one** first-order objection that would sink the paper and make sure the manuscript answers it before a referee has to ask.
-- Suggesting referees / handling COIs: name scholars who know the literature and would engage fairly; note conflicts honestly.
+- Suggesting referees / handling COIs: name scholars who know the literature (and the right field, if you are targeting JPE Micro or JPE Macro) and would engage fairly; note conflicts honestly — the single-blind portal will flag obvious co-author/advisor ties.
 
 ## Checklist
 
@@ -46,7 +46,8 @@ JPE referees read the paper as an **economic argument** and probe its internal c
 
 ## Anti-patterns
 
-- Submitting with an obvious GE or selection objection unaddressed, hoping the referee misses it
+- Submitting with an obvious GE or selection objection unaddressed, hoping the referee misses it (and forfeiting a non-refundable fee at the desk screen)
+- Trying to anonymize for a single-blind journal, or suggesting referees with a conflict the portal will catch
 - A robustness section that never tests the *leading* rival mechanism
 - Assuming importance instead of demonstrating it
 - Hiding a known limitation rather than bounding it (referees find it anyway)

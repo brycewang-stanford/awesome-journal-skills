@@ -1,6 +1,6 @@
 ---
 name: qje-literature-positioning
-description: Use when staking a Quarterly Journal of Economics (QJE) manuscript's contribution against the frontier — what it builds on, what it overturns, and why it is top-5. Positions the contribution; it does not write the full literature survey.
+description: Use when staking a Quarterly Journal of Economics (QJE) manuscript's contribution against the frontier — what it builds on, what it overturns, and why it belongs in a general-interest journal. Positions the contribution; it does not write the full literature survey.
 ---
 
 # Literature Positioning (qje-literature-positioning)
@@ -14,14 +14,14 @@ description: Use when staking a Quarterly Journal of Economics (QJE) manuscript'
 
 ## QJE positioning principle: contribution, not catalog
 
-QJE intros do **not** open with a freestanding "literature review" section. The contribution is woven into the **introduction**: the big question, the setting, the design, the headline result, and then a tight paragraph (or two) placing the paper in the literature. The job is to make a top-5 editor see, in the first two pages, that the answer is new and important. A survey-style "Section 2: Literature Review" is a field-journal habit and reads as off-template here.
+QJE intros do **not** open with a freestanding "literature review" section. The contribution is woven into the **introduction**: the big question, the setting, the design, the headline result, and then a tight paragraph (or two) placing the paper in the literature, in **author-date (Chicago)** style. The job is to make one of QJE's five Harvard-based Editors see, in the first two pages, that the answer is new and important — because they desk-decide in ~2 weeks and desk-reject the majority. A survey-style "Section 2: Literature Review" is a field-journal habit and reads as off-template here. The model is how QJE landmark papers position: Mankiw, Romer & Weil (QJE 1992) staked their claim directly against Solow-model skeptics; Chetty–Hendren–Kline–Saez (QJE 2014) positioned against the whole intergenerational-mobility literature in a few paragraphs.
 
 ## The four positioning moves
 
 1. **Anchor to a big literature.** Name the broad question your paper advances (e.g., intergenerational mobility; the long-run effects of institutions; the welfare effects of a policy). Speak to a literature a general-interest reader recognizes.
-2. **Name the frontier.** Cite the 3–6 most relevant recent papers precisely. QJE referees are often the authors of those papers; misciting or ignoring the frontier is fatal.
+2. **Name the frontier.** Cite the 3–6 most relevant recent papers precisely. QJE referees are often the authors of those papers; misciting or ignoring the frontier is fatal under double-blind review where you cannot know who is reading.
 3. **State the delta.** In one or two sentences: what does this paper do that the frontier did not? New variation? New data? A previously untestable mechanism? A reconciliation of conflicting findings?
-4. **Bound the claim.** Say what the paper does *not* establish. Calibrated humility reads as strength to top-5 referees and pre-empts the "they over-claim" report.
+4. **Bound the claim.** Say what the paper does *not* establish. Calibrated humility reads as strength and pre-empts the "they over-claim" report.
 
 ## Positioning patterns
 
@@ -41,7 +41,7 @@ QJE intros do **not** open with a freestanding "literature review" section. The 
 - [ ] The paper speaks to a literature a general-interest reader recognizes
 - [ ] Likely-referee papers are cited and engaged, not ignored
 - [ ] Claims are explicitly bounded (what the paper does not show)
-- [ ] Author-date citation style throughout (QJE house format)
+- [ ] Author-date (Chicago) citation style throughout (QJE house format)
 
 ## Anti-patterns
 

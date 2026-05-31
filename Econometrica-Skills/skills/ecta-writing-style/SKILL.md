@@ -18,7 +18,12 @@ over an unstable proof.
 ## The Econometrica register
 
 Econometrica prose is **terse, precise, and formal**. The reader is a specialist. Value is
-signaled by the result and its proof, not by rhetorical motivation. Concretely:
+signaled by the result and its proof, not by rhetorical motivation. The journal's house
+style is theorem-numbered LaTeX (the de facto standard is `amsthm`/`amsmath`), and the
+**45-page** main-text limit (incl. references and appendices; font ≥12pt, line spacing ≥1.5,
+margins ≥1.25in) actively rewards economy — verbose motivation costs pages you need for the
+proof architecture. This is a sharper formal register than the narrative style that suits
+AER / QJE / JPE / REStud. Concretely:
 
 1. **State the result early.** The introduction should reach the contribution — ideally an
    informal statement of the main theorem — quickly, then explain why it is hard and how the
@@ -36,8 +41,8 @@ signaled by the result and its proof, not by rhetorical motivation. Concretely:
 
 - **Theorem environments** (Definition / Assumption / Lemma / Proposition / Theorem /
   Corollary) numbered consistently; cross-reference by number.
-- **Proof sketches** in the body, full proofs in the Online Appendix when long — but the body
-  must convey the architecture and the hard step.
+- **Proof sketches** in the body, full proofs in the **Supplemental Material** when long (the
+  body's 45 pages are scarce) — but the body must convey the architecture and the hard step.
 - **Display long equations**; number only those referenced later.
 - **Interpretation paragraphs.** After a theorem, one short paragraph: what it means, what is
   surprising, what assumption is doing the work. This is where the economics lives.
@@ -51,7 +56,7 @@ A common, referee-friendly skeleton:
 4. Monte Carlo / numerical illustration
 5. (If applicable) empirical application
 6. Conclusion (brief)
-7. Appendix / Online Appendix (full proofs, additional results, Monte Carlo detail)
+7. Appendix / Supplemental Material (full proofs, additional results, Monte Carlo detail)
 
 ## Checklist
 
@@ -61,7 +66,8 @@ A common, referee-friendly skeleton:
 - [ ] Assumed vs. proven vs. cited is unambiguous throughout
 - [ ] Each main result followed by one short interpretation paragraph
 - [ ] Theorem numbering consistent; cross-references by number, not "above/below"
-- [ ] Full proofs in the Online Appendix; body conveys architecture + hard step
+- [ ] Full proofs in the Supplemental Material; body conveys architecture + hard step
+- [ ] Body fits the 45-page limit (incl. references and appendices); secondary material moved to Supplemental Material
 - [ ] Prose trimmed of restating-the-math-in-words filler
 
 ## Anti-patterns

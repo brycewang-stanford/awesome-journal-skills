@@ -14,10 +14,10 @@ description: Use when positioning a The Review of Economic Studies (REStud) manu
 
 ## What REStud positioning must do
 
-REStud is general-interest, so the positioning has two jobs at once:
+REStud is general-interest and weights theory and applied work equally, so the positioning has two jobs at once:
 
 1. **Confront the closest papers honestly.** Name the 3–5 nearest results and state precisely what each one already established and what it could not.
-2. **Make the marginal contribution legible to a non-specialist.** A macroeconomist should understand why a labor paper is new without reading the subfield's internal debates.
+2. **Make the marginal contribution legible to a non-specialist on either side.** Because the handling editor and referees may sit on the theory *or* the applied side (the Joint Managing Editors span IO/applied econometrics, micro theory, and information economics), an applied paper should be legible to a theorist and a theory paper to an applied reader. Models that defined whole literatures appeared here first — Mirrlees (1971) on optimal taxation, Stiglitz (1974) on sharecropping incentives — so the register is "this changes how the field models X," not "this adds new data to X."
 
 A REStud-quality positioning paragraph is an *argument*, not a literature dump: "Paper A established X but assumed Y; paper B relaxed Y but only for setting Z; we do W, which neither could, because [our model / design / data]."
 

@@ -15,7 +15,7 @@ description: Use when the exhibits in a The Review of Economic Studies (REStud) 
 
 ## REStud exhibit principles
 
-REStud values **elegance and economy**, and that extends to exhibits. The standard:
+REStud values **elegance and economy**, and that extends to exhibits. Two REStud-specific facts: (1) auxiliary exhibits go in the **online appendix**, so the main-text figure budget is tight — promote only the exhibits that carry the contribution; (2) every published exhibit must map to a line in the deposited code, because the **Data Editor regenerates tables and figures from your replication package before publication** (AEA DCAS check; see `restud-replication-package`) — so script your exhibits, never hand-edit them. The standard:
 
 - **Each exhibit carries one result.** If a table is doing two jobs, split it.
 - **The reader can read the magnitude, not just the stars.** State units; an effect of "0.034***" is meaningless until the reader knows 0.034 *of what*.

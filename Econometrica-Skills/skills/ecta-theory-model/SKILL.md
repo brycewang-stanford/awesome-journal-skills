@@ -13,7 +13,16 @@ description: Use when the central theorem of an Econometrica manuscript must be 
 - You are unsure whether the result is as general as claimed, or whether the proof secretly uses more
 
 This is the heart of an Econometrica paper. The product is a **complete, correct proof** of a
-**general, cleanly stated** theorem.
+**general, cleanly stated** theorem. Econometrica is the field's theorem-proof journal: the
+referee pool (routed by the handling co-editor) reads proofs line by line, and a single
+genuine gap can sink an otherwise strong paper — this is the most common rejection cause
+here, in contrast to applied siblings (AER / QJE / JPE / REStud) where a credible empirical
+narrative can carry the day. Plan around the **45-page** main-text limit (incl. references
+and appendices): the body conveys the theorem, its interpretation, and the architecture of
+the proof, while the **complete, formal proofs live in the Supplemental Material** (the
+≤25-page Supplemental Appendix or the unrestricted online Supplemental Material), which does
+not count against the body's page budget. "Proof omitted to save space" is not acceptable —
+the proof must exist somewhere complete.
 
 ## Structure: definitions → assumptions → theorems → proofs
 
@@ -25,8 +34,10 @@ Organize the formal content in this order, with consistent theorem numbering:
    separately from those invoked only for specific results.
 3. **Theorems / Propositions / Lemmas** — the headline result first or clearly flagged;
    supporting lemmas factored out so the main proof reads cleanly.
-4. **Proofs** — in-text for short proofs; the **full proof in the Supplementary / Online
-   Appendix** when length would break the exposition. Either way the proof must be complete.
+4. **Proofs** — in-text for short proofs; the **full proof in the Supplemental Material**
+   (Econometrica's term for the online appendix; ≤25-page Supplemental Appendix or
+   unrestricted online Supplemental Material) when length would break the exposition or
+   exceed the 45-page body cap. Either way the proof must be complete and self-contained.
 
 ## Stating the theorem
 
@@ -70,7 +81,7 @@ every step. Flag the genuinely novel step — referees want to see where the wor
 - [ ] Every object in the theorem is defined before use
 - [ ] Assumptions numbered; each is used at an identifiable step; none redundant
 - [ ] Theorem statement is self-contained and precisely mathematical
-- [ ] Proof complete — no "easy to see," no skipped step; full version in Online Appendix if long
+- [ ] Proof complete — no "easy to see," no skipped step; full version in Supplemental Material if long
 - [ ] The novel / hard step is flagged and given full detail
 - [ ] Regularity conditions invoked in the proof all appear as stated assumptions
 - [ ] Generality audited: assumptions minimal; result not secretly an example
@@ -94,6 +105,6 @@ every step. Flag the genuinely novel step — referees want to see where the wor
 【Hard step】...
 【Assumptions audit】all used? [yes/no — list unused]; minimal? [...]
 【Generality】largest class: ...; excluded edge cases: ...
-【Full proof location】in-text / Online Appendix §...
+【Full proof location】in-text / Supplemental Material §...
 【Next step】ecta-robustness
 ```

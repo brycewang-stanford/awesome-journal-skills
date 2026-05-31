@@ -15,7 +15,7 @@ description: Use when selecting, implementing, or stress-testing the causal iden
 
 ## REStud identification bar
 
-REStud demands a **state-of-the-art causal design**, OR — for a structural/theoretical-empirical paper — a rigorous identification of the model's parameters with the identifying assumptions stated explicitly. The empirical contribution can itself be *a new identification strategy*; in that case the design is the paper and must be defended to the hilt. Identification is not a section to be footnoted — if the design is fragile, no prose, controls, or sample size rescues it.
+REStud was founded in 1933 to advance **both theoretical and applied** economics, and that balance is its signature: unlike a purely empirical top-5 outlet, REStud weighs design-based causal work and structural/theory-consistent identification on equal terms. So the bar is a **state-of-the-art causal design**, OR — for a structural/theoretical-empirical paper — a rigorous identification of the model's parameters with the identifying assumptions stated explicitly and mapped to data features. The empirical contribution can itself be *a new identification strategy*; in that case the design is the paper and must be defended to the hilt. Editorial assignment reflects the breadth: handling Joint Managing Editors span IO/applied econometrics (Jan De Loecker), micro theory / mechanism design (Antonio Penta), and behavioral/information economics (Jakub Steiner) — write the identification so the right one of them sees a rigorous argument. Identification is not a section to be footnoted; if the design is fragile, no prose, controls, or sample size rescues it.
 
 ## Master decision tree
 
@@ -63,6 +63,7 @@ Is treatment plausibly random by design (RCT, lottery)?
 - State each identifying assumption explicitly and map it to a feature of the data.
 - Provide identification arguments (which moments identify which parameters) before estimation.
 - Route the model and proofs to `restud-theory-model`; supply counterfactuals.
+- This is squarely REStud territory: the journal's canon includes structural identification of policy-relevant parameters — e.g., Mirrlees (1971), "An Exploration in the Theory of Optimum Income Taxation," REStud 38(2), where the structure *is* the identification. Hold your structural argument to that standard.
 
 ## Checklist
 

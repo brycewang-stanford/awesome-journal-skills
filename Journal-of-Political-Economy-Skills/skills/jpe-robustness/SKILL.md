@@ -14,7 +14,7 @@ description: Use when the main result of a Journal of Political Economy (JPE) ma
 
 ## The JPE logic of robustness
 
-At JPE, robustness is not a ritual table of "still significant." It is an argument that **the economic interpretation survives**, and that rival mechanisms are ruled out. A Chicago referee thinks adversarially: which alternative economic story produces the same coefficient, and how do you exclude it? Over-reliance on a single specification is an explicit anti-pattern. Distinguish three jobs:
+At JPE, robustness is not a ritual table of "still significant." It is an argument that **the economic interpretation survives**, and that rival mechanisms are ruled out. A Chicago referee thinks adversarially: which alternative economic story produces the same coefficient, and how do you exclude it? Over-reliance on a single specification is an explicit anti-pattern. And because a conditional accept triggers the **JPE Data Editor** rerunning your code against the **JPE Dataverse** deposit (JPE endorses DCAS; see `jpe-replication-package`), every robustness number must come from code that actually executes and reproduces — fragility you papered over will surface in verification. Distinguish three jobs:
 
 1. **Specification robustness** — the number is not an artifact of arbitrary choices.
 2. **Mechanism discrimination** — your channel, not a competing one, drives it.
@@ -52,7 +52,7 @@ At JPE, robustness is not a ritual table of "still significant." It is an argume
 
 - A wall of "still significant" tables that never address *why* the effect is your mechanism
 - Treating robustness as cosmetic while the headline rival explanation goes untested
-- Reporting only specifications that work; hiding the fragile ones (a referee will ask)
+- Reporting only specifications that work; hiding the fragile ones (a referee will ask, and the JPE Data Editor reruns the code)
 - Selection-on-unobservables waved away with "we control for X" and no bound
 - Structural counterfactuals presented as point predictions with no sensitivity analysis
 - Burying so many checks in the main text that the economic story is lost (use the online appendix)

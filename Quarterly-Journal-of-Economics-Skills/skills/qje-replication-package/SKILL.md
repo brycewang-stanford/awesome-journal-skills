@@ -1,6 +1,6 @@
 ---
 name: qje-replication-package
-description: Use when assembling the data and code replication package for a Quarterly Journal of Economics (QJE) manuscript — required for accepted empirical papers. Builds a reproducible deposit; it does not perform the analysis itself.
+description: Use when assembling the data and code replication package for a Quarterly Journal of Economics (QJE) manuscript — required for accepted empirical papers under QJE's data-availability policy. Builds a reproducible deposit; it does not perform the analysis itself.
 ---
 
 # Replication Package (qje-replication-package)
@@ -9,12 +9,12 @@ description: Use when assembling the data and code replication package for a Qua
 
 - The paper is heading toward acceptance and a data/code deposit is required
 - You want a reproducible pipeline early, to pre-empt referee replication requests
-- Reviewers or a data editor asked for materials that regenerate every exhibit
+- A reproducibility check or data editor asked for materials that regenerate every exhibit
 - Raw data are restricted/proprietary and you need a disclosure-compliant plan
 
 ## Why this matters at QJE
 
-Accepted empirical papers at QJE are expected to provide **data and code replication materials**; the journal participates in the discipline-wide push toward verified reproducibility (an independent reproducibility check on accepted papers is standard practice across the AEA/top-5 ecosystem). Verify the current deposit policy, repository, and any data-editor requirements on the official journal page — specifics evolve. The durable requirement: a stranger should regenerate every number, table, and figure from your deposit.
+QJE's policy: it **publishes papers only if the data are clearly documented and readily available for replication**, and authors of accepted empirical/simulation/experimental papers must, prior to publication, provide the **data, programs, and computation details** sufficient to replicate the results. These are posted to the **QJE Dataverse** (the journal's repository on Harvard Dataverse), not openICPSR — a concrete difference from the AEA journals, even though QJE explicitly **adopted the AER data availability policy**. Source: academic.oup.com/qje/pages/data_policy. Proprietary-data exemptions exist but are narrow: you must **flag proprietary data in the cover letter at submission**, and even with an approved exemption you must still deposit the **programs** (the exemption criterion is that another investigator could in principle obtain the data independently). A `README` PDF documenting each file and how to run replication is required. The durable requirement is fixed: a stranger should regenerate every number, table, and figure from your deposit. Funding/conflict disclosure follows the **AEA Disclosure Policy**.
 
 ## Package anatomy
 
@@ -43,7 +43,7 @@ replication/
 
 ## Restricted-data plan
 
-- State clearly which results can be reproduced with public data and which require restricted access.
+- State clearly which results can be reproduced with public data and which require restricted access. Per QJE policy, flag proprietary data in the **cover letter at submission**; even with an exemption you still deposit the **programs**, and the access path must let another investigator obtain the data in principle.
 - Provide code that runs against the restricted data plus a synthetic or public subsample so the pipeline is checkable end-to-end.
 - Include the data-use agreement constraints and a disclosure-review note where applicable.
 
@@ -57,7 +57,8 @@ replication/
 - [ ] No hand-edited derived data; all derived files are code-produced
 - [ ] Absolute paths removed; runs from a single configurable root
 - [ ] Output regenerated and checked against the manuscript numbers
-- [ ] Current QJE/data-editor deposit policy verified on the official page
+- [ ] Deposit staged for the **QJE Dataverse** (not openICPSR); README PDF included
+- [ ] Proprietary data flagged in the cover letter; programs deposited even if data exempt
 
 ## Anti-patterns
 
@@ -67,6 +68,7 @@ replication/
 - Unpinned packages, so results drift with the next package update
 - "Data available on request" with no access procedure for restricted sources
 - Missing seeds, so bootstrap/RI numbers cannot be reproduced
+- Assuming the deposit is optional — at QJE it gates publication of accepted empirical papers
 
 ## Output format
 

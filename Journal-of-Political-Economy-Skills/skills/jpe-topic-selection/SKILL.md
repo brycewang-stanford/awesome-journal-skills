@@ -10,11 +10,11 @@ description: Use when scoping or framing a research question for a Journal of Po
 - You have data or a result but not yet a sharp economic question
 - You are unsure whether the paper belongs at JPE, a field journal, or a methods journal
 - The pitch is "X is correlated with Y" with no mechanism or model behind it
-- You are deciding between JPE proper and the field outlets (JPE: Micro, JPE: Macro)
+- You are deciding between JPE proper and the **2023-launched companion journals** (JPE Microeconomics, lead editor John List; JPE Macroeconomics, lead editor Greg Kaplan)
 
 ## The JPE fit test
 
-JPE publishes the full breadth of economics, but with a premium on **rigorous economic reasoning** and a **price-theoretic / mechanism-driven** angle. Score the idea against these five questions before committing:
+JPE (founded 1892, edited at the University of Chicago; lead editor Esteban Rossi-Hansberg) publishes the full breadth of economics, but with a premium on **rigorous economic reasoning** and a **price-theoretic / mechanism-driven** angle — the Chicago lineage of Becker's "Crime and Punishment: An Economic Approach" (JPE 1968) and Black and Scholes's "The Pricing of Options and Corporate Liabilities" (JPE 1973). Score the idea against these five questions before committing:
 
 1. **Mechanism** — Can you state the economic mechanism in one sentence, and does the paper test *that mechanism* (not just a net effect)?
 2. **Theory linkage** — Does economic theory make a prediction here that your evidence can confirm or refute? "Theory predicts ∂y/∂x > 0; we estimate it and find..."
@@ -24,12 +24,14 @@ JPE publishes the full breadth of economics, but with a premium on **rigorous ec
 
 If you score high on 3+ including (1) and (2), it is plausibly JPE-shaped. If the idea is essentially "we ran a clean DID on policy P," it is a field-journal paper until you supply the mechanism and the general lesson.
 
-## JPE proper vs. field outlets
+## JPE proper vs. the companion journals (a routing choice that does not exist at AER or QJE)
+
+Since the **2023 launch** of the vertically integrated companions (first issues March 2023):
 
 - **JPE proper**: broad importance; theory + empirics integrated; appeals across fields.
-- **JPE: Microeconomics**: micro theory, IO, contract/market design, applied micro with a tight mechanism.
-- **JPE: Macroeconomics**: macro, growth, monetary, fiscal, quantitative macro / structural.
-- A narrow but deep contribution that a generalist would skip often fits a field outlet better — and a desk rejection at JPE proper sometimes routes there.
+- **JPE Microeconomics** (lead editor John List, University of Chicago): micro theory, IO, contract/market design, applied micro with a tight mechanism.
+- **JPE Macroeconomics** (lead editor Greg Kaplan, University of Chicago): macro, growth, monetary, fiscal, quantitative macro / structural.
+- A narrow but deep contribution that a generalist would skip often fits a companion better — and a desk rejection at JPE proper sometimes routes there.
 
 ## Contribution framing (do this before writing the intro)
 
@@ -66,7 +68,7 @@ State the contribution as a numbered set of claims, each tied to economics — n
 【Mechanism】the economic channel being tested
 【Theory prediction】sign/shape theory predicts + the test
 【General lesson】what economics learns beyond this setting
-【Outlet】JPE proper / JPE: Micro / JPE: Macro (+ why)
+【Outlet】JPE proper / JPE Microeconomics / JPE Macroeconomics (+ why)
 【Contribution claims】1... 2... 3...
 【Fit verdict】JPE-shaped / reframe / field journal
 【Next】jpe-literature-positioning

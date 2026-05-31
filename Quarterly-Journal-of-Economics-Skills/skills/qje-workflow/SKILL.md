@@ -9,7 +9,7 @@ description: Use when deciding which qje-* sub-skill to invoke next, or when seq
 
 This is the router. It does not replace any specialized skill. It tells you **which qje-* skill to use at the current stage** of a manuscript aimed at the *Quarterly Journal of Economics*.
 
-Default assumption: unless the user says otherwise, treat the target as QJE — a top-5 general-interest economics journal that rewards a **big conceptual idea backed by clean, credible empirics**, with very fast desk rejection for incremental or weakly identified work. Verify all volatile specifics (current editors, submission fee, deposit policy) on the official journal page before relying on them.
+Default assumption: unless the user says otherwise, treat the target as QJE — the oldest English-language economics journal (founded 1886, published by Oxford University Press for the **Harvard** Department of Economics), a top-5 general-interest journal that rewards a **big conceptual idea backed by clean, credible empirics**. Its five Harvard-based Editors (Barro, Katz, Nunn, Shleifer, Stantcheva as of 2024) desk-decide in roughly **two weeks** — the fastest at desk among the top-5 — and desk-reject the majority; unconditional acceptance is only **~1-4%**. There is **no submission fee**; initial submission is a **single PDF via Editorial Express** under **double-blind** review. Re-verify volatile specifics (current editors, fee, deposit policy) on the official journal page before relying on them.
 
 ## When to trigger
 
@@ -65,7 +65,7 @@ Default assumption: unless the user says otherwise, treat the target as QJE — 
 
 ## Differences vs. other top-5 stacks
 
-If the paper is methods-first (a new estimator, an asymptotic theorem) it belongs at *Econometrica*; if it is a structural-IO or macro-quantitative paper leading with a calibrated model, *JPE* or *Econometrica* may fit better. QJE's comparative advantage is the **big empirical-micro question with a clean natural experiment and a broad lesson** (labor, public, development, behavioral, economic history, political economy). When in doubt, ask whether a smart non-specialist would care about the *answer*, not the *technique*.
+If the paper is methods-first (a new estimator, an asymptotic theorem) it belongs at *Econometrica*; if it is a structural-IO or macro-quantitative paper leading with a calibrated model, *JPE* or *Econometrica* may fit better. QJE's comparative advantage is the **big empirical-micro question with a clean natural experiment and a broad lesson** (labor, public, development, behavioral, economic history, political economy) — the lineage runs from Akerlof's "Market for 'Lemons'" (QJE 1970) and Mankiw–Romer–Weil (QJE 1992) to Chetty–Hendren–Kline–Saez on mobility (QJE 2014). When in doubt, ask whether a smart non-specialist would care about the *answer*, not the *technique*. Operational tells that you are at QJE and not a sibling: no submission fee, one PDF via Editorial Express, double-blind review, ~2-week desk decisions, deposit to the **QJE Dataverse** (not openICPSR).
 
 ## Anti-patterns
 

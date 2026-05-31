@@ -16,6 +16,14 @@ For methods papers, asymptotics without finite-sample evidence is a standard rej
 reason. The Monte Carlo is not decoration — it is how the reader learns whether the
 asymptotic approximation is usable at realistic sample sizes.
 
+**Econometrica-specific:** simulation results fall *inside* the Econometric Society Data and
+Code Availability Policy (which covers "empirical, experimental, **and/or simulation**
+results"). The ES **Data Editor** will run a pre-acceptance reproducibility check on your
+Monte Carlo, so every table must regenerate bit-for-bit from seeded code (see
+`ecta-replication-package`). This is a sharper bar than at applied siblings where simulation
+appendices are rarely re-run. A pure-theory paper with no simulations is *exempt* from that
+policy, but numerical illustration is still expected where it sharpens a result.
+
 ## Designing the Monte Carlo
 
 1. **Designs that mirror the theory.** Include DGPs where assumptions hold (to show the

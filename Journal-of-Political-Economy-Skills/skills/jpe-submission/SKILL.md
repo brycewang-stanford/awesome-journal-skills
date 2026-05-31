@@ -1,6 +1,6 @@
 ---
 name: jpe-submission
-description: Use when running the final pre-submission preflight for a Journal of Political Economy (JPE) manuscript via Editorial Express — manuscript format, author-date references, submission fee, anonymity (if double-blind), exhibits, and supplementary files. Final mechanical gate; it does not improve the economic argument.
+description: Use when running the final pre-submission preflight for a Journal of Political Economy (JPE) manuscript via Editorial Express — manuscript format, Chicago author-date references, the $250/$125 submission fee, single-blind review, exhibits, the Micro/Macro companion-journal choice, and supplementary files. Final mechanical gate; it does not improve the economic argument.
 ---
 
 # Submission Preflight (jpe-submission)
@@ -11,7 +11,7 @@ description: Use when running the final pre-submission preflight for a Journal o
 - Unsure what the Editorial Express portal requires as separate files
 - Confirming format, references, and fee handling are correct
 
-> JPE is published by the University of Chicago Press and processed through the **Editorial Express** submission system. A **submission fee applies** and a data/code policy governs accepted papers. Fee amount, fee waivers, exact word/format limits, and whether review is double-blind change over time — **verify the current author guidelines and fee on the journal's official page before submitting.** Everything below is the durable structure of a JPE submission.
+> JPE (founded 1892, edited at the University of Chicago; lead editor **Esteban Rossi-Hansberg**) is published by the University of Chicago Press and processed through the **Editorial Express** system (author portal: editorialmanager.com/jpolec). Review is **single-blind** (referees see authors; authors do not see referees), so author-anonymization is *not* required — this differs from a double-blind journal. A **submission fee** applies: **$250 for nonsubscribers, $125 for individual JPE subscribers**, non-refundable even if the paper is desk-rejected; a **waiver** is available to authors who completed **three or more JPE referee reports in the prior 12 months**. Since the 2023 launch of the companion journals **JPE Microeconomics** (lead editor John List) and **JPE Macroeconomics** (lead editor Greg Kaplan), decide up front whether your paper targets the flagship JPE or a field companion. Verify the current fee and guidelines on the official page before submitting; everything below is the durable structure of a JPE submission.
 
 ## Pre-submission checklist
 
@@ -23,19 +23,20 @@ description: Use when running the final pre-submission preflight for a Journal o
 - [ ] Online appendix prepared as a separate file (proofs, full robustness, descriptive tables)
 
 ### References (house style)
-- [ ] **Author-date** citations throughout — not numbered/bracket
-- [ ] Reference list complete and consistently formatted (Chicago/UChicago Press style)
+- [ ] **Chicago author-date** citations throughout (e.g., "Becker 1968") — not numbered/bracket
+- [ ] Reference list complete and consistently formatted in University of Chicago Press author-date style
 - [ ] Every in-text citation appears in the list; every list entry is cited
 - [ ] Canonical theory the paper engages is cited (a frequent referee snag)
 
-### Anonymity (if the journal is operating double-blind — verify)
-- [ ] Author identities removed from the manuscript file and PDF metadata
-- [ ] Self-citations phrased neutrally ("Smith (2020) shows..." not "in our earlier work")
-- [ ] Acknowledgments / funding / institutional info on a separate title page, not in the blinded manuscript
+### Review model & identity (JPE is single-blind)
+- [ ] Confirm target: flagship **JPE**, or companion **JPE Microeconomics** / **JPE Macroeconomics**
+- [ ] Author identities are visible to referees, so no manuscript anonymization is required (single-blind)
+- [ ] Title page with authors, affiliations, acknowledgments, and funding included
 
 ### Fee & policy
-- [ ] Submission fee amount confirmed on the official page and payment ready (check for waivers/discounts)
-- [ ] Data and code availability policy reviewed; replication package staged (see `jpe-replication-package`)
+- [ ] Submission fee ready: **$250 nonsubscriber / $125 JPE subscriber** (non-refundable even on desk reject)
+- [ ] If you completed **3+ JPE referee reports in the last 12 months**, request the fee **waiver** before paying
+- [ ] Data and code availability policy (JPE endorses **DCAS**) reviewed; replication package staged (see `jpe-replication-package`)
 - [ ] Not under review elsewhere; no duplicate/overlapping submission
 
 ### Exhibits & supplementary
@@ -50,28 +51,29 @@ description: Use when running the final pre-submission preflight for a Journal o
 
 ## Editorial Express operational notes
 
-- Register/log in to Editorial Express; have title, abstract, JEL codes, and the PDF ready before starting.
+- Register/log in to the JPE Editorial Express / Editorial Manager portal; have title, abstract, JEL codes, and the PDF ready before starting.
 - Upload the manuscript PDF; attach the online appendix and cover letter as the portal requests.
-- Complete the fee step; submission is typically not forwarded to editors until the fee clears.
+- Complete the **$250/$125** fee step (or apply the 3-reports waiver); the paper is not forwarded to editors until the fee clears, and the fee is non-refundable even if desk-rejected.
 - Confirm the submission acknowledgment email and manuscript number arrive.
 
 ## Anti-patterns
 
-- Pulling an all-nighter and skipping the anonymity / metadata scrub
-- Numbered citations left in from a different journal's template (wrong house style)
+- Wasting effort anonymizing the manuscript — JPE is **single-blind**, so author identity is expected
+- Numbered citations left in from a different journal's template instead of **Chicago author-date**
+- Paying the $250 fee when you qualified for the 3-referee-reports waiver
 - Forgetting the submission fee step, so the paper never reaches an editor
-- Funding/acknowledgments left in a blinded manuscript
-- JEL codes or keywords omitted in the portal
-- Online appendix referenced in text but not uploaded
+- Sending a pure macro (or pure micro) paper to the flagship without considering the JPE Macro / JPE Micro companion
+- JEL codes or keywords omitted in the portal; online appendix referenced in text but not uploaded
 
 ## Output format
 
 ```
+【Target】flagship JPE / JPE Micro / JPE Macro
 【Format】single PDF, double-spaced, exhibits OK? [y/n]
-【References】author-date verified; list complete? [y/n]
-【Anonymity】scrubbed? (or N/A — verify blinding)
-【Fee】amount confirmed + ready? [y/n]
-【Replication】staged per policy? [y/n]
+【References】Chicago author-date verified; list complete? [y/n]
+【Review model】single-blind — no anonymization needed [confirm]
+【Fee】$250 nonsub / $125 sub, or 3-reports waiver requested? [y/n]
+【Replication】DCAS package staged per policy? [y/n]
 【Portal metadata】title/abstract/JEL/keywords/referees entered? [y/n]
 【Next】await decision / on R&R → jpe-rebuttal
 ```
@@ -79,5 +81,5 @@ description: Use when running the final pre-submission preflight for a Journal o
 ## Bundled resources
 
 - [`templates/manuscript_template.md`](templates/manuscript_template.md) — JPE manuscript skeleton (section order, author-date references, variable table)
-- [`templates/checklist.md`](templates/checklist.md) — pre-submission self-check across format, references, anonymity, fee, exhibits, and portal
+- [`templates/checklist.md`](templates/checklist.md) — pre-submission self-check across format, references, single-blind review, fee, exhibits, and portal
 - [`../../resources/external_tools.md`](../../resources/external_tools.md) — economics data sources and Stata / R / Python packages for identification, structural estimation, and replication

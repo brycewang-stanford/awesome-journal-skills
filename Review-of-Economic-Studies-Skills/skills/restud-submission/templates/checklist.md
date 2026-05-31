@@ -1,16 +1,19 @@
 # REStud Pre-Submission Checklist
 
-Use this before clicking submit. Limits, fees, and the portal **change** — verify
-the current specifics on the journal's official author guidelines page.
+Use this before uploading to **Editorial Express** (editorialexpress.com/restud).
+Figures here (USD 200 / 120 fee, ~45-page limit, Harvard author-date, double-anonymous
+review, JEL codes, the Data Editor's pre-publication DCAS check) were verified on
+restud.com / OUP on 2026-05-30 — limits, fees, and the portal **change**, so re-confirm
+the current specifics on the journal's official author guidelines page before submitting.
 
 ## 1. Contribution & framing
 
 - [ ] The contribution compresses to one sentence (new model / new design / new fact)
 - [ ] The contribution is stated by the end of page 1
 - [ ] The paper makes one clean point, not a bundle of three
-- [ ] General interest is visible to a non-specialist
+- [ ] General interest is visible to a non-specialist — and to *both* a theorist and an applied reader (REStud weights theory and applied equally)
 
-## 2. Anonymity (if anonymized review)
+## 2. Anonymity (REStud uses double-anonymous review)
 
 - [ ] Author names, affiliations, acknowledgements removed from the manuscript
 - [ ] Self-citations phrased neutrally ("Smith (2020) shows", not "in our prior work")
@@ -20,13 +23,13 @@ the current specifics on the journal's official author guidelines page.
 
 ## 3. Format
 
-- [ ] Single clean PDF — no tracked changes, comments, or draft watermarks
-- [ ] References in author-date (Harvard) style
+- [ ] Single clean PDF for review — no tracked changes, comments, or draft watermarks (LaTeX/Word supplied only at acceptance)
+- [ ] References in **Harvard author-date** style — not numbered
 - [ ] Every in-text citation appears in the reference list, and vice versa
 - [ ] Equations numbered; every symbol glossed in words on first use
-- [ ] Main text length within the current guideline (verify)
-- [ ] Abstract within the current word limit (verify)
-- [ ] JEL codes and keywords included
+- [ ] Within the **~45-page limit** (incl. title page, tables, figures, references, appendices; 1.5-spaced, 12pt, ≥1in margins) — verify current limit on restud.com
+- [ ] Abstract: one tight paragraph, result-forward
+- [ ] **JEL codes** and keywords included (JEL required by REStud/OUP)
 
 ## 4. Exhibits
 
@@ -35,11 +38,11 @@ the current specifics on the journal's official author guidelines page.
 - [ ] Dependent-variable mean / scale reported so magnitudes are readable
 - [ ] FE, clustering, sample shown in a foot block or self-contained notes
 - [ ] Figures are vector (PDF/EPS); event-study/RD plots show confidence bands
-- [ ] Exhibits regenerate from code — no hand-typed numbers
+- [ ] Exhibits regenerate from code — no hand-typed numbers (the Data Editor reruns the code before publication)
 
 ## 5. Online appendix
 
-- [ ] Full proofs routed to the online appendix (main text has sketches)
+- [ ] Full proofs routed to the online appendix / supplementary file (main text has sketches)
 - [ ] Supplementary robustness and derivations in the appendix, not the main text
 - [ ] Appendix results numbered to match the main text
 
@@ -50,6 +53,7 @@ the current specifics on the journal's official author guidelines page.
 - [ ] At least one placebo / falsification test
 - [ ] Inference at the correct clustering level (few-cluster correction if needed)
 - [ ] Headline magnitude stable across alternative specifications
+- [ ] Every reported number reproducible from the replication package (the Data Editor reruns it before publication)
 
 ## 7. Theory rigor (theory papers)
 
@@ -58,13 +62,14 @@ the current specifics on the journal's official author guidelines page.
 - [ ] Assumptions defended as standard / minimal / relaxable
 - [ ] Complete, correct proofs in the online appendix
 
-## 8. Files & portal
+## 8. Files & portal (Editorial Express — editorialexpress.com/restud)
 
-- [ ] Main manuscript PDF (anonymized if required)
-- [ ] Online appendix file
+- [ ] Main manuscript PDF, **fully anonymized** (double-anonymous review)
+- [ ] Online appendix / supplementary file
 - [ ] Cover letter only if substantive (COI / data-access limits / related submissions)
 - [ ] Disclosure / conflict statement per current policy
 - [ ] Suggested / opposed referees ready (genuine experts; conflicts only for opposed)
-- [ ] Replication materials planned (required at acceptance)
-- [ ] Portal URL, file types, and submission fee verified on the official page
+- [ ] Replication materials planned — the **Data Editor (Miklós Koren) runs an AEA DCAS reproducibility check before publication**; deposit at Zenodo
+- [ ] Proprietary-data exemption (if any) flagged to the editors at submission
+- [ ] Submission fee ready: **USD 200** (or **USD 120** if every author is a student / within 6 yrs of PhD / in a low-or-middle-income economy; evidence required) — verify on restud.com
 - [ ] Corresponding-author ORCID and contact details current

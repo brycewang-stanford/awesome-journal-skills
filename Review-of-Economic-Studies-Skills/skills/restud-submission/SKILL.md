@@ -1,6 +1,6 @@
 ---
 name: restud-submission
-description: Use when running the final pre-submission preflight for a The Review of Economic Studies (REStud) manuscript — anonymity, format, references, online appendix, files, and the submission portal. Last gate before submitting; does not assess the science. Verify current limits and portal on the journal's official page.
+description: Use when running the final pre-submission preflight for a The Review of Economic Studies (REStud) manuscript — double-anonymity, the ~45-page limit, Harvard author-date references, online appendix, the USD submission fee, and the Editorial Express portal. Last gate before submitting; does not assess the science. Verify current limits and fee on the journal's official page.
 ---
 
 # REStud Submission Preflight (restud-submission)
@@ -14,25 +14,25 @@ description: Use when running the final pre-submission preflight for a The Revie
 
 ## Durable norms (verify current specifics)
 
-REStud is run by The Review of Economic Studies Ltd and published by Oxford University Press. The submission rules below describe **durable conventions**; exact length limits, fees, file types, and the portal URL **change — confirm them on the journal's official author guidelines before submitting**.
+REStud is run by the Review of Economic Studies Ltd and published by Oxford University Press. The mechanics below are taken from the journal's current author guidelines (verified 2026-05-30); the **fee and any length limits can change — re-confirm on https://www.restud.com/author-guidelines/ and the Editorial Express portal before submitting**.
 
-- **References:** author-date (Harvard) style throughout.
-- **Online appendix:** REStud uses an online appendix for full proofs, additional robustness, and supplementary material. Keep the main text lean and route detail there.
-- **Replication:** data and code are required for accepted empirical papers (see `restud-replication-package`).
-- **Anonymity:** REStud reviews are refereed; prepare an anonymized manuscript unless the current guidelines say otherwise.
+- **References:** **Harvard (author-date)** style throughout — *not* numbered references.
+- **Review:** **double-anonymous (double-blind)** — both author and referee identities are hidden, so the manuscript must be fully anonymized at first submission.
+- **Online appendix:** REStud routes full proofs, extra robustness, and supplementary material to an online appendix / supplementary file. Keep the main text lean.
+- **Replication:** data and code are checked for reproducibility **before publication** by the journal's Data Editor (see `restud-replication-package`).
 
 ## Format checklist
 
-- [ ] Manuscript compiles to a single clean PDF (no tracked changes, comments, or draft watermarks)
-- [ ] References in author-date style; every in-text cite appears in the list and vice versa
+- [ ] Manuscript compiles to a single clean **PDF** for review (LaTeX/Word are supplied only once accepted)
+- [ ] References in **Harvard author-date** style; every in-text cite appears in the list and vice versa
 - [ ] Tables use professional rules; figures are vector with self-contained notes
 - [ ] Equations numbered; symbols glossed on first use
-- [ ] Online appendix prepared as a separate file (proofs, extra robustness)
-- [ ] Main text length within the current guideline (verify on official page)
-- [ ] Abstract within the current word limit (verify on official page)
-- [ ] JEL codes and keywords included
+- [ ] Online appendix / supplementary file prepared separately (proofs, extra robustness)
+- [ ] **JEL classification codes** included (required by REStud/OUP)
+- [ ] Keywords and abstract included
+- [ ] Main manuscript within the **~45-page limit** (title page, tables, figures, references, appendices included; ~1.5 line spacing, 12pt, ≥1in margins) — confirm the current limit on restud.com
 
-## Anonymity checklist (if anonymized review)
+## Anonymity checklist (REStud is double-anonymous)
 
 - [ ] Author names, affiliations, and acknowledgements removed from the manuscript
 - [ ] Self-citations phrased neutrally ("Smith (2020) shows", not "in our earlier work")
@@ -42,43 +42,46 @@ REStud is run by The Review of Economic Studies Ltd and published by Oxford Univ
 
 ## Files to prepare
 
-- [ ] Main manuscript PDF (anonymized if required)
-- [ ] Online appendix (proofs, supplementary robustness)
+- [ ] Main manuscript PDF, **fully anonymized** (double-anonymous review)
+- [ ] Online appendix / supplementary file (proofs, supplementary robustness)
 - [ ] Cover letter (only if there is substantive information — COI, data-access limits, related submissions)
 - [ ] Conflict-of-interest / disclosure statement per the current policy
 - [ ] Suggested / opposed referees (from `restud-referee-strategy`) if the portal asks
-- [ ] Replication materials planned (required at acceptance, not necessarily at submission)
+- [ ] Replication materials planned (the Data Editor's reproducibility check happens before publication, not at first submission)
 
-## Submission system
+## Submission system & fee
 
-- REStud uses an online editorial system (commonly Editorial Express for economics journals — **confirm the current portal on the official page**).
-- The corresponding author submits; ensure ORCID and contact details are current.
-- A submission fee may apply and varies by membership/income group — **verify the current fee schedule on the official page**; do not quote a stale figure to the user.
+- REStud submits through **Editorial Express** at **http://editorialexpress.com/restud** — confirm the live link on the official page.
+- The corresponding author submits; keep ORCID and contact details current.
+- **Submission fee is charged in USD: USD 200** for a new submission, with a **reduced USD 120** rate when *every* author meets at least one of (i) current student, (ii) within six years of completing the PhD, or (iii) residence in a World Bank low- or middle-income economy (effective 1 July 2023; verified 2026-05-30). Supporting evidence (CV / website link) is required to claim the reduced rate. Re-confirm the current figures on restud.com rather than quoting a stale number.
+- Editorial pre-screening is real here: editors desk-reject roughly **20–23%** of initial submissions before refereeing (lower than QJE/REStat), so the manuscript must clear the bar on the first page.
 
 ## Anti-patterns
 
-- Submitting a manuscript whose abstract exceeds the current limit "but should be fine"
-- Numbered-reference style when REStud uses author-date
-- Leaving author-identifying metadata or acknowledgements in an anonymized file
+- Leaving author-identifying metadata or acknowledgements in the file when review is double-anonymous
+- **Numbered-reference** style when REStud uses Harvard author-date
+- Forgetting JEL codes (REStud/OUP require them)
 - A long cover letter that pitches the contribution (the abstract does that)
 - Stuffing proofs into the main text instead of the online appendix
-- Quoting a stale submission fee or word limit as if current — always send the user to verify
+- Quoting a stale fee (it is USD 200 / 120, charged in dollars, not sterling) or treating the ~45-page cap as a guarantee — always send the user to verify on restud.com
 
 ## Output format
 
 ```
-【LENGTH】main text X / abstract Y — vs current limit (verify)
-【ANONYMITY】pass / fixes: [...]
-【REFERENCES】author-date confirmed; in-text ↔ list reconciled
+【LENGTH】main text X pages / abstract Y — vs ~45-page limit (verify on restud.com)
+【ANONYMITY】double-anonymous pass / fixes: [...]
+【REFERENCES】Harvard author-date confirmed; in-text ↔ list reconciled
+【JEL】codes present
 【ONLINE APPENDIX】prepared / n/a
 【FILES READY】[...]
-【FEE / PORTAL】directed user to verify on official page
+【FEE / PORTAL】USD 200 (or 120 reduced) via Editorial Express; user pointed to verify
 【READY TO SUBMIT】yes / no — blockers
 【NEXT SKILL】await decision → restud-rebuttal
 ```
 
 ## Resources
 
-- [`templates/manuscript_template.md`](templates/manuscript_template.md) — REStud manuscript skeleton (abstract, model/empirics structure, author-date references, online-appendix layout)
-- [`templates/checklist.md`](templates/checklist.md) — pre-submission self-check across format, anonymity, exhibits, references, appendix, and portal
+- [`templates/manuscript_template.md`](templates/manuscript_template.md) — REStud manuscript skeleton (abstract, model/empirics structure, Harvard author-date references, online-appendix layout)
+- [`templates/checklist.md`](templates/checklist.md) — pre-submission self-check across format, double-anonymity, exhibits, references, appendix, and the Editorial Express portal
 - [`../../resources/external_tools.md`](../../resources/external_tools.md) — econ data sources and Stata / R / Python packages for REStud-track empirical and structural work
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — official REStud/OUP URLs with what each verifies and the access date

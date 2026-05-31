@@ -14,7 +14,7 @@ description: Use when a Journal of Political Economy (JPE) manuscript needs an e
 
 ## Why this is the JPE hallmark
 
-JPE's identity is tight theoretical framing — the price-theory tradition. Even empirical papers are read as tests of economic reasoning: **"What does theory predict, and does the evidence bear it out?"** The model need not be elaborate; a one- or two-equation framework that delivers a sharp, testable comparative static is often stronger than a baroque one. Internal consistency of the economic argument is scrutinized harder here than almost anywhere.
+JPE's identity is tight theoretical framing — the Chicago price-theory tradition that produced Becker's "A Theory of the Allocation of Time" (JPE 1965) and the Black–Scholes option-pricing model (JPE 1973). Even empirical papers are read as tests of economic reasoning: **"What does theory predict, and does the evidence bear it out?"** The model need not be elaborate; a one- or two-equation framework that delivers a sharp, testable comparative static is often stronger than a baroque one. Internal consistency of the economic argument is scrutinized harder here than almost anywhere. If the contribution is a deep, self-contained macro model, weigh **JPE Macroeconomics** (companion journal, lead editor Greg Kaplan); a sharp theory or market-design result may suit **JPE Microeconomics** (lead editor John List) instead of the flagship.
 
 Two modes:
 
@@ -60,6 +60,7 @@ Two modes:
 - A model whose comparative statics are never connected to the data
 - Partial-equilibrium conclusions that ignore obvious GE feedback a referee will raise
 - A needlessly elaborate model that obscures rather than sharpens the economic point
+- A black-box quantitative model with no "what identifies what" mapping — a frequent JPE referee complaint
 - Assumptions chosen for tractability that secretly drive the headline result
 - Welfare statements that do not follow from the stated objective function
 

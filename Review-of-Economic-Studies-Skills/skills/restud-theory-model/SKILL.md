@@ -14,12 +14,12 @@ description: Use when building, sharpening, or stress-testing the theoretical mo
 
 ## What REStud rewards in theory
 
-REStud accepts theory across all fields and treats a **new model** as a first-class contribution. The bar is **technical excellence with a legible economic payoff**:
+REStud has unusually deep theory roots for a top-5 journal — it is where **optimal income-taxation theory** (Mirrlees, "An Exploration in the Theory of Optimum Income Taxation," REStud 38(2), 1971) and the **Ramsey–Cass–Koopmans** growth model (Cass, "Optimum Growth in an Aggregative Model of Capital Accumulation," REStud 32(3), 1965) were first published. It accepts theory across all fields and treats a **new model** as a first-class contribution — and with Joint Managing Editors who are themselves theorists (Antonio Penta in mechanism design, Jakub Steiner in information/behavioral economics), pure theory is a first-class citizen here, not a tolerated minority. The bar is **technical excellence with a legible economic payoff**:
 
 - **Tractability with insight.** The model is as simple as it can be and still deliver the result. Generality for its own sake is not the contribution; the *economic* insight is.
 - **A clean main result.** One or two propositions that a reader can state in words. If the headline result needs three lemmas to even state, the framing is wrong.
 - **Assumptions that earn their place.** Every assumption is either standard, or defended as the minimal one that delivers the result, or shown to be relaxable.
-- **Complete, correct proofs** — in an **online appendix**, not the main text.
+- **Complete, correct proofs** — in the **online appendix / supplementary file** (REStud's standard home for full proofs), not the main text.
 
 Unlike Econometrica, which can treat heavy formal machinery as the contribution itself, REStud wants the economics to be visible without wading through the apparatus.
 

@@ -32,10 +32,10 @@ Register rules:
 
 ## House-style format
 
-- **References: author-date** (e.g., "(Becker 1968)"), with a reference list — *not* numbered citations. This is a hard JPE convention.
+- **References: Chicago author-date** (e.g., "(Becker 1968)", "Black and Scholes (1973)"), with an alphabetized reference list — *not* numbered citations. This is a hard University of Chicago Press house convention and a frequent reason a JPE referee flags a mis-templated submission.
 - Theory and empirics are integrated within the paper; proofs and heavy robustness go to appendices / online appendix.
-- American spelling; consistent decimal and unit conventions; equations numbered and referenced as "equation (3)."
-- Follow the *Chicago Manual of Style* conventions the University of Chicago Press uses. Verify the current author guidelines on the journal's official page before submission, as formatting details are updated periodically.
+- American spelling; consistent decimal and unit conventions; double-spaced manuscript; equations numbered and referenced as "equation (3)."
+- Follow the *Chicago Manual of Style* conventions the University of Chicago Press uses. Verify the current author guidelines (including any abstract/length limits) on the journal's official page before submission, as formatting details are updated periodically.
 
 ## Checklist
 
@@ -43,7 +43,7 @@ Register rules:
 - [ ] Results stated plainly with magnitudes, hedging reserved for real uncertainty
 - [ ] Economics stated before method in every key passage
 - [ ] Every equation has a sentence of economic interpretation
-- [ ] Citations are author-date and consistent; reference list complete
+- [ ] Citations are Chicago author-date and consistent; reference list complete
 - [ ] Notation defined once and used consistently
 - [ ] Conclusion states the portable economic lesson, not a table-by-table recap
 - [ ] Spelling/format follow Chicago/UChicago Press conventions (verified against current guidelines)
@@ -52,7 +52,7 @@ Register rules:
 
 - Hedged, passive prose that obscures a result the evidence actually supports
 - Method-first writing that makes the reader hunt for the economics
-- Numbered/bracket citations (wrong house style)
+- Numbered/bracket citations (wrong house style — JPE is Chicago author-date)
 - Equations dropped in with no verbal economic interpretation
 - A conclusion that recaps every table instead of stating what was learned
 - Over-long sentences stacking qualifications; jargon where plain economics would do
@@ -63,8 +63,8 @@ Register rules:
 【Voice】economics-first, unhedged where warranted? [y/n + fixes]
 【Hedging removed】list of softened claims tightened
 【Equations interpreted】all have prose meaning? [y/n]
-【Citation style】author-date verified
-【Format】Chicago/UChicago conventions checked (verify current guidelines)
+【Citation style】Chicago author-date verified
+【Format】Chicago/UChicago Press conventions checked (verify current guidelines)
 【Conclusion】states portable lesson? [y/n]
 【Next】jpe-referee-strategy
 ```

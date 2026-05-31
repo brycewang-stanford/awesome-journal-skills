@@ -16,7 +16,7 @@ description: Use when writing or repairing the introduction and related-work fra
 
 JPE introductions are economic arguments, not literature catalogs. The reader should finish the first three pages knowing: the economic question, the mechanism, what was already known, the precise gap, and what you do about it. Positioning is judged on whether you have placed the paper against the **right** literature and engaged the **theory** the result bears on — not merely the most recent applied papers.
 
-Because JPE is price-theory rooted, a credible intro usually connects to a body of *theory* (the model or mechanism the evidence tests), not only to prior empirical estimates. Citing five recent DID papers but ignoring the classic theory your result confirms or overturns is a positioning failure.
+Because JPE is price-theory rooted, a credible intro usually connects to a body of *theory* (the model or mechanism the evidence tests), not only to prior empirical estimates. Often the foundational paper lives in JPE itself — Becker's "A Theory of the Allocation of Time" (JPE 1965), Becker's "Crime and Punishment" (JPE 1968), or Black and Scholes (JPE 1973). Citing five recent DID papers but ignoring the classic theory your result confirms or overturns — especially the obvious JPE antecedent — is a positioning failure a Chicago referee will name.
 
 ## The JPE introduction arc (five moves)
 
@@ -33,7 +33,7 @@ A short "related literature" paragraph can follow, but the contribution must alr
 - [ ] The paper names the one or two literatures it contributes to, not five it merely touches
 - [ ] The canonical theory the result speaks to is cited and engaged (not just recent empirics)
 - [ ] The gap is stated as an economic shortcoming, not "no one has used this data"
-- [ ] Author-date citations throughout (JPE uses author-date, not numbered references)
+- [ ] **Chicago author-date** citations throughout, e.g. "Becker (1968)" (JPE house style — not numbered references)
 - [ ] Every claim about prior work is fair and would survive that author refereeing the paper
 - [ ] The contribution is differentiated from the closest 2–3 papers explicitly
 - [ ] The mechanism appears in the intro, not buried in section 5
@@ -44,17 +44,17 @@ A short "related literature" paragraph can follow, but the contribution must alr
 - Citing only the recent applied frontier while ignoring the foundational theory (a Chicago referee will name the omitted classic)
 - Overclaiming "first to show" when a theory paper predicted it decades ago — credit the prediction, claim the test
 - Strawmanning the closest competitor to manufacture a gap
-- Numbered/bracket citations (wrong house style — JPE is author-date)
+- Numbered/bracket citations (wrong house style — JPE uses University of Chicago Press author-date)
 - An intro that explains *what you did* before establishing *why economics needed it*
 
 ## Output format
 
 ```
 【Target literatures】1... 2...
-【Canonical theory engaged】refs (author-date)
+【Canonical theory engaged】refs (Chicago author-date; JPE antecedent if any)
 【Gap / tension】the precise economic shortcoming in prior work
 【Closest 3 papers】and how this differs from each
 【Intro arc check】moves 1–5 present? [y/n each]
-【Citation style】author-date verified
+【Citation style】Chicago author-date verified
 【Next】jpe-identification (or jpe-theory-model if model leads)
 ```

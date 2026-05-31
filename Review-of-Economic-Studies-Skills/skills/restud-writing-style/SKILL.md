@@ -15,12 +15,12 @@ description: Use when polishing the prose of a The Review of Economic Studies (R
 
 ## REStud house style
 
-REStud prizes a contribution "presented rigorously **and economically**." The writing standard follows:
+REStud prizes a contribution "presented rigorously **and economically**," and it must read well to **both** a theorist and an applied economist — the journal's defining balance since its 1933 founding. The writing standard follows:
 
 - **Clarity over flourish.** Plain, precise English. The reader should never reread a sentence to parse it.
-- **Economy.** Say it once, well. Cut sentences that restate. The elegance the journal rewards is partly a property of the prose.
+- **Economy.** Say it once, well. Cut sentences that restate. The elegance the journal rewards is partly a property of the prose — and the manuscript must fit the **~45-page** cap, so the main text carries intuition while full proofs and bulky robustness go to the **online appendix**.
 - **Result-forward.** The reader learns what the paper finds early — in the abstract, and again in the first page — not after five pages of motivation.
-- **References: author-date** (Harvard style), e.g., "(Card and Krueger, 1994)" and "Card and Krueger (1994) show ...". Verify the current style guide on the journal's official page before final formatting.
+- **References: Harvard author-date** (REStud house style), e.g., "(Card and Krueger, 1994)" and "Card and Krueger (1994) show ..." — never numbered references. Verify the current style guide on the journal's official page before final formatting.
 
 ## The introduction
 
@@ -38,7 +38,7 @@ Keep it tight. The editor and referees form a judgment in the first two pages.
 
 - One short paragraph. State the question, the contribution (model/design/fact), the headline finding, and why it matters — in that order.
 - **Result, not motivation.** "We document/show/prove X" — not "X is an important and understudied question."
-- Verify the current word limit on the journal's official author guidelines before submission.
+- Keep it to one tight paragraph; verify the current abstract limit on the journal's official author guidelines (the ~45-page manuscript cap is stated; the abstract limit is editor discretion) before submission.
 
 ## Prose discipline
 

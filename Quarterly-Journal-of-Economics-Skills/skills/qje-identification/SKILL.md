@@ -1,6 +1,6 @@
 ---
 name: qje-identification
-description: Use when the causal identification strategy is the bottleneck for a Quarterly Journal of Economics (QJE) manuscript — RCT, staggered DID, IV, RDD, event study. Stress-tests the design to the top-5 bar before tables are drafted.
+description: Use when the causal identification strategy is the bottleneck for a Quarterly Journal of Economics (QJE) manuscript — RCT, staggered DID, IV, RDD, event study. Stress-tests the design to the QJE general-interest bar before tables are drafted.
 ---
 
 # Causal Identification (qje-identification)
@@ -15,13 +15,15 @@ description: Use when the causal identification strategy is the bottleneck for a
 
 ## The QJE identification bar
 
-QJE's hallmark is **credible identification** — usually a natural experiment or novel source of variation that a skeptical, expert referee will accept. Purely descriptive papers need exceptional novelty. The credibility ranking editors and referees implicitly apply (strong → weaker):
+QJE rewards **credible identification serving a big question**, not technique for its own sake. Editorial reality shapes the bar: five Harvard-based Editors (Barro, Katz, Nunn, Shleifer, Stantcheva as of 2024) desk-screen in roughly two weeks, so the identifying variation must be legible and convincing on a first read. QJE's own canon mixes clean experiments and quasi-experiments with reduced-form ambition — e.g., Chetty, Hendren, Kline & Saez, "Where is the Land of Opportunity?" (QJE 2014), and Chetty et al. on Project STAR kindergarten effects (QJE 2011). The credibility ranking editors and referees implicitly apply (strong → weaker):
 
 1. **RCT / field experiment** with pre-registration and balance
 2. **Sharp/fuzzy RDD** at a clean policy threshold
 3. **DID / event study** off a credibly exogenous policy shock (with modern estimators)
 4. **IV** with a strong first stage and a defended exclusion restriction
 5. **Matching / selection-on-observables** — acceptable only as a complement, rarely as the spine
+
+Note the QJE-specific twist: a *novel, hard-to-assemble dataset answering a first-order question* can carry a paper even when the design is reduced-form, because the journal prizes the question and the lesson (Akerlof's "Market for 'Lemons'", QJE 1970, is the patron saint of idea-first papers). It will not save a narrow within-field estimate.
 
 ## Branch paths
 
@@ -55,9 +57,9 @@ QJE's hallmark is **credible identification** — usually a natural experiment o
 
 ### Branch E: novel descriptive / measurement paper
 
-- Is the data genuinely new and hard to assemble? (This is the only path where "descriptive" survives at QJE.)
+- Is the data genuinely new and hard to assemble? (At QJE this is a real path, but only with first-order facts.)
 - Are the new facts disciplined against measurement error and alternative explanations?
-- Is there a clear conceptual lesson the facts deliver?
+- Is there a clear conceptual lesson the facts deliver to all of economics, not one subfield?
 
 ## Checklist
 
@@ -75,7 +77,7 @@ QJE's hallmark is **credible identification** — usually a natural experiment o
 - IV that is "exogenous shock × lagged endogenous variable" with no exclusion argument
 - "We argue treatment is as good as random" with no falsification evidence
 - RDD reporting one bandwidth and hiding sensitivity
-- Over-claiming a global structural parameter from a local design
+- A clean local design oversold as a global structural parameter with no broad lesson
 
 ## Output format
 

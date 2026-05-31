@@ -1,55 +1,55 @@
 ---
 name: qje-submission
-description: Use when running the final pre-submission preflight for the Quarterly Journal of Economics (QJE) via Editorial Express — manuscript format, anonymization, references, fee, and supplementary files. Final checks; it does not draft content.
+description: Use when running the final pre-submission preflight for the Quarterly Journal of Economics (QJE) via Editorial Express — single-PDF format, double-blind anonymization, author-date references, the no-fee policy, and supplementary files. Final checks; it does not draft content.
 ---
 
 # Submission Preflight (qje-submission)
 
 ## When to trigger
 
-- "Submitting tomorrow" — last check before pressing submit
-- Unsure which files Editorial Express expects
-- Confirming format, anonymization, and reference style are QJE-compliant
-- Checking fee, declarations, and supplementary-materials requirements
+- "Submitting tomorrow" — last check before pressing submit on Editorial Express
+- Unsure which files Editorial Express expects at the initial-submission stage
+- Confirming the single-PDF format, double-blind anonymization, and author-date style are QJE-compliant
+- Checking declarations and supplementary-materials requirements
 
-## Process facts (verify current specifics on the official page)
+## Process facts (verified; re-confirm specifics on the official page)
 
-- QJE is published by **Oxford University Press**, edited historically out of Harvard, and is one of the **top-5** general-interest economics journals.
-- Submission is through **Editorial Express** (the AEA-ecosystem portal). Confirm the exact submission URL in the current author guidelines.
-- A **submission fee** applies. The exact amount changes — **verify the current fee** before paying; fee waivers/reductions sometimes exist for specific cases.
-- **Data and code replication materials** are required for accepted empirical papers; verify the current deposit/data-editor policy (see `qje-replication-package`).
-- The journal is **highly selective with fast desk rejection** — a clean, complete submission is part of clearing the editor's first screen.
+- QJE is published by **Oxford University Press** and **edited at Harvard University's Department of Economics** — the oldest English-language economics journal (founded **1886**) and one of the top-5. Source: academic.oup.com/qje; Wikipedia.
+- Submission is through **Editorial Express** at `editorialexpress.com/qje` — the same Express platform used by several econ journals, *not* OUP's ScholarOne. Admin contact: `qje_admin@editorialexpress.com`.
+- **There is no submission fee.** This is unusual among top-5 journals (AER, JPE, REStud all charge); do not budget for one. QJE is hybrid open access, so an optional OA charge applies only *after* acceptance if you choose it.
+- **Initial submission is a single PDF** containing the full manuscript, tables, figures, and appendices. **No Word files, no LaTeX source, no separate figure files** at this stage — source files are requested only after acceptance.
+- QJE uses **double-blind refereeing** — the manuscript must be fully anonymized.
+- The editorial team — **five Editors, all at Harvard** (Robert J. Barro, Lawrence F. Katz, Nathan Nunn, Andrei Shleifer, and Stefanie Stantcheva, per the masthead as of 2024) — makes **fast desk decisions (roughly two weeks)**, the quickest among the top-5 flagships, so a clean, complete submission is part of clearing the first screen. (Acceptance runs ~1-4%; desk-reject ~60%+.)
 
 ## Preflight checklist
 
 ### Format & style
 
-- [ ] References in **author-date** style throughout, consistent and complete
+- [ ] One **single PDF** with manuscript, tables, figures, and appendices embedded (no Word, no separate figure files)
+- [ ] References in **author-date (Chicago)** style; reference list alphabetical by surname
+- [ ] Abstract is short (target **~150 words**)
 - [ ] Tables and figures numbered, called out in order, with self-contained notes
-- [ ] Long manuscripts are acceptable; an extensive **online appendix** is expected
-- [ ] Math/notation defined once; equations numbered where referenced
+- [ ] Long manuscripts are fine (no hard page limit); an extensive **online appendix** is expected
 - [ ] PDF compiles cleanly; figures legible at print resolution
 
-### Anonymization (if double-blind / per current policy)
+### Anonymization (double-blind — required)
 
-- [ ] No author names, affiliations, or acknowledgments in the manuscript file
+- [ ] No author names, affiliations, or acknowledgments in the PDF
 - [ ] Self-citations phrased neutrally ("Smith (2020) shows", not "in our earlier work")
-- [ ] File metadata/properties scrubbed of author identity
-- [ ] Acknowledgments and funding info supplied separately, not in the body
+- [ ] PDF metadata/properties scrubbed of author identity
+- [ ] Acknowledgments and funding info kept out of the body, supplied separately
 
 ### Files for Editorial Express
 
-- [ ] Main manuscript PDF (with embedded figures/tables)
-- [ ] Online appendix (separate file)
+- [ ] Main manuscript as a single PDF (figures/tables/appendix embedded)
 - [ ] Cover letter (concise: question, design, headline result, general-interest fit)
 - [ ] Suggested / excluded referees prepared (expert, fair, conflict-free)
 - [ ] Replication materials staged for the accepted stage (see qje-replication-package)
 
-### Declarations & fee
+### Declarations
 
-- [ ] Conflict-of-interest / disclosure statement per current policy
+- [ ] Conflict-of-interest / disclosure statement consistent with the **AEA Disclosure Policy**
 - [ ] Funding and data-source disclosures prepared
-- [ ] Submission fee confirmed (verify current amount) and payment method ready
 - [ ] Confirmed the paper is not under review elsewhere
 
 ### Final content sanity
@@ -60,22 +60,23 @@ description: Use when running the final pre-submission preflight for the Quarter
 
 ## Anti-patterns
 
-- Submitting with mixed/inconsistent reference styles (not clean author-date)
-- Leaving author identity in self-citations or file metadata under double-blind
-- Forgetting to budget/verify the current submission fee
-- A defensive, multi-page cover letter instead of a tight pitch
+- Uploading a Word file or separate figure files at initial submission (QJE wants one PDF)
+- Mixed/inconsistent reference styles instead of clean author-date
+- Leaving author identity in self-citations or PDF metadata under double-blind review
+- Budgeting for a submission fee that does not exist at QJE
+- A defensive, multi-page cover letter instead of a tight pitch the editors can read in two weeks
 - Submitting a thin appendix to a journal that expects an extensive one
 
 ## Output format
 
 ```
-【Reference style】author-date, consistent? [Y/N]
-【Anonymization】body + metadata clean? [Y/N / NA]
-【Files staged】manuscript / appendix / cover letter / referees? [Y/N each]
-【Fee】current amount verified + ready? [Y/N]
-【Declarations】COI / funding / data prepared? [Y/N]
+【Single PDF】one file, all exhibits + appendix embedded? [Y/N]
+【Reference style】author-date (Chicago), consistent? [Y/N]
+【Anonymization】body + PDF metadata clean (double-blind)? [Y/N]
+【Files staged】PDF / cover letter / referees? [Y/N each]
+【Declarations】AEA disclosure / funding prepared? [Y/N]
 【Content sanity】abstract states finding; identification complete? [Y/N]
-【Next step】await decision → qje-rebuttal on R&R
+【Next step】await ~2-week desk decision → qje-rebuttal on R&R
 ```
 
 ## Supplementary resources
@@ -83,3 +84,4 @@ description: Use when running the final pre-submission preflight for the Quarter
 - [`templates/manuscript_template.md`](templates/manuscript_template.md) — QJE-oriented manuscript skeleton (abstract, intro arc, design, exhibits, author-date references)
 - [`templates/checklist.md`](templates/checklist.md) — 8-section pre-submission self-check
 - [`../../resources/external_tools.md`](../../resources/external_tools.md) — data sources and Stata/R/Python packages for credible-design empirical micro
+- [`../../resources/official-source-map.md`](../../resources/official-source-map.md) — official QJE URLs behind every fact in this pack

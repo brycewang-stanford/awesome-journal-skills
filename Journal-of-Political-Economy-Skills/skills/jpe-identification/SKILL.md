@@ -20,7 +20,7 @@ JPE accepts both reduced-form and structural work, but the bar has two parts tha
 1. **Credible identification** — the estimate isolates the causal/structural object you claim.
 2. **Economic interpretation** — the estimate maps onto a parameter or margin that economic theory cares about. A credibly identified effect with no economic meaning is a half-paper here.
 
-Reduced-form work should connect to a model or mechanism (see `jpe-theory-model`); structural work must make its identification transparent. Atheoretical correlation mining is the classic JPE desk-reject signal.
+Reduced-form work should connect to a model or mechanism (see `jpe-theory-model`); structural work must make its identification transparent. Atheoretical correlation mining is the classic JPE desk-reject signal — and at JPE the desk screen is a co-editor (Chicago-centered board led by Esteban Rossi-Hansberg) and the submission fee is non-refundable, so an undisciplined design is a costly miss. JPE's price-theory heritage (e.g., Becker's "Crime and Punishment," JPE 1968) means the *economic mechanism* behind a clean estimate matters as much as the estimate. If the contribution is a deep quantitative-macro identification, consider whether **JPE Macroeconomics** is the better venue than the flagship.
 
 ## Design priority (strong → acceptable)
 

@@ -1,6 +1,6 @@
 ---
 name: qje-theory-model
-description: Use when a Quarterly Journal of Economics (QJE) manuscript has a credible empirical result but no conceptual frame — to add the model or framework that turns a coefficient into a lesson. Frames the result conceptually; it does not redesign the identification.
+description: Use when a Quarterly Journal of Economics (QJE) manuscript has a credible empirical result but no conceptual frame — to add the model or framework that turns a coefficient into a lesson with broad implications. Frames the result conceptually; it does not redesign the identification.
 ---
 
 # Theory & Conceptual Frame (qje-theory-model)
@@ -14,7 +14,7 @@ description: Use when a Quarterly Journal of Economics (QJE) manuscript has a cr
 
 ## Why QJE wants a frame, not necessarily heavy theory
 
-QJE rewards a **clear conceptual takeaway with broad implications**. That does not mean every paper needs a structural model — many of the journal's most influential empirical-micro papers carry a *light* conceptual framework whose role is to (1) organize what is being estimated, (2) make the mechanism legible, and (3) map reduced-form estimates to an economically meaningful quantity. Match the weight of theory to the question; do not bolt on a model that the empirics cannot speak to.
+QJE rewards a **clear conceptual takeaway with broad implications** — it is, after all, the journal that published Akerlof's "Market for 'Lemons'" (QJE 1970) and Spence's "Job Market Signaling" (QJE 1973), papers carried by a sharp idea rather than heavy machinery. That does *not* mean every paper needs a structural model. Many of QJE's most influential empirical-micro papers carry a *light* conceptual framework whose role is to (1) organize what is being estimated, (2) make the mechanism legible, and (3) map reduced-form estimates to an economically meaningful quantity (the sufficient-statistic style of Chetty-school QJE papers is the template). This is a real QJE-vs-sibling distinction: a paper whose contribution *is* a calibrated structural model often fits JPE or Econometrica better; QJE prizes the idea-plus-clean-evidence combination. Match the weight of theory to the question; do not bolt on a model the empirics cannot speak to.
 
 ## Choosing the right level of formalization
 
@@ -23,14 +23,14 @@ QJE rewards a **clear conceptual takeaway with broad implications**. That does n
 | Verbal conceptual frame      | The mechanism is intuitive and the estimate is the contribution    | Reads as undertheorized; "so what?"      |
 | Stylized model (1–3 results) | You need to show *what parameter* the design identifies            | Best default for empirical-micro QJE     |
 | Sufficient-statistic frame   | A few estimable objects map to welfare/policy                      | Powerful and parsimonious when it fits   |
-| Full structural model        | Counterfactuals/welfare require out-of-sample extrapolation        | Overkill if the question is a clean ATT  |
+| Full structural model        | Counterfactuals/welfare require out-of-sample extrapolation        | Often a better fit for JPE/ECMA than QJE |
 
 ## The framing moves
 
 1. **Define the object.** State precisely what economic quantity the empirical estimate corresponds to (an elasticity, a treatment effect on a welfare-relevant margin, a structural parameter).
 2. **Make the mechanism a proposition.** Even a two-equation model that yields "the sign/size of β reveals mechanism M" disciplines the interpretation and tells referees what the test is.
 3. **Connect to welfare or policy.** Where possible, use a sufficient-statistic or envelope argument to translate estimates into a quantity decision-makers care about.
-4. **State the broad lesson.** Close the loop with the topic-selection hook: the model should make the "beyond this setting" sentence rigorous.
+4. **State the broad lesson.** Close the loop with the topic-selection hook: the model should make the "beyond this setting" sentence rigorous and legible to a general-interest reader.
 
 ## Checklist
 
@@ -45,7 +45,7 @@ QJE rewards a **clear conceptual takeaway with broad implications**. That does n
 ## Anti-patterns
 
 - A standalone theory section disconnected from what the data can test
-- A structural model whose key parameters the design cannot identify
+- A heavy structural model whose key parameters the design cannot identify (and that pushes the paper toward JPE/ECMA territory)
 - "Mechanism" asserted verbally with no prediction that the empirics confirm/reject
 - Theory that merely restates the regression rather than disciplining it
 - A model so general it predicts any sign of the estimate (unfalsifiable)

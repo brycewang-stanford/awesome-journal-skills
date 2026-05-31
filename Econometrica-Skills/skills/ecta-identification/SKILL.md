@@ -14,6 +14,17 @@ description: Use when the bottleneck is identification and inference for an Econ
 
 This is the formal spine. Econometrica referees check it first; a gap here sinks the paper.
 
+**Re-slant for Econometrica.** Identification here is *not* primarily "do I have a credible
+research design for a causal estimate" (that framing belongs to AER / QJE / JPE / REStud).
+Econometrica's core is **identification and estimator validity inside structural and
+econometric models** — is the structural parameter / functional a one-to-one image of the
+data distribution, and does the proposed estimator have a derived limiting distribution that
+licenses its inference? Credible-design content (Branch D) is still in scope for the
+journal's applied/structural submissions, but the methodological object — completeness,
+rank, support, the asymptotic law of *your* estimator — is what carries the paper. Lineage:
+GMM identification and asymptotics (Hansen 1982), nested fixed-point identification of a
+dynamic discrete-choice model (Rust 1987), selection-model identification (Heckman 1979).
+
 ## Branch A — Econometric theory: identification
 
 1. **Define the parameter / object** as a functional of the data-generating process, separate
@@ -55,7 +66,7 @@ This is the formal spine. Econometrica referees check it first; a gap here sinks
 5. **Behavioral payoff** — translate the formal result into a statement about observable
    behavior or comparative statics.
 
-## Branch D — Structural / empirical
+## Branch D — Structural / empirical (and credible-design applied)
 
 1. State the model's microfoundations and the **identifying restrictions** explicitly.
 2. Argue identification of the structural parameters from the available variation (functional
@@ -64,6 +75,11 @@ This is the formal spine. Econometrica referees check it first; a gap here sinks
 3. Provide the estimator's asymptotics or a justified inference procedure; if you use a known
    estimator off the shelf, cite the precise theorem that licenses your standard errors.
 4. Counterfactuals must be objects the identification argument actually delivers.
+5. **Credible-design content still belongs here** for applied/structural submissions (a DID,
+   RDD, or IV used inside the paper). But at Econometrica the design alone is not the
+   contribution — the methodological or identification argument is. If the design is
+   off-the-shelf and the estimand is the whole point, the paper is general-interest-applied,
+   not Econometrica (see `ecta-topic-selection`).
 
 ## Checklist
 

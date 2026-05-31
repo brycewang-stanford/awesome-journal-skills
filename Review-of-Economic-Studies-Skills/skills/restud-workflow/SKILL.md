@@ -9,7 +9,14 @@ description: Use when deciding which restud-* sub-skill to invoke next, or when 
 
 This is the router. It does not replace any specialized skill — it tells you which one to use next, and in what order.
 
-Default assumption: unless the user names a different venue, the manuscript targets **The Review of Economic Studies (REStud)** — a top-5 general-interest journal that publishes both **theoretical and applied** economics across all fields. REStud prizes a *clean, original contribution* — a new model, a new identification strategy, or a striking new empirical fact — presented rigorously and economically. It is not a finance-only stack, not a theory-only stack, and not a working-paper repository.
+Default assumption: unless the user names a different venue, the manuscript targets **The Review of Economic Studies (REStud)** — a top-5 general-interest journal (OUP, for the Review of Economic Studies Ltd; founded **1933** to advance **theoretical and applied** economics equally, especially by younger economists). REStud prizes a *clean, original contribution* — a new model, a new identification strategy, or a striking new empirical fact — presented rigorously and economically. It is not a finance-only stack, not a theory-only stack, and not a working-paper repository.
+
+## REStud-specific anchors (carry these through every stage)
+
+- **Identity:** founded 1933, theory and applied weighted equally; home of the **REStud Tour** (former May Meetings, annual since 1989) for promising young economists — calibrate ambition to that bar.
+- **Submission:** **Editorial Express** portal, **USD 200 fee** (reduced **USD 120** if every author is a student / within 6 years of PhD / in a low-or-middle-income economy), **double-anonymous** review, **Harvard author-date** references, JEL codes, **~45-page** limit; editors desk-reject ~20–23% before refereeing.
+- **Replication:** the **Data Editor (Miklós Koren)** runs an **AEA DCAS** pre-publication reproducibility check; packages deposit at **Zenodo**.
+- **Editors (2026):** Joint Managing Editors include Jan De Loecker, Antonio Penta, Jakub Steiner (verify the full current roster).
 
 ## When to Use
 
@@ -73,7 +80,7 @@ If the user says...
 
 REStud overlaps heavily with AER / QJE / JPE / Econometrica in standards, but its center of gravity differs:
 
-- vs **AER**: AER weights cross-subfield interest and policy salience; REStud equally welcomes a clean theoretical or methodological contribution with no policy hook, and is famously *friendly to young scholars* (the May Meetings showcase junior job-market work).
+- vs **AER**: AER weights cross-subfield interest and policy salience; REStud equally welcomes a clean theoretical or methodological contribution with no policy hook, and is famously *friendly to young scholars* — the **REStud Tour / May Meetings** (annual since 1989) showcase graduating PhD job-market work.
 - vs **Econometrica**: Econometrica tolerates very heavy formal machinery as the contribution itself; REStud wants the economics payoff of the theory to be legible.
 - vs **JPE**: JPE has a price-theory / Chicago tilt; REStud is field-agnostic and European-rooted.
 
@@ -83,7 +90,7 @@ If the paper is finance-specific (JF / JFE / RFS) or theory so abstract it is re
 
 - Polishing prose (`restud-writing-style`) before the identification or model is stable
 - Treating `restud-theory-model` as optional for an empirical paper that has a model — REStud referees check that the model's assumptions map to the empirics
-- Assembling the replication package only after acceptance — the OUP/journal data-availability check is part of the production timeline
+- Assembling the replication package only after acceptance — REStud's **Data Editor (Miklós Koren) runs an AEA DCAS reproducibility check before publication** (Zenodo deposit), so it is part of the production timeline, not an afterthought
 - Writing the rebuttal against the old draft instead of the revised manuscript
 - Skipping `restud-referee-strategy` because "the design is obviously fine" — REStud referees are demanding and develop strong papers across rounds
 

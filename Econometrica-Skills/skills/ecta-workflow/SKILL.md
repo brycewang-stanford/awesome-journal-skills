@@ -11,10 +11,19 @@ This is the router. It does not replace any specialized skill — it tells you *
 ecta-* skill to invoke at the current stage**.
 
 Default assumption: unless the user says otherwise, the target is **Econometrica**, the
-journal of the Econometric Society — the flagship for econometric theory, microeconomic
-theory, game theory, decision theory, and rigorous structural / empirical work. The bar
-is mathematical rigor: a new method or theorem with a **complete, correct proof**,
-generality, and a clear economic or behavioral payoff.
+journal of the Econometric Society (published by Wiley; founded 1933) — the flagship for
+**econometric methods and rigorous economic theory** (microeconomic, game, and decision
+theory, plus mathematical economics). Its charter is the *unification of the
+theoretical-quantitative and empirical-quantitative approaches, penetrated by constructive
+and rigorous thinking*. The bar is mathematical rigor: a new method or theorem with a
+**complete, correct proof**, generality, and a clear economic or inferential payoff.
+
+This is the key re-slant from a sibling like AER / QJE / JPE / REStud: Econometrica's core
+product is the **theorem or the estimator**, not a clean causal estimate of a policy effect.
+A flawless applied difference-in-differences or RDD paper with an off-the-shelf method is
+*off-fit here* even if it would headline a general-interest top-5 journal. Lineage that fits:
+Heckman (1979, selection), Hansen (1982, GMM), Newey–West (1987, HAC), Rust (1987, NFXP),
+Kahneman–Tversky (1979, prospect theory) — all Econometrica.
 
 Econometrica papers come in two broad shapes; route accordingly:
 - **Theory / methods** (econometric theory, micro / game / decision theory): the
@@ -41,10 +50,10 @@ Econometrica papers come in two broad shapes; route accordingly:
 | Asymptotics with no finite-sample check; no Monte Carlo / edge-case analysis | `ecta-robustness` |
 | Simulation tables / empirical exhibits unclear, overloaded, or non-self-contained | `ecta-tables-figures` |
 | Prose is verbose, informal, or buries assumptions; not in terse formal house style | `ecta-writing-style` |
-| Need to assemble code / data under the Data and Code Availability Policy | `ecta-replication-package` |
-| Want to anticipate what co-editor and referees will attack | `ecta-referee-strategy` |
-| Ready to submit; need Editorial Express preflight + Online Appendix assembly | `ecta-submission` |
-| Received a revise-and-resubmit; need a response letter | `ecta-rebuttal` |
+| Need to assemble code / data under the ES Data and Code Availability Policy (Data Editor + Zenodo) | `ecta-replication-package` |
+| Want to anticipate what the handling co-editor and referees will attack | `ecta-referee-strategy` |
+| Ready to submit; need Editorial Express preflight, 45-page check, + Supplemental Material assembly | `ecta-submission` |
+| Received a revise-and-resubmit or conditional acceptance; need a response letter | `ecta-rebuttal` |
 
 ## Default order
 
@@ -55,10 +64,11 @@ Econometrica papers come in two broad shapes; route accordingly:
 5. `ecta-robustness` — Monte Carlo, finite-sample performance, regularity / edge cases
 6. `ecta-tables-figures` — finalize simulation tables and any empirical exhibits
 7. `ecta-writing-style` — terse formal polish; assumptions visible; theorem-numbered
-8. `ecta-replication-package` — code (+ data) under the Data and Code Availability Policy
+8. `ecta-replication-package` — code (+ data) under the ES Data and Code Availability Policy
+   (Data Editor reproducibility check at conditional acceptance; Zenodo deposit)
 9. `ecta-referee-strategy` — red-team the proofs and the generality claim
-10. `ecta-submission` — Editorial Express preflight + Supplementary/Online Appendix
-11. `ecta-rebuttal` — after the decision letter
+10. `ecta-submission` — Editorial Express preflight, 45-page limit, Supplemental Material assembly
+11. `ecta-rebuttal` — after the R&R / conditional-acceptance letter
 
 > `ecta-writing-style` is a **late polish stage** — do not polish prose while the central
 > theorem or its proof is still unstable. Likewise, do not build tables before the
@@ -78,16 +88,27 @@ Econometrica papers come in two broad shapes; route accordingly:
 - "Submitting tomorrow" → `ecta-submission`
 - "Three reports back, all asking for more generality" → `ecta-rebuttal`
 
-## Differences vs. applied-economics packs
+## Differences vs. applied-economics packs (AER / QJE / JPE / REStud)
 
 If the contribution is an *application* — a causal estimate of a policy effect, with the
-method off-the-shelf — an applied general-interest pack (e.g., AER / QJE / JPE skills) is
-the better fit. The core difference:
+method off-the-shelf — an applied general-interest pack (e.g., AER / QJE / JPE / REStud
+skills) is the better fit. The core difference:
 
 - **Econometrica**: the contribution is the *method or theorem* — generality, complete
-  proofs, asymptotics, and finite-sample evidence are the product.
+  proofs, asymptotics, and finite-sample evidence are the product. A purely theoretical
+  paper carries no replication package; an estimator paper's "data" may be entirely its
+  Monte Carlo code.
 - **General-interest applied**: the contribution is the *answer to an economic question* —
-  identification of a specific effect carries the paper.
+  identification of a specific effect carries the paper, and a clean empirical narrative
+  matters more than a new limit theorem.
+
+Concrete Econometrica-specific facts that are *wrong* for those siblings: at least one
+author must be a member of the **Econometric Society** to submit; the **45-page** limit
+(incl. references and appendices) plus a ≤**25-page** Supplemental Appendix; submission via
+**Editorial Express** with an **ES-member submission fee** (US$125 regular / US$50 student
+from 2025); and replication is governed by the **Econometric Society** Data and Code
+Availability Policy with **Data Editor** checks and a **Zenodo** deposit — not the AEA Data
+Editor / openICPSR pipeline the AER/AEJ packs assume.
 
 ## Anti-patterns
 

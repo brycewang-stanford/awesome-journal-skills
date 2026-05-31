@@ -14,7 +14,7 @@ description: Use when evaluating whether a research idea clears the REStud top-5
 
 ## The REStud bar
 
-REStud is general-interest and field-agnostic: it publishes theoretical **and** applied work across all of economics. What it consistently rewards is a **clean, original contribution presented rigorously and economically**. The contribution must be one of:
+REStud is general-interest and field-agnostic: founded in **1933 to advance theoretical *and* applied economics, especially by younger economists**, it weights theory and applied work equally — a distinct profile from the more empirically tilted top-5s. What it consistently rewards is a **clean, original contribution presented rigorously and economically**. The contribution must be one of:
 
 1. **A new model** — a tractable framework that delivers an economic insight others did not have
 2. **A new identification strategy** — a credible research design that makes a previously hard causal question answerable

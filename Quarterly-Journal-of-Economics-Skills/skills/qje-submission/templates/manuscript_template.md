@@ -87,9 +87,9 @@ verify current author guidelines on the official page.
 
 > Surname, First. Year. "Title." *Journal* Volume (Issue): pages.
 >
-> Chetty, Raj, and Nathaniel Hendren. Year. "..." *Quarterly Journal of Economics* ...
+> Akerlof, George A. 1970. "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism." *Quarterly Journal of Economics* 84 (3): 488–500.
 >
-> Dell, Melissa. Year. "..." *Econometrica* / *QJE* ...
+> Chetty, Raj, and Nathaniel Hendren. 2018. "The Impacts of Neighborhoods on Intergenerational Mobility I: Childhood Exposure Effects." *Quarterly Journal of Economics* 133 (3): 1107–1162.
 
 ## Online appendix (extensive — expected at QJE)
 

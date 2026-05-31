@@ -14,11 +14,20 @@ description: Use when locating an Econometrica result precisely within the metho
 
 ## The positioning bar at Econometrica
 
-Econometrica referees are typically the people who wrote the results you are extending.
-Positioning is not a literature dump — it is a **precise statement of the formal
-relationship** between your result and the closest prior results. For each key neighbor,
-say exactly one of: *we nest it*, *we generalize it*, *we weaken its assumption*, *we
-provide what it lacked* (e.g., the limiting distribution, uniqueness, a constructive proof).
+Econometrica referees are typically the people who wrote the results you are extending —
+and the handling **co-editor** (one of a small board; e.g., Keisuke Hirano, Aureo de Paula,
+Marciano Siniscalchi, Pete Klenow, Patrick Kline, under Editor Marina Halac, 2025–2029 —
+verify the current board) routes the paper to exactly those experts. Positioning is not a
+literature dump — it is a **precise statement of the formal relationship** between your
+result and the closest prior results. For each key neighbor, say exactly one of: *we nest
+it*, *we generalize it*, *we weaken its assumption*, *we provide what it lacked* (e.g., the
+limiting distribution, uniqueness, a constructive proof).
+
+Because the lineage here is *methods/theory* rather than *empirical findings*, the neighbors
+to position against are usually theorems and estimators with names attached — the GMM
+framework (Hansen 1982), HAC inference (Newey–West 1987), nested fixed-point estimation
+(Rust 1987), the relevant fixed-point or representation theorem — not "the literature on
+this policy." Mis-stating who proved what is a credibility hit with this pool.
 
 ## Map the lineage
 
