@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Insert per-bundle cover galleries into README.md and README.zh-CN.md.
 
-Each breadth bundle gets a collapsible <details> block holding one cover thumbnail
-per journal, ordered by discipline (so colours cluster). Idempotent: re-running
-replaces the content between the HTML-comment markers instead of duplicating.
+Each breadth bundle gets an always-expanded gallery (a caption line plus one cover
+thumbnail per journal, ordered by discipline so colours cluster). Idempotent:
+re-running replaces the content between the HTML-comment markers instead of duplicating.
 """
 import importlib.util
 import os
@@ -44,10 +44,8 @@ def gallery(key):
 def block(key, summary):
     inner = gallery(key)
     return (f"<!-- COVER-GALLERY:{key}:START -->\n"
-            f"<details>\n"
-            f"<summary>{summary}</summary>\n\n"
+            f'<p align="center"><sub>{summary}</sub></p>\n\n'
             f"{inner}\n"
-            f"</details>\n"
             f"<!-- COVER-GALLERY:{key}:END -->")
 
 
@@ -65,19 +63,19 @@ def upsert(text, key, summary, anchor):
 
 PLANS = {
     "README.md": {
-        "cn-soc": ("📚 <b>Show all 102 Chinese social-science journal covers</b> &mdash; grouped by discipline (click to expand)",
+        "cn-soc": ("📚 <b>All 102 Chinese social-science journal covers</b> &mdash; grouped by discipline",
                    "| **~100 China econ/management roadmap journals** | [Chinese-SocialScience-Journal-Skills/]"),
-        "en-soc": ("📚 <b>Show all 100 English social-science journal covers</b> &mdash; grouped by discipline (click to expand)",
+        "en-soc": ("📚 <b>All 100 English social-science journal covers</b> &mdash; grouped by discipline",
                    "This bundle covers the full English roadmap below: Economics 50"),
-        "en-nat": ("📚 <b>Show all 100 English natural-science journal covers</b> &mdash; grouped by discipline (click to expand)",
+        "en-nat": ("📚 <b>All 100 English natural-science journal covers</b> &mdash; grouped by discipline",
                    "This bundle is the natural-science sibling of the English social-science breadth bundle"),
     },
     "README.zh-CN.md": {
-        "cn-soc": ("📚 <b>展开全部 102 本中文社科期刊封面</b> &mdash; 按学科分组（点击展开）",
+        "cn-soc": ("📚 <b>全部 102 本中文社科期刊封面</b> &mdash; 按学科分组",
                    "| **约 100 本中文经管路线图期刊** | [Chinese-SocialScience-Journal-Skills/]"),
-        "en-soc": ("📚 <b>展开全部 100 本英文社科期刊封面</b> &mdash; 按学科分组（点击展开）",
+        "en-soc": ("📚 <b>全部 100 本英文社科期刊封面</b> &mdash; 按学科分组",
                    "该合集覆盖下方完整英文路线图：经济学 50"),
-        "en-nat": ("📚 <b>展开全部 100 本英文自然科学期刊封面</b> &mdash; 按学科分组（点击展开）",
+        "en-nat": ("📚 <b>全部 100 本英文自然科学期刊封面</b> &mdash; 按学科分组",
                    "这是英文经管广度合集的自然科学姊妹包"),
     },
 }

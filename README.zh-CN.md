@@ -198,8 +198,7 @@
 | **约 100 本中文经管路线图期刊** | [Chinese-SocialScience-Journal-Skills/](Chinese-SocialScience-Journal-Skills/) | 一刊一个 router 技能 | 103 |
 
 <!-- COVER-GALLERY:cn-soc:START -->
-<details>
-<summary>📚 <b>展开全部 102 本中文社科期刊封面</b> &mdash; 按学科分组（点击展开）</summary>
+<p align="center"><sub>📚 <b>全部 102 本中文社科期刊封面</b> &mdash; 按学科分组</sub></p>
 
 <p align="center">
   <a href="Chinese-SocialScience-Journal-Skills/skills/economic-research/"><img src="assets/covers/economic-research.png" alt="《经济研究》" width="100"></a>
@@ -305,7 +304,6 @@
   <a href="Chinese-SocialScience-Journal-Skills/skills/sociological-studies/"><img src="assets/covers/sociological-studies.png" alt="《社会学研究》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/social-security-studies/"><img src="assets/covers/social-security-studies.png" alt="《社会保障评论》" width="100"></a>
 </p>
-</details>
 <!-- COVER-GALLERY:cn-soc:END -->
 
 ### 社会科学 · 英文顶刊 —— 深度独立包
@@ -334,8 +332,7 @@
 该合集覆盖下方完整英文路线图：经济学 50 · 金融 13 · 管理/战略/组织 15 · 营销 6 · 会计 6 · 运营与信息系统 10。与中文广度合集一致，每个 profile 都是“选刊 / 改写框架”工具，并把易变事实（影响因子、版面费、字数限制）交由单刊“官方核验清单”在投稿前重新核对。
 
 <!-- COVER-GALLERY:en-soc:START -->
-<details>
-<summary>📚 <b>展开全部 100 本英文社科期刊封面</b> &mdash; 按学科分组（点击展开）</summary>
+<p align="center"><sub>📚 <b>全部 100 本英文社科期刊封面</b> &mdash; 按学科分组</sub></p>
 
 <p align="center">
   <a href="English-SocialScience-Journal-Skills/skills/american-economic-review/"><img src="assets/covers/american-economic-review.png" alt="《American Economic Review》" width="100"></a>
@@ -439,7 +436,6 @@
   <a href="English-SocialScience-Journal-Skills/skills/journal-of-the-association-for-information-systems/"><img src="assets/covers/journal-of-the-association-for-information-systems.png" alt="《Journal of the Association for Information Systems》" width="100"></a>
   <a href="English-SocialScience-Journal-Skills/skills/informs-journal-on-computing/"><img src="assets/covers/informs-journal-on-computing.png" alt="《INFORMS Journal on Computing》" width="100"></a>
 </p>
-</details>
 <!-- COVER-GALLERY:en-soc:END -->
 
 ### 自然科学 · 英文顶刊 —— 深度独立包
@@ -468,8 +464,7 @@
 这是英文经管广度合集的自然科学姊妹包——“另一个 100”：综合/多学科 7 · 细胞/分子/基因组生物学 16 · 生态/演化/植物 5 · 免疫/微生物/实验医学 4 · 开放获取与基因组学 3 · 神经科学与行为 4 · 临床综合 7 · 临床专科 11 · 转化与肿瘤 4 · 物理 9 · 天文 3 · 化学 10 · 材料与能源 5 · 地球/环境/气候 5 · CS/AI/工程 4 · 数学 3。与其它广度合集一致，每个 profile 都把易变事实（影响因子、版面费、字数/图数限制）交由单刊“官方核验清单”在投稿前重新核对；临床类还需核对适用报告规范（CONSORT/PRISMA/STROBE/ARRIVE）。
 
 <!-- COVER-GALLERY:en-nat:START -->
-<details>
-<summary>📚 <b>展开全部 100 本英文自然科学期刊封面</b> &mdash; 按学科分组（点击展开）</summary>
+<p align="center"><sub>📚 <b>全部 100 本英文自然科学期刊封面</b> &mdash; 按学科分组</sub></p>
 
 <p align="center">
   <a href="English-NaturalScience-Journal-Skills/skills/nature/"><img src="assets/covers/nature.png" alt="《Nature》" width="100"></a>
@@ -573,7 +568,6 @@
   <a href="English-NaturalScience-Journal-Skills/skills/inventiones-mathematicae/"><img src="assets/covers/inventiones-mathematicae.png" alt="《Inventiones Mathematicae》" width="100"></a>
   <a href="English-NaturalScience-Journal-Skills/skills/journal-of-the-american-mathematical-society/"><img src="assets/covers/journal-of-the-american-mathematical-society.png" alt="《Journal of the American Mathematical Society》" width="100"></a>
 </p>
-</details>
 <!-- COVER-GALLERY:en-nat:END -->
 
 ### 自然科学 · 英文顶刊 —— 第三方收录

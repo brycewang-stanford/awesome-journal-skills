@@ -198,8 +198,7 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 | **~100 China econ/management roadmap journals** | [Chinese-SocialScience-Journal-Skills/](Chinese-SocialScience-Journal-Skills/) | one router skill per journal | 103 |
 
 <!-- COVER-GALLERY:cn-soc:START -->
-<details>
-<summary>📚 <b>Show all 102 Chinese social-science journal covers</b> &mdash; grouped by discipline (click to expand)</summary>
+<p align="center"><sub>📚 <b>All 102 Chinese social-science journal covers</b> &mdash; grouped by discipline</sub></p>
 
 <p align="center">
   <a href="Chinese-SocialScience-Journal-Skills/skills/economic-research/"><img src="assets/covers/economic-research.png" alt="《经济研究》" width="100"></a>
@@ -305,7 +304,6 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
   <a href="Chinese-SocialScience-Journal-Skills/skills/sociological-studies/"><img src="assets/covers/sociological-studies.png" alt="《社会学研究》" width="100"></a>
   <a href="Chinese-SocialScience-Journal-Skills/skills/social-security-studies/"><img src="assets/covers/social-security-studies.png" alt="《社会保障评论》" width="100"></a>
 </p>
-</details>
 <!-- COVER-GALLERY:cn-soc:END -->
 
 ### Social science · English top journals — depth packs
@@ -334,8 +332,7 @@ A one-size-fits-all "economics writing" skill cannot encode these differences. E
 This bundle covers the full English roadmap below: Economics 50 · Finance 13 · Management/Strategy/Org 15 · Marketing 6 · Accounting 6 · Operations & Information Systems 10. Like the Chinese breadth bundle, each profile is a venue-selection / re-framing tool that defers volatile facts (impact factors, fees, word limits) to a per-journal official-submission re-check.
 
 <!-- COVER-GALLERY:en-soc:START -->
-<details>
-<summary>📚 <b>Show all 100 English social-science journal covers</b> &mdash; grouped by discipline (click to expand)</summary>
+<p align="center"><sub>📚 <b>All 100 English social-science journal covers</b> &mdash; grouped by discipline</sub></p>
 
 <p align="center">
   <a href="English-SocialScience-Journal-Skills/skills/american-economic-review/"><img src="assets/covers/american-economic-review.png" alt="《American Economic Review》" width="100"></a>
@@ -439,7 +436,6 @@ This bundle covers the full English roadmap below: Economics 50 · Finance 13 ·
   <a href="English-SocialScience-Journal-Skills/skills/journal-of-the-association-for-information-systems/"><img src="assets/covers/journal-of-the-association-for-information-systems.png" alt="《Journal of the Association for Information Systems》" width="100"></a>
   <a href="English-SocialScience-Journal-Skills/skills/informs-journal-on-computing/"><img src="assets/covers/informs-journal-on-computing.png" alt="《INFORMS Journal on Computing》" width="100"></a>
 </p>
-</details>
 <!-- COVER-GALLERY:en-soc:END -->
 
 ### Natural sciences · English top journals — depth packs
@@ -468,8 +464,7 @@ Each natural-science pack is opinionated by venue: Science encodes the one-sente
 This bundle is the natural-science sibling of the English social-science breadth bundle — the "other 100": General & multidisciplinary 7 · Cell/molecular/genome biology 16 · Ecology/evolution/plant 5 · Immunology/microbiology/experimental medicine 4 · Open-access & genomics 3 · Neuroscience & behaviour 4 · Clinical general 7 · Clinical specialty 11 · Translational & cancer 4 · Physics 9 · Astronomy 3 · Chemistry 10 · Materials & energy 5 · Earth/environment/climate 5 · CS/AI/engineering 4 · Mathematics 3. Like the other breadth bundles, each profile defers volatile facts (impact factors, fees, word/figure limits) to a per-journal official-submission re-check, and for clinical venues to the applicable reporting guideline (CONSORT/PRISMA/STROBE/ARRIVE).
 
 <!-- COVER-GALLERY:en-nat:START -->
-<details>
-<summary>📚 <b>Show all 100 English natural-science journal covers</b> &mdash; grouped by discipline (click to expand)</summary>
+<p align="center"><sub>📚 <b>All 100 English natural-science journal covers</b> &mdash; grouped by discipline</sub></p>
 
 <p align="center">
   <a href="English-NaturalScience-Journal-Skills/skills/nature/"><img src="assets/covers/nature.png" alt="《Nature》" width="100"></a>
@@ -573,7 +568,6 @@ This bundle is the natural-science sibling of the English social-science breadth
   <a href="English-NaturalScience-Journal-Skills/skills/inventiones-mathematicae/"><img src="assets/covers/inventiones-mathematicae.png" alt="《Inventiones Mathematicae》" width="100"></a>
   <a href="English-NaturalScience-Journal-Skills/skills/journal-of-the-american-mathematical-society/"><img src="assets/covers/journal-of-the-american-mathematical-society.png" alt="《Journal of the American Mathematical Society》" width="100"></a>
 </p>
-</details>
 <!-- COVER-GALLERY:en-nat:END -->
 
 ### Natural sciences · English top journals — third-party, curated
