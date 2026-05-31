@@ -4,8 +4,25 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/agent-Claude%20Code-cc785c)](https://github.com/anthropics/claude-code)
 [![Skills](https://img.shields.io/badge/skills-843-cc785c)](#skill-pack-一览)
+[![Maintained by CoPaper.AI from Stanford REAP](https://img.shields.io/badge/Maintained%20by-CoPaper.AI%20from%20Stanford%20REAP-blue)](https://copaper.ai)
+[![Powered by StatsPAI](https://img.shields.io/badge/Powered%20by-StatsPAI-orange)](https://github.com/brycewang-stanford/StatsPAI)
 
 [English](README.md) | 简体中文
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://copaper.ai"><img src="assets/copaper-logo.png" alt="CoPaper.AI" width="240" /></a>
+      </td>
+      <td width="56"></td>
+      <td align="center">
+        <a href="https://sccei.fsi.stanford.edu/reap"><img src="assets/stanford-reap-logo.png" alt="Stanford REAP — 斯坦福中国经济与制度研究中心" width="360" /></a>
+      </td>
+    </tr>
+  </table>
+  <sub><strong>Stanford REAP × CoPaper.AI</strong> · 由斯坦福实证方法论团队精选与维护</sub>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skills-843-cc785c?style=for-the-badge" alt="843 个 Agent Skill">
@@ -84,6 +101,19 @@
 按**期刊**组织的 Agent Skill 包索引——涵盖选题、定位核心进展、识别策略、表格与图件规范、复制包 / 数据可得性准备、修改回复。覆盖**社会科学中英文顶刊**，以及**自然科学与临床顶刊（Science、Cell、PNAS、NEJM、The Lancet）**——并新增一个 100 本期刊的**英文自然科学广度合集**，横跨生命科学、医学、物理、化学、材料、地球科学、CS/AI 与数学。
 
 每个 pack 都是**针对单一期刊**的方法论沉淀：它编码了某一本期刊的编委偏好、格式规范、识别标准和审稿文化。通用的"科研写作"Skill 包做不到这一点。
+
+## 快速浏览与布局指南
+
+可以按三步理解这个仓库：
+
+| 你看到的入口 | 它是什么 | 什么时候用 |
+|---|---|---|
+| **封面卡和根目录期刊文件夹**，例如 `American-Economic-Review/` 或 `Jingji-Yanjiu/` | 只负责导航；它们指向 canonical skill 位置，故意不放 `SKILL.md`。 | 你在 GitHub 根目录按期刊名浏览。 |
+| **深度包**，例如 `AER-Skills/`、`Economic-Research-Journal-Skills/` 或 `Cell-Skills/` | 单刊全流程工作流，通常含 9-13 个 skills，覆盖选题、定位、方法、表格、投稿和回复。 | 目标期刊已确定，且需要完整投稿生命周期支持。 |
+| **广度合集**：`Chinese-SocialScience-Journal-Skills/`、`English-SocialScience-Journal-Skills/`、`English-NaturalScience-Journal-Skills/` | 每本期刊一个轻量 fit-and-house-style skill，另有 router skill 用于选刊。 | 你需要覆盖 100 本期刊级别的路线图，或还在比较投稿目标。 |
+| **收录 / 工具包**，例如 `Nature-Skills/`、`claude-scholar/` 或 `codex-claude-academic-skills/` | 收录的上游包或通用学术工具，与期刊包并列保存。 | 你需要跨期刊的研究、写作或工作流支持。 |
+
+经验法则：浏览时从根目录文件夹或封面卡开始；选刊时用广度合集；目标期刊确定后再进入对应深度包。
 
 <!-- ROOT-JOURNAL-FOLDERS:START -->
 
@@ -732,7 +762,7 @@ cp -R Economic-Research-Journal-Skills/skills/er-* ~/.claude/skills/
   - [Chinese-SocialScience-Journal-Skills](Chinese-SocialScience-Journal-Skills/) —— 102 本中文经管期刊
   - [English-SocialScience-Journal-Skills](English-SocialScience-Journal-Skills/) —— 100 本英文经济 / 金融 / 管理 / 会计 / 营销 / 运营 / 信息系统期刊
   - [English-NaturalScience-Journal-Skills](English-NaturalScience-Journal-Skills/) —— 100 本英文自然科学 / 临床 / 物理 / 形式科学期刊
-- **每刊封面卡** 覆盖全部广度期刊，两份 README 内嵌可折叠封面画廊，并提供 200 个根目录轻量入口文件夹便于首页浏览。
+- **每刊封面卡** 覆盖全部广度期刊，两份 README 内嵌默认展开的封面画廊，并提供 200 个根目录轻量入口文件夹便于首页浏览。
 - **单刊全流程深度包（12 步）** —— 36 个仓库内自有期刊包，覆盖三大板块（AER 与 Nature 另以收录/submodule 包形态提供）：
   - **英文经济学（Top-5）：** AER（submodule）· QJE · JPE · Econometrica · REStud
   - **英文金融（Top-3）：** Journal of Finance · Journal of Financial Economics · Review of Financial Studies
@@ -1187,6 +1217,58 @@ cp -R Economic-Research-Journal-Skills/skills/er-* ~/.claude/skills/
 
 ---
 
+## 维护团队
+
+本索引由 **[CoPaper.AI](https://copaper.ai)** 团队精选与维护 —— 一款**由 [Stanford REAP / SCCEI（斯坦福中国经济与制度研究中心）](https://sccei.fsi.stanford.edu/reap) 研究人员孵化**的实证研究 AI 助手。各 pack 中编码的单刊编委标准，源自 Stanford REAP 在实证经济学方法论与应用因果推断上的长期积累。
+
+| 层次 | 依托 | 角色 |
+|------|------|------|
+| 🏛️ **学术血统** | **Stanford REAP / SCCEI** —— 斯坦福中国经济与制度研究中心 | 本仓库单刊识别标准与编委规范背后的实证经济学方法论与应用因果推断传统 |
+| 🔧 **工程交付** | **[CoPaper.AI](https://copaper.ai)** | 将这些单刊 Skills 串成端到端、可直接投稿的论文流水线的实证研究 AI 助手 |
+| ⚙️ **开源引擎** | **[StatsPAI](https://github.com/brycewang-stanford/StatsPAI)** | 驱动 CoPaper.AI 的因果推断引擎（900+ 函数，MIT 许可，JOSS 在投） |
+
+> 💡 **想开箱即用？** 跳过自行组装 —— 试试 [**→ copaper.ai**](https://copaper.ai)，让斯坦福方法论团队为你跑通端到端的实证流水线。
+
+---
+
 ## License
 
 MIT
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://copaper.ai"><img src="assets/copaper-logo.png" alt="CoPaper.AI" width="220" /></a>
+      </td>
+      <td width="40"></td>
+      <td align="center">
+        <a href="https://sccei.fsi.stanford.edu/reap"><img src="assets/stanford-reap-logo.png" alt="Stanford REAP" width="320" /></a>
+      </td>
+    </tr>
+  </table>
+
+  <sub><strong>Stanford REAP × CoPaper.AI</strong> · 面向实证研究的产学一体 AI 工具箱</sub>
+
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://copaper.ai"><img src="assets/copaper-qrcode.png" alt="访问 copaper.ai" width="170" /></a><br/>
+        <strong>访问 <a href="https://copaper.ai">copaper.ai</a></strong>
+      </td>
+      <td width="40"></td>
+      <td align="center">
+        <img src="assets/copaper-wechat.jpg" alt="CoPaper.AI 微信" width="170" /><br/>
+        <strong>微信公众号：CoPaper.AI</strong>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  由 <a href="https://copaper.ai"><strong>CoPaper.AI</strong></a> 维护，孵化于 <a href="https://sccei.fsi.stanford.edu/reap"><strong>Stanford REAP / SCCEI</strong></a> · 由 <a href="https://github.com/brycewang-stanford/StatsPAI">StatsPAI</a> 驱动（900+ 函数，MIT）
+</div>

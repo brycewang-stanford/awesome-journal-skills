@@ -4,8 +4,25 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/agent-Claude%20Code-cc785c)](https://github.com/anthropics/claude-code)
 [![Skills](https://img.shields.io/badge/skills-843-cc785c)](#the-skill-packs)
+[![Maintained by CoPaper.AI from Stanford REAP](https://img.shields.io/badge/Maintained%20by-CoPaper.AI%20from%20Stanford%20REAP-blue)](https://copaper.ai)
+[![Powered by StatsPAI](https://img.shields.io/badge/Powered%20by-StatsPAI-orange)](https://github.com/brycewang-stanford/StatsPAI)
 
 English | [简体中文](README.zh-CN.md)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://copaper.ai"><img src="assets/copaper-logo.png" alt="CoPaper.AI" width="240" /></a>
+      </td>
+      <td width="56"></td>
+      <td align="center">
+        <a href="https://sccei.fsi.stanford.edu/reap"><img src="assets/stanford-reap-logo.png" alt="Stanford REAP — Stanford Center on China's Economy & Institutions" width="360" /></a>
+      </td>
+    </tr>
+  </table>
+  <sub><strong>Stanford REAP × CoPaper.AI</strong> · Curated and maintained by Stanford's empirical-methodology team</sub>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skills-843-cc785c?style=for-the-badge" alt="843 agent skills">
@@ -84,6 +101,19 @@ English | [简体中文](README.zh-CN.md)
 A curated index of **journal-specific agent skill packs** for manuscript work — selecting topics, framing the advance, identifying causal effects, formatting tables and figures, preparing replication / data-availability packages, and responding to reviewers. Coverage spans **top social-science journals (Chinese + English)** and **top natural-science and clinical journals (Science, Cell, PNAS, NEJM, The Lancet)** — now extended with a 100-journal **English natural-science breadth bundle** across life sciences, medicine, physics, chemistry, materials, earth science, CS/AI, and mathematics.
 
 Each pack is **journal-specific by design**: it encodes the editorial preferences, formatting conventions, identification standards, and review culture of a single target venue. Generic "scientific writing" skill packs miss these constraints.
+
+## Quick Browsing & Layout Guide
+
+Use the repo in three passes:
+
+| What you see | What it means | Use it when |
+|---|---|---|
+| **Cover cards and root journal folders** like `American-Economic-Review/` or `Jingji-Yanjiu/` | Navigation entries only; they point to the canonical skill location and intentionally do not contain `SKILL.md`. | You are browsing by journal name from the GitHub root. |
+| **Depth packs** like `AER-Skills/`, `Economic-Research-Journal-Skills/`, or `Cell-Skills/` | Full per-venue workflows, usually 9-13 skills covering topic fit, framing, methods, tables, submission, and rebuttal. | You are targeting a flagship venue and need lifecycle help. |
+| **Breadth bundles**: `Chinese-SocialScience-Journal-Skills/`, `English-SocialScience-Journal-Skills/`, `English-NaturalScience-Journal-Skills/` | One lightweight fit-and-house-style skill per journal, plus a router skill for venue selection. | You need broad coverage across 100-journal roadmaps. |
+| **Imported / toolkit packs** like `Nature-Skills/`, `claude-scholar/`, or `codex-claude-academic-skills/` | Curated upstream packs or general academic tooling kept alongside the journal packs. | You need cross-journal research, writing, or workflow support. |
+
+Rule of thumb: start from a root folder or cover card when browsing, use a breadth bundle when choosing between venues, and use a depth pack once the target journal is fixed.
 
 <!-- ROOT-JOURNAL-FOLDERS:START -->
 
@@ -733,7 +763,7 @@ use next for my manuscript targeted at <journal>.
   - [Chinese-SocialScience-Journal-Skills](Chinese-SocialScience-Journal-Skills/) — 102 China econ / management journals
   - [English-SocialScience-Journal-Skills](English-SocialScience-Journal-Skills/) — 100 English econ / finance / management / accounting / marketing / OM / IS journals
   - [English-NaturalScience-Journal-Skills](English-NaturalScience-Journal-Skills/) — 100 English natural-science / clinical / physical / formal-science journals
-- **Per-journal cover cards** for every breadth journal, collapsible cover galleries in both READMEs, and 200 lightweight root entry folders for repo-front browsing.
+- **Per-journal cover cards** for every breadth journal, always-expanded cover galleries in both READMEs, and 200 lightweight root entry folders for repo-front browsing.
 - **Full 12-step depth packs** — 36 first-party venue packs across all three areas (AER and Nature additionally ship as curated submodule packs):
   - **English economics (top-5):** AER (submodule) · QJE · JPE · Econometrica · REStud
   - **English finance (top-3):** Journal of Finance · Journal of Financial Economics · Review of Financial Studies
@@ -1188,6 +1218,58 @@ Natural-science / life-science skill libraries (broad, not journal-specific — 
 
 ---
 
+## Maintainers
+
+This index is curated and maintained by the team behind **[CoPaper.AI](https://copaper.ai)** — an empirical-research AI assistant **incubated by researchers at [Stanford REAP / SCCEI (Stanford Center on China's Economy and Institutions)](https://sccei.fsi.stanford.edu/reap)**. The venue-specific editorial standards encoded across these packs come out of Stanford REAP's empirical-economics methodology and applied causal-inference tradition.
+
+| Layer | Anchor | Role |
+|-------|--------|------|
+| 🏛️ **Academic lineage** | **Stanford REAP / SCCEI** — Stanford Center on China's Economy and Institutions | The empirical-economics methodology and applied causal-inference tradition behind the venue-specific identification and editorial standards encoded here |
+| 🔧 **Engineering delivery** | **[CoPaper.AI](https://copaper.ai)** | Empirical-research AI assistant that turns these journal-specific Skills into an end-to-end, submission-ready manuscript pipeline |
+| ⚙️ **Open-source engine** | **[StatsPAI](https://github.com/brycewang-stanford/StatsPAI)** | The causal-inference engine (900+ functions, MIT-licensed, JOSS in submission) powering CoPaper.AI |
+
+> 💡 **Want it out of the box?** Skip the assembly — try [**→ copaper.ai**](https://copaper.ai) and let the Stanford methodology team run the empirical pipeline end-to-end for you.
+
+---
+
 ## License
 
 MIT
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://copaper.ai"><img src="assets/copaper-logo.png" alt="CoPaper.AI" width="220" /></a>
+      </td>
+      <td width="40"></td>
+      <td align="center">
+        <a href="https://sccei.fsi.stanford.edu/reap"><img src="assets/stanford-reap-logo.png" alt="Stanford REAP" width="320" /></a>
+      </td>
+    </tr>
+  </table>
+
+  <sub><strong>Stanford REAP × CoPaper.AI</strong> · An academic-industrial AI toolkit for empirical research</sub>
+
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://copaper.ai"><img src="assets/copaper-qrcode.png" alt="Visit copaper.ai" width="170" /></a><br/>
+        <strong>Visit <a href="https://copaper.ai">copaper.ai</a></strong>
+      </td>
+      <td width="40"></td>
+      <td align="center">
+        <img src="assets/copaper-wechat.jpg" alt="CoPaper.AI WeChat" width="170" /><br/>
+        <strong>WeChat: CoPaper.AI</strong>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  Maintained by <a href="https://copaper.ai"><strong>CoPaper.AI</strong></a>, incubated at <a href="https://sccei.fsi.stanford.edu/reap"><strong>Stanford REAP / SCCEI</strong></a> · Powered by <a href="https://github.com/brycewang-stanford/StatsPAI">StatsPAI</a> (900+ functions, MIT)
+</div>
