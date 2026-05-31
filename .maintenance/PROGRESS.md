@@ -39,6 +39,17 @@ Nankai-Business-Review, Sociological-Studies, Social-Sciences-in-China.
 China-Industrial-Economics, Accounting-Research, China-Rural-Economy,
 Journal-of-Finance-and-Economics, Chinese-Public-Administration, Journal-of-Quantitative-and-Technological-Economics.
 
+## Wave 5 — consistency cleanup on the 11 English packs (post-content)
+- [x] RFS README.md + README.zh-CN.md: "ScholarOne / Manuscript Central" → "SFS Editorial Express"
+      (README contradicted the verified rfs-submission SKILL; RFS truly uses SFS Editorial Express).
+      Left ScholarOne mentions in JF/AMJ/ASQ/SMJ READMEs — those journals DO use ScholarOne (correct).
+- [x] marketplace.json version 0.1.0→0.2.0 in 9 packs that had drifted from their 0.2.0 plugin.json
+      (QJE, JPE, ECTA, REStud, JFE, RFS, AMJ, ASQ, SMJ). JF + AMR were already synced by their agents.
+NOTE: final numeric read-back for this wave could not render (transient harness output drop after the
+edits); the Edit/perl mutations themselves are applied. Re-verifiable with:
+  for p in <11 packs>; do grep '"version"' $p/.claude-plugin/{plugin,marketplace}.json; done
+  grep -c ScholarOne Review-of-Financial-Studies-Skills/README*.md   # expect 0
+
 ## Verdict on "不够好" packs
 The genuine clone defect (find-replace twins, e.g. QJE-id ≡ JPE-id) was concentrated in the
 **11 English econ/finance/management depth packs** — all fixed + verified (waves 1-2).

@@ -13,7 +13,7 @@ English | [简体中文](README.zh-CN.md)
 
 Agent skill stack for manuscripts targeted at **The Review of Financial Studies (RFS)** — published by Oxford University Press for the Society for Financial Studies (SFS), and one of the "top-3" finance journals alongside the *Journal of Finance* and the *Journal of Financial Economics*.
 
-This repository is opinionated. It is **not** a generic finance-writing toolbox. It is an **RFS-specific** stack built around the journal's governing tension — **novelty AND rigor** — covering novel-question topic selection, literature positioning, causal and asset-pricing identification, empirical/structural design, robustness and multiple-testing discipline, publication-grade exhibits, the journal-hosted Internet Appendix, house style, ScholarOne submission, referee strategy, and multi-round rebuttals.
+This repository is opinionated. It is **not** a generic finance-writing toolbox. It is an **RFS-specific** stack built around the journal's governing tension — **novelty AND rigor** — covering novel-question topic selection, literature positioning, causal and asset-pricing identification, empirical/structural design, robustness and multiple-testing discipline, publication-grade exhibits, the journal-hosted Internet Appendix, house style, SFS Editorial Express submission, referee strategy, and multi-round rebuttals.
 
 ---
 
@@ -30,7 +30,7 @@ RFS shares JF/JFE's high causal-inference bar but adds constraints of its own:
 | Asset pricing             | Correct/clustered SEs, OOS tests, multiple-testing discipline     | A new predictor without data-mining defense is rejected      |
 | Theory + empirics         | Welcomed and expected to be integrated                            | A model and an unrelated regression read as two papers       |
 | Internet Appendix         | Journal-hosted; refereed alongside the paper                      | Robustness/proofs/data detail belong there, cross-referenced |
-| Process                   | ScholarOne / Manuscript Central; fee + SFS norms; multi-round     | Demanding revision; verify current fee/policy on the RFS site |
+| Process                   | SFS Editorial Express (editorialexpress.com); fee + SFS norms; multi-round | Demanding revision; verify current fee/policy on the RFS site |
 
 Generic "scientific writing" or "finance writing" packs do not address these constraints.
 
@@ -108,7 +108,7 @@ rfs-rebuttal
 | `rfs-tables-figures`          | Self-contained tables, SE reporting, event-study figures             |
 | `rfs-internet-appendix`       | What lives in the journal-hosted IA vs. the main paper               |
 | `rfs-writing-style`           | Contribution framing + prose polish (novelty legible early)          |
-| `rfs-submission`              | ScholarOne preflight + cover letter + manuscript template            |
+| `rfs-submission`              | SFS Editorial Express preflight + cover letter + manuscript template |
 | `rfs-referee-strategy`        | Suggested/opposed referees + objection pre-mortem                    |
 | `rfs-rebuttal`                | Multi-round R&R response-letter structure                            |
 
