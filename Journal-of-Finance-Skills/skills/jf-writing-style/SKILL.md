@@ -14,47 +14,36 @@ description: Use when polishing the prose of a The Journal of Finance (JF) manus
 
 ## JF house voice: accessible, precise, general-interest
 
-JF articles are read across asset pricing, corporate finance, banking, microstructure, and household finance. The writing must be **accessible to a finance reader outside your subfield** while staying precise. Lead with economics, not machinery. Move technical depth to the Internet Appendix and let the prose carry the intuition.
+JF is the **AFA flagship**, read across asset pricing, corporate finance, banking, microstructure, and household finance by 8,000+ readers. Writing must be **accessible to a finance reader outside your subfield** while staying precise. The manuscript also faces a **60-page limit** (≥1.5 spacing, 12-pt font), so lead with economics and **offload technical depth to the Internet Appendix** (bundled at the end of the same PDF; see `jf-internet-appendix`) rather than padding the body.
 
 ## The JF introduction (first ~3 pages do the work)
 
-A strong JF introduction, in order:
-1. **The question and why it matters** — concrete, general-interest, one or two paragraphs.
-2. **What you do** — the design / data / test in plain terms.
-3. **What you find** — the headline result with its **economic magnitude** in interpretable units.
-4. **Why it is identified / credible** — one paragraph on the source of variation or the test.
-5. **Contribution** — the closest papers and your specific delta (see `jf-literature-positioning`).
-6. **Roadmap** — brief, if at all.
-
-A reader who stops after page 3 should know the question, the answer, the size of the answer, and why to believe it.
+In order: (1) **the question and why it matters** — general-interest, concrete; (2) **what you do** — design/data/test in plain terms; (3) **what you find** — headline result with its **economic magnitude** in interpretable units; (4) **why it is credible** — the source of variation or the test; (5) **contribution** — the closest papers and your delta (see `jf-literature-positioning`); (6) brief roadmap. A reader who stops at page 3 should know the question, the answer, its size, and why to believe it.
 
 ## Sentence-level discipline
 
-- Prefer the active voice and short declaratives for the main claims.
-- State magnitudes in interpretable units (bps, % of market cap, fraction of the spread, Sharpe gain), not only t-stats.
-- Define notation once; do not re-derive in prose what a table already shows.
-- Cut hedging stacks ("may potentially suggest that it is possible that…") down to one calibrated claim.
-- Replace "significant" (statistical) with the economic interpretation where you mean economic importance.
+- Active voice and short declaratives for main claims.
+- State magnitudes in interpretable units (bps, % of market cap, Sharpe gain), not only t-stats.
+- Define notation once; do not re-derive in prose what a table shows.
+- Cut hedging stacks to one calibrated claim.
+- Use "significant" for economic importance, not as a synonym for the p-value.
 
 ## Checklist
 
-- [ ] Question, finding, and economic magnitude appear within the first ~3 pages
-- [ ] The headline number is in interpretable economic units, not just significance
+- [ ] Question, finding, and economic magnitude in the first ~3 pages
+- [ ] Headline number in interpretable economic units
 - [ ] A non-specialist finance reader could follow the introduction
-- [ ] Heavy notation/derivation lives in the Internet Appendix, not the prose
-- [ ] Active voice and short declaratives carry the main claims
-- [ ] Hedging is calibrated, not reflexive
-- [ ] Tense and terminology are consistent; the abstract matches the introduction's claims
-- [ ] No unexplained jargon from a single subfield
+- [ ] Heavy notation/derivation moved to the Internet Appendix, keeping the body ≤60 pages
+- [ ] Active voice; calibrated (not reflexive) hedging
+- [ ] Abstract matches the introduction's claims
 
 ## Anti-patterns
 
-- An introduction that opens with three paragraphs of literature before the question
-- Reporting "statistically significant at the 1% level" as if it were the finding
+- Opening with three paragraphs of literature before the question
+- Reporting "significant at the 1% level" as if it were the finding
 - Subfield jargon with no plain-language gloss for the broad AFA reader
-- A finding the reader cannot locate without reading the whole results section
-- Over-hedged claims that leave the contribution ambiguous
-- An abstract that promises more than the introduction delivers
+- Padding the body toward the 60-page cap instead of using the Internet Appendix
+- Over-hedged claims that blur the contribution
 
 ## Output format
 
@@ -62,7 +51,7 @@ A reader who stops after page 3 should know the question, the answer, the size o
 【Question+finding+magnitude in first 3 pp?】yes / no
 【Magnitude in economic units?】yes / no
 【Accessible to non-specialist?】yes / no
-【Notation moved to appendix?】yes / no
-【Hedging trimmed?】yes / no
+【Notation moved to Internet Appendix?】yes / no
+【Body ≤60 pp / hedging trimmed?】yes / no
 【Next step】jf-submission
 ```

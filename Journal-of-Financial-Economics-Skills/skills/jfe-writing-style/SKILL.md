@@ -15,7 +15,9 @@ description: Use when the prose of a Journal of Financial Economics (JFE) manusc
 
 ## The JFE register
 
-JFE prose is precise, restrained, and evidence-forward. Because JFE papers are technical and long, clarity is what keeps a referee on your side: every claim is calibrated to the evidence, magnitudes are stated, and the contribution is unmissable in the first page. Overclaiming is punished harder than modest framing. Verify current style/format requirements on the official author guidelines.
+JFE prose is precise, restrained, and evidence-forward. Because JFE papers are technical and long, clarity is what keeps a referee on your side: every claim is calibrated to the evidence, magnitudes are stated, and the contribution is unmissable in the first page. Overclaiming is punished harder than modest framing. The famous JFE papers — **Jensen & Meckling (1976)** and **Fama & French (1993)** — are remembered partly because their central idea is stated plainly and early; write to that standard.
+
+Two hard format facts to write toward (verify on jfinec.com): the **abstract must be 100 words or fewer**, so it has to carry the question, design, headline result, and significance with zero padding; and the manuscript is **double-spaced, 12-pt+, author-date references**, which rewards short, declarative sentences over dense clauses.
 
 ## The introduction (the highest-leverage page)
 
@@ -52,6 +54,8 @@ Lead with results, not with a literature tour.
 - [ ] Headline magnitudes stated in interpretable units
 - [ ] Active voice and concrete subjects predominate
 - [ ] Acronyms defined once; jargon controlled
+- [ ] Abstract is <= 100 words and result-forward
+- [ ] References are author-date (name-year), woven into the argument
 - [ ] Section topic sentences carry the argument when skimmed
 
 ## Anti-patterns

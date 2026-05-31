@@ -14,7 +14,7 @@ description: Use when the related-work framing is the bottleneck for a The Revie
 
 ## How RFS reviewers read positioning
 
-RFS referees and editors are typically the authors of the papers you cite. Positioning is judged on whether you (1) know the *current* frontier, (2) cite the right primary sources rather than secondary surveys, and (3) state a delta that is real and defensible — not rhetorical.
+RFS referees and editors are typically the authors of the papers you cite. The handling editor pool is concrete — Executive Editor Tarun Ramadorai plus editors such as Viral Acharya, Xavier Giroud, Andrey Malenko, Anna Pavlova, Clemens Sialm, David Sraer, and Jessica Wachter — so the person screening an intermediation, household-finance, or asset-pricing paper may well be a primary author in that literature. Positioning is judged on whether you (1) know the *current* frontier, (2) cite the right primary sources rather than secondary surveys, and (3) state a delta that is real and defensible — not rhetorical. When you build on an RFS-defining result (e.g., Brunnermeier–Pedersen 2009 on the liquidity-funding spiral, RFS 22(6)), cite the RFS original, not a later survey that paraphrases it.
 
 The contribution must clear two bars simultaneously:
 - **Against the literature** — what do we now know that we did not before?
@@ -53,6 +53,7 @@ Organize related work by **the question**, not chronologically:
 - [ ] Canonical theory references for each anchor literature are present
 - [ ] The delta is falsifiable, not "we add to the literature on X"
 - [ ] You have not overstated novelty in a way a referee can disprove with one cite
+- [ ] Cross-checked your closest cites against the likely RFS handling-editor's own work (they may referee it)
 
 ## Anti-patterns
 

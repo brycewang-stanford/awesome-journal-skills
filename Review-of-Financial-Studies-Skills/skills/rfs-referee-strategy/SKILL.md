@@ -19,6 +19,7 @@ description: Use when choosing suggested/opposed referees or running an objectio
 - Aim for a balanced slate: not only your closest collaborators' circle, and not only theorists for an empirical paper (or vice versa).
 - **Oppose** referees only with a brief, professional reason (active competing project, prior dispute, direct conflict). Do not over-exclude — editors notice and discount long oppose lists.
 - Never suggest coauthors, advisors/advisees, or same-institution colleagues — these are conflicts the editor will strike.
+- **Do not suggest a current RFS editor as a referee.** Know who handles your area (e.g., Viral Acharya, Xavier Giroud, Andrey Malenko, Anna Pavlova, Clemens Sialm, David Sraer, Jessica Wachter, under Executive Editor Tarun Ramadorai) — your suggested referees should complement, not duplicate, the editor pool.
 - The editor chooses; your list is advisory. Make it easy for them to find qualified, fair referees.
 
 ### B. Objection pre-mortem (the high-value step)
@@ -38,17 +39,23 @@ Anticipate the specific objections an RFS referee will raise and address them *b
 For each likely objection: write the one-paragraph answer now, and make sure the paper (or IA) already contains the evidence that answer points to.
 
 ### Reading the desk-reject vs. send-out signal
-- The most common reason an RFS paper does not get sent out is a perceived novelty shortfall, not a technical flaw. Make the contribution unmissable in the abstract and first two pages.
-- A second common gate is an identification threat the editor can see immediately. Surface your source of variation early so the editor does not assume it is absent.
+An RFS Editor desk-screens before referees ever see the paper. Concrete triggers that draw a desk reject:
+- **Perceived novelty shortfall** — the single most common RFS desk reject. A clean re-run of a known design on new data reads as a field-journal paper. Make the contribution unmissable in the abstract and first two pages.
+- **A visible identification threat** the editor can see immediately. Surface your source of variation early so the editor does not assume it is absent.
+- **Scope mismatch** — out of the journal's financial-economics remit, or better suited to a sibling SFS journal (Review of Asset Pricing Studies, Review of Corporate Finance Studies).
+- **Concurrent submission elsewhere** — RFS prohibits it (the *permitted* exception is the RFS–SFS Cavalcade dual submission, which is not a violation).
+- **No plan to release code** — RFS requires public code release as a condition of publication; signal compliance early.
 - If two strong sub-fields could referee the paper (e.g., asset pricing and intermediation), suggest at least one from each so the editor can triangulate.
+- If results are not yet in hand but the design is strong, the **Registered Reports** (Stage 1) route can pre-empt a "results-driven" desk reject entirely.
 
 ### Cover-letter referee note
-- Keep it to a few sentences: name suggested referees and a one-clause reason each; name opposed referees with a brief professional reason; state there is no dual submission.
+- Keep it to a few sentences: name suggested referees and a one-clause reason each; name opposed referees with a brief professional reason; confirm no concurrent submission elsewhere (note an RFS–SFS Cavalcade dual submission if applicable — that route is permitted).
 
 ## Checklist
 
 - [ ] Suggested referees are sub-field experts who can judge novelty AND rigor
 - [ ] No conflicted names suggested (coauthors, advisors, same institution)
+- [ ] No current RFS editor suggested as a referee
 - [ ] Opposed list is short and professionally justified
 - [ ] Top 5–8 likely objections written out with a planned response
 - [ ] Each anticipated objection has supporting evidence already in the paper/IA

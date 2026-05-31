@@ -1,8 +1,12 @@
 # RFS Manuscript Skeleton
 
-A structural template for a *Review of Financial Studies* submission. Confirm current
-length, format, fee, and data-policy details on the official RFS page — this is a
-structure guide, not a style manual.
+A structural template for a *Review of Financial Studies* submission (OUP for the SFS; SFS
+Editorial Express portal; double-blind). RFS norms: abstract **≤ 100 words**, **Chicago
+Manual of Style author-date** references, double-spaced (≤ 28 lines/page, font ≥ 11), fee
+$260 member / $320 non-member (confirm on sfs.org/submission-fees). RFS requires **public
+release of all code** as a condition of publication, and offers two routes JF/JFE do not:
+**Registered Reports** (Stage 1 design review) and **SFS Cavalcade dual submission**. This is
+a structure guide, not a style manual.
 
 ## Title page (separate, non-anonymized file)
 
@@ -14,7 +18,8 @@ structure guide, not a style manual.
 ## Anonymized manuscript
 
 ### Abstract
-- One paragraph. Lead with the **question** and the **headline finding (with magnitude)**.
+- One short paragraph, **≤ 100 words** (RFS returns longer abstracts).
+- Lead with the **question** and the **headline finding (with magnitude)**.
 - State the design and data in a clause; end with the contribution/implication.
 - No undefined acronyms; do not open with "The literature has long debated...".
 
@@ -61,17 +66,19 @@ structure guide, not a style manual.
 
 ### References
 - Every in-text citation appears here and vice versa.
-- Cite recent RFS/JF/JFE work and canonical theory; follow the current RFS reference style.
+- Cite recent RFS/JF/JFE work and canonical theory; use **Chicago Manual of Style author-date** references.
 
 ## Internet Appendix (separate file)
 - IA.A Proofs / full derivations
 - IA.B Data construction and variable definitions
 - IA.C Full robustness battery (cross-referenced from the main text by IA number)
 - IA.D Additional figures and extended tables
-- Data and code availability statement (consistent with current RFS policy)
+- Data-and-code availability statement + structure of the public code release (RFS condition of publication)
 
 ## Cover letter (separate)
 - The question, the contribution, and why it fits RFS (novelty + rigor).
 - The closest RFS/JF/JFE papers and the delta vs. each.
-- Prior presentations / working-paper version; conflict disclosures; no dual submission.
-- Suggested and opposed referees.
+- Prior presentations / working-paper version / any SFS Cavalcade submission.
+- Conflict disclosures; no concurrent submission elsewhere (RFS–Cavalcade dual submission is the permitted exception).
+- If code cannot be publicly released, the reason (per RFS policy).
+- Suggested and opposed referees (no current RFS editor among suggested).

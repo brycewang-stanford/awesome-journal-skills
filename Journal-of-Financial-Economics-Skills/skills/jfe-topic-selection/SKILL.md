@@ -14,7 +14,9 @@ description: Use when scoping or framing a topic for a Journal of Financial Econ
 
 ## What JFE rewards
 
-JFE (Elsevier; one of the top-3 finance journals) publishes rigorous, methodologically demanding **empirical** corporate finance and asset pricing, plus the financial-economics theory that supports them. The durable preference: a clean economic question, answered with a credible design and exhaustive evidence. Verify current scope, section editors, and any registered-report option on the journal's official page.
+JFE (Elsevier; North-Holland; ISSN 0304-405X; founded 1974 by Michael C. Jensen) is one of the top-3 finance journals and publishes rigorous, methodologically demanding **empirical** corporate finance and asset pricing, plus the financial-economics theory that supports them. Its stated scope centers on **capital markets, financial institutions, corporate finance, corporate governance, and the economics of organizations**. The durable preference: a clean economic question, answered with a credible design and exhaustive evidence.
+
+The two JFE best-paper prizes signal the two halves of the journal's taste: the **Jensen Prize** (best corporate-finance / organizations paper) and the **Fama-DFA Prize** (best asset-pricing / capital-markets paper). Aim a JFE submission at the kind of paper that could plausibly compete for one of them. (Editor-in-Chief Toni M. Whited, Michigan, since 2021; verify current scope on jfinec.com.)
 
 Fit test — answer all four before proceeding:
 
@@ -34,8 +36,10 @@ State the contribution as 2–4 explicit sentences for the introduction:
 
 ## Corporate finance vs. asset pricing framing
 
-- **Corporate finance:** lead with the causal question and the identifying variation (a shock, a discontinuity, an instrument). The contribution is usually "credible causal effect of X on corporate outcome Y, plus mechanism."
-- **Asset pricing:** lead with the economic source of the return pattern and how you discipline inference. The contribution is usually "a return predictor/factor that is real after correct standard errors, out-of-sample, and multiple-testing scrutiny," or a mechanism for a known anomaly.
+- **Corporate finance (Jensen-Prize territory):** lead with the causal question and the identifying variation (a shock, a discontinuity, an instrument). The contribution is usually "credible causal effect of X on corporate outcome Y, plus mechanism." The agency-cost lens of **Jensen & Meckling (1976, JFE)** is the lineage your governance/financing question sits in.
+- **Asset pricing (Fama-DFA territory):** lead with the economic source of the return pattern and how you discipline inference. The contribution is usually "a return predictor/factor that is real after correct standard errors, out-of-sample, and multiple-testing scrutiny," or a mechanism for a known anomaly. The factor-model tradition of **Fama & French (1993, JFE)** and **Banz (1981, JFE, the size effect)** sets the bar a new factor must clear.
+
+> Reminder: a famous result is not automatically a JFE result. **Carhart (1997)** momentum-persistence is a *Journal of Finance* paper, not JFE — do not position against it as if it were the JFE house lineage.
 
 ## Checklist
 
@@ -44,7 +48,8 @@ State the contribution as 2–4 explicit sentences for the introduction:
 - [ ] Named the closest 3–5 papers this would sit beside and how it differs
 - [ ] Plausible identification or inference path exists (not "OLS + controls")
 - [ ] The result would survive an exhaustive robustness battery
-- [ ] Honest read on whether JFE, JF, or RFS is the best home
+- [ ] The paper could credibly compete in its Jensen-Prize (corp fin) or Fama-DFA (asset pricing) lane
+- [ ] Honest read on whether JFE, JF, or RFS is the best home — and worth the non-refundable US$850 submission fee
 
 ## Anti-patterns
 

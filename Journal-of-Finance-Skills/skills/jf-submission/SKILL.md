@@ -1,6 +1,6 @@
 ---
 name: jf-submission
-description: Use when running the final pre-submission preflight for The Journal of Finance (JF) — Manuscript Central / ScholarOne portal, submission fee and AFA membership, formatting, anonymity, Internet Appendix, and disclosure statements.
+description: Use when running the final pre-submission preflight for The Journal of Finance (JF) — the AFA online portal, the tiered submission fee, the 60-page limit, the bundled Internet Appendix, code sharing, and disclosure statements.
 ---
 
 # Pre-Submission Preflight (jf-submission)
@@ -8,65 +8,59 @@ description: Use when running the final pre-submission preflight for The Journal
 ## When to trigger
 
 - "We're submitting tomorrow" — the last check before the submit button
-- Unsure which files and statements the portal expects
-- Unsure about the submission fee / AFA-membership norms
+- Unsure which files and statements the AFA portal expects
+- Unsure about the submission fee tier or whether a cover letter is needed
 
-> ACCURACY NOTE: fees, membership rules, formatting limits, and editor lists change. The items below are **durable norms**. Verify the current specifics on the official JF / AFA author pages before submitting.
+> ACCURACY NOTE: fees, limits, and editor lists change. Verify current specifics on afajof.org/submissions before submitting. The numbers below were taken from the AFA submission page (accessed 2026-05-30); the JF Submission Guidelines PDF is Rev. March 12, 2024.
 
-## Submission logistics (verify current details)
+## Submission logistics (JF-specific)
 
-- JF submissions go through **Manuscript Central / ScholarOne** (the AFA's electronic system).
-- JF normally charges a **submission fee**, often reduced or waived for **AFA members** — confirm the current amount and any membership requirement on the official page.
-- The handling structure is an **Editor plus Associate Editors**; expect a demanding, multi-round review. Do not name or assume specific current editors — check the masthead.
-- Decisions and reviews are returned through the portal; turnaround can be long.
+- JF submissions go through the **AFA's online submission system** (afajof.org/submissions); the fee is paid by credit card (Visa / MasterCard / Amex) as part of the submission.
+- **Tiered submission fee by author economy and AFA membership** (high-income: **AFA member $400, non-member $525**; middle-income: **$100 / $150**; low-income: **no fee**). All authors must reside in a low/middle-income country to qualify for the reduced/zero tier.
+- **Refund policy**: a flat **$200** is returned on a desk rejection (high-income; not for resubmissions of previously rejected papers); the **entire fee is refunded if the first decision takes more than 100 days**. Applies to the first submission only.
+- **Editor: Antoinette Schoar (MIT)**, with Co-Editors (e.g., Kogan, Lewellen, Philippon, Sunderam) and 50+ Associate Editors, plus a **Data Editor (Hong Ru)**. Verify the current masthead.
 
-## Formatting (confirm against current author guidelines)
+## Cover letter (JF norm — usually skip it)
 
-- [ ] Manuscript double-spaced, generous margins, numbered pages
+- JF explicitly states **a cover letter is usually NOT necessary**. Include one **only** for specific information: a **request for exemption from the code-sharing policy**, or a conflict of interest among editors/AEs/referees. If you have nothing specific, do not attach one.
+
+## Formatting (confirm against current guidelines)
+
+- [ ] Manuscript **no more than 60 pages**, **at least 1.5 line spacing**, **12-point font**
 - [ ] Title page with abstract and JEL codes; keywords as requested
 - [ ] References in the journal's style; every in-text citation appears in the list and vice versa
-- [ ] Tables and figures numbered with the journal's running scheme; each self-contained
+- [ ] Tables/figures numbered with the journal's running scheme; each self-contained
 - [ ] Standard-error/clustering conventions stated in every table note
-- [ ] File formats and size limits per the portal's current requirements
 
-## Internet Appendix
+## Internet Appendix (JF-specific placement)
 
-- [ ] Internet Appendix prepared as a separate file (proofs, secondary tables, extra robustness)
-- [ ] Every Internet Appendix item is referenced from the main text
-- [ ] Appendix uses IA numbering consistent with the main text
+- [ ] Internet Appendix placed **at the END of the same PDF** (not a separate upload), with **"Internet Appendix"** on its first page
+- [ ] It **does not count toward the 60-page limit**
+- [ ] Every IA item is referenced from the main text; main text is self-contained
 
-## Anonymity / blinding (if the current process requires it)
+## Code, disclosures & statements
 
-- [ ] Author-identifying content removed from the manuscript body
-- [ ] Self-citations phrased neutrally ("a prior study (Author, 2022)") not "our earlier work"
-- [ ] Acknowledgments / grant info kept off the blinded manuscript
-- [ ] File metadata scrubbed of author names
-
-## Disclosures & statements
-
-- [ ] Conflict-of-interest / disclosure statement prepared (AFA/JF expects disclosure of relevant financial interests)
-- [ ] Data-availability / replication statement prepared; replication package ready to share on acceptance
-- [ ] Funding and acknowledgments drafted (added to the non-blinded version)
-- [ ] Suggested / opposed reviewers prepared if the portal asks (see `jf-referee-strategy`)
+- [ ] Disclosure statement prepared (AFA disclosure policy: relevant financial interests)
+- [ ] **Replication code** ready — the **Data and Code Sharing Policy (in force since Sept 2016; current rev. 1 April 2024)** requires code with the final accepted version, published in Supplementary Information and checked by the Data Editor
+- [ ] Funding/acknowledgments drafted; suggested/opposed reviewers if asked (see `jf-referee-strategy`)
 
 ## Anti-patterns
 
-- Submitting without checking the **current** fee / membership rule and getting bounced
-- An Internet Appendix with tables the main text never cites
-- Leaving author identity in metadata or self-citations after blinding
-- Missing the disclosure statement (a known JF/AFA requirement)
-- References in a generic reference-manager default rather than the journal's style
-- Forgetting that the replication package will be required and not having it ready
+- Attaching a cover letter with no specific purpose (JF says skip it)
+- Submitting a paper over 60 pages and counting the Internet Appendix against the limit
+- Uploading the Internet Appendix as a separate file instead of bundling it in the same PDF
+- Treating code sharing as optional — JF's Data Editor verifies it at acceptance
+- Quoting an old fee tier without checking afajof.org/submissions
 
 ## Output format
 
 ```
-【Portal】Manuscript Central / ScholarOne — account ready: yes/no
-【Fee / membership verified on official page?】yes / no
-【Formatting per current guidelines?】yes / no
-【Internet Appendix attached + all items cited?】yes / no
-【Anonymity (if required) clean?】yes / no
-【Disclosure + data-availability statements ready?】yes / no
+【Portal】AFA online submission system — account ready: yes/no
+【Fee tier (member/economy) confirmed?】yes / no — $amount
+【≤60 pp, 1.5 spacing, 12pt?】yes / no
+【Internet Appendix bundled in same PDF + all items cited?】yes / no
+【Cover letter only if needed (exemption/COI)?】yes / no
+【Disclosure + replication code ready?】yes / no
 【Next step】jf-referee-strategy → (after decision) jf-rebuttal
 ```
 

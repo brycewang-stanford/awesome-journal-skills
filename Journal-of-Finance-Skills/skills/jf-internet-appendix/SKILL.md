@@ -1,6 +1,6 @@
 ---
 name: jf-internet-appendix
-description: Use when deciding what belongs in the journal-hosted Internet Appendix vs. the main text of a The Journal of Finance (JF) manuscript. Allocates content and structures the appendix; it does not generate the results.
+description: Use when deciding what belongs in the Internet Appendix vs. the main text of a The Journal of Finance (JF) manuscript. Allocates content and structures the appendix per JF's actual policy; it does not generate the results.
 ---
 
 # Internet Appendix (jf-internet-appendix)
@@ -8,13 +8,19 @@ description: Use when deciding what belongs in the journal-hosted Internet Appen
 ## When to trigger
 
 - The main text is bloated with proofs, secondary robustness tables, or data-construction detail
-- A referee will ask for more checks but the article is already long
-- You are unsure what JF expects to live in the journal-hosted Internet Appendix
+- A referee will ask for more checks but the article is near the 60-page limit
+- You are unsure how JF wants the Internet Appendix submitted and hosted
 - The main result is buried on page 40 behind diagnostics
 
-## Why JF has an Internet Appendix
+## JF's actual Internet Appendix policy
 
-JF favors **accessible, somewhat shorter** articles. The journal hosts an online **Internet Appendix** so technical depth does not crowd the printed paper. The main text carries the question, the design, the headline results, and the decisive robustness; everything else moves online. This is a JF hallmark — use it deliberately, not as a dumping ground.
+The "Internet Appendix" is a **JF convention** (JF helped popularize it). JF's specifics differ from generic "online appendices":
+
+- **At submission, the Internet Appendix is placed at the END of the same PDF as the manuscript — NOT uploaded as a separate file.** Put the title **"Internet Appendix"** at the top of its first page so it is not mistaken for a regular appendix.
+- The Internet Appendix **does not count toward JF's 60-page manuscript limit** (manuscript: ≤60 pp, ≥1.5 spacing, 12-pt font).
+- The **paper must be self-contained**: a reader must understand the study in full **without** consulting the Internet Appendix.
+- **On acceptance**, the appendix is published as the **Internet Appendix with the online article on the publisher's (Wiley) site**.
+> Source: afajof.org/submissions and the JF Submission Guidelines (Rev. March 12, 2024), accessed 2026-05-30.
 
 ## What goes where
 
@@ -28,41 +34,37 @@ JF favors **accessible, somewhat shorter** articles. The journal hosts an online
 | Alternative measures / extra subsamples / extra factor models  |           |         X         |
 | Monte Carlo / simulation evidence                              |           |         X         |
 | Additional figures, summary-stat breakdowns                    |           |         X         |
-| Replication notes (code/data availability statement)           |   brief   |     pointer       |
 
 ## Structuring the Internet Appendix
 
 - Mirror the main-text section order; label tables `IA.I`, `IA.II`, … and figures `IA.1`, `IA.2`, ….
 - Every appendix item must be **referenced from the main text** ("see Internet Appendix Table IA.IV") — orphan tables read as padding.
 - Keep each appendix table self-contained, same note conventions as the main exhibits (`jf-tables-figures`).
-- Proofs: state the proposition, then the proof, in the same numbering as the main text.
-- Do not introduce a *new* main result only in the appendix — the appendix supports, it does not surprise.
+- Note: replication **code** is handled separately under JF's Data and Code Sharing Policy (Supplementary Information at acceptance), not via the Internet Appendix — see `jf-submission`.
 
 ## Checklist
 
-- [ ] Main text keeps only question, design, headline results, decisive robustness, and economic magnitude
+- [ ] Internet Appendix is at the END of the same PDF, titled "Internet Appendix"
+- [ ] Main text is self-contained and ≤60 pages on its own
 - [ ] All proofs/derivations are in the Internet Appendix, not interleaved in the body
 - [ ] Every Internet Appendix item is cited from the main text
-- [ ] Appendix tables/figures use the journal's IA numbering and the same note conventions
-- [ ] Data-construction detail is brief in the body, full in the appendix
+- [ ] IA numbering and note conventions match the main exhibits
 - [ ] No genuinely new headline finding appears only in the appendix
-- [ ] Code/data availability statement points to where the replication package lives
 
 ## Anti-patterns
 
+- Uploading the Internet Appendix as a separate file (JF wants it bundled in the same PDF at submission)
+- Writing a body that cannot be understood without the appendix (JF requires self-containment)
 - Treating the Internet Appendix as a junk drawer of uncited tables
-- Leaving long proofs in the main text "so referees see the rigor" — move them online
-- A 70-page main article with the key table deep inside it
-- Numbering appendix exhibits inconsistently with the main text
-- Hiding a result that should be in the paper inside the appendix to dodge a length limit
+- Padding the body past 60 pages and pushing core results into the appendix to dodge the limit
 
 ## Output format
 
 ```
-【Main-text length OK?】yes / no
+【IA bundled at end of same PDF + titled?】yes / no
+【Body self-contained and ≤60 pp?】yes / no
 【Proofs relocated?】yes / no
 【All IA items cited from body?】yes / no
-【Orphan appendix tables】[...]
 【New result hidden in appendix?】yes / no
 【Next step】jf-writing-style
 ```

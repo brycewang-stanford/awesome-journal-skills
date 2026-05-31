@@ -7,77 +7,45 @@ description: Use when finalizing tables and figures for a The Journal of Finance
 
 ## When to trigger
 
-- The main tables have too many columns / too much information density
-- Tables show t-statistics inconsistently, or omit the standard-error correction in the note
-- Figures are low-resolution, over-plotted, or pasted screenshots of Stata/R output
-- A referee or copy editor will say a table "cannot be read without the text"
+- Tables/figures are drafted but notes, units, or formatting are inconsistent
+- A reader cannot interpret an exhibit without hunting through the text
+- You are aligning main-text exhibits with Internet Appendix exhibits
 
-## JF exhibit norms
+## JF norm: self-contained, accessible exhibits
 
-JF articles are general-interest and somewhat shorter; main exhibits must be **few, clean, and self-contained**. A reader should understand each table or figure from its title, headers, and note alone. Deep diagnostic tables move to the Internet Appendix (`jf-internet-appendix`).
+JF is general-interest and prizes accessibility. Each exhibit must be **self-contained**: a reader from another subfield should understand it from its caption and notes alone. Because the manuscript faces a **60-page limit** (≥1.5 spacing, 12-pt font), keep only **decisive** exhibits in the body and send the rest to the **Internet Appendix** (bundled at the end of the same PDF, labeled `IA.*`, not counted against 60 pages; see `jf-internet-appendix`).
 
-### Table structure (clean, no vertical rules)
+## Exhibit standards
 
-```
-Table III. Effect of the Reform on Firm Leverage
------------------------------------------------------------------
-                          (1)        (2)        (3)
-                       Leverage   Leverage   Leverage
------------------------------------------------------------------
-Treat x Post           0.041***   0.038***   0.040***
-                       (0.012)    (0.011)    (0.013)
-  Controls                No         Yes        Yes
-  Firm FE                 Yes        Yes        Yes
-  Year FE                 Yes        Yes        Yes
-  Observations          48,210     48,210     48,210
-  Adjusted R^2           0.61       0.64       0.65
------------------------------------------------------------------
-Standard errors clustered by firm in parentheses.
-***, **, * denote significance at 1%, 5%, 10%.
-```
-
-### Conventions
-- Report standard errors in parentheses (not t/z) and state the clustering / correction in the note.
-- Significance via `***/**/*`, defined in the note.
-- Keep columns to what the reader needs; do not stack a dozen specifications in one main table.
-- One reported R²/pseudo-R² is enough — do not pile on AIC/BIC/within-R².
-- Table caption above; note below. Number with the journal's running scheme (e.g., Roman numerals as JF uses).
-- For asset-pricing tables, label test assets, weighting (EW/VW), breakpoints, and the factor model used as controls.
-
-## Figure norms
-
-- Vector or ≥300 dpi; legible at print size.
-- A small, restrained palette; distinguishable in greyscale where feasible.
-- Each figure self-contained: axis labels, units, sample, and source/note.
-- Common JF figures: event-study coefficient plots with CIs; cumulative long-short returns; sorted-portfolio mean returns; binned scatter / RDD plots.
-- Do not over-plot: a few series, clearly labeled, beat ten overlapping lines.
+- **Numbering**: JF uses Roman numerals for tables (Table I, II, …) and Arabic for figures (Figure 1, 2, …); the Internet Appendix mirrors this as `IA.I`, `IA.1`. Keep the schemes consistent.
+- **Notes state the inference**: sample, period, units, and the **standard-error/clustering convention** belong in every table note.
+- **Economic units**: report magnitudes in interpretable units (bps, % of market cap, Sharpe gain), consistent with JF's general-interest voice.
+- **No orphan exhibits**: every table/figure (body or IA) is referenced from the text.
 
 ## Checklist
 
-- [ ] Each main table/figure is self-contained (readable from caption + note alone)
-- [ ] Standard-error type and clustering/correction stated in every table note
-- [ ] No vertical rules; clean horizontal-rule layout; consistent decimals
-- [ ] Columns limited to what supports the claim; diagnostics pushed to the Internet Appendix
-- [ ] Asset-pricing tables state weighting, breakpoints, test assets, and benchmark factors
-- [ ] Figures are vector/≥300 dpi, legible in greyscale, with units and source
-- [ ] Table/figure numbering matches in-text references exactly
+- [ ] Each exhibit interpretable from caption + notes alone
+- [ ] Table notes state sample, period, units, and SE/clustering
+- [ ] Magnitudes in economic units, not just stars/t-stats
+- [ ] JF numbering scheme (Table I…, Figure 1…) and matching `IA.*` in the appendix
+- [ ] Only decisive exhibits in the body; rest in the Internet Appendix
+- [ ] Body stays within 60 pages
 
 ## Anti-patterns
 
-- A 12-column main table no one can parse
-- Reporting t-stats in some tables and SEs in others
-- Omitting the clustering level from the note ("a referee cannot tell how you got the SEs")
-- Pasting raw Stata/R output as an image
-- A figure with five line styles, five colors, and a paragraph-length legend
-- Tables whose magnitudes are never interpreted in the text
+- A table whose meaning is unclear without three paragraphs of text
+- Significance stars with no economic magnitude
+- Missing SE/clustering convention in the note
+- Body crowded with exhibits that belong in the Internet Appendix, breaching the 60-page limit
+- Inconsistent numbering between body and appendix
 
 ## Output format
 
 ```
-【Main exhibits】X tables / Y figures
-【Self-contained?】yes / no
-【SE note present in all tables?】yes / no
-【Greyscale-legible figures?】yes / no
-【Diagnostics moved to appendix?】yes / no
-【Next step】jf-internet-appendix
+【All exhibits self-contained?】yes / no
+【Notes state SE/clustering + units?】yes / no
+【Magnitudes in economic units?】yes / no
+【JF numbering consistent (Table I.. / IA.*)?】yes / no
+【Decisive-only in body, ≤60 pp?】yes / no
+【Next step】jf-writing-style
 ```

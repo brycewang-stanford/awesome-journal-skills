@@ -3,70 +3,55 @@ name: jf-rebuttal
 description: Use when drafting the response to a The Journal of Finance (JF) revise-and-resubmit (or addressing a reject-with-comments). Structures the response letter and revision plan after the manuscript is revised.
 ---
 
-# R&R Rebuttal (jf-rebuttal)
+# Rebuttal & Response Letter (jf-rebuttal)
 
 ## When to trigger
 
-- A JF decision letter arrived: revise-and-resubmit, or reject with substantive comments
-- You have referee reports and the Editor/Associate-Editor letter and must respond point by point
-- You need to convert reviewer demands into a revision plan and a response letter
+- A JF **revise-and-resubmit (R&R)** has arrived and you must respond
+- You are deciding whether/how to answer a reject-with-encouragement
+- The revision is drafted and you need to map every editor/referee point to a change
 
-> Order matters: **revise the manuscript and Internet Appendix first**, then write the response describing what you changed. Do not draft the letter against an unrevised paper.
+## A JF R&R is rare — treat it accordingly
 
-## Read the decision letter's hierarchy first
+With **~5% acceptance** and **~33–45% desk rejection** (afajof.org editor reports, accessed 2026-05-30), an R&R from JF is precious. The path to acceptance runs through the **handling editor** (currently the team led by **Antoinette Schoar (MIT)** — verify the masthead): the **editor's letter, not any single referee, defines what acceptance requires**. Address the editor's framing first and most fully.
 
-JF decisions come from an Editor and Associate Editor on top of the referee reports. Their letter signals which points are **binding** (must address to be reconsidered) versus referee comments you may push back on with evidence. Map every comment to: (a) the AE/Editor priorities, and (b) whether you will **comply**, **comply partially**, or **respectfully decline with justification**.
+## Structure
 
-## Response-letter structure
+- **To the editor**: summarize the main changes and how you met the editor's synthesis of the decision.
+- **Per-referee, per-point**: restate each point, then state exactly what changed and **where** (section/table/Internet Appendix), quoting revised text where useful.
+- **Disagreements**: handle respectfully with evidence; never ignore a point — explain if you chose not to change something.
 
-1. **Opening** — thank the Editor, AE, and referees; summarize the 3–4 most important changes in a short paragraph so a busy editor sees the headline upgrades.
-2. **Point-by-point** — for every comment:
-   - Quote the comment (verbatim or faithfully paraphrased).
-   - State the action: changed / added analysis / clarified / respectfully disagree.
-   - Point to the **exact location** ("new Table IV; Section 4.2; Internet Appendix Table IA.VII").
-   - Where you disagree, give evidence and a courteous rationale — never dismissive.
-3. **New results** — if you added robustness, identification, or out-of-sample tests, summarize them and where they live (often the Internet Appendix).
-4. **Summary of changes** — optional table mapping comment → change → location.
+## JF-specific moves
 
-## Handling common JF demands
-
-| Referee demand                                   | Constructive response                                                |
-|--------------------------------------------------|----------------------------------------------------------------------|
-| "Address endogeneity"                            | Add/strengthen the design; show placebo and parallel trends; if no design is feasible, bound the bias and scope the claim |
-| "This could be multiple testing"                 | Disclose the search; report an adjusted hurdle; add out-of-sample evidence |
-| "Does it survive value-weighting / FF5 / q?"     | Add the requested specifications; if the effect weakens, report honestly and reinterpret |
-| "The paper is too long"                          | Move depth to the Internet Appendix; tighten the introduction         |
-| "Economic significance is unclear"               | Re-express magnitudes in interpretable units throughout                |
-| A demand you believe is wrong                    | Push back with evidence and respect; offer an alternative analysis     |
+- Route substantial new robustness to the **Internet Appendix** (bundled at the end of the same PDF; does not count toward 60 pages; see `jf-internet-appendix`) and say so explicitly — this matches JF norms and keeps the body lean.
+- Keep the body within the **60-page limit** after revisions.
+- Update **disclosure** and ensure **replication code** is ready for the Data Editor under JF's Data and Code Sharing Policy (see `jf-submission`); near acceptance the code is verified before publication.
+- Use the cover-letter channel only for specifics (e.g., a code-exemption request) — JF does not want a generic letter.
 
 ## Checklist
 
-- [ ] Manuscript and Internet Appendix are revised before the letter is written
-- [ ] Every single comment is answered — none skipped or merged away
-- [ ] Each response cites the exact location of the change
-- [ ] AE/Editor priorities are clearly addressed and visibly prioritized
-- [ ] Disagreements are evidence-based and courteous, not dismissive
-- [ ] New analyses are summarized and located (main text vs. Internet Appendix)
-- [ ] Tone is collegial throughout; the letter reads as good-faith engagement
-- [ ] A change-summary table is included if the report set is large
+- [ ] Editor's points ranked and addressed first
+- [ ] Every referee point tabulated with response + location of change
+- [ ] New robustness placed in the Internet Appendix and cross-referenced
+- [ ] Body still ≤60 pages after revision
+- [ ] Disagreements handled with evidence, none ignored
+- [ ] Replication code / disclosure updated for the Data Editor
 
 ## Anti-patterns
 
-- Writing the letter against an unrevised manuscript
-- Answering only the easy comments and quietly ignoring the hard one
-- Defensive or dismissive replies to referees ("the referee misunderstands…")
-- Claiming you made a change without pointing to where it is
-- Adding new claims in the response that are not reflected in the revised paper
-- Overlooking that the AE/Editor letter outranks individual referee preferences
+- Optimizing for one referee while missing the editor's central concern
+- Burying or ignoring a referee point
+- Adding robustness without telling referees it lives in the Internet Appendix
+- Letting the revision push the body past 60 pages
+- Forgetting the code-sharing obligation surfaces at acceptance
 
 ## Output format
 
 ```
-【Decision】R&R / reject-with-comments
-【AE/Editor binding points】[...]
-【Comments addressed】X / X
-【Comply / partial / decline counts】.../.../...
-【New analyses + location】[...]
-【Manuscript & IA revised before letter?】yes / no
-【Next step】resubmit via Manuscript Central / ScholarOne (jf-submission for portal mechanics)
+【Editor's central concern + how met】...
+【All referee points tabulated?】yes / no
+【New robustness → Internet Appendix + cited?】yes / no
+【Body ≤60 pp?】yes / no
+【Code/disclosure ready for Data Editor?】yes / no
+【Next step】resubmit via the AFA portal
 ```

@@ -16,6 +16,8 @@ description: Use when drafting the response to a Journal of Financial Economics 
 
 JFE typically runs multiple demanding rounds. Referees expect that every comment is taken seriously and that requested analyses are actually run, not deflected. The response letter is judged almost as closely as the paper: it must be complete, respectful, and evidence-backed. Do the work first, then write the letter — never draft replies to comments you have not actually addressed.
 
+Two JFE specifics shape the revision: (1) a revise-and-resubmit carries **no submission fee** (only initial submissions pay the US$850), so resubmitting promptly costs nothing but your time; (2) the handling editor is a subfield expert under Editor-in-Chief Toni M. Whited's small co-editor team, so the editor's letter — not any single referee — is the controlling document. Substantial new robustness goes into the appended Internet Appendix and the updated **Mendeley Data** code/data package.
+
 ## Structure of the response
 
 ### 1. A short cover note to the editor
@@ -68,5 +70,5 @@ For each comment:
 【New analyses run】[...] (location: main / IA)
 【Change map included】yes/no
 【Editor's points handled first】yes/no
-【Next】resubmit via the editorial system; if accepted, prepare final files
+【Next】resubmit via editorialmanager.com/finec (no fee for R&R); if accepted, prepare final files + Mendeley Data deposit
 ```

@@ -10,65 +10,52 @@ description: Use when designing or stress-testing an asset-pricing test for a Th
 - You have a candidate predictor / anomaly / factor and must decide how to test it
 - You are unsure whether to run Fama–MacBeth, time-series factor regressions, or a panel
 - You report t-stats but have not addressed the standard-error subtleties of cross-sectional asset pricing
-- A referee will ask "is this just data mining / does it survive multiple testing / does it work out of sample?"
+- A referee will ask "is this data mining / does it survive multiple testing / does it work out of sample?"
 
-> Scope: this skill is for **asset-pricing tests** (cross-section of returns, factor models, predictability). For corporate / empirical causal effects, route to `jf-identification`.
+> Scope: this skill is for **asset-pricing tests**. For corporate/empirical causal effects, route to `jf-identification`.
 
 ## Choosing the test
 
 | Goal                                            | Workhorse design                                            |
 |-------------------------------------------------|-------------------------------------------------------------|
 | Does characteristic X price the cross-section?  | Fama–MacBeth cross-sectional regressions + portfolio sorts  |
-| Is a candidate factor priced / spanned?         | Time-series regressions; GRS test; spanning regressions vs. established factors |
-| Compare competing factor models                 | Alphas of test assets; max-Sharpe / Hansen–Jagannathan distance; model comparison tests |
-| Does a signal predict returns?                  | Predictive regressions + portfolio long-short; in- and out-of-sample R² (Campbell–Thompson) |
-| Panel with firm/time variation                  | Panel regression with appropriate fixed effects and clustering |
+| Is a candidate factor priced / spanned?         | Time-series regressions; GRS test; spanning vs. established factors |
+| Compare competing factor models                 | Alphas of test assets; max-Sharpe / HJ distance; model comparison |
+| Does a signal predict returns?                  | Predictive regressions + long-short; in/out-of-sample R² (Campbell–Thompson) |
+| Panel with firm/time variation                  | Panel with appropriate fixed effects and clustering         |
 
-Pair regression evidence with **portfolio sorts**: JF readers expect both the economically interpretable spread (a tradable long-short return and its Sharpe ratio / alpha) and the regression coefficient.
+## JF-specific standards
 
-## Standard errors — get these right
-
-- **Fama–MacBeth** SEs with a **Shanken correction** when betas are estimated (errors-in-variables).
-- **Newey–West** (or Hansen–Hodrick) for overlapping returns / autocorrelated series; justify the lag length.
-- **Two-way clustering** (firm and time) for panels where both dimensions have correlated residuals.
-- Report which correction is used and why; do not present naive OLS SEs for predictive or overlapping data.
-
-## Multiple-testing & out-of-sample discipline
-
-JF is acutely sensitive to factor / anomaly data mining. Address it head-on:
-
-- Cite and apply the multiple-testing logic of Harvey, Liu & Zhu, "…and the Cross-Section of Expected Returns" — a t-stat of 2.0 is not enough when the predictor was chosen from many candidates.
-- Report a **higher hurdle** (e.g., Bonferroni / FDR-adjusted, or the elevated t-thresholds in the multiple-testing literature) when the signal was selected from a pool.
-- Provide **out-of-sample** evidence: a holdout period, a different market / asset class, or post-publication data.
-- Pre-empt "this is in-sample overfitting" by showing the result is not driven by a single decade, a microcap tail, or one industry.
+JF asset-pricing referees engage the JF-published canon — **Sharpe (1964) CAPM, Fama–French (1992), Jegadeesh–Titman (1993) momentum, Carhart (1997)** — and expect you to benchmark against the right factors (recall the FF three-factor model is JFE 1993). They also expect:
+- **Errors-in-variables / Shanken correction** on Fama–MacBeth standard errors where betas are estimated.
+- **Multiple-testing discipline**: a new anomaly must survive the "factor zoo" critique (Harvey, Liu & Zhu, JF) — adjusted t-thresholds, not the naive 1.96.
+- **Out-of-sample** evidence for predictability claims, not just in-sample fit.
+- **Economic magnitude** (Sharpe gain, alpha in bps), since JF writes for a general-interest reader.
+- Exhaustive specifications go to the **Internet Appendix** (bundled in the same PDF; see `jf-internet-appendix`), keeping the body within 60 pages.
 
 ## Checklist
 
-- [ ] Test type is justified by the economic question (sorts + FM, time-series alphas, spanning, predictive)
-- [ ] Portfolio sorts AND regressions are both reported; the long-short spread has an economic magnitude (return, Sharpe, alpha)
-- [ ] Standard errors use the correct correction (Shanken / Newey–West / two-way clustering) and it is stated
-- [ ] Factor exposures are controlled against the relevant established model (e.g., CAPM, Fama–French 3/5-factor, momentum, q-factor)
-- [ ] Multiple-testing is addressed when the signal came from a search
-- [ ] Out-of-sample / subperiod / size-bucket robustness is shown
-- [ ] Microcap and illiquidity concerns are handled (value-weighting, NYSE breakpoints, exclude penny stocks)
+- [ ] Test matched to the question (FM / time-series / panel)
+- [ ] Standard errors correct for the design (Shanken, NW, clustering)
+- [ ] New factor/anomaly survives a multiple-testing-adjusted threshold
+- [ ] Out-of-sample check for any predictability claim
+- [ ] Benchmarked against the standard factor models, attributed correctly
+- [ ] Economic magnitude reported, not just t-stats
 
 ## Anti-patterns
 
-- Reporting only the best-performing signal out of many with a naive t > 2
-- A long-short return that survives only in equal-weighted microcaps
-- Ignoring errors-in-variables (no Shanken correction) in two-pass cross-sectional tests
-- Overlapping long-horizon returns with OLS standard errors
-- A "new factor" that is spanned by existing factors once you regress it on them
-- Claiming predictability with strong in-sample R² but no out-of-sample test
+- Reporting raw t > 1.96 as decisive after mining many signals (the factor-zoo trap)
+- Fama–MacBeth t-stats with no EIV/Shanken adjustment
+- In-sample-only predictability dressed up as a discovery
+- Crowding every robustness table into the body instead of the Internet Appendix
 
 ## Output format
 
 ```
-【Test type】FM / time-series alpha / spanning / predictive / panel
-【Economic magnitude】long-short return / Sharpe / alpha = ...
-【SE correction】Shanken / Newey–West / two-way cluster
-【Benchmark model】CAPM / FF3 / FF5+MOM / q-factor
-【Multiple-testing handled?】yes / no
-【Out-of-sample evidence】[...]
+【Test chosen + why】...
+【SE correction (Shanken/NW/cluster)】...
+【Multiple-testing threshold cleared?】yes / no
+【Out-of-sample evidence?】yes / no
+【Economic magnitude】...
 【Next step】jf-robustness
 ```

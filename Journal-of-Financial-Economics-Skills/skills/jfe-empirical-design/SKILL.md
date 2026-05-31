@@ -15,7 +15,7 @@ description: Use when settling the measurement and estimation choices of a Journ
 
 ## The JFE design bar
 
-JFE is known for nuts-and-bolts methodological rigor. Referees scrutinize measurement, estimator choice, standard errors, and inference discipline line by line. The goal is a design that a skeptical expert cannot dismantle on technical grounds. Verify any current data-and-code availability requirements on the official author guidelines.
+JFE is known for nuts-and-bolts methodological rigor. Referees scrutinize measurement, estimator choice, standard errors, and inference discipline line by line. The goal is a design that a skeptical expert cannot dismantle on technical grounds. This is the journal that published **Fama & French (1993), "Common risk factors in the returns on stocks and bonds"** (the three-factor model), **Fama & French (2015), "A five-factor asset pricing model,"** and **Banz (1981), the size effect** — so an asset-pricing referee benchmarks your construction against that lineage directly. The best capital-markets paper each year wins JFE's **Fama-DFA Prize**; write to that standard. Code and non-proprietary data are mandatory at acceptance (Mendeley Data; see jfe-submission), so build a reproducible pipeline from the start.
 
 ## Asset pricing
 
@@ -25,9 +25,9 @@ JFE is known for nuts-and-bolts methodological rigor. Referees scrutinize measur
 - Report turnover and whether the strategy survives plausible transaction costs.
 
 ### Cross-sectional inference
-- **Fama–MacBeth:** report Newey–West / Shanken-corrected standard errors; state lags.
+- **Fama–MacBeth:** report Newey–West / Shanken-corrected standard errors; state lags. (Note Fama-MacBeth itself originates in *JPE* 1973; the factor-model machinery it serves is JFE's home turf via Fama-French.)
 - **GMM / SDF:** state moment conditions, weighting matrix, and over-identification (J-test).
-- Report alphas against standard factor models (e.g., CAPM, FF3, FF5, q-factor) — not a single benchmark.
+- Report alphas against the **Fama-French** benchmarks — CAPM, FF3, FF5 — plus momentum/q-factor where relevant, and show your factor survives **spanning regressions** against them. A single-benchmark alpha will not satisfy a JFE asset-pricing referee.
 
 ### Inference discipline
 - **Out-of-sample:** show the predictor holds out of sample or in a holdout period.

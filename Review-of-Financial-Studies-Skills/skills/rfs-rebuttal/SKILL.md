@@ -15,7 +15,11 @@ description: Use after a decision letter (R&R or reject-and-resubmit) on a The R
 
 ## RFS revision reality
 
-RFS runs a **demanding multi-round review**. An R&R is an opportunity, not an acceptance: the editor and referees expect substantive responses, new analysis where warranted, and a manuscript that is visibly better. The response letter is judged as carefully as the paper.
+RFS runs a **demanding multi-round review** under a handling Editor (within the editor pool led by Executive Editor Tarun Ramadorai). An R&R is an opportunity, not an acceptance: the editor and referees expect substantive responses, new analysis where warranted, and a manuscript that is visibly better. The response letter is judged as carefully as the paper.
+
+**Two RFS-specific revision situations:**
+- **Registered Report Stage 2.** If the paper received Stage 1 in-principle acceptance, the Stage 2 review checks *adherence to the pre-registered protocol*, not whether results are "interesting." Your response letter must map each pre-specified analysis to its result and flag — transparently — any deviation and why. Adding unplanned analyses is fine but must be labeled exploratory, not slipped in as confirmatory.
+- **Code-release at revision.** RFS makes public code release a condition of publication. Use the revision rounds to get the replication package clean; referees may re-run it. Do not defer this to post-acceptance.
 
 ## Response-letter structure
 
@@ -48,6 +52,8 @@ RFS runs a **demanding multi-round review**. An R&R is an opportunity, not an ac
 - [ ] Disagreements are evidence-based and offer an alternative test
 - [ ] Conflicting referee demands surfaced and resolved transparently
 - [ ] Revision-text convention used so changes are easy to locate
+- [ ] For a Registered Report: every pre-specified analysis mapped to result; deviations flagged; new analyses labeled exploratory
+- [ ] Replication package updated and runnable (RFS code-release condition)
 - [ ] No comment left unaddressed
 
 ## Anti-patterns
@@ -62,10 +68,11 @@ RFS runs a **demanding multi-round review**. An R&R is an opportunity, not an ac
 ## Output format
 
 ```
-【Decision】R&R / reject-and-resubmit
+【Decision】R&R / reject-and-resubmit / Registered Report Stage 2
 【Editor priorities】[the 2–3 things the editor most wants]
 【Comment ledger】[referee#-comment# → addressed / partial / pushed-back → location]
-【New analyses】[run + incorporated]
+【New analyses】[run + incorporated; label exploratory vs. confirmatory if a Registered Report]
+【Code package】updated + runnable? yes/no
 【Open risks】[comments that may not satisfy]
 【Status】response letter ready / manuscript revised? yes/no
 ```

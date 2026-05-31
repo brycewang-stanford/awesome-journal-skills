@@ -17,6 +17,10 @@ description: Use when results may be fragile or when multiple-testing / out-of-s
 
 RFS punishes **fragile results** and, in cross-sectional asset pricing, **undisciplined multiple testing**. Build the battery proactively — a result that only the authors can reproduce in one specification is treated as no result.
 
+Two RFS-specific mechanisms raise the bar above JF/JFE:
+- **Public code release is a condition of publication.** Referees and post-publication readers can and do re-run your code. A robustness claim you cannot reproduce from the released code is a liability, not a footnote — design the battery so the released scripts regenerate every check.
+- **Registered Reports neutralize the multiple-testing critique by construction.** Because RFS offers **pre-results review** (the format it pioneered in finance), pre-specifying the hypothesis and the test *before* seeing outcomes is the strongest possible answer to "you data-mined this." Even outside the Registered Report track, pre-specification is the RFS-preferred defense. The q-factor spanning logic of Hou, Xue, and Zhang (2015) "Digesting Anomalies" (RFS 28(3)) is a model for confronting the anomaly zoo head-on.
+
 ### A. General-fragility battery (all empirical papers)
 - **Alternative specifications**: different FE, control sets, functional forms — show the coefficient is stable.
 - **Alternative measures**: re-estimate with an alternative proxy for the key variable.
@@ -51,6 +55,7 @@ RFS punishes **fragile results** and, in cross-sectional asset pricing, **undisc
 - [ ] Placebo or falsification test included
 - [ ] For asset-pricing claims: multiple-testing adjustment + out-of-sample test reported
 - [ ] Spanning tests against standard factor models (if a factor claim)
+- [ ] Every robustness check regenerable from the code RFS will require you to release publicly
 - [ ] Robustness tables sized for the Internet Appendix, not the main paper
 
 ## Anti-patterns

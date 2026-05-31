@@ -15,6 +15,8 @@ description: Use when sample construction, estimator choice, factor/portfolio de
 
 ## Design decisions that make or break an RFS empirical paper
 
+RFS publishes design-defining empirical templates referees will hold you to — e.g., the q-factor construction in Hou, Xue, and Zhang (2015) "Digesting Anomalies" (RFS 28(3)) and the variance-risk-premium measure in Bollerslev, Tauchen, and Zhou (2009) (RFS 22(11)). Two RFS-specific pressures sharpen every choice below: (1) the **public code-release condition** means every filter and construction step must be reproducible by a stranger, not just described; (2) the **Registered Reports** option means a design can be locked at Stage 1, so pre-specify wherever you can.
+
 ### 1. Sample construction
 - State the universe, the time span, and **every** filter, with the resulting N at each step (a sample-attrition table).
 - Justify the start/end dates by data availability or regime, not convenience.
@@ -51,7 +53,8 @@ description: Use when sample construction, estimator choice, factor/portfolio de
 - [ ] Estimator matches the question; benchmark estimator also reported
 - [ ] FE structure justified; no bad controls
 - [ ] SE clustering / adjustment matches the data-generating structure
-- [ ] Design choices are pre-committed where possible, not chosen ex post
+- [ ] Every filter/construction step is reproducible from the to-be-released code (RFS condition)
+- [ ] Design choices are pre-committed where possible (Stage-1-ready), not chosen ex post
 
 ## Anti-patterns
 

@@ -14,7 +14,9 @@ description: Use when organizing the journal-hosted Internet Appendix for a Jour
 
 ## Why the Internet Appendix matters at JFE
 
-JFE hosts an Internet Appendix where exhaustive robustness, proofs, additional tests, and detailed methodology live. Given JFE's robustness-heavy culture, a deep, well-organized appendix is expected — it is where the "every alternative ruled out" work is documented without making the main paper unreadable. JFE has also at times experimented with registered reports; treat that as an option to verify on the official page, not a fixed rule.
+JFE hosts an Internet Appendix where exhaustive robustness, proofs, additional tests, and detailed methodology live. Given JFE's robustness-heavy culture, a deep, well-organized appendix is expected — it is where the "every alternative ruled out" work is documented without making the main paper unreadable.
+
+**JFE specifics (verify on jfinec.com):** the journal's submission instructions ask that any online/internet appendix be **attached to the end of the main manuscript file** at submission, rather than uploaded as a wholly separate document. Number it as its own IA series regardless. Keep the Internet Appendix conceptually distinct from the **replication package** (code + non-proprietary data deposited to Mendeley Data at acceptance, mandatory for papers submitted on/after 1 July 2021) — the appendix holds *results and proofs*, the deposit holds *code and data*.
 
 ## What belongs in the Internet Appendix
 
@@ -44,9 +46,10 @@ JFE hosts an Internet Appendix where exhaustive robustness, proofs, additional t
 - [ ] Proofs and granular derivations are in the appendix, not the body
 - [ ] Headline robustness kept in main text; the long tail moved out
 - [ ] Appendix exhibits numbered in their own IA series
+- [ ] Appendix appended to the end of the main manuscript file (JFE practice)
 - [ ] Appendix exhibits are self-contained (titles + notes)
 - [ ] Reporting conventions match the main text
-- [ ] Required code/data deposit prepared separately (verify current rule)
+- [ ] Mendeley Data code/data deposit prepared separately (mandatory for post-2021 submissions)
 
 ## Anti-patterns
 
@@ -63,6 +66,7 @@ JFE hosts an Internet Appendix where exhaustive robustness, proofs, additional t
 【Moved to IA】proofs / robustness / construction / extra results
 【Pointer audit】all "untabulated"/"see IA" claims resolve? yes/no
 【IA numbering】IA series applied? yes/no
-【Code/data deposit】prepared separately? (verify rule)
+【IA placement】appended to main file (JFE practice)? yes/no
+【Code/data deposit】Mendeley Data package prepared separately? yes/no
 【Next】jfe-writing-style
 ```

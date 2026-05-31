@@ -14,7 +14,9 @@ description: Use when a Journal of Financial Economics (JFE) result needs the ex
 
 ## Why robustness is JFE's signature
 
-JFE's referee culture rewards thoroughness: a result is credible only after it survives a wide battery of sensible alternatives, and reviewers expect *every* alternative explanation to be addressed, not merely the convenient ones. A fragile result that breaks under a routine variation is a classic JFE rejection. The headline tests live in the main text; the rest go to the Internet Appendix (see `jfe-internet-appendix`).
+JFE's referee culture rewards thoroughness: a result is credible only after it survives a wide battery of sensible alternatives, and reviewers expect *every* alternative explanation to be addressed, not merely the convenient ones. A fragile result that breaks under a routine variation is a classic JFE rejection. The headline tests live in the main text; the rest go to the Internet Appendix, which JFE asks you to append to the end of the main manuscript file (see `jfe-internet-appendix`).
+
+Because JFE mandates a **code + non-proprietary-data deposit** (Mendeley Data) at acceptance for post-2021 submissions, your robustness battery must be *runnable*, not just described — referees increasingly probe reproducibility after the field-wide concerns about non-replicable factors (the Fama-French factor lineage is the benchmark) and fragile staggered-DID results.
 
 ## The robustness dimensions
 

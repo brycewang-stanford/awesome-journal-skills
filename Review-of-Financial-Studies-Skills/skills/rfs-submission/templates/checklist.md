@@ -1,7 +1,13 @@
 # RFS Pre-Submission Checklist
 
-Verify journal-specific limits (word count, fee, file formats, data policy) on the official
-RFS page at submission time — the items below capture durable norms, not fixed numbers.
+RFS submits via the **SFS Editorial Express portal** (editorialexpress.com, from
+sfs.org/review-of-financial-studies/submit-a-paper) — not ScholarOne. Verified RFS norms:
+submission fee **$260 SFS member / $320 non-member** (waived for conditionally accepted
+current-year members and for low-income economies; first round waived for invited Cavalcade
+dual submissions), abstract **≤ 100 words**, **Chicago Manual of Style author-date**
+references, manuscript double-spaced (≤ 28 lines/page, font ≥ 11). Confirm current figures
+on sfs.org/submission-fees. The **public code-release condition** is an official RFS
+requirement, not a durable-norm guess.
 
 ## 1. Format & anonymization (double-blind)
 
@@ -23,7 +29,7 @@ RFS page at submission time — the items below capture durable norms, not fixed
 - [ ] Abstract leads with the question and the headline finding (with magnitude)
 - [ ] Keywords present
 - [ ] JEL classification codes present
-- [ ] Abstract within the journal's length limit (verify)
+- [ ] Abstract is **≤ 100 words** (RFS returns longer abstracts)
 
 ## 4. Manuscript structure
 
@@ -52,15 +58,17 @@ RFS page at submission time — the items below capture durable norms, not fixed
 ## 7. References & Internet Appendix
 
 - [ ] Every in-text citation appears in the reference list and vice versa
+- [ ] References in Chicago Manual of Style author-date format
 - [ ] Recent (last ~3 years) RFS/JF/JFE work cited; canonical theory cited
 - [ ] Internet Appendix prepared as a separate file, cross-referenced by IA number
-- [ ] Data and code availability statement consistent with current RFS policy (verify)
+- [ ] Public code-release package planned (RFS condition of publication); exception, if any, explained in cover letter
 
-## 8. Portal (ScholarOne / Manuscript Central)
+## 8. Portal (SFS Editorial Express)
 
-- [ ] Account and ORCID verified
+- [ ] Account verified
 - [ ] Cover letter states the RFS-specific novelty and names close competitors
-- [ ] Suggested / opposed referees prepared (no conflicts among suggested)
-- [ ] Submission fee handling confirmed (amount/policy verified on site)
-- [ ] All files staged: manuscript, title page, Internet Appendix, cover letter, code/data
-- [ ] No dual submission; related submissions disclosed
+- [ ] Suggested / opposed referees prepared (no conflicts; no current RFS editor among suggested)
+- [ ] Submission fee handled; SFS-member rate ($260 vs. $320) used / waiver applied if eligible
+- [ ] Route chosen: standard / Registered Report (Stage 1) / SFS Cavalcade dual submission
+- [ ] All files staged: manuscript, title page, Internet Appendix, cover letter, replication code
+- [ ] No concurrent submission elsewhere (the RFS–SFS Cavalcade dual submission is the permitted exception)

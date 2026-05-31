@@ -14,44 +14,41 @@ description: Use when the introduction and related-work sections of a The Journa
 
 ## JF norm: position, do not survey
 
-JF introductions are short and lead with the question and finding. The literature is woven into the **contribution paragraph(s)** of the introduction, not parked in a long standalone "Literature Review" chapter. A general-interest reader should leave the introduction knowing: the question, the answer, the magnitude, and exactly how it differs from the closest work.
+JF introductions are short and lead with the question and finding. The literature is woven into the **contribution paragraph(s)**, not parked in a standalone "Literature Review" chapter. A general-interest AFA reader should leave the introduction knowing the question, the answer, the magnitude, and exactly how it differs from the closest work.
+
+## Engage JF's own canon
+
+JF has published much of finance's foundational work; reviewers expect you to engage the right anchors and **attribute to the correct top-3 journal**:
+- **Sharpe (1964)** CAPM — JF.
+- **Jensen (1968)** mutual-fund performance — JF.
+- **Fama & French (1992)**, "The Cross-Section of Expected Stock Returns" — **JF**.
+- **Jegadeesh & Titman (1993)**, momentum — **JF**.
+- **Carhart (1997)**, four-factor mutual-fund persistence — **JF**.
+- Caution: the **Fama–French three-factor model (1993) is in JFE, not JF** — cite it to JFE. Mis-attributing canon to the wrong top-3 journal signals carelessness to JF editors.
 
 ## Contribution-paragraph template
 
-Write 2–4 sentences, each pinning the paper to a strand:
+> "We contribute to the literature on **[strand 1]** ([Anchor1], [Anchor2]). Those papers establish [X]; we show [the new thing], using [the new variation / data / test]. We also speak to **[strand 2]** … by [the second contribution]."
 
-> "We contribute to the literature on **[strand 1]** (e.g., [Anchor1], [Anchor2]). Those papers establish [X]; we show [the new thing], using [the new variation / data / test]. We also speak to **[strand 2]** … by [the second contribution]."
-
-Rules:
-- Name the **closest** papers, not a citation dump. JF rewards precision over breadth here.
-- For each strand, state what prior work established **and** the specific delta you add.
-- Distinguish a **new fact**, a **new mechanism/identification**, and a **new method** — say which one you are claiming.
-
-## Coverage map (fill before drafting)
-
-| Strand the paper touches | Anchor papers (closest 2–3) | What they show | Your delta |
-|--------------------------|------------------------------|----------------|------------|
-| Primary strand           |                              |                |            |
-| Secondary strand         |                              |                |            |
-| Method / data strand     |                              |                |            |
+Rules: name the **closest** papers, not a dump; for each strand state prior result **and** your specific delta; classify the contribution as a **new fact, new mechanism/identification, or new method**.
 
 ## Checklist
 
-- [ ] The contribution paragraph names the closest 3–5 papers, not 30
-- [ ] For each strand: prior result + your specific delta is stated
-- [ ] You classify the contribution: new fact vs. new mechanism vs. new method
-- [ ] You have pre-empted the "already known" objection by citing the nearest rival and distinguishing it
-- [ ] Foundational asset-pricing / corporate-finance references are present where relevant (e.g., Fama–French factor work; the multiple-testing critique in cross-sectional asset pricing — Harvey, Liu & Zhu, "…and the Cross-Section of Expected Returns")
-- [ ] Recent JF/JFE/RFS papers on the exact topic are cited (editors notice omissions of their own journal)
-- [ ] No self-citation padding; no citing only your own working papers
+- [ ] Contribution paragraph names the closest 3–5 papers, not 30
+- [ ] For each strand: prior result + your specific delta
+- [ ] Contribution classified: new fact vs. mechanism vs. method
+- [ ] Nearest rival pre-empted (cited and distinguished)
+- [ ] Foundational JF/JFE references present and attributed to the correct journal (e.g., FF 1992 = JF; FF three-factor 1993 = JFE)
+- [ ] The multiple-testing critique in cross-sectional asset pricing (Harvey, Liu & Zhu) cited where relevant
+- [ ] Recent JF papers on the exact topic cited (editors notice omissions of their own journal)
 
 ## Anti-patterns
 
-- A chronological literature list with no synthesis or delta
-- Citing a survey instead of the primary papers a referee will have in mind
-- Omitting the obvious nearest rival (reads as either ignorance or evasion)
-- "To the best of our knowledge, no paper has…" without having checked recent JF/JFE/RFS issues
-- Claiming a "new method" when it is a standard estimator applied to new data
+- A chronological list with no synthesis or delta
+- Citing a survey instead of the primary papers a referee has in mind
+- Mis-attributing canon (e.g., the FF three-factor model) to JF instead of JFE
+- "To the best of our knowledge…" without checking recent JF issues
+- Claiming a "new method" when it is a standard estimator on new data
 
 ## Output format
 
@@ -60,6 +57,6 @@ Rules:
 【Marginal contribution (1 sentence)】...
 【Contribution type】new fact / new mechanism / new method
 【Nearest rival pre-empted?】yes / no — [paper]
-【Missing key cites】[...]
+【Canon attributed to correct journal?】yes / no
 【Next step】jf-identification (corporate/empirical) or jf-empirical-design (asset pricing)
 ```

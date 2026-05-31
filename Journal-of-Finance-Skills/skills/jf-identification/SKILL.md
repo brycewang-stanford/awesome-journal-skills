@@ -7,72 +7,52 @@ description: Use when the causal-identification strategy is the bottleneck for a
 
 ## When to trigger
 
-- The empirical core is OLS + controls and a referee will say "this is endogenous"
-- DID uses two-way fixed effects but does not address staggered-adoption / heterogeneous-treatment bias
-- IV first stage is weak, or the exclusion restriction is asserted rather than argued
-- You claim a treatment is "exogenous" without a research design behind it
+- The paper makes a causal claim ("X causes Y") resting on a research design
+- You rely on an instrument, a shock, a discontinuity, or a diff-in-diff and a referee will attack the exclusion/parallel-trends assumption
+- Endogeneity (reverse causality, omitted variables, selection) threatens the headline result
 
-> Scope: this skill is for **corporate / empirical finance** causal claims. For cross-sectional or time-series **asset-pricing tests**, route to `jf-empirical-design`.
+> Scope: corporate / empirical causal effects. For cross-sectional asset-pricing tests use `jf-empirical-design`.
 
-## What JF rewards (strong → weak)
+## JF's bar for identification
 
-1. **Natural experiment / policy shock** with a clean source of variation (regulatory change, court ruling, plausibly exogenous reform)
-2. **Regression discontinuity** at a sharp institutional threshold (index inclusion cutoffs, covenant triggers, voting thresholds)
-3. **Difference-in-differences** with a credible control group and modern estimators for staggered timing
-4. **Instrumental variables** with an instrument whose exclusion restriction is defended on institutional grounds
-5. **Matching / selection-on-observables** — accepted only with a strong design narrative and sensitivity analysis
-6. OLS + rich fixed effects + a candid endogeneity discussion — only when the question is descriptive or no design is feasible
+JF is the AFA flagship, general-interest, with a ~5% acceptance rate and ~33–45% desk rejection (afajof.org editor reports, accessed 2026-05-30). For a corporate/empirical paper, **credible identification is usually the binding constraint** — a clever question with a weak design is a classic JF desk reject. The design must convince a broad AFA readership, not just specialists.
 
-## Branch paths
+## Design audit
 
-### Branch A — Natural experiment / DID
-- Is treatment timing staggered? If so, address heterogeneous-treatment bias: Goodman-Bacon decomposition; estimators from Callaway & Sant'Anna, Sun & Abraham, or de Chaisemartin & D'Haultfœuille.
-- Parallel-trends evidence: event-study plot with pre-period coefficients and 95% CIs.
-- Placebo / falsification: pseudo-treatment dates and pseudo-treated units.
-- Is the shock plausibly unrelated to the firms' pre-existing trajectory? Argue it, do not assert it.
+| Design                 | Core assumption to defend                     | Standard JF attack to pre-empt                 |
+|------------------------|-----------------------------------------------|------------------------------------------------|
+| Natural experiment     | Shock is plausibly exogenous & well-timed     | Anticipation; confounding co-occurring events  |
+| Instrumental variables | Relevance + exclusion                         | "Why does the instrument affect Y only via X?" |
+| Diff-in-diff           | Parallel trends; no differential shocks       | Pre-trends; staggered-adoption bias            |
+| RDD                    | No manipulation; continuity at the cutoff     | Bunching; bandwidth sensitivity                |
 
-### Branch B — Regression discontinuity
-- Density / manipulation test at the cutoff (McCrary or Cattaneo-Jansson-Ma).
-- Optimal bandwidth (Calonico-Cattaneo-Titiunik) plus several bandwidths as sensitivity.
-- Covariate continuity at the threshold; no jumps in predetermined characteristics.
-
-### Branch C — Instrumental variables
-- First-stage F well above conventional weak-IV thresholds; if weak, report Anderson-Rubin / weak-IV-robust CIs.
-- Exclusion restriction argued on three legs: theory, institutional detail, and a falsification test.
-- Report the reduced form, not just 2SLS.
-- Defend the instrument's own exogeneity (why it does not belong in the outcome equation).
-
-### Branch D — Matching / selection-on-observables
-- Show covariate balance after matching.
-- Report a sensitivity bound (e.g., Oster's δ for selection on unobservables; Rosenbaum bounds).
-- Be explicit that this is the weakest design and frame claims accordingly.
+- State the **source of variation** in one sentence in the introduction (JF rewards a clearly named shock or instrument).
+- Show the **identifying assumption** is testable where possible (pre-trends, first-stage F, McCrary test) and put the full battery in the **Internet Appendix** (bundled in the same PDF; see `jf-internet-appendix`).
+- Report **economic magnitude**, since JF writes for a general-interest reader.
 
 ## Checklist
 
-- [ ] The identifying variation is named and its exogeneity is argued, not assumed
-- [ ] Parallel trends / density / covariate-balance test appropriate to the design is reported
-- [ ] Placebo / falsification test is included
-- [ ] Standard errors are clustered at the level of treatment assignment (and two-way where relevant)
-- [ ] Staggered DID uses a modern estimator, not bare TWFE
-- [ ] Economic magnitude of the estimated effect is interpreted, not just its sign and significance
-- [ ] Anticipation / pre-trends and spillover to controls are addressed
+- [ ] Source of identifying variation named in one sentence
+- [ ] Exclusion / parallel-trends / continuity assumption explicitly defended
+- [ ] First-stage strength (IV) or pre-trend evidence (DID) shown
+- [ ] Modern estimators used where staggered adoption applies
+- [ ] Confounders and anticipation effects addressed
+- [ ] Magnitude interpreted, not just significance
 
 ## Anti-patterns
 
-- TWFE on staggered treatment with no discussion of heterogeneous-treatment bias
-- "Lagged endogenous variable as instrument" — a referee will ask why the lag is excludable
-- Asserting "the shock is exogenous to firm decisions" with no evidence
-- RDD with a single ad hoc bandwidth and no manipulation test
-- Reporting only significance while the implied magnitude is economically trivial
+- A causal verb ("increases", "causes") with only conditional correlations behind it
+- An instrument with a hand-waved exclusion restriction
+- Two-way fixed-effects DID on staggered adoption with no modern correction
+- A clever question whose design no broad-readership editor would send out
 
 ## Output format
 
 ```
-【Design】natural experiment / DID / RDD / IV / matching
-【Identifying variation】...
-【Tests done】[parallel trends, placebo, first-stage F, density, balance, ...]
-【Tests missing】[...]
-【Clustering level】...
-【Economic magnitude stated?】yes / no
+【Design】NE / IV / DID / RDD
+【Source of variation (1 sentence)】...
+【Key assumption + how defended】...
+【Main threat pre-empted?】yes / no
+【Magnitude】...
 【Next step】jf-robustness
 ```

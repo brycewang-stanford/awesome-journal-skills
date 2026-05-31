@@ -16,7 +16,7 @@ description: Use as a late-stage polish when prose, contribution framing, or the
 
 ## How RFS papers read
 
-The best RFS papers make the **new question and the answer legible in the first two pages**. Reviewers decide early whether the paper is novel and credible; the writing's job is to make both obvious without overselling. RFS welcomes theory + empirics, so the prose must integrate them, not present a model and then an unrelated regression.
+The best RFS papers make the **new question and the answer legible in the first two pages**. An RFS Editor desk-screens before referees, so the contribution must land before page three or risk a desk reject. RFS welcomes theory + empirics, so the prose must integrate them, not present a model and then an unrelated regression — Brunnermeier and Pedersen (2009, RFS 22(6)) is a model of a tight theory→prediction→evidence arc. Two hard RFS house-style rules bind the writing: the **abstract must be ≤ 100 words** (RFS returns longer abstracts), and references follow **Chicago Manual of Style author-date** format. A long, literature-first abstract is both off-house-style and over the word limit.
 
 ### The introduction formula (RFS-style)
 1. **Hook**: the first-order question and why it matters now (one paragraph).
@@ -30,6 +30,7 @@ The best RFS papers make the **new question and the answer legible in the first 
 - Lead with the question and the finding, not the literature.
 - State the design and the headline magnitude.
 - End with the contribution / implication.
+- Keep it tight — the RFS abstract is capped at **100 words** (longer abstracts are returned). Every word must earn its place.
 - No undefined acronyms; no "we study the relationship between."
 
 ### Prose discipline
@@ -48,6 +49,7 @@ The best RFS papers make the **new question and the answer legible in the first 
 - [ ] Claims are calibrated to the strength of the evidence (no overselling)
 - [ ] Jargon and acronyms defined on first use; no undefined symbols
 - [ ] Hedging reduced; active voice; one idea per sentence
+- [ ] Abstract ≤ 100 words; references in Chicago Manual of Style author-date format
 
 ## Anti-patterns
 

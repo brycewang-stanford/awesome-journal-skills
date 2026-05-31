@@ -15,7 +15,7 @@ description: Use when the exhibits of a Journal of Financial Economics (JFE) man
 
 ## JFE exhibit standards
 
-JFE tables are dense but disciplined. Each main exhibit should make one clear point and be self-contained: a reader should grasp it from the title, column headers, and notes alone. Because JFE papers are long and robustness-heavy, ruthless triage between main-text and Internet-Appendix exhibits is part of the craft. Verify the current formatting and exhibit-count expectations on the official author guidelines.
+JFE tables are dense but disciplined. Each main exhibit should make one clear point and be self-contained: a reader should grasp it from the title, column headers, and notes alone. Because JFE papers are long and robustness-heavy, ruthless triage between main-text and Internet-Appendix exhibits is part of the craft. The overflow goes to the online appendix that JFE asks you to **append to the end of the main manuscript file** (see jfe-internet-appendix). Manuscripts are submitted **double-spaced, 12-pt+, with >= 1-inch margins**, so dense tables must still read at that scale. Verify current formatting on jfinec.com.
 
 ## Table craft
 
@@ -49,7 +49,9 @@ JFE tables are dense but disciplined. Each main exhibit should make one clear po
 - [ ] Economic magnitudes shown where interpretation requires them
 - [ ] Table notes are self-contained (sample, definitions, SEs, stars)
 - [ ] Figures carry argument, have CI bands/units, and work in grayscale
-- [ ] Main-text vs. Internet-Appendix exhibit split is deliberate
+- [ ] Exhibits are legible at double-spaced, 12-pt+ submission formatting
+- [ ] Main-text vs. Internet-Appendix exhibit split is deliberate; overflow appended to the main file
+- [ ] Every table/figure is reproducible from the Mendeley Data code deposit
 
 ## Anti-patterns
 

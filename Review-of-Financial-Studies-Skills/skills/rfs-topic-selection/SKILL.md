@@ -24,17 +24,19 @@ RFS prizes both. Score the idea on both axes before investing in empirics.
 
 **Rigor axis — can it be established cleanly?** The answer must survive `rfs-identification` and `rfs-robustness`. Novelty without a credible research design is a desk-reject risk; rigor on a stale question is a field-journal paper.
 
+**RFS-only consideration — the Registered Reports route.** RFS was the **first journal in finance/economics to offer Registered Reports** (pre-results review; G. Andrew Karolyi's 2014 editorial "Kick-Starting the Review Process," RFS 27(2)). If your question is important but the answer is genuinely uncertain — exactly the case where a "null" result would still be informative — consider the Registered Report path: the design is reviewed and granted **in-principle acceptance before results are known**, removing the incentive to manufacture significance. This is a topic-selection lever JF and JFE do not offer. A question whose value depends on the sign of the result is a weak Registered Report; a question whose value holds regardless of the answer is ideal.
+
 ## RFS-favored frontiers (durable, verify current calls for papers)
 
 RFS has been notably open to:
+- **Intermediary asset pricing & liquidity spirals** — balance-sheet constraints, dealers, funding. RFS published the canonical Brunnermeier–Pedersen (2009) "Market Liquidity and Funding Liquidity" (RFS 22(6)).
+- **Cross-sectional asset pricing & anomaly digestion** — e.g., Hou, Xue, and Zhang (2015) "Digesting Anomalies: An Investment Approach" (RFS 28(3), the q-factor model) and Bollerslev, Tauchen, and Zhou (2009) "Expected Stock Returns and Variance Risk Premia" (RFS 22(11)).
 - **Fintech / digital finance** — platforms, marketplace lending, crypto market microstructure, AI in finance.
 - **Climate / sustainable finance** — physical and transition risk, ESG pricing, green capital allocation.
-- **Intermediary asset pricing** — balance-sheet constraints, dealers, shadow banking.
 - **Household & behavioral finance** — consumption, mortgages, retail investors, belief formation.
-- **Market microstructure & financial technology of trading.**
 - **Theory tightly integrated with empirics** — RFS welcomes structural and model-driven papers, not just reduced-form.
 
-This is a durable orientation, not a fixed list. Check the RFS site for current special issues, registered-report-style initiatives, and editor calls before anchoring a framing on them.
+This is a durable orientation, not a fixed list. Check the RFS site for current special issues, Registered Report calls, and editor priorities before anchoring a framing on them.
 
 ## Contribution claim template
 
@@ -54,6 +56,7 @@ Draft three to five explicit contribution sentences for the introduction:
 - [ ] The contribution is *not* "we re-run a known design on a new sample"
 - [ ] Theory and empirics are mutually reinforcing, not bolted together
 - [ ] You can name the 2–3 RFS/JF/JFE papers this most directly extends or overturns
+- [ ] If the answer's value does not hinge on its sign, the Registered Report route was considered
 
 ## Anti-patterns
 
@@ -70,6 +73,7 @@ Draft three to five explicit contribution sentences for the introduction:
 【Novelty axis】new-question / new-mechanism / new-data / new-method (which + why)
 【Closest prior work】[Author year @ JF/JFE/RFS] → our delta
 【Rigor sketch】likely identification / asset-pricing strategy
+【Registered Report?】value independent of result sign → consider Stage 1 route
 【RFS fit verdict】strong / borderline / field-journal
 【Next step】rfs-literature-positioning
 ```

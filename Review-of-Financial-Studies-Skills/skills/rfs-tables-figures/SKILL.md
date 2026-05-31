@@ -14,7 +14,7 @@ description: Use when main-paper exhibits are the bottleneck for a The Review of
 
 ## What an RFS exhibit must do
 
-Every main table or figure should be **self-contained**: a referee skimming exhibits should grasp the design, the result, and the inference without the text. RFS exhibits follow finance-journal conventions and are typeset by OUP — design for clarity and reproducibility, and confirm the current style guide on the RFS site.
+Every main table or figure should be **self-contained**: a referee skimming exhibits should grasp the design, the result, and the inference without the text. RFS articles are typeset by **Oxford University Press** for the SFS, so build exhibits to OUP production specs (vector figures, clean two-column-friendly tables). One RFS-specific constraint shapes every exhibit: because RFS requires **public release of all code** as a condition of publication, each table and figure must be **regenerable by the released scripts** — a number a referee cannot reproduce from your code is a liability. The portfolio-sort and spanning exhibits in Hou, Xue, and Zhang (2015) "Digesting Anomalies" (RFS 28(3)) are a good template for decile monotonicity and long–short t-stats.
 
 ### Table conventions
 - **One question per table.** A main paper typically has a handful of focused tables, not a dozen sprawling ones; overflow goes to the Internet Appendix (`rfs-internet-appendix`).
@@ -47,7 +47,8 @@ Every main table or figure should be **self-contained**: a referee skimming exhi
 - [ ] Economic magnitudes reported, not just significance
 - [ ] Summary-statistics table present for all variables
 - [ ] DID/dynamic effects shown as an event-study figure with CIs
-- [ ] Figures legible in greyscale; axes labeled with units; vector format
+- [ ] Figures legible in greyscale; axes labeled with units; vector format (OUP production-ready)
+- [ ] Every reported number is regenerable from the code RFS requires you to release
 - [ ] Variable names, rounding, and notation consistent across all exhibits
 
 ## Anti-patterns

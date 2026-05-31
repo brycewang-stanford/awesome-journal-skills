@@ -78,17 +78,22 @@ change — verify current availability through your institution and the provider
 - LaTeX (TeX Live / MacTeX; Overleaf for collaboration); `booktabs` for tables; `estout`/`esttab`, `outreg2`, `stargazer` for regression tables
 - Reference management: Zotero, EndNote, BibTeX
 - Reproducibility: Git + GitHub/GitLab; project structure with raw/derived data separation; a master script that reproduces every exhibit
-- Internet Appendix and replication package prepared per current RFS data/code policy (verify on site)
+- Internet Appendix and replication package prepared for RFS's **public code-release condition** (RFS requires public release of all code underlying a published paper, as a condition of publication; an exception must be requested in the cover letter)
 
-## 5. Useful links (verify current URLs)
-| Site | Purpose |
-|------|---------|
-| RFS at Oxford Academic | Journal home, author guidelines, scope |
-| Society for Financial Studies (SFS) | Society norms, membership |
-| WRDS | Data access portal |
-| SSRN | Working-paper distribution |
-| NBER | Working papers |
-| Ken French Data Library | Factor data |
+## 5. Useful links
+| Site | URL | Purpose |
+|------|-----|---------|
+| RFS Instructions to Authors | https://academic.oup.com/rfs/pages/Instructions_To_Authors | Author guidelines, code-release policy |
+| RFS Registered Reports | https://academic.oup.com/rfs/pages/registered_reports | Stage 1 / Stage 2 pre-results review |
+| RFS–SFS Cavalcade dual submission | https://academic.oup.com/rfs/pages/dual-submission-with-the-sfs-cavalcade-2024 | Conference-to-journal route |
+| SFS — RFS editorial team | https://sfs.org/review-of-financial-studies/editorial-team/ | Executive Editor + editors |
+| Society for Financial Studies (SFS) | https://sfs.org/ | Society norms, membership |
+| WRDS | https://wrds-www.wharton.upenn.edu/ | Data access portal |
+| Ken French Data Library | https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html | Factor data |
+
+> The handling structure (2026) is Executive Editor **Tarun Ramadorai** (LSE/Imperial, 2024–2027)
+> with editors including Viral Acharya, Xavier Giroud, Andrey Malenko, Anna Pavlova,
+> Clemens Sialm, David Sraer, and Jessica Wachter. Verify the current board before relying on it.
 
 ## 6. Notes
 1. **Licensing**: respect provider terms; do not redistribute raw vendor data.

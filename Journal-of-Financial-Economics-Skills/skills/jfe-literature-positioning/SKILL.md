@@ -14,7 +14,9 @@ description: Use when the related-work section of a Journal of Financial Economi
 
 ## How JFE referees read positioning
 
-JFE referees are domain experts who know the frontier. They are unforgiving about two things: (1) failing to cite and engage the closest prior work, especially recent top-3 finance papers, and (2) overclaiming novelty against work you simply did not read. Positioning is an argument, not a bibliography. Verify any author-anonymity rules for self-citation on the official author guidelines.
+JFE referees are domain experts who know the frontier. They are unforgiving about two things: (1) failing to cite and engage the closest prior work, especially recent top-3 finance papers, and (2) overclaiming novelty against work you simply did not read. Positioning is an argument, not a bibliography.
+
+Know the JFE canon you are extending or revising, and attribute it correctly: **Jensen & Meckling (1976)** and **Fama & French (1993, 2015)** are JFE; **Banz (1981)** size effect is JFE; but **Carhart (1997)** momentum-persistence is *Journal of Finance*, not JFE. Miscrediting a foundational paper signals you do not know the literature. JFE's editorial structure is small and field-specialized — Editor-in-Chief Toni M. Whited (Michigan) with co-editors spanning corporate finance and asset pricing (Kellogg, Wharton, NYU Stern) — so your handling editor will likely be a frontier expert in exactly your subfield. Verify self-citation/anonymity rules on jfinec.com.
 
 ## Build the positioning argument
 

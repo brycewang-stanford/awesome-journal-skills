@@ -9,7 +9,7 @@ description: Use when deciding which rfs-* sub-skill to invoke next, or when seq
 
 This is the router. It does not replace any specialized skill — it tells you **which rfs-* skill to use right now**.
 
-Default assumption: unless the user says otherwise, treat the target as **The Review of Financial Studies (RFS)** — published by Oxford University Press for the Society for Financial Studies (SFS), one of the "top-3" finance journals alongside the *Journal of Finance* and the *Journal of Financial Economics*. RFS shares JF/JFE's high causal-inference and asset-pricing bar but is distinctively **receptive to genuinely new questions, new data, new methods, and well-integrated theory + empirics**. The governing tension at RFS is always **novelty AND rigor** — never one without the other.
+Default assumption: unless the user says otherwise, treat the target as **The Review of Financial Studies (RFS)** — founded 1988 (first editor Michael Brennan), published by Oxford University Press for the Society for Financial Studies (SFS), one of the "top-3" finance journals alongside the *Journal of Finance* (AFA) and the *Journal of Financial Economics* (Elsevier). The current **Executive Editor is Tarun Ramadorai** (LSE / Imperial, term 2024–2027); the editor team includes Viral Acharya (NYU), Xavier Giroud (Columbia), Andrey Malenko (Boston College), Anna Pavlova (LBS), Clemens Sialm (UT Austin), David Sraer (Berkeley), and Jessica Wachter (Penn). RFS shares JF/JFE's high causal-inference and asset-pricing bar but has two distinctive levers JF/JFE do not share: (1) it is the **first finance/economics journal to run Registered Reports** (pre-results review; see Karolyi's 2014 editorial "Kick-Starting the Review Process," RFS 27(2)), and (2) it offers **dual submission with the SFS Cavalcade** conference. The governing tension at RFS is always **novelty AND rigor** — never one without the other.
 
 ## When to trigger
 
@@ -31,7 +31,7 @@ Default assumption: unless the user says otherwise, treat the target as **The Re
 | Tables overloaded; figures not publication-grade; SEs unclear          | `rfs-tables-figures`           |
 | Main paper is bloated; checks/derivations belong elsewhere             | `rfs-internet-appendix`        |
 | Prose is dense, hedged, or buries the contribution                     | `rfs-writing-style`            |
-| Preparing to submit; need ScholarOne preflight + cover letter          | `rfs-submission`               |
+| Preparing to submit; need Editorial Express preflight + cover letter   | `rfs-submission`               |
 | Choosing/excluding referees; anticipating reviewer objections          | `rfs-referee-strategy`         |
 | Received an R&R or reject-and-resubmit; need a response letter         | `rfs-rebuttal`                 |
 
@@ -45,7 +45,7 @@ Default assumption: unless the user says otherwise, treat the target as **The Re
 6. `rfs-tables-figures` — finalize main exhibits and standard-error reporting
 7. `rfs-internet-appendix` — move proofs, extra tables, and details to the IA
 8. `rfs-writing-style` — sharpen contribution framing and prose (polish stage)
-9. `rfs-submission` — ScholarOne preflight + cover letter + fee/format checks
+9. `rfs-submission` — Editorial Express preflight + cover letter + fee/format checks
 10. `rfs-referee-strategy` — referee suggestions and objection pre-mortem
 11. `rfs-rebuttal` — after the decision letter
 
@@ -67,7 +67,13 @@ Default assumption: unless the user says otherwise, treat the target as **The Re
 
 ## Differences vs. JF / JFE stacks
 
-RFS overlaps heavily with the JF and JFE skill stacks on the causal-inference bar. The distinctive RFS lever is **receptivity to novelty**: a genuinely new question, dataset, or method (fintech, climate finance, intermediary asset pricing, household and behavioral finance) plus tightly integrated theory and evidence is rewarded more explicitly at RFS. A technically clean paper that merely re-runs a known design on new data without a new question is a weak RFS fit even if it would survive at a field journal.
+RFS overlaps heavily with the JF and JFE skill stacks on the causal-inference bar, but three RFS-specific facts change the routing:
+
+- **Registered Reports route.** RFS accepts Registered Reports (Stage 1 design review → in-principle acceptance → Stage 2 results). If the user has a strong design but no results yet, or fears a "results-driven" desk reject, this is a real path JF/JFE do not offer. Route design-stage work through `rfs-identification` + `rfs-empirical-design` *before* data collection.
+- **SFS Cavalcade dual submission.** A paper routed to the SFS Cavalcade conference can be considered jointly with RFS — a JF/JFE-absent on-ramp. Flag it in `rfs-submission`.
+- **Code-release mandate.** RFS requires authors to **publicly release all code** underlying a published paper as a condition of publication; this hits `rfs-internet-appendix` and `rfs-submission` earlier than at journals with softer policies.
+
+A technically clean paper that merely re-runs a known design on new data without a new question is a weak RFS fit even if it would survive at a field journal. Use the Executive Editor / editor roster above when running `rfs-referee-strategy` (do not suggest a handling editor as a referee).
 
 ## Anti-patterns
 

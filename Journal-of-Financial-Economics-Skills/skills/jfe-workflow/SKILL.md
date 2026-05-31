@@ -11,6 +11,8 @@ This is the router. It does not do the work of any specialized skill; it tells y
 
 Default assumption: unless you say the target is a different outlet, work to JFE's culture — nuts-and-bolts methodological rigor, exhaustive robustness, and credible identification. JFE papers are typically more technical, longer, and more robustness-heavy than JF, and the referee culture rewards thoroughness over a single clever result.
 
+JFE at a glance (verify on jfinec.com): Elsevier/North-Holland, ISSN 0304-405X, founded 1974 by Michael C. Jensen; Editor-in-Chief Toni M. Whited (Michigan) with co-editors at Kellogg, Wharton, and NYU Stern; submit via **editorialmanager.com/finec** with a **US$850** fee (discounted by referee-earned submission rights; no fee on R&R); **100-word abstract**, double-spaced author-date format; mandatory **code + non-proprietary-data** deposit to Mendeley Data for post-2021 submissions; the **Jensen Prize** (corp fin) and **Fama-DFA Prize** (asset pricing) are its best-paper awards.
+
 ## When to trigger
 
 - You ask "what should I do next?" on a JFE-bound paper
@@ -65,7 +67,7 @@ Default assumption: unless you say the target is a different outlet, work to JFE
 
 ## Differences vs. the JF and RFS stacks
 
-If the paper is a shorter, idea-forward piece where a single clean result carries the day, the Journal of Finance (JF) stack may fit better. If it is heavier on theory or methodology, the Review of Financial Studies (RFS) stack may fit better. The core JFE difference: referees reward methodological thoroughness and exhaustive robustness, and the Internet Appendix is expected to be deep. Verify each journal's current scope on its official page.
+JFE is published by **Elsevier** and is editor-driven (Whited + co-editors), unlike **JF** (American Finance Association, Wiley) and **RFS** (Society for Financial Studies, Oxford UP) — so the fee structure, the `finec` Editorial Manager portal, and the masthead are all JFE-specific; do not recycle a JF/RFS cover letter. If the paper is a shorter, idea-forward piece where a single clean result carries the day, the JF stack may fit better; if it leans heavily on theory or method, the RFS stack may fit better. The core JFE difference: referees reward methodological thoroughness and exhaustive robustness, the Internet Appendix is expected to be deep and is appended to the main file, and the US$850 fee plus referee-earned submission rights shape the whole submission economy. Verify each journal's current scope on its official page.
 
 ## Anti-patterns
 

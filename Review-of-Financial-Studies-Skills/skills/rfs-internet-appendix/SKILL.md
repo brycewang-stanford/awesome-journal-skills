@@ -14,7 +14,11 @@ description: Use when deciding what belongs in the journal-hosted Internet Appen
 
 ## What the Internet Appendix is at RFS
 
-RFS hosts an **Internet Appendix (IA)** alongside the published article. It is the standard home for material that supports the paper but would crowd the main text. Treat it as part of the submission, refereed alongside the manuscript — not a dumping ground. RFS has also run special initiatives and registered-report-style formats at various times; treat those, and the exact IA/data-and-code policy, as **options to verify on the RFS site**, not fixed rules.
+RFS hosts an **Internet Appendix (IA)** alongside the published article. It is the standard home for material that supports the paper but would crowd the main text. Treat it as part of the submission, refereed alongside the manuscript — not a dumping ground.
+
+Two RFS facts shape what goes here:
+- **Code-release is mandatory.** RFS requires authors to **publicly release all code** underlying a published paper as a condition of publication (an exception must be requested in the cover letter to the editor). Plan the replication package from the start — do not treat it as a post-acceptance chore. This is a harder rule than the softer "available on request" norms at some journals.
+- **Registered Reports change the IA's role.** RFS was the first finance/economics journal to run **Registered Reports** (pre-results review). For a Registered Report, the Stage 1 protocol — design, sample, pre-specified tests — is the locked commitment; the IA then documents adherence and any deviations rather than housing a post-hoc specification search.
 
 ### What belongs in the main paper
 - The identification strategy and its core diagnostics.
@@ -28,7 +32,7 @@ RFS hosts an **Internet Appendix (IA)** alongside the published article. It is t
 - **Data construction details**: variable definitions, merge logic, filters, source documentation.
 - **Additional figures / event-study plots** for secondary outcomes.
 - **Extended tables** that are too large for the page.
-- **Replication notes**: code/data availability statement consistent with current journal policy.
+- **Replication notes**: the data-and-code availability statement plus the structure of the public code release that RFS requires as a condition of publication.
 
 ### Cross-referencing discipline
 - Every IA table/figure is referenced by number from the main text ("see Internet Appendix Table IA.3").
@@ -53,7 +57,7 @@ RFS hosts an **Internet Appendix (IA)** alongside the published article. It is t
 - [ ] Proofs/derivations in the IA; intuition + key result in the main text
 - [ ] Data-construction and variable-definition detail documented in the IA
 - [ ] IA tables/figures use an IA prefix and are cross-referenced by number
-- [ ] Data/code availability statement matches current RFS policy (verify on site)
+- [ ] Public code-release package planned (RFS condition of publication), or an exception requested in the cover letter
 - [ ] IA notation and variable names match the main paper exactly
 
 ## Anti-patterns
@@ -61,7 +65,7 @@ RFS hosts an **Internet Appendix (IA)** alongside the published article. It is t
 - Burying a result the paper depends on in the IA where referees may miss it.
 - An IA with no cross-references from the main text (orphan tables).
 - Inconsistent variable names or notation between paper and IA.
-- Assuming an old IA/data policy still holds — RFS policies evolve; verify.
+- Planning to keep code private — RFS makes public code release a condition of publication.
 - Using the IA to hide weak results instead of addressing them.
 
 ## Output format
@@ -70,6 +74,6 @@ RFS hosts an **Internet Appendix (IA)** alongside the published article. It is t
 【Main paper keeps】[identification, main results, top robustness each]
 【IA holds】[full robustness, proofs, data construction, extra figures]
 【Cross-refs】every IA item referenced from text? yes/no
-【Data/code statement】drafted + checked against current policy? yes/no
+【Code release】public package planned (RFS condition) or exception requested? yes/no
 【Next step】rfs-writing-style
 ```

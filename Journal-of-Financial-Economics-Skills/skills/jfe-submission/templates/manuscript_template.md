@@ -1,9 +1,11 @@
 # JFE Manuscript Skeleton
 
-A structural template for a Journal of Financial Economics submission. Adapt the
-proportions to your paper (corporate finance vs. asset pricing). Confirm all
-journal-specific formatting, anonymity, and data-availability rules on the
-journal's current official author page before submitting.
+A structural template for a Journal of Financial Economics submission (Elsevier; ISSN
+0304-405X). Adapt the proportions to your paper (corporate finance vs. asset pricing).
+JFE submission norms to honor: **abstract <= 100 words**, **double-spaced, 12-pt+,
+>= 1-inch margins**, **author-date references**, online appendix **appended to the end of
+the main file**, and a **code + non-proprietary-data** deposit to Mendeley Data at
+acceptance. Confirm all current rules on jfinec.com before submitting.
 
 ---
 
@@ -18,10 +20,10 @@ journal's current official author page before submitting.
 
 ## Anonymized manuscript
 
-### Abstract (concise, result-forward)
-State, in a few sentences: the question, the setting/design, the headline finding
+### Abstract (<= 100 words, result-forward)
+State, within JFE's 100-word limit: the question, the setting/design, the headline finding
 (with direction and rough magnitude), and why it matters. Lead with the result, not
-the literature.
+the literature. Every word must earn its place at 100 words.
 
 JEL Classification: ...
 Keywords: ...; ...; ...
@@ -94,14 +96,16 @@ theory, empirical work, or practice. Do not overclaim.
 
 ## References
 - Every in-text citation appears here and vice versa.
-- Style per the journal's current author guidelines.
+- **Author-date (name-year)** style per the JFE guide.
+- Attribute the canon correctly: Jensen & Meckling (1976), Fama & French (1993, 2015), and Banz (1981) are JFE; Carhart (1997) is *Journal of Finance*.
 
-## Internet Appendix (separate file)
+## Internet Appendix (appended to the end of the main manuscript file, per JFE practice)
 - Proofs and derivations.
 - Secondary robustness (alternative measures, subsamples, extra cluster levels, wild bootstrap).
 - Granular variable-construction details.
 - Additional / "untabulated" results referenced in the main text.
 - Numbered in its own series (Table IA.1, Figure IA.1, ...), self-contained, matching the main text's reporting conventions.
 
-## Replication package (per current data-availability policy)
-- Code and data (or documented access path for restricted data) sufficient to reproduce the headline tables.
+## Replication package (JFE data-and-code-sharing policy)
+- For papers originally submitted on/after 1 July 2021: **code and non-proprietary data are mandatory** at acceptance, deposited to **Mendeley Data** (or a domain repository) and linked from ScienceDirect.
+- Document the access path for restricted data (CRSP, Compustat, etc.); request any exemption in the **cover letter** of the initial submission.

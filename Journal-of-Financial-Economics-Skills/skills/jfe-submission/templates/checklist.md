@@ -1,19 +1,20 @@
 # JFE Pre-Submission Checklist
 
-A full self-check before submitting to the Journal of Financial Economics. Verify every
-journal-specific rule (anonymity policy, reference style, data-availability policy,
-submission portal, and submission fee) on the journal's current official author page —
-these change over time.
+A full self-check before submitting to the Journal of Financial Economics (Elsevier; ISSN
+0304-405X). The JFE-specific values below were accurate at compilation but change over time —
+verify the fee, portal, format, and data policy on jfinec.com (and the ScienceDirect Guide
+for Authors) before you submit.
 
 ## 1. Format & structure
 
 - [ ] Title page is a separate file from the (anonymized) manuscript
-- [ ] Abstract is concise and result-forward; states what you find, not just what you study
+- [ ] **Abstract <= 100 words**, result-forward; states what you find, not just what you study
 - [ ] JEL classification codes included
 - [ ] Keywords included
+- [ ] **Double-spaced, 12-point-or-larger font, >= 1-inch margins**
 - [ ] Sections, tables, and figures numbered consistently
 - [ ] Equations numbered; notation defined and consistent throughout
-- [ ] Reference style matches the journal's current author guidelines
+- [ ] **Author-date (name-year) reference style**
 
 ## 2. Anonymity (double-blind — verify current policy)
 
@@ -38,16 +39,17 @@ these change over time.
 
 - [ ] Long-tail robustness, proofs, and granular construction moved to the IA
 - [ ] IA exhibits numbered in their own series (Table IA.1, Figure IA.1, ...)
+- [ ] IA **appended to the end of the main manuscript file** (JFE practice)
 - [ ] Every "untabulated" / "see Internet Appendix" pointer resolves to a real exhibit
 - [ ] IA exhibits are self-contained (readable from titles + notes)
 - [ ] IA reporting conventions match the main text
 
-## 5. Code & data deposit (verify current data-availability policy)
+## 5. Code & data deposit (JFE data-and-code-sharing policy)
 
-- [ ] Replication code prepared and organized
+- [ ] Code + non-proprietary data prepared for **Mendeley Data** (mandatory at acceptance for papers originally submitted on/after 1 July 2021)
 - [ ] Data sources documented, including any access restrictions
 - [ ] Headline tables reproducible in principle from the deposit
-- [ ] Any proprietary-data limitations clearly stated
+- [ ] Proprietary-data limitations stated, and any **exemption requested in the cover letter** to the editor-in-chief
 
 ## 6. References
 
@@ -68,9 +70,10 @@ these change over time.
 
 ## 8. Editorial system & fee
 
-- [ ] Correct submission portal confirmed on the official page
-- [ ] Submission fee amount and any waiver confirmed on the official page
-- [ ] Cover letter states contribution and fit briefly
+- [ ] Submit via **Editorial Manager: editorialmanager.com/finec**
+- [ ] **US$850** initial-submission fee ready, or a submission-rights code applied (rights earned by on-time refereeing: ~$567 / $283 / $0 for 1 / 2 / 3 rights)
+- [ ] Aware that only ~US$400 is refunded on desk reject, and the full fee is refunded if a decision takes > 120 days
+- [ ] Cover letter states contribution and fit briefly; any data/code exemption requested here
 - [ ] Suggested / opposed referees entered as the system allows
 - [ ] Conflict-of-interest and prior-presentation disclosures completed
 - [ ] The uploaded version is final (no tracked changes / comments)

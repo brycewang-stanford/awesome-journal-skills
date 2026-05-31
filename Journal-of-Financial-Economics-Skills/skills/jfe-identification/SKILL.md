@@ -17,6 +17,8 @@ description: Use when the causal identification or inference design is the bottl
 
 JFE referees expect endogeneity and selection to be treated explicitly, and they expect every plausible alternative explanation to be ruled out — not waved away. Corporate-finance papers are held to a credible-design standard; asset-pricing papers to a disciplined-inference standard (see `jfe-empirical-design`). This skill covers the corporate-finance causal side; the design/estimator side lives in `jfe-empirical-design`.
 
+JFE corporate finance descends from **Jensen & Meckling (1976), "Theory of the firm: Managerial behavior, agency costs and ownership structure"** — the agency-cost foundation and the journal's single most-cited paper. Modern reviewing keeps that demand for an economic *mechanism* but layers on a hard requirement for credible identification: a correlation between a governance/financing variable and an outcome will not survive review unless the endogeneity is convincingly handled. The best corporate-finance paper each year wins the **Jensen Prize**.
+
 ## Design priority (strong -> weaker)
 
 1. **Natural experiment / exogenous shock + DID** (regulatory change, plausibly random policy, court ruling)

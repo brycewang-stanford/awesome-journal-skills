@@ -17,6 +17,8 @@ description: Use when the causal-inference or asset-pricing identification strat
 
 RFS applies the **same high causal-inference standard as JF and JFE**: a claim of causality requires a credible source of exogenous variation, not a richer control set. RFS is more receptive than the others to *genuinely new questions* and to *structural / theoretical* identification — but novelty never substitutes for a clean design. Pick the strongest feasible strategy below.
 
+**RFS-specific lever — Stage 1 design review.** Because RFS pioneered **Registered Reports** (pre-results review; Karolyi, "Kick-Starting the Review Process," RFS 27(2), 2014), an identification strategy can be **refereed before the results exist**. If you pursue this route, the design must be airtight on paper: pre-specified sample, treatment definition, estimator, diagnostics, and the exact tables to be produced — because that protocol becomes the binding commitment that earns *in-principle acceptance*. Even for a standard submission, draft the design as if it had to survive Stage 1 review with no results to fall back on.
+
 ### Design priority (corporate / household / empirical finance)
 
 1. **Natural experiment / policy shock + DID** (incl. staggered and continuous treatment)
@@ -62,6 +64,7 @@ RFS applies the **same high causal-inference standard as JF and JFE**: a claim o
 - [ ] Standard-error structure matches the data (clustering / overlap / cross-section)
 - [ ] Endogeneity threats are listed and each is addressed, not waved away
 - [ ] For asset pricing, multiple-testing and out-of-sample concerns are anticipated
+- [ ] Design is specified tightly enough to survive a Stage 1 (Registered Report) review with no results
 
 ## Anti-patterns
 

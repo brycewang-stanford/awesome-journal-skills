@@ -14,7 +14,9 @@ description: Use when anticipating and pre-empting the objections a Journal of F
 
 ## How JFE referees behave
 
-JFE referees are methodologically demanding experts who expect every plausible alternative explanation to be ruled out and every result to survive thorough robustness. They read the Internet Appendix. They are quicker to reject for an undefended identification or a fragile result than for a modest contribution. The winning strategy is to referee your own paper first and answer the hard questions in the text. Verify current editorial structure on the official page.
+JFE referees are methodologically demanding experts who expect every plausible alternative explanation to be ruled out and every result to survive thorough robustness. They read the Internet Appendix (appended to the main file). They are quicker to reject for an undefended identification or a fragile result than for a modest contribution. The winning strategy is to referee your own paper first and answer the hard questions in the text.
+
+Two JFE process facts matter for strategy: (1) the journal aims at fast turnaround and **refunds the whole US$850 fee if a decision takes more than 120 days**, which keeps editors moving — so a clean, referee-yourself-first submission is rewarded; (2) refereeing for JFE earns **submission rights** that discount your own future fees, which is why the referee pool is engaged and exacting. Your handling editor is a subfield specialist under Editor-in-Chief Toni M. Whited's small co-editor team; the editor's signal, not the loudest referee, decides the paper.
 
 ## Pre-empt the predictable objections
 

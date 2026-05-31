@@ -1,6 +1,6 @@
 ---
 name: rfs-submission
-description: Use when running the final pre-submission preflight for a The Review of Financial Studies (RFS) manuscript — ScholarOne/Manuscript Central portal, cover letter, formatting, Internet Appendix, fee, and SFS norms. Checks readiness; does NOT write the paper or the rebuttal.
+description: Use when running the final pre-submission preflight for a The Review of Financial Studies (RFS) manuscript — the SFS Editorial Express portal, cover letter, formatting, Internet Appendix, submission fee, and SFS norms. Checks readiness; does NOT write the paper or the rebuttal.
 ---
 
 # Submission Preflight (rfs-submission)
@@ -11,12 +11,13 @@ description: Use when running the final pre-submission preflight for a The Revie
 - Final check before clicking submit on the portal
 - Unsure which files the portal expects (manuscript, IA, cover letter, code/data)
 
-## Portal & process (verify current details on the RFS site)
+## Portal & process
 
-- RFS uses **Manuscript Central / ScholarOne** for submissions. Create/verify your account and ORCID.
-- There is typically a **submission fee** and **SFS-related norms** (e.g., membership/discipline expectations). The exact amount and conditions change — **verify the current fee and policy on the official RFS page before submitting**; do not assume a number.
-- Expect a **demanding multi-round review** with an editor and multiple referees.
-- Do not assert current named editors or exact fees here — confirm them on the journal site at submission time.
+- RFS submits through the **SFS Editorial Express portal** (editorialexpress.com), reached from sfs.org/review-of-financial-studies/submit-a-paper — **not** ScholarOne or Editorial Manager. Create/verify your account.
+- The handling structure is an **Executive Editor (Tarun Ramadorai, LSE/Imperial, 2024–2027) → handling Editor → referees**. An Editor desk-screens before sending out; many manuscripts never reach referees.
+- **Submission fee** is charged at submission and is **lower for SFS members ($260) than non-members ($320)**; SFS membership lets you submit to any SFS journal at the member rate, so joining is often cheaper than the non-member differential. The fee is **waived for current-year SFS members on a conditionally accepted paper** and for authors in low-income economies; **confirm the current figures on sfs.org/submission-fees before submitting**.
+- **Two RFS-specific on-ramps JF/JFE lack:** (1) **Registered Reports** — Stage 1 design-only review and in-principle acceptance (`rfs-identification`); (2) **dual submission with the SFS Cavalcade** — the conference reviews the paper and forwards it with reviews to RFS *at no charge*; do not also submit it to RFS directly while that is pending. For an invited Cavalcade dual submission, the **first-round fee is waived**.
+- **Code-release condition:** RFS requires authors to **publicly release all code** underlying a published paper as a condition of publication; if you cannot, you must say so in the cover letter to the editor.
 
 ## Pre-submission checklist
 
@@ -25,32 +26,36 @@ description: Use when running the final pre-submission preflight for a The Revie
 - [ ] Self-citations phrased neutrally ("X (2021) shows" not "in our earlier work")
 - [ ] Acknowledgments, grant info, and thanks removed from the blinded file
 - [ ] Title page with author info uploaded as a **separate** file (per portal instructions)
-- [ ] Abstract, keywords, and JEL codes present and within limits
-- [ ] References complete and consistently formatted; every in-text cite is in the list and vice versa
+- [ ] Abstract **≤ 100 words** (RFS returns manuscripts whose abstract exceeds 100 words), plus keywords and JEL codes
+- [ ] Manuscript **double-spaced, ≤ 28 lines per page, font size ≥ 11** (RFS returns non-conforming files)
+- [ ] References in **Chicago Manual of Style author-date** format; every in-text cite is in the list and vice versa
+- [ ] Internet Appendix included with author information removed
 - [ ] Figures/tables in the format the portal requires (vector figures; high resolution)
 
 ### Internet Appendix & data
 - [ ] Internet Appendix prepared as a separate file, cross-referenced from the main text
-- [ ] Data and code availability statement consistent with current RFS policy (verify)
-- [ ] Replication package staged if/where required
+- [ ] **Code-release condition** acknowledged: all code underlying the paper will be publicly released as a condition of publication, OR an exception is explained in the cover letter
+- [ ] Data and code availability statement drafted; replication package staged
 
 ### Cover letter
 - [ ] States the question, the contribution, and why it fits RFS (novelty + rigor)
 - [ ] Names the most related RFS/JF/JFE papers and the delta
-- [ ] Notes any prior presentation / working-paper version
-- [ ] Discloses related submissions and conflicts; no dual submission
+- [ ] Notes any prior presentation / working-paper version / SFS Cavalcade submission
+- [ ] Discloses related submissions and conflicts; no concurrent submission at another journal (distinct from the *permitted* RFS–Cavalcade dual submission)
+- [ ] If code cannot be released, the reason is stated here (per RFS policy)
 - [ ] Suggested and opposed referees prepared (see `rfs-referee-strategy`)
 
 ### Administrative
-- [ ] Submission fee handling confirmed (amount/policy verified on site)
+- [ ] Submission fee handled; SFS-member rate ($260 vs. $320) used if applicable; waiver checked (conditionally accepted / low-income economy / invited Cavalcade first round)
 - [ ] All coauthors approve the submission
-- [ ] ORCID and contact details current in ScholarOne
+- [ ] Contact details current in the Editorial Express account
 - [ ] File naming follows portal conventions
 
 ## Anti-patterns
 
 - Leaving an identifying self-citation or acknowledgment in the blinded file.
-- Assuming last year's fee or data policy still applies — RFS norms change; verify.
+- Submitting without a plan to publicly release code — RFS treats code release as a condition of publication, not an afterthought.
+- Paying the non-member fee when SFS membership would have been cheaper and renewable.
 - Submitting the IA inside the main PDF instead of as the portal-specified file.
 - A cover letter that summarizes the paper but never states the RFS-specific novelty.
 - In-text citations that do not match the reference list.
@@ -59,11 +64,14 @@ description: Use when running the final pre-submission preflight for a The Revie
 
 ```
 【Blinding】pass / fixes: [...]
-【Files staged】manuscript / title page / IA / cover letter / code
+【Format】abstract ≤100 words? double-spaced ≤28 lines, font ≥11? yes/no
+【Files staged】manuscript / title page / IA (de-identified) / cover letter / replication code
 【Abstract+JEL+keywords】complete? yes/no
-【Fee & SFS policy】verified on site? yes/no
+【Fee】SFS-member rate ($260) used / waiver applies? yes/no
+【Code-release】public release planned, or exception stated in cover letter? yes/no
+【Route】standard / Registered Report / SFS Cavalcade dual submission
 【Cover letter】states RFS-specific novelty? yes/no
-【Next step】rfs-referee-strategy → submit → await decision → rfs-rebuttal
+【Next step】rfs-referee-strategy → submit (Editorial Express) → await decision → rfs-rebuttal
 ```
 
 ## Related resources

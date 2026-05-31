@@ -7,63 +7,48 @@ description: Use when judging whether a research question is general-interest an
 
 ## When to trigger
 
-- You have a clean result but suspect the question is too niche for JF
-- You cannot finish the sentence "A finance researcher who does not work on this exact topic should care because…"
-- The idea reads like a working paper / replication / mechanical extension
-- You are choosing among JF, JFE, RFS, or a field journal and need a fit check
+- Deciding whether a question is "JF-level" or belongs at a field/subfield journal
+- The contribution is sound but narrow, and you must judge its reach
+- Choosing among JF, JFE, and RFS for a finished paper
 
-## The JF gate: three things the editor screens for
+## JF's bar: broad, flagship-level, general-interest
 
-JF is the AFA's **general-interest** flagship. The desk screen weighs:
+JF is the **flagship general-interest journal of the American Finance Association (AFA)**, founded **1946**, published **bimonthly** by Wiley-Blackwell, reaching 8,000+ readers across asset pricing, corporate finance, banking, microstructure, and household finance. With JFE and RFS it is one of the finance **"top-3"**. The acceptance bar is severe: the editor's reports describe roughly a **~5% acceptance rate** with **~33–45% of submissions desk-rejected** (afajof.org editor reports, accessed 2026-05-30). A paper must matter to the **whole** AFA readership, not one subfield.
 
-1. **General interest** — does the question matter to a broad finance audience (asset pricing, corporate, banking, microstructure, household, international), not just a subfield of 30 people? JF will desk-reject a technically fine paper that is too narrow.
-2. **Importance & economic significance** — is the magnitude economically meaningful, not merely statistically significant? "A 2 bp effect on a 5% portfolio" rarely clears the bar.
-3. **A clear, defensible claim** — either a credible causal effect (corporate/empirical) or a well-motivated asset-pricing test, framed so the takeaway survives one sentence.
+### How JF differs from JFE / RFS for topic fit
+- **JF**: the most general-interest of the three; rewards a single broad result any finance economist would find important.
+- **JFE**: tolerates more specialized, results-driven corporate/empirical papers.
+- **RFS**: often rewards methodological/technical depth.
+If swapping "JF" for a field journal would not change how the paper reads, the topic is probably too narrow for JF.
 
-## Fit decision table
+## Fit test (run before committing)
 
-| Signal                                                            | Read on JF fit                                  |
-|-------------------------------------------------------------------|-------------------------------------------------|
-| Question changes how a broad audience thinks about a market/firm/household | Strong fit                              |
-| Clean identification but the outcome is a narrow institutional detail | Reframe toward the general lesson, or → field journal |
-| Large, novel dataset but no general question yet                  | Not ready — find the question first             |
-| Highly technical method paper with thin economics                 | Consider JFE / RFS / Econometrica-style outlets  |
-| Pure theory with no empirical or quantitative discipline          | Likely JFE / RFS / JET, not JF                   |
-| Incremental anomaly with no economic story or out-of-sample test  | Multiple-testing red flag — likely reject        |
-
-## Sharpening the framing
-
-Write these four sentences before drafting anything else:
-
-1. **The question** — one sentence, general-interest phrasing ("Do X frictions cause Y?"), not "We study the effect of X on Y in dataset Z."
-2. **Why now / why it matters** — the puzzle, the stakes, the audience.
-3. **The answer & its economic magnitude** — the number a reader remembers, in interpretable units (bps, % of market cap, fraction of the spread, Sharpe-ratio gain).
-4. **The marginal contribution** — what we now know that we did not, relative to the closest 3–5 papers.
+- Could a corporate-finance reader and an asset-pricing reader both see why this matters? (general interest)
+- Is there a single, statable contribution — a **new fact, mechanism, or method**?
+- Is the economic magnitude large enough to be flagship-worthy, not just significant?
+- Does it speak to a central question the AFA membership cares about?
 
 ## Checklist
 
-- [ ] The one-sentence question would interest a finance reader outside your subfield
-- [ ] The headline effect is reported in economically interpretable units, not just t-stats
-- [ ] The closest 3–5 papers are named and the gap is explicit
-- [ ] The claim is causal-and-defensible OR a well-motivated asset-pricing test (not "X correlates with Y")
-- [ ] You can state in one line why JF rather than JFE / RFS / a field journal
-- [ ] The contribution is not "we replicate X with newer/Chinese/global data"
+- [ ] One-sentence, general-interest statement of the contribution exists
+- [ ] The result matters beyond a single subfield
+- [ ] Economic magnitude (not just significance) is flagship-level
+- [ ] JF vs. JFE vs. RFS choice is deliberate, not default
+- [ ] Recent JF issues confirm the topic is in scope
 
 ## Anti-patterns
 
-- A correlational result dressed up as a finding with no economic story
-- "First paper to study X in country/asset class Y" as the whole contribution
-- Burying a genuinely general result inside narrow institutional framing
-- Choosing JF for prestige when the depth/length better fits JFE or RFS
-- Leading with a method ("we apply double-ML to…") instead of a finance question
+- A competent but narrow paper pitched to JF "because it's the best journal"
+- Framing borrowed from a JFE/RFS submission without re-centering on broad interest
+- Confusing statistical significance with flagship-level economic importance
+- Ignoring the ~5% acceptance reality when allocating a scarce submission slot
 
 ## Output format
 
 ```
-【Question (1 sentence)】...
-【Economic significance】... (interpretable units)
-【Closest papers / gap】[...]
-【General-interest fit】strong / reframe / better at JFE|RFS|field
-【Branch】corporate-empirical → jf-identification | asset-pricing → jf-empirical-design
+【General-interest in one sentence?】...
+【Contribution type】new fact / new mechanism / new method
+【Matters beyond one subfield?】yes / no
+【JF vs JFE vs RFS — why JF?】...
 【Next step】jf-literature-positioning
 ```
